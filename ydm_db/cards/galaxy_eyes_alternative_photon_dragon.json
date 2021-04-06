@@ -1,0 +1,19 @@
+{
+  "id": 2000000113,
+  "name": "Galaxy-Eyes Alternative Photon Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Cannot be Normal Summon/Set. Must be Special Summoned (from your hand or GY) by revealing 1 Level 8 \"Galaxy\" monster in your hand. You can only Special Summon \"Galaxy-Eyes Alternative Photon Dragon\" once per turn this way. Once per turn, you can target 1 monster you control; it becomes Level 8. An Xyz Monster that has this card  as an Xyz Material gains this effect: \n ● Once per turn: You can double this card's ATK, and if you do, you cannot attack with other monsters this turn, except this card.",
+  "images": ["https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/Galaxy-Eyes_Alternative_Photon_Dragon.jpg"],
+  "type": "Monster",
+  "attribute": "LIGHT", 
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type":"Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

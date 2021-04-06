@@ -1,0 +1,20 @@
+{
+  "id": 2000000079,
+  "name": "Thunderstrike - High Ruler Perun",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 Level 7 Thunder type monsters \n (Quick Effect) If your opponent adds a card(s) from their Deck to their hand, except during the Draw Phase: Detach 1 Xyz material from this card; attach those card(s) to this card as Xyz material. You can only activate this effect of \"Thunderstrike - High Ruler Perun\" once per turn. This card gains 500 ATK for each Xyz material attached to it.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/thunderstrike_high_ruler_perun.png"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "THUNDER",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2800,
+  "rank": 7
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2000000070,
+  "name": "Library",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Add 1 \"Book of\" card from your Deck to your hand, except for \"Spellbook\" cards. You can only activate \"Library\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/library.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2000000022,
+  "name": "Sylvan Invoker of Warm Weather",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Special Summon this card from your hand while you control a \"Sylvan\" monster. Your opponent cannot activate cards or effects in response to the effect activations of \"Sylvan\" monsters. You can send a Plant-Type monster from your hand or field to the GY; Special Summon 1 \"Sylvan\" monster from your GY with a different level than that sent monster. You can only use this effect of \"Sylvan Invoker of Warm Weather\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Sylvan_Invoker_of_Warm_Weather.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2400,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

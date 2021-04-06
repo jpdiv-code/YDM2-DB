@@ -1,0 +1,12 @@
+{
+  "id": 2000000087,
+  "name": "Triamid Crash",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 \"Triamid\" card you control; destroy it and up to 2 cards on your opponent's side of the field. You can banish this card from your GY; add 1 \"Triamid\" card from your Deck to your hand, except for \"Triamid Crash\". You can only use 1 effect of \"Triamid Crash\" per turn and only once that turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/triamid_crash.png"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

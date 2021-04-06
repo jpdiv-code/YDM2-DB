@@ -1,0 +1,12 @@
+{
+  "id": 2000000018,
+  "name": "Graydle Moon Base",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can destroy 1 \"Graydle\" card you control to Special Summon 1 \"Graydle Dragon\" from your Extra Deck. If that monster is sent to the GY, you can add 1 \"Graydle\" monster from your GY to your hand. You can only activate this effect of \"Graydle Moon Base\" once per turn. If this card is destroyed and sent to the GY: You can destroy 1 monster on the field.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Graydle_Moon_Base.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

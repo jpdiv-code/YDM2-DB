@@ -1,0 +1,21 @@
+{
+  "id": 2000000116,
+  "name": "Elemental HERO Sunset",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Dark \"HERO\" monster + 1 \"HERO\" monster with a different attribute. \n Must be Fusion Summoned. Monsters your opponent controls lose 200 ATK for each different Attribute you control. You can only use each of the following effects of \"Elemental HERO Sunset\" once per turn.\n\u25CFIf this card is Special Summoned: You can add 1 \"Parallel World Fusion\" from your Deck to your hand.\n\u25CFWhen another \"HERO\" monster declares an attack: You can target 1 card on the field; shuffle it into the Deck ",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/Elemental_HERO_Sunset.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 8,
+  "is_tuner": false
+}

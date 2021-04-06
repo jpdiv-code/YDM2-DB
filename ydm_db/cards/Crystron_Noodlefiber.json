@@ -1,0 +1,23 @@
+{
+  "id": 2000000048,
+  "name": "Crystron Noodlefiber",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 monsters, including a Tuner\nIf this card is Link Summoned: You can Special Summon 1 level 3 of lower Tuner from your hand or Deck in Defense Position, but it cannot activate its effects this turn. You cannot Summon monsters from the Extra Deck for the rest of the turn after you activate this effect, except Synchro monsters. During your opponent’s Main Phase or Battle Phase (Quick Effect): You can banish this card you control; Special Summon 1 Tuner Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.) You can only use each effect of \"Crystron Noodlefiber\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Crystron_Noodlefiber.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1500,
+  "species": "Machine",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2000000109,
+  "name": "Malefic Cosmic Blazar Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) by banishing 1 \"Cosmic Blazar Dragon\" from your Extra Deck. There can only be 1 face-up \"Malefic\" monster on the field. Once per turn (Quick Effect): You can banish this face-up card until your next Standby Phase and target 1 face-up card on the field; destroy that target. Other monsters you control cannot declare an attack. If there is no face-up Field Spell card on the field, destroy this card.",
+  "images": ["https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/Malefic_Cosmic_Blazar_Dragon.jpg"],
+  "type": "Monster",
+  "attribute": "DARK", 
+  "atk": 4000,
+  "species": "Dragon",
+  "monster_type":"Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 4000,
+  "level": 12,
+  "is_tuner": false
+}

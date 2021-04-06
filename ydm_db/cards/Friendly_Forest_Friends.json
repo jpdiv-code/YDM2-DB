@@ -1,0 +1,12 @@
+{
+  "id": 2000000021,
+  "name": "Friendly Forest Friends",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Add 1 \"Sylvan\" card from your Deck to your hand. During your Main Phase, except during the turn this card was sent to the GY: You can banish this card from the GY and shuffle any number of \"Sylvan\" monsters from your GY into your Deck; Special Summon 1 \"Sylvan\" monster from your Deck with a level equal to the number of monsters shuffled into the Deck. You can only use this effect of \"Friendly Forest Friends\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Friendly_Forest_Friends.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

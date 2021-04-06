@@ -1,0 +1,21 @@
+{
+  "id": 2000000101,
+  "name": "Ascended Gaia Knight",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "\"Gaia the Dragon Champion\" + \"Curse of the Dragon\" or \" Gaia the Pierce Knight\" \n Must be Fusion Summoned with the above Fusion Materials and cannot be Special Summoned by any other way. This card is unaffected by other card effects. Once per turn (Quick Effect): You can target 1 card on the field, shuffle it into the Deck. If this card would be destroyed by battle, you can banish 1 \"Curse of Dragon\" from your GY instead.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/Ascended_Gaia_Knight.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 3400,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2600,
+  "level": 7,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2000000107,
+  "name": "Malefic Town",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While this card is face-up on the field, \"Malefic World\" cards you control are unaffected by other cards' effects. Once per turn: If there is no face-up Field Spell, you can set 1 \"Malefic\" Field Spell from your Deck or GY. Once per turn: If a \"Malefic\" monster(s) you control are destroyed by battle or card effect: you can Special Summon 1 banished Synchro Monster ignoring its summoning conditions, then its effects are negated.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/Malefic_Town.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

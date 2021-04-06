@@ -1,0 +1,21 @@
+{
+  "id": 2000000054,
+  "name": "Brick-Eyes Driver Soul",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is banished: You can Special Summon 1 Level 4 Normal Dragon-type monster from your Deck. You can only activate the effect of \"Brick-Eyes Driver Soul\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Brick-Eyes__Driver_Soul.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

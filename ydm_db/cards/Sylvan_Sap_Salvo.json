@@ -1,0 +1,12 @@
+{
+  "id": 2000000025,
+  "name": "Sylvan Sap Salvo",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can choose a number from 1-3, then excavate that many cards from the top of your Deck, send any excavated Plant-Type monsters to the GY, and if you do, you can return up to that many cards on your opponent's side to the hand. Also, place the other cards on the bottom of your Deck in any order. You can only activate \"Sylvan Sap Salvo\" once per turn. If this card is excavated and placed on the bottom of the Deck: You can add this card from your Deck to your hand. If you control a \"Sylvan\" monster Special Summoned from the Extra Deck you can activate this card from your hand.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Sylvan_Sap_Salvo.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

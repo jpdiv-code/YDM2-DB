@@ -1,0 +1,19 @@
+{
+  "id": 2000000077,
+  "name": "Thunderstrike - Raijin",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you control no monsters you can Special Summon this card from your hand. You can only Special Summon \"Thunderstrike - Raijin\" once per turn this way. If this card is Special Summoned: You can banish 1 Thunder type monster from your hand or a \"Thunderstrike\" Spell/Trap from your hand; draw 1 card, and if you do, return this card to your hand.",
+  "images": ["https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/thunderstrike_raijin.png"],
+  "type": "Monster",
+  "attribute": "LIGHT", 
+  "atk": 2000,
+  "species": "Thunder",
+  "monster_type":"Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 7,
+  "is_tuner": false
+}

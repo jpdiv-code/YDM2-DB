@@ -1,0 +1,12 @@
+{
+  "id": 2000000041,
+  "name": "Obsidian Beast - Obsidian Forge",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When you activate this card: Target 1 Flip monster in your GY; Special Summon that monster in face-down Defense Position. If a card or effect is activated whilst you control a face-up monster: Change 1 face-up monster you control to face-down Defense Position, then flip the monster that was Special Summoned by this card face-up. You can only activate each effect of \"Obsidian Beast - Obsidian Forge\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Obsidian_Beast_Obsidian_Forge.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

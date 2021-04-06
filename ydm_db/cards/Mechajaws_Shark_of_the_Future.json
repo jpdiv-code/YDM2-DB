@@ -1,0 +1,21 @@
+{
+  "id": 2000000011,
+  "name": "Mechajaws, Shark of the Future",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If a WATER monster is sent to the GY: You can Special Summon this card from your hand. If this card is detached from an Xyz monster to activate that monster's effect: You can add 1 \"Shark\" card from your GY to your hand, except \"Mechajaws, Shark of the Future\". You cannot Summon monsters the turn you activate either of these effects except WATER monsters. If this card is used for the Xyz Summon of a WATER monster, it can be treated as a Level 3, or 5 monster.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Mechajaws_Shark_of_the_Future.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1700,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 4,
+  "is_tuner": false
+}

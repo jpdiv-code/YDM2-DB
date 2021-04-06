@@ -1,0 +1,19 @@
+{
+  "id": 2000000106,
+  "name": "Inzektor Anty, Anti HERO Ant of the Antiverse, Antebellum Leader of Antwin, Antnation of Ants, Defiant of Antmerica, Anty-aunt the Aunt",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can banish 3 Insect monsters from your GY; Special Summon this card from your hand. If this card is Summoned; You can equip 1 Insect-type monster from your Deck to this card. You can only use this effect of \"Inzektor Anty, Anti HERO An of the Antiverse, Antbellum Leader of Antwin, Antnation of Ants, Defiant of Antmerica, Anty-aunt the Aunt\" once per turn.",
+  "images": ["https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/Inzektor_Anty%2C_Anti_HERO_Ant_of_the_Antiverse%2C_Antebellum_Leader_of_Antwin%2C_Antnation_of_Ants%2C_Defiant%20of_Antmerica%2C_Anty-aunt_the_Aunt.jpg"],
+  "type": "Monster",
+  "attribute": "EARTH", 
+  "atk": 3000,
+  "species": "Insect",
+  "monster_type":"Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 12,
+  "is_tuner": false
+}

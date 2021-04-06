@@ -1,0 +1,19 @@
+{
+  "id": 2000000118,
+  "name": "Yubel - The Chosen",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is Summoned: Add 1 \"Yubel\" card or 1 card that list \"Yubel\" in its text from your Deck to your hand. You can send this face-up card to the GY; then Special Summon 1 \"Yubel\" from your hand or GY. Once per turn (Quick Effect): If your opponent activates a monster effect in hand: negate that effect, and if you do, send both this card and that card to the GY.",
+  "images": ["https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/Yubel_-_The_Chosen.jpg"],
+  "type": "Monster",
+  "attribute": "DARK", 
+  "atk": 1800,
+  "species": "Fiend",
+  "monster_type":"Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2000000062,
+  "name": "Melffy Panda",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If your opponent Normal or Special Summons a monster(s) (except during the Damage Step), or if an opponent's monster targets this card for an attack: You can return this card to the hand, then you can Special Summon 1 Level 2 or lower Beast monster from your GY, except \"Melffy Panda\". During your End Phase: You can Special Summon this card from your hand. You can only use each effect of \"Melffy Panda\" once per turn.",
+  "images": ["https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/mellfy_panda.png"],
+  "type": "Monster",
+  "attribute": "EARTH", 
+  "atk": 250,
+  "species": "Beast",
+  "monster_type":"Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 150,
+  "level": 2,
+  "is_tuner": false
+}

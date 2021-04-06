@@ -1,0 +1,12 @@
+{
+  "id": 2000000068,
+  "name": "Blessing of the Elephant",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Draw 3 cards, then if you have a Normal monster in your hand, reveal 2 cards from your hand including at least 1 Normal monster, then shuffle them into the Deck. otherwise, reveal your entire hand, then banish it face-down.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/blessing_of_the_elephant.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2000000110,
+  "name": "Malefic Black Rose Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Must be Special Summoned (from your hand) by banishing 1 \"Black Rose Dragon\" from your Extra Deck. If this card is destroyed: Destroy all cards on the field. Other monsters you control cannot declare an attack. If there is no Field Spell on the field, destroy this card.",
+  "images": ["https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/Malefic_Black_Rose_Dragon.jpg"],
+  "type": "Monster",
+  "attribute": "DARK", 
+  "atk": 2400,
+  "species": "Dragon",
+  "monster_type":"Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 7,
+  "is_tuner": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 2000000033,
+  "name": "Gouki Onion Ogre",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2+ Warrior monsters, including at least 1 \"Gouki\" Link Monster\n\"Get out of my swamp\".",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Gouki_Onion_Ogre.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 25000,
+  "species": "Warrior",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 5,
+  "link_arrows": [
+    "Left",
+    "Bottom-Left",
+    "Bottom-Right",
+    "Right",
+    "Bottom"
+  ]
+}

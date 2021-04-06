@@ -1,0 +1,23 @@
+{
+  "id": 2000000095,
+  "name": "U.A. Knuckle & Shoot",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 Warrior monsters including a \"U.A.\" monster \n If this card is Link Summoned: You can Special Summon up to 2 \"U.A.\" monsters from your hand or GY to zones this card points to, but their effects are negated. This card gains ATK equal to the original ATK of Warrior monsters it points to. When an attack is declared involving a \"U.A.\" monster this card points to (Quick Effect): You can Special Summon 1 \"U.A.\" monster from your Deck with a different name from that card, and if you do, return the attack monster to the hand. You can only activate each effect of \"U.A. Knuckle & Shoot\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/U.A._Knuckle_%26_Shoot.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Warrior",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": [
+    "Bottom-Right",
+    "Bottom-Left"
+  ]
+}

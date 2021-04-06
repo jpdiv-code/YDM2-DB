@@ -1,0 +1,12 @@
+{
+  "id": 2000000091,
+  "name": "Training of the Normals",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Add 1 of each Level 1, 2, and 3 Normal Monsters from your Deck to your hand. You can only activate 1 \"Training of the Normals\" per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/training_of_the_normals.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

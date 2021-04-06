@@ -1,0 +1,12 @@
+{
+  "id": 2000000097,
+  "name": "Gateway of the Clouds",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Each time a \"Cloudian\" monster(s) is Normal or Special Summoned, place 2 Fog Counters on this card. You can remove Fog Counters from your field to activate these effects. \n\u25CF 2 Counters: Target 1 \"Cloudian\" Effect Monster; that target gains 500 ATK until the end of the turn. \n\u25CF 4 Counters: Add 1 \"Cloudian\" monster from your Deck or GY to your hand. \n\u25CF 6 Counters: Target 1 \"Cloudian\" Effect Monster in your GY; Special Summon that target.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/Gateway_of_the_Clouds.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

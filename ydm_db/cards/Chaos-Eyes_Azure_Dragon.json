@@ -1,0 +1,24 @@
+{
+  "id": 2000000058,
+  "name": "Chaos-Eyes Azure Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "3 Dragon monsters including a \"Blue-Eyes White Dragon\"\nOnce per turn, you can discard 1 LIGHT Dragon or Spellcaster monster: Special Summon 1 Dragon monster from your GY into a zone this card points to. That monster gains 1000 ATK and if it attacks a Defense position monster, it inflicts piercing battle damage. During your Main Phase except the turn this card was sent to the GY: You can banish this card and 1 LIGHT Dragon monster from your GY; Special Summon 1 \"Blue-Eyes\" or \"Azure-Eyes\" monster from your Extra Deck. You can only use this effect of \"Chaos-Eyes Azure Dragon\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Chaos-Eyes_Azure_Dragon.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": [
+    "Bottom-Left",
+    "Right",
+    "Bottom-Right"
+  ]
+}

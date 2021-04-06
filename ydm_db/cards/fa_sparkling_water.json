@@ -1,0 +1,12 @@
+{
+  "id": 2000000092,
+  "name": "F.A. Sparkling Water",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can only equip this card to a \"F.A.\" monster. The equip monster's level increases by 2. While this card is face-up on the field: you can send 1 \"F.A.\" monster from your hand to the GY; Special Summon 1 \"F.A.\" monster from your Deck with the same Level. You can only activate 1 \"F.A. Sparkling Water\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/F.A._Sparkling_Water.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

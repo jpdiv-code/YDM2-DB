@@ -1,0 +1,21 @@
+{
+  "id": 2000000015,
+  "name": "Graydle Molerunner",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you control a monster that is owned by your opponent: You can Special Summon this card from your hand or Deck. You can only Special Summon \"Graydle Molerunner\" once per turn this way. At the start of the Damage Step, if this card battles an opponent’s monster: You can shuffle both the opponent's monster and this card into the Deck.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Graydle_Molerunner.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1300,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 2000000031,
+  "name": "Odd-eyes Luminous Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 Effect Monsters including an \"Odd-Eyes\" monster\nIf this card is Special Summoned: You can target 1 card on the field; destroy that card, then add 1 \"Odd-Eyes\" card from your Deck, or face-up Extra Deck to your hand. If a monster(s) is Pendulum Summoned to a zone this card points to: All monsters you currently control gain 500 ATK. If you have no cards in your Pendulum Zones: You can banish this card from your GY; place 2 \"Odd-Eyes\" cards from your GY or face-up Extra Deck into your Pendulum Zones. You can only use each effect of \"Odd-Eyes Luminous Dragon\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Odd-eyes_Luminous_Dragon.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Dragon",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ]
+}

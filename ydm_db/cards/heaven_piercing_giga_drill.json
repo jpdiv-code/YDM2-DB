@@ -1,0 +1,20 @@
+{
+  "id": 2000000082,
+  "name": "Heaven Piercing Giga Drill",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 Level 10 monsters \n (Quick Effect) You can detach 1 Xyz material from this card; change all monsters your opponent controls to face-up ATK position (Flip effects are not activated). Your opponent cannot activate monster effects in response to this effect activation. If an Xyz monster this card is attached to is destroyed: You can Special Summon 1 Machine Xyz monster from your Extra Deck 1 rank lower than the destroyed monster, then attach this card to it as material.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/heaven_piercing_giga_drill.png"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Machine",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "rank": 10 
+}

@@ -1,0 +1,22 @@
+{
+  "id": 2000000104,
+  "name": "Gaia, the Citadel Knight",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Dark monster or 1 Light monster \n When this card is Link Summoned: You can add 1 \"Gaia Knight Dragon Hatchery\" from your Deck to your hand. You can banish this face-up card; Fusion Summon 1 Fusion Monster using monsters you control as material. You can only use each effect of \"Gaia, the Citadel Knight\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/Gaia%2C_the_Citadel_Knight.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Warrior",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 1,
+  "link_arrows": [
+    "Bottom"
+  ]
+}

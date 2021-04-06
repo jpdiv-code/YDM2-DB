@@ -1,0 +1,21 @@
+{
+  "id": 2000000030,
+  "name": "Code Importer",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If a Cyberse monster you control would be used as Link Material for a \"Code Talker\" monster, this card in your hand can also be used as material. If this card is sent from the hand or field to the GY as material for the Link Summon of a \"Code Talker\" monster: You can Special Summon 1 Cyberse monster from your hand, or, if this card on the field was used as material, you can Special Summon 1 Cyberse monster from your Deck instead. You can only use each effect of \"Code Importer\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Code_Importer.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 800,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 700,
+  "level": 6,
+  "is_tuner": false
+}

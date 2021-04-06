@@ -1,0 +1,19 @@
+{
+  "id": 2000000108,
+  "name": "Malefic Shooting Quasar Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) by banishing 1 \"Shooting Quasar Dragon\" from your Extra Deck. Once per turn (Quick Effect): You can target 1 face-up card on the field; negate its effects. Other monsters you control cannot decalre an attack. If there is no face-up Field Spell Card on the field, destroy this card.",
+  "images": ["https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/Malefic_Shooting_Quasar_Dragon.jpg"],
+  "type": "Monster",
+  "attribute": "DARK", 
+  "atk": 4000,
+  "species": "Dragon",
+  "monster_type":"Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 4000,
+  "level": 12,
+  "is_tuner": false
+}

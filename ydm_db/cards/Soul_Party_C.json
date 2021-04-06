@@ -1,0 +1,12 @@
+{
+  "id": 2000000050,
+  "name": "Soul Party \"C\"",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target any number of monsters in your GY: Special Summon them, and if you do, your opponent draws a card for each monster Special Summoned by this effect. You cannot conduct your Battle Phase the turn your activate this card. You can only activate 1 \"Soul Party \"C\" per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Soul_Party_C.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

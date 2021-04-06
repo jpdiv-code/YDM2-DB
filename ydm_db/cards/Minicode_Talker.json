@@ -1,0 +1,22 @@
+{
+  "id": 2000000029,
+  "name": "Minicode Talker",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Cyberse Monster, except \"Minicode Talker\"\nIf this card is Link Summoned: You can add 1 \"Code\" monster from your Deck to your hand. If this card was Link Summoned using a \"Code\" monster, cards and effects cannot be activated in response to this effect. You can only use the effect of \"Minicode Talker\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Minicode_Talker.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 0,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 1,
+  "link_arrows": [
+    "Bottom"
+  ]
+}

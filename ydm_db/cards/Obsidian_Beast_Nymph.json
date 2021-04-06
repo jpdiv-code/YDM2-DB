@@ -1,0 +1,20 @@
+{
+  "id": 2000000039,
+  "name": "Obsidian Beast - Nymph",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 Level 3 Flip Monsters\nYou can detach 2 Xyz materials from this card; add up to 2 \"Obsidian Beast\" monsters from your GY to your hand, and if you do, this card gains 400 ATK for each card added by this effect. If this card destroys a monster by battle: You can Special Summon 1 Flip monster from your hand or GY in face-down Defense Position.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Obsidian_Beast_Nymph.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2600,
+  "species": "Rock",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "rank": 3
+}

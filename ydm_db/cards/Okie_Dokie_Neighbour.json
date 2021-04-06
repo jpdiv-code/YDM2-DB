@@ -1,0 +1,12 @@
+{
+  "id": 2000000049,
+  "name": "Okie Dokie Neighbour",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you have 15 or more cards in your Deck than your opponent: You can send the top 5 cards of your Deck to the GY. You can only activate \"Okie Dokie Neighbour\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Okie_Dokie_Neighbour.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2000000016,
+  "name": "Graydle Dreidel Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Aqua-Type Tuner + 1 or more non-Tuner monsters\nYou can only control 1 face-up \"Graydle Dreidel Dragon\". This card cannot be targeted by card effects. If this card is Synchro Summoned: You can add 1 \"Graydle\" monster from your Deck to your hand. Once per turn (Quick Effect): You can destroy 1 \"Graydle\" card on your field or in your hand, then destroy 1 card your opponent controls.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Graydle_Dreidal_Dragon.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 3000,
+  "species": "Aqua",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 8,
+  "is_tuner": false
+}

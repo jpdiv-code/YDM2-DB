@@ -1,0 +1,12 @@
+{
+  "id": 2000000046,
+  "name": "Batteryman Production Plant",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is activated: You can add 1 \"Batteryman\" monster, \"Battery\" Spell/Trap, or \"Short Circuit\" from your Deck to your hand. You can send 1 \"Batteryman\" monster from your Deck to the GY; you can Normal Summon 1 \"Batteryman\" monster this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You cannot Special Summon monsters the turn you activate this card's effects, except \"Batteryman\" monsters. You can only activate 1 \"Batteryman Production Plant\" per turn",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP1/Batteryman_Production_Plant.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

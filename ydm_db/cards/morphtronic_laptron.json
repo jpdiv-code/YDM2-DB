@@ -1,0 +1,19 @@
+{
+  "id": 2000000096,
+  "name": "Morphtronic Laptron",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is Normal Summoned: Special Summon 1 \"Morphtronic\" monster from your Deck.",
+  "images": ["https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/Morphtronic_Lapton.jpg"],
+  "type": "Monster",
+  "attribute": "FIRE", 
+  "atk": 1000,
+  "species": "Machine",
+  "monster_type":"Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}
