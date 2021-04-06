@@ -1,0 +1,377 @@
+{
+  "name": "Kingdoms Pack 1",
+  "code": "KPN1",
+  "type": "Deck Build Pack",
+  "date": "15-02-2021",
+  "image": "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/PackImages/kingdoms1.png",
+  "pull_type": "distribution",
+  "distribution": "deck_build_pack",
+  "cards": [
+    {
+      "id": 2000000001,
+      "code": "KPN1-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000002,
+      "code": "KPN1-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000003,
+      "code": "KPN1-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000004,
+      "code": "KPN1-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000005,
+      "code": "KPN1-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000006,
+      "code": "KPN1-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000007,
+      "code": "KPN1-007",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000008,
+      "code": "KPN1-008",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000009,
+      "code": "KPN1-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000010,
+      "code": "KPN1-010",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000011,
+      "code": "KPN1-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000012,
+      "code": "KPN1-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000013,
+      "code": "KPN1-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000014,
+      "code": "KPN1-014",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000015,
+      "code": "KPN1-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000016,
+      "code": "KPN1-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000017,
+      "code": "KPN1-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000018,
+      "code": "KPN1-018",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000019,
+      "code": "KPN1-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000020,
+      "code": "KPN1-020",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000021,
+      "code": "KPN1-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000022,
+      "code": "KPN1-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000023,
+      "code": "KPN1-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000024,
+      "code": "KPN1-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000025,
+      "code": "KPN1-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000026,
+      "code": "KPN1-026",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000027,
+      "code": "KPN1-027",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000028,
+      "code": "KPN1-028",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000029,
+      "code": "KPN1-029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000030,
+      "code": "KPN1-030",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000031,
+      "code": "KPN1-031",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000032,
+      "code": "KPN1-032",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000033,
+      "code": "KPN1-033",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000034,
+      "code": "KPN1-034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000035,
+      "code": "KPN1-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000036,
+      "code": "KPN1-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000037,
+      "code": "KPN1-037",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000038,
+      "code": "KPN1-038",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000039,
+      "code": "KPN1-039",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000040,
+      "code": "KPN1-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000041,
+      "code": "KPN1-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000042,
+      "code": "KPN1-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000043,
+      "code": "KPN1-043",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000044,
+      "code": "KPN1-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000045,
+      "code": "KPN1-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000046,
+      "code": "KPN1-046",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000047,
+      "code": "KPN1-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000048,
+      "code": "KPN1-048",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000049,
+      "code": "KPN1-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000050,
+      "code": "KPN1-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000051,
+      "code": "KPN1-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000052,
+      "code": "KPN1-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000053,
+      "code": "KPN1-053",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000054,
+      "code": "KPN1-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000055,
+      "code": "KPN1-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000056,
+      "code": "KPN1-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000057,
+      "code": "KPN1-057",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000058,
+      "code": "KPN1-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000059,
+      "code": "KPN1-059",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000060,
+      "code": "KPN1-060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000061,
+      "code": "KPN1-061",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}
