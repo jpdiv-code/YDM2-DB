@@ -3,7 +3,7 @@
   "name": "Yubel's Trust",
   "is_illegal": false,
   "is_custom": true,
-  "text": "Activate one of these effects.\n\u25CF Fusion Summon 1 monster from your Extra Deck that list \"Yubel\" as Fusion Material using monsters from your hand or Deck as Fusion Materials. \n\u25CF Target 1 Fusion Monster in your GY that list \"Yubel\" as Fusion Material; Special Summon it.",
+  "text": "Activate one of these effects.\n\u25CF Fusion Summon 1 monster from your Extra Deck that list \"Yubel\" as Fusion Material using monsters from your hand or field as Fusion Materials. \n\u25CF Target 1 Fusion Monster in your GY that list \"Yubel\" as Fusion Material; Special Summon it.",
   "images": [
     "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/Yubel%E2%80%99s_Trust.jpg"
   ],
