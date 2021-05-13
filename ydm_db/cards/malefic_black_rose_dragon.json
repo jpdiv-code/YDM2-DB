@@ -3,7 +3,7 @@
   "name": "Malefic Black Rose Dragon",
   "is_illegal": false,
   "is_custom": true,
-  "text": "Must be Special Summoned (from your hand) by banishing 1 \"Black Rose Dragon\" from your Extra Deck. If this card is destroyed: Destroy all cards on the field. Other monsters you control cannot declare an attack. If there is no Field Spell on the field, destroy this card.",
+  "text": "Must be Special Summoned (from your hand) by banishing 1 \"Black Rose Dragon\" from your Extra Deck. If this card is destroyed by your opponent's card: Destroy all cards on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell on the field, destroy this card.",
   "images": ["https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/Malefic_Black_Rose_Dragon.jpg"],
   "type": "Monster",
   "attribute": "DARK", 
