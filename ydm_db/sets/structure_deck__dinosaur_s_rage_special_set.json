@@ -1,0 +1,13 @@
+{
+  "name": "Structure Deck: Dinosaur\u0027s Rage Special Set",
+  "code": "SD09_SS",
+  "type": "Structure Deck",
+  "date": "25-10-2006",
+  "image": "https://ygoprodeck.com/pics_sets/SD09.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SD09",
+    "POTD",
+    "SD09_SS_C"
+  ]
+}

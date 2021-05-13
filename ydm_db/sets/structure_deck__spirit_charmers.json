@@ -1,0 +1,12 @@
+{
+  "name": "Structure Deck: Spirit Charmers",
+  "code": "SDCH",
+  "type": "Structure Deck",
+  "date": "22-10-2020",
+  "image": "https://ygoprodeck.com/pics_sets/SDCH.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SDCH_D",
+    "SDCH_C"
+  ]
+}

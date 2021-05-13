@@ -1,0 +1,12 @@
+{
+  "name": "Starter Deck 2006: Special Edition",
+  "code": "YSD_SE",
+  "type": "Starter Deck",
+  "date": "01-03-2006",
+  "image": "https://ygoprodeck.com/pics_sets/YSD.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "YSD",
+    "YSD_SE"
+  ]
+}

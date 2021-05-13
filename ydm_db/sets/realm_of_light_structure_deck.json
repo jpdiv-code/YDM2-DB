@@ -1,0 +1,256 @@
+{
+  "name": "Realm of Light Structure Deck",
+  "code": "SDLI",
+  "type": "Structure Deck",
+  "date": "27-06-2014",
+  "image": "https://ygoprodeck.com/pics_sets/SDLI.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 43096270,
+      "code": "SDLI-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40164421,
+      "code": "SDLI-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77558536,
+      "code": "SDLI-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57774843,
+      "code": "SDLI-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21785144,
+      "code": "SDLI-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94381039,
+      "code": "SDLI-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96235275,
+      "code": "SDLI-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96235275,
+      "code": "SDLI-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22624373,
+      "code": "SDLI-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22624373,
+      "code": "SDLI-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59019082,
+      "code": "SDLI-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58996430,
+      "code": "SDLI-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44178886,
+      "code": "SDLI-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95503687,
+      "code": "SDLI-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95503687,
+      "code": "SDLI-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7183277,
+      "code": "SDLI-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2420921,
+      "code": "SDLI-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21502796,
+      "code": "SDLI-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21502796,
+      "code": "SDLI-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37742478,
+      "code": "SDLI-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30126992,
+      "code": "SDLI-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38737148,
+      "code": "SDLI-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74064212,
+      "code": "SDLI-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47217354,
+      "code": "SDLI-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82888408,
+      "code": "SDLI-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14785765,
+      "code": "SDLI-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4906301,
+      "code": "SDLI-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52665542,
+      "code": "SDLI-024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36099620,
+      "code": "SDLI-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36099620,
+      "code": "SDLI-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 691925,
+      "code": "SDLI-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94886282,
+      "code": "SDLI-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74848038,
+      "code": "SDLI-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81439173,
+      "code": "SDLI-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61962135,
+      "code": "SDLI-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22201234,
+      "code": "SDLI-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32233746,
+      "code": "SDLI-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16255442,
+      "code": "SDLI-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73729209,
+      "code": "SDLI-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78474168,
+      "code": "SDLI-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4779823,
+      "code": "SDLI-036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

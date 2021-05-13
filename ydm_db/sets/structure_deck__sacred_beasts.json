@@ -1,0 +1,286 @@
+{
+  "name": "Structure Deck: Sacred Beasts",
+  "code": "SDSA",
+  "type": "Structure Deck",
+  "date": "10-07-2020",
+  "image": "https://ygoprodeck.com/pics_sets/SDSA.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 28651380,
+      "code": "SDSA-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54040484,
+      "code": "SDSA-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81034083,
+      "code": "SDSA-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27439792,
+      "code": "SDSA-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87917187,
+      "code": "SDSA-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30312361,
+      "code": "SDSA-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12958919,
+      "code": "SDSA-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31034919,
+      "code": "SDSA-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48343627,
+      "code": "SDSA-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79407975,
+      "code": "SDSA-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98777036,
+      "code": "SDSA-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28674152,
+      "code": "SDSA-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97940434,
+      "code": "SDSA-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41442341,
+      "code": "SDSA-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13521194,
+      "code": "SDSA-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36553319,
+      "code": "SDSA-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82888408,
+      "code": "SDSA-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16209941,
+      "code": "SDSA-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54828837,
+      "code": "SDSA-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80312545,
+      "code": "SDSA-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13301895,
+      "code": "SDSA-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93224848,
+      "code": "SDSA-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74402414,
+      "code": "SDSA-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73628505,
+      "code": "SDSA-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73468603,
+      "code": "SDSA-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 269012,
+      "code": "SDSA-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2295440,
+      "code": "SDSA-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73680966,
+      "code": "SDSA-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35261759,
+      "code": "SDSA-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9720537,
+      "code": "SDSA-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7153114,
+      "code": "SDSA-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12923641,
+      "code": "SDSA-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "SDSA-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16317140,
+      "code": "SDSA-034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53701259,
+      "code": "SDSA-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31550470,
+      "code": "SDSA-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92099232,
+      "code": "SDSA-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9995766,
+      "code": "SDSA-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59305593,
+      "code": "SDSA-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9064354,
+      "code": "SDSA-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95463814,
+      "code": "SDSA-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6007213,
+      "code": "SDSA-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32491822,
+      "code": "SDSA-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69890967,
+      "code": "SDSA-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43378048,
+      "code": "SDSA-045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89190953,
+      "code": "SDSA-046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

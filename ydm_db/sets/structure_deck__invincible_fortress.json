@@ -1,0 +1,250 @@
+{
+  "name": "Structure Deck: Invincible Fortress",
+  "code": "SD7",
+  "type": "Structure Deck",
+  "date": "15-05-2006",
+  "image": "https://ygoprodeck.com/pics_sets/SD7.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 55737443,
+      "code": "SD7-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92736188,
+      "code": "SD7-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97017120,
+      "code": "SD7-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97017120,
+      "code": "SD7-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97017120,
+      "code": "SD7-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40695128,
+      "code": "SD7-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40659562,
+      "code": "SD7-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47606319,
+      "code": "SD7-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47606319,
+      "code": "SD7-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31812496,
+      "code": "SD7-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52323207,
+      "code": "SD7-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82260502,
+      "code": "SD7-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18654201,
+      "code": "SD7-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45159319,
+      "code": "SD7-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45159319,
+      "code": "SD7-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71544954,
+      "code": "SD7-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75209824,
+      "code": "SD7-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2694423,
+      "code": "SD7-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73648243,
+      "code": "SD7-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28120197,
+      "code": "SD7-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "SD7-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70828912,
+      "code": "SD7-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72302403,
+      "code": "SD7-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52097679,
+      "code": "SD7-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52097679,
+      "code": "SD7-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85852291,
+      "code": "SD7-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26412047,
+      "code": "SD7-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97342942,
+      "code": "SD7-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87910978,
+      "code": "SD7-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59237154,
+      "code": "SD7-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12607053,
+      "code": "SD7-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80604092,
+      "code": "SD7-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59344077,
+      "code": "SD7-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59344077,
+      "code": "SD7-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88279736,
+      "code": "SD7-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39537362,
+      "code": "SD7-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39537362,
+      "code": "SD7-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37576645,
+      "code": "SD7-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94192409,
+      "code": "SD7-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94192409,
+      "code": "SD7-032",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

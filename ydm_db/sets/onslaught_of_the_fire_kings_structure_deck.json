@@ -1,0 +1,250 @@
+{
+  "name": "Onslaught of the Fire Kings Structure Deck",
+  "code": "SDOK",
+  "type": "Structure Deck",
+  "date": "08-02-2013",
+  "image": "https://ygoprodeck.com/pics_sets/SDOK.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 23015896,
+      "code": "SDOK-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69000994,
+      "code": "SDOK-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96594609,
+      "code": "SDOK-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61441708,
+      "code": "SDOK-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77121851,
+      "code": "SDOK-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23116808,
+      "code": "SDOK-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31303283,
+      "code": "SDOK-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 123709,
+      "code": "SDOK-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23297235,
+      "code": "SDOK-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28332833,
+      "code": "SDOK-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91554542,
+      "code": "SDOK-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54040221,
+      "code": "SDOK-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76459806,
+      "code": "SDOK-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66436257,
+      "code": "SDOK-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4732017,
+      "code": "SDOK-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13522325,
+      "code": "SDOK-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90810762,
+      "code": "SDOK-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88753985,
+      "code": "SDOK-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66499018,
+      "code": "SDOK-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68658728,
+      "code": "SDOK-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60806437,
+      "code": "SDOK-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60806437,
+      "code": "SDOK-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22993208,
+      "code": "SDOK-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59388357,
+      "code": "SDOK-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74845897,
+      "code": "SDOK-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69537999,
+      "code": "SDOK-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61166988,
+      "code": "SDOK-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98645731,
+      "code": "SDOK-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74519184,
+      "code": "SDOK-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31036355,
+      "code": "SDOK-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44947065,
+      "code": "SDOK-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82705573,
+      "code": "SDOK-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60718396,
+      "code": "SDOK-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63356631,
+      "code": "SDOK-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21350571,
+      "code": "SDOK-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98239899,
+      "code": "SDOK-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42945701,
+      "code": "SDOK-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79544790,
+      "code": "SDOK-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54704216,
+      "code": "SDOK-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97077563,
+      "code": "SDOK-039",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

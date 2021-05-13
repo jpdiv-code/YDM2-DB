@@ -1,0 +1,250 @@
+{
+  "name": "Warriors\u0027 Strike Structure Deck",
+  "code": "SDWS",
+  "type": "Structure Deck",
+  "date": "23-10-2009",
+  "image": "https://ygoprodeck.com/pics_sets/SDWS.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 69488544,
+      "code": "SDWS-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96872283,
+      "code": "SDWS-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32271987,
+      "code": "SDWS-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68366996,
+      "code": "SDWS-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93187568,
+      "code": "SDWS-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49681811,
+      "code": "SDWS-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2460565,
+      "code": "SDWS-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74131780,
+      "code": "SDWS-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7572887,
+      "code": "SDWS-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85087012,
+      "code": "SDWS-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19041767,
+      "code": "SDWS-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16984449,
+      "code": "SDWS-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16984449,
+      "code": "SDWS-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37043180,
+      "code": "SDWS-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90642597,
+      "code": "SDWS-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90642597,
+      "code": "SDWS-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89529919,
+      "code": "SDWS-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83269557,
+      "code": "SDWS-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95750695,
+      "code": "SDWS-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37520316,
+      "code": "SDWS-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44947065,
+      "code": "SDWS-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42534368,
+      "code": "SDWS-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52105192,
+      "code": "SDWS-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58775978,
+      "code": "SDWS-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "SDWS-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69954399,
+      "code": "SDWS-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32807846,
+      "code": "SDWS-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61127349,
+      "code": "SDWS-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31423101,
+      "code": "SDWS-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43422537,
+      "code": "SDWS-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78794994,
+      "code": "SDWS-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96765646,
+      "code": "SDWS-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73567374,
+      "code": "SDWS-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77538567,
+      "code": "SDWS-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37390589,
+      "code": "SDWS-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56120475,
+      "code": "SDWS-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92924317,
+      "code": "SDWS-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62271284,
+      "code": "SDWS-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35539880,
+      "code": "SDWS-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67045174,
+      "code": "SDWS-038",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

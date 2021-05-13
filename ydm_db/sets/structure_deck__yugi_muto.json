@@ -1,0 +1,280 @@
+{
+  "name": "Structure Deck: Yugi Muto",
+  "code": "SDMY",
+  "type": "Structure Deck",
+  "date": "20-10-2016",
+  "image": "https://ygoprodeck.com/pics_sets/SDMY.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 42023223,
+      "code": "SDMY-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79418928,
+      "code": "SDMY-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15502037,
+      "code": "SDMY-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42901635,
+      "code": "SDMY-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78355370,
+      "code": "SDMY-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75347539,
+      "code": "SDMY-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99785935,
+      "code": "SDMY-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39256679,
+      "code": "SDMY-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11549357,
+      "code": "SDMY-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46986414,
+      "code": "SDMY-010",
+      "rarity": "Common",
+      "image_index": 4
+    },
+    {
+      "id": 38033121,
+      "code": "SDMY-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78193831,
+      "code": "SDMY-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90876561,
+      "code": "SDMY-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25652259,
+      "code": "SDMY-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64788463,
+      "code": "SDMY-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77207191,
+      "code": "SDMY-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5818798,
+      "code": "SDMY-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52077741,
+      "code": "SDMY-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13039848,
+      "code": "SDMY-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40640057,
+      "code": "SDMY-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73752131,
+      "code": "SDMY-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46363422,
+      "code": "SDMY-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43586926,
+      "code": "SDMY-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4740489,
+      "code": "SDMY-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41735184,
+      "code": "SDMY-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2314238,
+      "code": "SDMY-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99789342,
+      "code": "SDMY-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25774450,
+      "code": "SDMY-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72302403,
+      "code": "SDMY-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93260132,
+      "code": "SDMY-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24094653,
+      "code": "SDMY-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95286165,
+      "code": "SDMY-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12923641,
+      "code": "SDMY-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83715234,
+      "code": "SDMY-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77133792,
+      "code": "SDMY-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50755,
+      "code": "SDMY-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44095762,
+      "code": "SDMY-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62279055,
+      "code": "SDMY-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37383714,
+      "code": "SDMY-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20781762,
+      "code": "SDMY-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4628897,
+      "code": "SDMY-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6150044,
+      "code": "SDMY-042",
+      "rarity": "Common",
+      "image_index": 1
+    },
+    {
+      "id": 98502113,
+      "code": "SDMY-043",
+      "rarity": "Common",
+      "image_index": 1
+    },
+    {
+      "id": 4796100,
+      "code": "SDMY-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86240887,
+      "code": "SDMY-045",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

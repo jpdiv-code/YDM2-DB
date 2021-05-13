@@ -1,0 +1,268 @@
+{
+  "name": "Pendulum Domination Structure Deck",
+  "code": "SDPD",
+  "type": "Structure Deck",
+  "date": "19-01-2017",
+  "image": "https://ygoprodeck.com/pics_sets/SDPD.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 83303851,
+      "code": "SDPD-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19302550,
+      "code": "SDPD-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46796664,
+      "code": "SDPD-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72181263,
+      "code": "SDPD-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19580308,
+      "code": "SDPD-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47198668,
+      "code": "SDPD-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39153655,
+      "code": "SDPD-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12822541,
+      "code": "SDPD-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48210156,
+      "code": "SDPD-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74605254,
+      "code": "SDPD-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11609969,
+      "code": "SDPD-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74069667,
+      "code": "SDPD-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44186624,
+      "code": "SDPD-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81571633,
+      "code": "SDPD-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17979378,
+      "code": "SDPD-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65192027,
+      "code": "SDPD-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14536035,
+      "code": "SDPD-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28985331,
+      "code": "SDPD-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94283662,
+      "code": "SDPD-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16404809,
+      "code": "SDPD-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13521194,
+      "code": "SDPD-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50732780,
+      "code": "SDPD-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45974017,
+      "code": "SDPD-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46372010,
+      "code": "SDPD-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73360025,
+      "code": "SDPD-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10833828,
+      "code": "SDPD-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81439173,
+      "code": "SDPD-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2295440,
+      "code": "SDPD-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1475311,
+      "code": "SDPD-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 674561,
+      "code": "SDPD-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53046408,
+      "code": "SDPD-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71069715,
+      "code": "SDPD-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8643186,
+      "code": "SDPD-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72648577,
+      "code": "SDPD-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9765723,
+      "code": "SDPD-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37209439,
+      "code": "SDPD-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46259438,
+      "code": "SDPD-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72497366,
+      "code": "SDPD-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31550470,
+      "code": "SDPD-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80036543,
+      "code": "SDPD-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8463720,
+      "code": "SDPD-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44852429,
+      "code": "SDPD-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3758046,
+      "code": "SDPD-043",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

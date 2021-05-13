@@ -1,0 +1,262 @@
+{
+  "name": "Geargia Rampage Structure Deck",
+  "code": "SDGR",
+  "type": "Structure Deck",
+  "date": "16-10-2014",
+  "image": "https://ygoprodeck.com/pics_sets/SDGR.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 45286019,
+      "code": "SDGR-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72370114,
+      "code": "SDGR-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47687766,
+      "code": "SDGR-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71786742,
+      "code": "SDGR-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71786742,
+      "code": "SDGR-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1045143,
+      "code": "SDGR-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1045143,
+      "code": "SDGR-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47030842,
+      "code": "SDGR-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73428497,
+      "code": "SDGR-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 923596,
+      "code": "SDGR-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41172955,
+      "code": "SDGR-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41172955,
+      "code": "SDGR-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86445415,
+      "code": "SDGR-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86445415,
+      "code": "SDGR-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13839120,
+      "code": "SDGR-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13839120,
+      "code": "SDGR-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86321248,
+      "code": "SDGR-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50933533,
+      "code": "SDGR-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42851643,
+      "code": "SDGR-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24419823,
+      "code": "SDGR-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85087012,
+      "code": "SDGR-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18964575,
+      "code": "SDGR-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31768112,
+      "code": "SDGR-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23265594,
+      "code": "SDGR-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97017120,
+      "code": "SDGR-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97017120,
+      "code": "SDGR-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37694547,
+      "code": "SDGR-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37694547,
+      "code": "SDGR-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23171610,
+      "code": "SDGR-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25518020,
+      "code": "SDGR-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66788016,
+      "code": "SDGR-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97169186,
+      "code": "SDGR-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43422537,
+      "code": "SDGR-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31036355,
+      "code": "SDGR-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73628505,
+      "code": "SDGR-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6148016,
+      "code": "SDGR-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13955608,
+      "code": "SDGR-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68540059,
+      "code": "SDGR-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12503902,
+      "code": "SDGR-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91597389,
+      "code": "SDGR-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19891310,
+      "code": "SDGR-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28912357,
+      "code": "SDGR-035",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

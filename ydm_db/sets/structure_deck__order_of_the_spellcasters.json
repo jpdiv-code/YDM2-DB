@@ -1,0 +1,262 @@
+{
+  "name": "Structure Deck: Order of the Spellcasters",
+  "code": "SR08",
+  "type": "Structure Deck",
+  "date": "25-04-2019",
+  "image": "https://ygoprodeck.com/pics_sets/SR08.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 3611830,
+      "code": "SR08-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39000945,
+      "code": "SR08-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66104644,
+      "code": "SR08-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92559258,
+      "code": "SR08-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40732515,
+      "code": "SR08-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73853830,
+      "code": "SR08-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2525268,
+      "code": "SR08-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55424270,
+      "code": "SR08-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54965929,
+      "code": "SR08-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43930492,
+      "code": "SR08-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6061630,
+      "code": "SR08-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10239627,
+      "code": "SR08-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76137614,
+      "code": "SR08-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9156135,
+      "code": "SR08-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40737112,
+      "code": "SR08-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86937530,
+      "code": "SR08-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 423585,
+      "code": "SR08-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14824019,
+      "code": "SR08-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30608985,
+      "code": "SR08-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31560081,
+      "code": "SR08-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94145021,
+      "code": "SR08-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38943357,
+      "code": "SR08-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65342096,
+      "code": "SR08-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39910367,
+      "code": "SR08-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75014062,
+      "code": "SR08-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75014062,
+      "code": "SR08-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17896384,
+      "code": "SR08-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89739383,
+      "code": "SR08-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25123082,
+      "code": "SR08-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88616795,
+      "code": "SR08-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91819979,
+      "code": "SR08-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28553439,
+      "code": "SR08-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73628505,
+      "code": "SR08-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86541496,
+      "code": "SR08-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35261759,
+      "code": "SR08-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24429467,
+      "code": "SR08-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34029630,
+      "code": "SR08-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94937430,
+      "code": "SR08-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18446701,
+      "code": "SR08-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50755,
+      "code": "SR08-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91336701,
+      "code": "SR08-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24721709,
+      "code": "SR08-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}
