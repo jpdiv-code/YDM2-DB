@@ -3,7 +3,7 @@
   "name": "Fluffal Skunch",
   "is_illegal": false,
   "is_custom": true,
-  "text": "You can return a face-up \"Edge Imp\" or \"Fluffal\" monster you control to your hand; Special Summon this card (From your hand). You can discard 1 \"Edge Imp\" or \"Fluffal\" monster, then apply the following effect based on the monster discarded; \n ● \"Edhe Imp\" Monster: Add 1 \"Fluffal\" monster from your Deck to your hand. \n ● \"Fluffal\" Monster: Add 1 \"Edge Imp\" monster from your Deck to your hand. /n You can only activate each effect of \"Fluffal Skunch\" once per turn.",
+  "text": "You can return a face-up \"Edge Imp\" or \"Fluffal\" monster you control to your hand; Special Summon this card (From your hand). You can discard 1 \"Edge Imp\" or \"Fluffal\" monster, then apply the following effect based on the monster discarded;\n\U+25CF \"Edge Imp\" Monster: Add 1 \"Fluffal\" monster from your Deck to your hand. \nU+25CF \"Fluffal\" Monster: Add 1 \"Edge Imp\" monster from your Deck to your hand.\n You can only activate each effect of \"Fluffal Skunch\" once per turn.",
   "images": ["https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/Fluffal_Skunch.jpg"],
   "type": "Monster",
   "attribute": "EARTH", 
