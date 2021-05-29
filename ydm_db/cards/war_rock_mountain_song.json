@@ -1,0 +1,12 @@
+{
+  "id": 2000000165,
+  "name": "War Rock Mountain Song",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Discard 1 \"War Rock\" card, or send 1 face-up \"War Rock\" card to the GY; draw 2 cards. If you destroy a monster by battle the turn this card was sent to the GY: You can banish this card from the GY; draw 1 card. You can only activate this effect of \"War Rock Mountain Song\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/war_rock_mountain_song.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

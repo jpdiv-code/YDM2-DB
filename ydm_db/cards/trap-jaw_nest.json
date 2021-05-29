@@ -1,0 +1,12 @@
+{
+  "id": 2000000146,
+  "name": "Trap-Jaw Nest",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When your opponent activates a Spell/Trap card, activate one of these effects:\u25CFDestroy all cards in this card's column.\u25CFDestroy all cards in the column of an Insect monster you control that was Special Summon from the Extra Deck.\nYou can only activate \"Trap-Jaw Nest\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/trap-jaw_nest.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Counter"
+}

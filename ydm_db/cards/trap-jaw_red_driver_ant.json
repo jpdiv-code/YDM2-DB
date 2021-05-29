@@ -1,0 +1,20 @@
+{
+  "id": 2000000142,
+  "name": "Trap-Jaw Red Driver Ant",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 Level 2 Insect monsters\nIf this card is Xyz Summoned: You can send 1 Insect monster from your Deck to the GY. You can detach 1 material from this card; Special Summon 1 \"Trap-Jaw\" monster from your hand, Deck, or GY. You can only activate this effect of \"Trap-Jaw Red Driver Ant\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/trap-jaw_red_driver_ant.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk":1500 ,
+  "species": "Insect",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "rank": 2
+}

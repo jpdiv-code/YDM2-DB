@@ -1,0 +1,12 @@
+{
+  "id": 2000000147,
+  "name": "Trap-Jaw Swarms",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Special Summon 1 Level 2 or lower Insect monster from your hand.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/trap-jaw_swarms.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

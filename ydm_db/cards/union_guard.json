@@ -1,0 +1,12 @@
+{
+  "id": 2000000233,
+  "name": "Union Guard",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can shuffle up to 3 of your banished Union monsters into the Deck and apply the appropriate effect based on the amount shuffled:\n\u25CF 1: Destroy 1 Spell/Trap card on the field.\n\u25CF 2: Destroy 1 monster on the field.\n\u25CF 3: Banish 1 card on the field or in the GY./nYou can only activate 1 \"Union Guard\" per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/union_guard.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

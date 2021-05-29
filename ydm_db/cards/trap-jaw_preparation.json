@@ -1,0 +1,12 @@
+{
+  "id": 2000000147,
+  "name": "Trap-Jaw Preparation",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Reveal 3 Level 2 or lower Insect type monsters from your Deck. Your opponent chooses 1 at random to add to your hand, then shuffle the rest back into your Deck. You can only activate \"Trap-Jaw Preparation\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/trap-jaw_preparation.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

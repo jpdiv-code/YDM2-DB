@@ -1,0 +1,12 @@
+{
+  "id": 2000000164,
+  "name": "War Rock Landslide",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you control a \"War Rock'' monster: all \"War Rock\" monsters you control gain 200 ATK, and if 600 ATK or more is gained by this effect; you can destroy 1 card on the field.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/war_rock_landslide.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}
