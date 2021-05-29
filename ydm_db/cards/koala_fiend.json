@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "You can discard this card; draw 2 cards, then banish 1 \"Koala\" card from your hand, or, if you do not have any in your hand, send your entire hand to the GY. If this card is Summoned: You can banish 1 \"Koala\" card from your hand or GY; Special Summon 1 \"Koala\" monster from your hand or GY. If this card is in your GY: You can send 1 \"Koala\" card from your Deck to the GY, then Special Summon this card, but this card cannot attack, and its effects are negated, also this card cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon. You can only use each effect of \"Koala Fiend\" once per turn.",
   "images": [
-    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/.jpg"
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/koala_fiend.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
