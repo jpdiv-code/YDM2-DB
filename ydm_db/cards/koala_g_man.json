@@ -1,0 +1,21 @@
+{
+  "id": 2000000214,
+  "name": "Koala G-Man",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 Level 4 \"Koala\" monsters/nIf this card is Fusion Summoned: You can banish 1 \"Koala\" monster from your GY; add 1 \"Koala card from your Deck or GY to your hand. You can only use this effect of \"Koala G-Man\" once per turn. If this card attacks an opponent's monster, at the start of the Damage Step: Destroy that monster. This card can attack all monsters your opponent controls once each.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/koala_g_man.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2700,
+  "species": "Beast",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 8,
+  "is_tuner": false
+}

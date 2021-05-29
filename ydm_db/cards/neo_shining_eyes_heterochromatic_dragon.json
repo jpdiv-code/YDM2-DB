@@ -1,0 +1,21 @@
+{
+  "id": 2000000181,
+  "name": "Neo-Shining-Eyes Heterochromatic Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Deck) by Tributing \"Blue-Eyes Shining Dragon\" along with \"Blue-Eyes White Dragon\". Gains 400 ATK for each Dragon monster in your GY. If this card is Special Summoned: You can negate the effects of all other monsters on the field, except Dragon monsters. You can only Special Summon 1 \"Neo-Shining-Eyes Heterochromatic Dragon\" once per duel. ",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/neo_shining_eyes_heterochromatic_dragon.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3300,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2800,
+  "level": 8,
+  "is_tuner": false
+}

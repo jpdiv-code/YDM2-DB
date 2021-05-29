@@ -1,0 +1,12 @@
+{
+  "id": 2000000175,
+  "name": "Arc-en-ciel Speed-o'-Light",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can banish 2 \"Arc-en-ciel\" monsters with different Attributes from your GY or discard 1 \"Dream Prism\"; draw 2 cards",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/arc-en-ciel_speed-o-light.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

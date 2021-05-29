@@ -1,0 +1,21 @@
+{
+  "id": 2000000173,
+  "name": "Arc-en-ciel Peacekeeper",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is Synchro Summoned: You can add 1 \"Dream Prism\" from your GY to your hand or equip it to this card. Once per turn (Quick Effect): You can send 1 \"Dream Prism\" you control to the GY and target 1 card on the field; send that card to the GY.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/arc-en-ciel_peacekeeper.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 3000,
+  "species": "Warrior",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 10,
+  "is_tuner": false
+}

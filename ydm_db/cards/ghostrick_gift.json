@@ -1,0 +1,12 @@
+{
+  "id": 2000000195,
+  "name": "Ghostrick Gift",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can add 1 \"Ghostrick\" Field Spell, and 1 \"Ghostrick\" monster from your Deck to your hand. You can only activate this effect of \"Ghostrick Gift\" once per turn. If a \"Ghostrick\" card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/ghostrick_gift.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

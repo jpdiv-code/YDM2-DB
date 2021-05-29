@@ -1,0 +1,21 @@
+{
+  "id": 2000000152,
+  "name": "Submersible Nuclear Void",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "3 \"Submersible\" Monsters\n(Quick Effect) You can banish this face-up card until the End Phase; Special Summon 2 \"Torpedo Tokens\" (Machine-Type/WATER/Level 3/ATK 1500/DEF 1500). These tokens cannot be used for a Link Summon. If this card is in the banished zone because it was sent there this turn by its own effect (Quick Effect): You can tribute 1 \"Torpedo Token\" you control and target 1 card on the field; destroy it.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/submersible_nuclear_void.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2800,
+  "species": "Machine",
+  "monster_type": "Fisopm",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 10,
+  "is_tuner": false
+}

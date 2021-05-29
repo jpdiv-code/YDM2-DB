@@ -1,0 +1,21 @@
+{
+  "id": 2000000218,
+  "name": "SunShine Hou Yi",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is Summoned, you can banish 2 \"SunShine\" cards in your GY; draw 2 cards. You can send this card to the GY; send 1 \"SunShine\" card from your Deck to the GY, but it cannot activate its effects this turn. If this card is sent to the GY: You can banish this card; all \"SunShine\" monster effects are treated as Quick Effects until the end of your opponent's next turn. You can only use each effect of \"SunShine Hou Yi\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/sunshine_hou_yi.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 3,
+  "is_tuner": true
+}

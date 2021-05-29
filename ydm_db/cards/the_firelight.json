@@ -1,0 +1,25 @@
+{
+  "id": 2000000130,
+  "name": "The Firelight",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2+ Monsters with different names including a \"Firelight\" monster\nThis card gains effects based on the number of \"Firelight\" materials used for its Link Summon. \u25CF 2+: Target monsters your opponent controls up to the number of \"Firelight\" monsters used as material for this card's Link Summon; negate their effects. \u25CF 3+: This card can attack all of your opponent's monsters once each. \u25CF 4: Your opponent cannot activate cards or effects in response to this card's Link Summon. This card cannot be targeted or destroyed by your opponent's card effects whilst you control another face-up \"Firelight\" card. If a \"Firelight\" card you control would be destroyed by battle or card effect, you can destroy another \"Firelight\" card you control or in your hand instead.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/the_firelight.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 3000,
+  "species": "Pyro",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 4,
+  "link_arrows": [
+    "Top",
+    "Bottom-Left",
+    "Bottom",
+    "Bottom-Right"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2000000202,
+  "name": "Penguin Catapult",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can target 1 face-up monster your opponent controls and 1 Set monster you control; change that monster to face-down Defense Position, then change your monster to face-up Defense Position. You can only use the effect of \"Penguin Catapult\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/penguin_catapult.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

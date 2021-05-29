@@ -1,0 +1,12 @@
+{
+  "id": 2000000223,
+  "name": "SunShine Ultra Violet Burn",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is activated: Both players take 1000 damage. While this card is in your GY, you can target 1 banished \"SunShine\" card; place that card on the bottom of your Deck. If this card activates an effect in the GY: You can banish this card; send 1 \"SunShine\" card from your field to your GY. You can only use each effect of \"SunShine Ultra Violent Burn\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/sunshine_ultra_violet_burn.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

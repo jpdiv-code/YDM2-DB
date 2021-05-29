@@ -1,0 +1,21 @@
+{
+  "id": 2000000240,
+  "name": "P.S.C.T",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is Normal Summoned: You can add 1 Level 4 or higher Spellcaster monster from your Deck to your hand, but you can't activate the effects or Special Summon monsters with that card's name until the End Phase of this turn. If this effect resolved as a Chain Link of 2 or higher: You can Special Summon 1 Level 1 Plant monster from your Deck. You can only activate each effect of \"P.S.C.T\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/p_s_c_t.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1000,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

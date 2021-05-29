@@ -1,0 +1,12 @@
+{
+  "id": 2000000169,
+  "name": "Dream Prism",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "(This card is also always treated as an \"Arc-en-ciel\" card.) Once per turn: You can change the Attribute of the card this card is equipped to. You can Synchro Summon an \"Arc-en-ciel\" monster using monsters you control, with this card treated as a Level 2 Tuner.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/dream_prism.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

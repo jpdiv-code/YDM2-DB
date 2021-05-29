@@ -1,0 +1,23 @@
+{
+  "id": 2000000209,
+  "name": "Penguin Trooper",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 WATER monsters including a \"Penguin\" monster\n(Quick Effect): Target 1 monster in a zone this card points to; change it to face-down Defense Position, then add 1 \"Penguin\" card from your GY to your hand. If this card is destroyed by an opponent's card: You can discard 1 \"Penguin\" card, then draw 2 cards. You can only use each effect of \"Penguin Trooper\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/penguin_trooper.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1700,
+  "species": "Aqua",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": [
+    "Top",
+    "Bottom"
+  ]
+}

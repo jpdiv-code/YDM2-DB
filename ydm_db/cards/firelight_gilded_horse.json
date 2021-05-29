@@ -1,0 +1,24 @@
+{
+  "id": 2000000123,
+  "name": "Firelight Gilded Horse",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Ritual Summon this card with a \"Firelight\" card. You can only use each of the following effects of \"Firelight Gilded Horse\" once per turn. If this card is Special Summoned: You can add 1 Ritual monster from your Deck to your hand but you cannot Summon monsters with that card's name for the rest of the turn. If this card is destroyed by a card effect: You can target 1 monster your opponent controls; send it to the GY.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/firelight_gilded_horse.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1900,
+  "species": "Pyro",
+  "monster_type": "Ritual",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false,
+  "pendulum_text": "During your Main Phase: You can Ritual Summon 1 Level 4 \"Firelight\" monster from your hand or face-up Extra Deck, then destroy this card. You cannot Pendulum Summon monsters, except \"Firelight\" monsters. This effect cannot be negated.",
+  "pendulum_scale_left_blue":1 ,
+  "pendulum_scale_right_red":1 
+}

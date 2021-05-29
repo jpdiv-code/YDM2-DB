@@ -1,0 +1,12 @@
+{
+  "id": 2000000242,
+  "name": "Mystical Space Tornado",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 monster on the field; destroy it.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/mystical_space_tornado.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2000000186,
+  "name": "Lightsworn Owl",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "FLIP: You can Special Summon 1 \"Lightsworn\" monster from your GY. If a Lightsworn monster(s) is sent from the Deck to the GY while this card is face-down on the field: You can flip this card face-up. You can banish 2 other \"Lightsworn'' monsters from your GY: Special Summon this card from your GY in face-down Defense position. You can only activate each effect of \"Lightsworn Owl'' once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/lightsworn_owl.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 100,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 1000,
+  "level": 1,
+  "is_tuner": true
+}

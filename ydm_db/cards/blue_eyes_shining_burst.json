@@ -1,0 +1,12 @@
+{
+  "id": 2000000180,
+  "name": "Blue-Eyes Shining Burst!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Tribute 1 monster whose original name is \"Blue-Eyes White Dragon\"; Special Summon 1 \"Blue-Eyes Shining Dragon\" from your hand or Deck, ignoring its Summoning condition, and, for the rest of the turn, you cannot Special Summon monsters, except for non-effect monsters. You can only activate \"Blue-Eyes Shining Burst\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/blue_eyes_shining_burst.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

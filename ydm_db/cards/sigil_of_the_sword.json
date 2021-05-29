@@ -1,0 +1,12 @@
+{
+  "id": 2000000163,
+  "name": "Sigil of the Sword",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can target 1 monster you control; until your opponent’s next End Phase, that monster is unaffected by other monster effects. If you destroy an opponent's monster by battle: Draw 1 card. You can only activate each effect of \"Sigil of the Sword\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/sigil_of_the_sword.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2000000158,
+  "name": "Submersible Deep Resurgence",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Special Summon either 1 Xyz monster or 1 Fusion monster using \"Submersible\" monsters you control as material. You can only activate \"Submersible Deep Resurgence\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/submersible_deep_resurgence.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

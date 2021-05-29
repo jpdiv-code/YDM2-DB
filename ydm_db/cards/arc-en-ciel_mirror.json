@@ -1,0 +1,22 @@
+{
+  "id": 2000000174,
+  "name": "Arc-en-ciel Mirror",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Level 4 or lower \"Arc-en-ciel\" monster\nOnce per turn: You can change this card's Attribute. You can banish this card from your GY; add 1 \"Dream Prism\" from your GY to your hand. You can only activate this effect of \"Arc-en-ciel Liberator\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/arc-en-ciel_mirror.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "",
+  "atk": 0,
+  "species": "Warrior",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 1,
+  "link_arrows": [
+    "Bottom-Right"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2000000241,
+  "name": "Number C47: Neverending Nightmare Shark",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "3 Level 4 WATER monsters\nYou can also Xyz Summon this card using 1 \"Number 47: Nightmare Shark\" you control as material. (Transfer its materials to this card.) You can detach any number of Xyz Material from this card, then target 1 WATER monster you control; this turn, that monster gains additional attacks equal to the number of materials detached from this card, also other monsters cannot attack. If this card leaves the field because of your opponent’s card: Special Summon 1 \"Number 47: Nightmare Shark\" from your GY, and if you do, it cannot be destroyed by battle or card effects. You can only use each effect of \"Number C47: Neverending Nightmare Shark\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/number_c47_neverending_nightmare_shark.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2600,
+  "species": "Sea Serpent",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2600,
+  "rank": 4
+}

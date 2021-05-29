@@ -1,0 +1,21 @@
+{
+  "id": 2000000177,
+  "name": "Arc-en-ciel Mystery",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Tuner + 2 non-Tuner \"Arc-en-ciel\" monsters\nIf this card is Synchro Summoned: You can add 1 \"Dream Prism\" from your GY to your hand or equip it to this card. This card gains 500 ATK for each face-up \"Dream Prism\" you control. This card cannot be destroyed by card effects while it is equipped with \"Dream Prism\". You can send 1 \"Dream Prism\" you control to the GY: Add 1 \"Arc-en-ciel\" card from your Deck to your hand. You can only activate this effect of \"Arc-en-ciel Mystery\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/arc_en_ciel_mystery.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Warrior",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 10,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2000000212,
+  "name": "Koala Wolf",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Once per turn you can: Immediately after this effect resolves, Normal Summon 1 \"Koala\" monster. If this card is in your GY: You can banish this card; Special Summon 1 Level 6 or lower \"Koala\" monster from your hand or GY.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/koala_wolf.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1650,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
+}

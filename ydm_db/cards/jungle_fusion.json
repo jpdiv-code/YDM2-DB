@@ -1,0 +1,13 @@
+{
+  "id": 2000000134,
+  "name": "Jungle Fusion",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card is always treated as an \"Amazoness\" card. Fusion Summon 1 Fusion monster using monsters from your hand or field as material. You can also use 1 \"Amazoness\" monster in your Deck as Fusion Material.
+",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/jungle_fusion.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}
