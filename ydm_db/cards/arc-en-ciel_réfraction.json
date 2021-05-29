@@ -1,11 +1,11 @@
 {
   "id": 2000000170,
-  "name": "Arc-en-ciel Réfraction",
+  "name": "Arc-en-ciel Refraction",
   "is_illegal": false,
   "is_custom": true,
-  "text": "If this card is activated: You can add 1 \"Dream Prism\" from your Deck to your hand. Once per turn: You can discard 1 Warrior monster; add 1 \"Arc-en-ciel\" Warrior monster with a different Attribute from your Deck to your hand. While you control no monster with the same Attribute, monsters you control are unaffected by your opponent's Spell/Trap effects. You can only activate \"Arc-en-ciel Réfraction'' once per turn.",
+  "text": "If this card is activated: You can add 1 \"Dream Prism\" from your Deck to your hand. Once per turn: You can discard 1 Warrior monster; add 1 \"Arc-en-ciel\" Warrior monster with a different Attribute from your Deck to your hand. While you control no monster with the same Attribute, monsters you control are unaffected by your opponent's Spell/Trap effects. You can only activate \"Arc-en-ciel Refraction\" once per turn.",
   "images": [
-    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/arc-en-ciel_réfraction.jpg"
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/arc-en-ciel_refraction.jpg"
   ],
   "type": "Spell",
   "spell_type": "Field"
