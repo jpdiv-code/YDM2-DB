@@ -3,7 +3,7 @@
   "name": "Submersible Blue Day",
   "is_illegal": false,
   "is_custom": true,
-  "text": "(Quick Effect): You can banish this face-up card until the End Phase and target 1 other banished \"Submersible\" monster; Special Summon it.",
+  "text": "(Quick Effect): You can banish this face-up card until the End Phase and target 1 banished \"Submersible\" monster, except \"Submersible Blue Day\"; Special Summon it.",
   "images": [
     "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/submersible_blue_day.jpg"
   ],
