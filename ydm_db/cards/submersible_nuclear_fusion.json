@@ -3,7 +3,7 @@
   "name": "Submersible Nuclear Fusion",
   "is_illegal": false,
   "is_custom": true,
-  "text": "Fusion Summon 1 Machine Fusion Monster from your Extra Deck, by shuffling the Fusion Materials listed on it into the Deck, from among your cards on the field, in your GY, and/or your face-up banished cards. You can banish this card from your GY; add 1 \"Submersible\" monster that is banished to your hand.",
+  "text": "Fusion Summon 1 Machine Fusion Monster from your Extra Deck, by shuffling the Fusion Materials listed on it into the Deck, from among your cards on the field, in your GY, and/or your face-up banished cards. You can banish this card from your GY; add 1 banished \"Submersible\" monster to your hand. You can only activate this effect of \"Submersible Nuclear Fusion\" once per turn.",
   "images": [
     "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/submersible_nuclear_fusion.jpg"
   ],
