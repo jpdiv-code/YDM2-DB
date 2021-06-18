@@ -3,7 +3,7 @@
   "name": "Submersible Nuclear Rainbow",
   "is_illegal": false,
   "is_custom": true,
-  "text": "7 \"Submersible\" monsters\nMust be Fusion Summoned with the above Fusion Material Monsters and cannot be Special Summoned by other ways. You can banish this face-up card you control; shuffle all monsters your opponent controls into the Deck. If this card leaves the field because of its own effect, you can add up to 3 \"Submersible\" monsters from your Deck to your hand. You can only Special Summon 1 \"Submersible Rainbow\" per turn.",
+  "text": "7 \"Submersible\" monsters\nMust be Fusion Summoned with the above Fusion Material Monsters and cannot be Special Summoned by other ways. (Quick Effect): You can banish this face-up card you control; shuffle all monsters your opponent controls into the Deck. If this card leaves the field because of its own effect, you can add up to 3 \"Submersible\" monsters from your Deck to your hand. You can only Special Summon 1 \"Submersible Rainbow\" per turn.",
   "images": [
     "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/submersible_nuclear_rainbow.jpg"
   ],
