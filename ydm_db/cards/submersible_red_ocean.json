@@ -3,7 +3,7 @@
   "name": "Submersible Red Ocean",
   "is_illegal": false,
   "is_custom": true,
-  "text": "(Quick Effect): You can banish this face-up card until the End Phase; Special Summon 1 \"Submersible\" monster from your Deck, except \"Submersible Red Ocean\".",
+  "text": "(Quick Effect): You can banish this face-up card until the End Phase; Special Summon 1 \"Submersible\" monster from your Deck, except \"Submersible Red Ocean\". You can only use the effect of \"Submersible Red Ocean\" once per turn.",
   "images": [
     "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/submersible_red_ocean.jpg"
   ],
