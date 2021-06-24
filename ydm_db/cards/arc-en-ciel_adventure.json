@@ -3,7 +3,7 @@
   "name": " Arc-en-ciel Adventure",
   "is_illegal": false,
   "is_custom": true,
-  "text": "You can Special Summon this card from your hand if you control an Earth Warrior monster. If this card is Summoned: You can return 1 \"Dream Prism\" you control to the hand; draw 1 card, then discard 1 \"Arc-en-ciel\" or \"Dream Prism\" card. You can only Special Summon 1 \"Arc-en-ciel Adventure\" once per turn.",
+  "text": "You can Special Summon this card from your hand if you control an Earth Warrior monster. If this card is Summoned: You can return 1 \"Dream Prism\" you control to the hand; draw 1 card. You can only Special Summon 1 \"Arc-en-ciel Adventure\" per turn.",
   "images": [
     "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/arc-en-ciel_adventure.jpg"
   ],
