@@ -3,7 +3,7 @@
   "name": "Arc-en-ciel Peacekeeper",
   "is_illegal": false,
   "is_custom": true,
-  "text": "If this card is Synchro Summoned: You can add 1 \"Dream Prism\" from your GY to your hand or equip it to this card. Once per turn (Quick Effect): You can send 1 \"Dream Prism\" you control to the GY and target 1 card on the field; send that card to the GY.",
+  "text": "If this card is Synchro Summoned: You can add 1 \"Dream Prism\" from your GY to your hand or equip it to this card, and if you do, add 1 \"Arc-en-ciel\" monster from your Deck to your hand. Once per turn (Quick Effect): You can send 1 \"Dream Prism\" you control to the GY and target 1 card on the field; send that card to the GY.",
   "images": [
     "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/arc-en-ciel_peacekeeper.jpg"
   ],
