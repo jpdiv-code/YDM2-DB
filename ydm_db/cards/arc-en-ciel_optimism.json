@@ -3,7 +3,7 @@
   "name": "Arc-en-ciel Optimism",
   "is_illegal": false,
   "is_custom": true,
-  "text": "You can Special Summon this card from your hand if you control a Light Warrior monster. If this card is Summoned: You can add 1 \"Arc-en-ciel\" card from your Deck to your hand, and if you do, you can change this card's Attribute. You can only Special Summon 1 \"Arc-en-ciel Optimism\" per turn.",
+  "text": "You can Special Summon this card from your hand if you control a Light Warrior monster. If this card is Summoned: You can add 1 \"Arc-en-ciel\" card and 1 \"Dream Prism\" from your Deck to your hand, and if you do, you can change this card's Attribute. You can only Special Summon 1 \"Arc-en-ciel Optimism\" per turn.",
   "images": [
     "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP3/arc-en-ciel_optimism.jpg"
   ],
