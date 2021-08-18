@@ -1,0 +1,467 @@
+{
+  "name": "Ancient Guardians",
+  "code": "ANGU",
+  "type": "Deck Build Pack",
+  "date": "05-06-2020",
+  "image": "https://ygoprodeck.com/pics_sets/ANGU.jpg",
+  "pull_type": "distribution",
+  "distribution": "ancient_guardians",
+  "cards": [
+    {
+      "id": 36010310,
+      "code": "ANGU-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62405028,
+      "code": "ANGU-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 09400127,
+      "code": "ANGU-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35998832,
+      "code": "ANGU-004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62383431,
+      "code": "ANGU-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98787535,
+      "code": "ANGU-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34172284,
+      "code": "ANGU-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34172284,
+      "code": "ANGU-007",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61160289,
+      "code": "ANGU-008",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61160289,
+      "code": "ANGU-008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97565997,
+      "code": "ANGU-009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97565997,
+      "code": "ANGU-009",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24050692,
+      "code": "ANGU-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60448701,
+      "code": "ANGU-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96433300,
+      "code": "ANGU-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96433300,
+      "code": "ANGU-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55226153,
+      "code": "ANGU-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92610868,
+      "code": "ANGU-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28115467,
+      "code": "ANGU-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54100561,
+      "code": "ANGU-017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54100561,
+      "code": "ANGU-017",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91598720,
+      "code": "ANGU-018",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91598720,
+      "code": "ANGU-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27993919,
+      "code": "ANGU-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54387923,
+      "code": "ANGU-020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54387923,
+      "code": "ANGU-020",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80776622,
+      "code": "ANGU-021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80776622,
+      "code": "ANGU-021",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27870337,
+      "code": "ANGU-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53265336,
+      "code": "ANGU-023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29650040,
+      "code": "ANGU-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56058749,
+      "code": "ANGU-025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92043888,
+      "code": "ANGU-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29537493,
+      "code": "ANGU-027",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55936191,
+      "code": "ANGU-028",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81321206,
+      "code": "ANGU-029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28715905,
+      "code": "ANGU-030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54700519,
+      "code": "ANGU-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81108658,
+      "code": "ANGU-032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27693363,
+      "code": "ANGU-033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27693363,
+      "code": "ANGU-033",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53087962,
+      "code": "ANGU-034",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53087962,
+      "code": "ANGU-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80086070,
+      "code": "ANGU-035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80086070,
+      "code": "ANGU-035",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16471775,
+      "code": "ANGU-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53865474,
+      "code": "ANGU-037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89264428,
+      "code": "ANGU-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35758127,
+      "code": "ANGU-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72677437,
+      "code": "ANGU-040",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 08062132,
+      "code": "ANGU-041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 08062132,
+      "code": "ANGU-041",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 08400623,
+      "code": "ANGU-042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67750322,
+      "code": "ANGU-043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67750322,
+      "code": "ANGU-043",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55501446,
+      "code": "ANGU-044,
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92746535,
+      "code": "ANGU-045,
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82385847,
+      "code": "ANGU-046,
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82385847,
+      "code": "ANGU-046,
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22638495,
+      "code": "ANGU-047,
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18239909,
+      "code": "ANGU-048,
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11398059,
+      "code": "ANGU-049,
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88722973,
+      "code": "ANGU-050,
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17189677,
+      "code": "ANGU-051,
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17189677,
+      "code": "ANGU-051,
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17189677,
+      "code": "ANGU-051,
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38120068,
+      "code": "ANGU-052,
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38120068,
+      "code": "ANGU-052,
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64973456,
+      "code": "ANGU-053,
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42502956,
+      "code": "ANGU-054,
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96598015,
+      "code": "ANGU-056,
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31222701,
+      "code": "ANGU-056,
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76751255,
+      "code": "ANGU-057,
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44584775,
+      "code": "ANGU-058,
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16067089,
+      "code": "ANGU-059,
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93217231,
+      "code": "ANGU-060,
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}
