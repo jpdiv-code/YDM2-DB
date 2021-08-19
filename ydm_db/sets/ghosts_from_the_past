@@ -1,0 +1,803 @@
+{
+  "name": "Ghosts from the Past",
+  "code": "GFTP",
+  "type": "Collector's Set",
+  "date": "16-04-2021",
+  "image": "https://ygoprodeck.com/pics_sets/GFTP.jpg",
+  "pull_type": "distribution",
+  "distribution": "ghosts_from_the_past",
+  "cards": [
+    {
+      "id": 04918855,
+      "code": "GFTP-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30303854,
+      "code": "GFTP-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67797569,
+      "code": "GFTP-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 03292267,
+      "code": "GFTP-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39680372,
+      "code": "GFTP-005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66675911,
+      "code": "GFTP-006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92079625,
+      "code": "GFTP-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39468724,
+      "code": "GFTP-008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65953423,
+      "code": "GFTP-009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91957038,
+      "code": "GFTP-010",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28346136,
+      "code": "GFTP-011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64730881,
+      "code": "GFTP-012",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91135480,
+      "code": "GFTP-013",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27520594,
+      "code": "GFTP-014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53618293,
+      "code": "GFTP-015",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30013902,
+      "code": "GFTP-016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66407907,
+      "code": "GFTP-017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93896655,
+      "code": "GFTP-018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93896655,
+      "code": "GFTP-019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65285459,
+      "code": "GFTP-020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92770064,
+      "code": "GFTP-021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28168762,
+      "code": "GFTP-022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65563871,
+      "code": "GFTP-023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91557476,
+      "code": "GFTP-024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27946124,
+      "code": "GFTP-025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54340229,
+      "code": "GFTP-026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90835938,
+      "code": "GFTP-027",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23220533,
+      "code": "GFTP-028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59228631,
+      "code": "GFTP-029",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86613346,
+      "code": "GFTP-030",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22007085,
+      "code": "GFTP-031",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58406094,
+      "code": "GFTP-032",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85590798,
+      "code": "GFTP-033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21985407,
+      "code": "GFTP-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58374502,
+      "code": "GFTP-035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53184342,
+      "code": "GFTP-036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89172051,
+      "code": "GFTP-037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26577155,
+      "code": "GFTP-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52962804,
+      "code": "GFTP-039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89450409,
+      "code": "GFTP-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25845518,
+      "code": "GFTP-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51849216,
+      "code": "GFTP-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88234821,
+      "code": "GFTP-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63180841,
+      "code": "GFTP-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99585850,
+      "code": "GFTP-045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 02407147",
+      "code": "GFTP-046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75991898,
+      "code": "GFTP-047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72142276,
+      "code": "GFTP-048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 04022819,
+      "code": "GFTP-049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77901552,
+      "code": "GFTP-050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7337596,
+      "code": "GFTP-051",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64332231,
+      "code": "GFTP-052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24361622,
+      "code": "GFTP-053",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25377819,
+      "code": "GFTP-054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51365514,
+      "code": "GFTP-055",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11975962,
+      "code": "GFTP-056",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47360060,
+      "code": "GFTP-057",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53670497,
+      "code": "GFTP-058",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 02530830,
+      "code": "GFTP-059",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56308388,
+      "code": "GFTP-060",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82496097,
+      "code": "GFTP-061",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19891131,
+      "code": "GFTP-062",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74578720,
+      "code": "GFTP-063",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55285840,
+      "code": "GFTP-064",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59208943,
+      "code": "GFTP-065",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81670445,
+      "code": "GFTP-066",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10877309,
+      "code": "GFTP-067",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18678554,
+      "code": "GFTP-068",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76587747,
+      "code": "GFTP-069",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 06740720,
+      "code": "GFTP-070",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62397231,
+      "code": "GFTP-071",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33282498,
+      "code": "GFTP-072",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59755122,
+      "code": "GFTP-073",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47606319,
+      "code": "GFTP-074",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59464593,
+      "code": "GFTP-075",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14983497,
+      "code": "GFTP-076",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85431040,
+      "code": "GFTP-077",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94079037,
+      "code": "GFTP-078",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65367484,
+      "code": "GFTP-079",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74641045,
+      "code": "GFTP-080",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12467005,
+      "code": "GFTP-081",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69230391,
+      "code": "GFTP-082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58695102,
+      "code": "GFTP-083",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83236601,
+      "code": "GFTP-084",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64280356,
+      "code": "GFTP-085",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12408276,
+      "code": "GFTP-086",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12408276,
+      "code": "GFTP-087",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63528891,
+      "code": "GFTP-088",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20618081,
+      "code": "GFTP-089",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90807199,
+      "code": "GFTP-090",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77848740,
+      "code": "GFTP-091",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89662401,
+      "code": "GFTP-092",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14017402,
+      "code": "GFTP-093",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28016194,
+      "code": "GFTP-094",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 04688231,
+      "code": "GFTP-095",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30086349,
+      "code": "GFTP-096",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11790356,
+      "code": "GFTP-097",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69840739,
+      "code": "GFTP-098",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 01621413,
+      "code": "GFTP-099",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60473572,
+      "code": "GFTP-100",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 07868571,
+      "code": "GFTP-101",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33256280,
+      "code": "GFTP-102",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69351984,
+      "code": "GFTP-103",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96150936,
+      "code": "GFTP-104",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88093706,
+      "code": "GFTP-105",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59859086,
+      "code": "GFTP-106",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96947648,
+      "code": "GFTP-107",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37694547,
+      "code": "GFTP-108",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67723438,
+      "code": "GFTP-109",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90011152,
+      "code": "GFTP-110",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36484016,
+      "code": "GFTP-111",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21143940,
+      "code": "GFTP-112",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93600443,
+      "code": "GFTP-113",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15576074,
+      "code": "GFTP-114",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23008320,
+      "code": "GFTP-115",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30600344,
+      "code": "GFTP-116",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14001430,
+      "code": "GFTP-117",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73594093,
+      "code": "GFTP-118,
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26845680,
+      "code": "GFTP-119",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26586849,
+      "code": "GFTP-120",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48716527,
+      "code": "GFTP-121",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25542642,
+      "code": "GFTP-122",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90452877,
+      "code": "GFTP-123",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33327029,
+      "code": "GFTP-124",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69711728,
+      "code": "GFTP-125",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15693423,
+      "code": "GFTP-126",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 06075533,
+      "code": "GFTP-127",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46986414,
+      "code": "GFTP-128",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38517737,
+      "code": "GFTP-129",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50954680,
+      "code": "GFTP-130",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 05043010,
+      "code": "GFTP-131,
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49202162,
+      "code": "GFTP-132,
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    }
+  ]
+}
