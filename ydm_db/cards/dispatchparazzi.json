@@ -1,0 +1,24 @@
+{
+  "id": 64966519,
+  "name": "Dispatchparazzi",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Effect Monsters \n
+When another monster you control is targeted for an attack: You can change the attack target to this card, and perform damage calculation. When this card is destroyed by battle with an opponent's monster: You can destroy that opponent's monster, and if you do, gain LP equal to half that monster's original ATK. You can only use each effect of \"Dispatchparazzi\" once per turn. ",
+  "images": [
+    "https://ygoprodeck.com/pics/64966519.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 100,
+  "species": "Fairy",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": [
+ "left", 
+ "right"
+  ]
+}
