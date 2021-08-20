@@ -1,0 +1,33 @@
+{
+  "name": "ghosts_from_the_past__pack",
+  "pulls": [
+    {
+      "weight": 192,
+      "entries": [
+        {
+          "count": 5,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ghost Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}
