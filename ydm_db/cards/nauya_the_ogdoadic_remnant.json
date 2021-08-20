@@ -1,0 +1,21 @@
+{
+  "id": 62405028,
+  "name": "Nauya, the Ogdoadic Remnant",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can send this card from your hand to the GY; send 1 LIGHT Reptile monster from your Deck to the GY. If this card is Normal or Special Summoned: You can add 1 \"Ogdoadic\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Nauya, the Ogdoadic Remnant\" once per turn. ",
+  "images": [
+    "https://ygoprodeck.com/pics/62405028.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}
