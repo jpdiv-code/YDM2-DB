@@ -9,7 +9,7 @@
   ],
   "type": "Monster",
   "attribute": "LIGHT",
-  "atk": "?",
+  "atk": 0,
   "species": "Warrior",
   "monster_type": "",
   "is_pendulum": false,
