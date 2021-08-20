@@ -4,7 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "Target 1 \"Stardust Dragon\", or 1 Synchro Monster that lists \"Stardust Dragon\" in its text, that you control, then activate 1 of these effects; \n\u25CF Equip 1 face-up monster your opponent controls to that target. \n\u25CF It can attack directly this turn. \n\u25CF This turn, each time it destroys an opponent's monster by battle, inflict damage to your opponent equal to the destroyed monster's original ATK. \nYou can only activate 1 \"Majestic Absorption\" per turn.",
-  "images": 
+  "images": [
     "https://ygoprodeck.com/pics/63144961.jpg"
   ],
   "type": "Spell",
