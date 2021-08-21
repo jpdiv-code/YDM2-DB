@@ -6,7 +6,13 @@
   "image": "https://ygoprodeck.com/pics_sets/LIOV.jpg",
   "pull_type": "distribution",
   "distribution": "booster_pack_without_rare_with_starlight_rare",
-  "cards": [
+  "cards": []
+      {
+      "id": 92919429,
+      "code": "LIOV-EN000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
     {
       "id": 32164201,
       "code": "LIOV-EN001",
