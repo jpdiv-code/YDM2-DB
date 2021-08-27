@@ -2,7 +2,7 @@
   "name": "Promo Pack",
   "code": "PP",
   "type": "Collector’s Set",
-  "date": "23-08-2021",
+  "date": "27-08-2021",
   "image": "https://cdn.discordapp.com/attachments/694218217819996173/879504420935708732/latest.jpg",
   "pull_type": "distribution",
   "distribution": "duel_overload__pack",
@@ -378,4 +378,6 @@
       "code": "PP-062",
       "rarity": "Ultra Rare",
       "image_index": 0
-    },
+    }
+  ]
+}
