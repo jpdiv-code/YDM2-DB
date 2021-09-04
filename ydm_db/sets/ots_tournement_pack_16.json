@@ -3,7 +3,7 @@
   "code": "OP16",
   "type": "OTS Tournament Pack",
   "date": "10-06-2021",
-  "image": "https://ygoprodeck.com/pics_sets/OP16.jpg"",
+  "image": "https://ygoprodeck.com/pics_sets/OP16.jpg",
   "pull_type": "distribution",
   "distribution": "ots_tournament_pack",
   "cards": [
@@ -162,8 +162,6 @@
       "code": "OP16-026",
       "rarity": "Common",
       "image_index": 0
-    },
-
-
-
-
+    }
+ ]
+}
