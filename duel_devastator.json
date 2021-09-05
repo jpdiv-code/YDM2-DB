@@ -1,0 +1,346 @@
+{
+  "name": "Duel Devastator",
+  "code": "DUDE",
+  "type": "Starter Deck",
+  "date": "10-10-2019",
+  "image": "https://media.discordapp.net/attachments/694218217819996173/884097493309214740/download.png?width=867&height=559",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 59438930,
+      "code": "DUDE-001",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 62015408,
+      "code": "DUDE-002",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 14558127,
+      "code": "DUDE-003",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 73642296,
+      "code": "DUDE-004",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 60643553,
+      "code": "DUDE-005",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 71521025,
+      "code": "DUDE-006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26593852,
+      "code": "DUDE-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50321796,
+      "code": "DUDE-008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36898537,
+      "code": "DUDE-009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73580471,
+      "code": "DUDE-010",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90036274,
+      "code": "DUDE-011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83994433,
+      "code": "DUDE-012",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80666118,
+      "code": "DUDE-013",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52687916,
+      "code": "DUDE-014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66698383,
+      "code": "DUDE-015",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21044178,
+      "code": "DUDE-016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48739166,
+      "code": "DUDE-017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82633039,
+      "code": "DUDE-018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 06983839,
+      "code": "DUDE-019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77058170,
+      "code": "DUDE-020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	77637979,
+      "code": "DUDE-021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	67598234,
+      "code": "DUDE-022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	01861629,
+      "code": "DUDE-023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	30822527,
+      "code": "DUDE-024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	05821478,
+      "code": "DUDE-025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	74997493,
+      "code": "DUDE-026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	24508238,
+      "code": "DUDE-027",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	97268402,
+      "code": "DUDE-028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	08102334,
+      "code": "DUDE-029",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	13974207,
+      "code": "DUDE-030",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	15397015,
+      "code": "DUDE-031",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	84636823,
+      "code": "DUDE-032",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	34267821,
+      "code": "DUDE-033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	34267821,
+      "code": "DUDE-033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	47084486,
+      "code": "DUDE-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	33746252,
+      "code": "DUDE-035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	82385847,
+      "code": "DUDE-036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	55063751,
+      "code": "DUDE-037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	37520316,
+      "code": "DUDE-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	38992735,
+      "code": "DUDE-039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	48130397,
+      "code": "DUDE-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	35480699,
+      "code": "DUDE-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	53778229,
+      "code": "DUDE-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	08267140,
+      "code": "DUDE-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	24224830,
+      "code": "DUDE-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	31849106,
+      "code": "DUDE-045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	14883228,
+      "code": "DUDE-046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	03211439,
+      "code": "DUDE-047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	83326048,
+      "code": "DUDE-048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	74003290,
+      "code": "DUDE-049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	23924608,
+      "code": "DUDE-050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	51452091,
+      "code": "DUDE-051",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	58921041,
+      "code": "DUDE-052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	24207889,
+      "code": "DUDE-053",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	34507039,
+      "code": "DUDE-054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id":	23002292,
+      "code": "DUDE-055",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}
