@@ -7,242 +7,250 @@
   "pull_type": "full",
   "cards": [
     {
+  "name": "Egyptian God Deck: Obelisk the Tormentor",
+  "code": "EGO1",
+  "type": "Structure Deck",
+  "date": "17-06-2021",
+  "image": "https://ygoprodeck.com/pics_sets/EGO1.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
       "id": 10000000,
-      "code": "SDPL-001",
+      "code": "EG01-001",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 5253985,
-      "code": "SDPL-002",
+      "code": "EG01-002",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 79868386,
-      "code": "SDPL-003",
+      "code": "EG01-003",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 7373632,
-      "code": "SDPL-004",
+      "code": "EG01-004",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 86133013,
-      "code": "SDPL-005",
+      "code": "EG01-005",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 82243738,
-      "code": "SDPL-006",
+      "code": "EG01-006",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 22567609,
-      "code": "SDPL-007",
+      "code": "EG01-007",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 22567609,
-      "code": "SDPL-007",
+      "code": "EG01-007",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 22567609,
-      "code": "SDPL-007",
+      "code": "EG01-007",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 40133511,
-      "code": "SDPL-008",
+      "code": "EG01-008",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 70095154,
-      "code": "SDPL-009",
+      "code": "EG01-009",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 68473226,
-      "code": "SDPL-010",
+      "code": "EG01-010",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 5220687,
-      "code": "SDPL-011",
+      "code": "EG01-011",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 8814959,
-      "code": "SDPL-012",
+      "code": "EG01-012",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 80495985,
-      "code": "SDPL-013",
+      "code": "EG01-013",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 80495985,
-      "code": "SDPL-013",
+      "code": "EG01-013",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 4058065,
-      "code": "SDPL-014",
+      "code": "EG01-014",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 74875003,
-      "code": "SDPL-015",
+      "code": "EG01-015",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 74875003,
-      "code": "SDPL-015",
+      "code": "EG01-015",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 74875003,
-      "code": "SDPL-015",
+      "code": "EG01-015",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 24218047,
-      "code": "SDPL-016",
+      "code": "EG01-016",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 54537489,
-      "code": "SDPL-017",
+      "code": "EG01-017",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 68353324,
-      "code": "SDPL-018",
+      "code": "EG01-018",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 44656450,
-      "code": "SDPL-019",
+      "code": "EG01-019",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 90361289,
-      "code": "SDPL-020",
+      "code": "EG01-020",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 46809548,
-      "code": "SDPL-021",
+      "code": "EG01-021",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 18144506,
-      "code": "SDPL-022",
+      "code": "EG01-022",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 87910978,
-      "code": "SDPL-023",
+      "code": "EG01-023",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 83764718,
-      "code": "SDPL-024",
+      "code": "EG01-024",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 11961740,
-      "code": "SDPL-025",
+      "code": "EG01-025",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 67169062,
-      "code": "SDPL-026",
+      "code": "EG01-026",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 43422537,
-      "code": "SDPL-027",
+      "code": "EG01-027",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 25789292,
-      "code": "SDPL-028",
+      "code": "EG01-028",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 27243130,
-      "code": "SDPL-029",
+      "code": "EG01-029",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 96864811,
-      "code": "SDPL-030",
+      "code": "EG01-030",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 17626381,
-      "code": "SDPL-031",
+      "code": "EG01-031",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 79844764,
-      "code": "SDPL-032",
+      "code": "EG01-032",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 97077563,
-      "code": "SDPL-033",
+      "code": "EG01-033",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 86871614,
-      "code": "SDPL-034",
+      "code": "EG01-034",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 47475363,
-      "code": "SDPL-035",
+      "code": "EG01-035",
       "rarity": "Common",
       "image_index": 0
     }
