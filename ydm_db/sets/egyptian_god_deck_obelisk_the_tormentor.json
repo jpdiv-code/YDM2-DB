@@ -7,14 +7,6 @@
   "pull_type": "full",
   "cards": [
     {
-  "name": "Egyptian God Deck: Obelisk the Tormentor",
-  "code": "EGO1",
-  "type": "Structure Deck",
-  "date": "17-06-2021",
-  "image": "https://ygoprodeck.com/pics_sets/EGO1.jpg",
-  "pull_type": "full",
-  "cards": [
-    {
       "id": 10000000,
       "code": "EG01-001",
       "rarity": "Ultra Rare",
