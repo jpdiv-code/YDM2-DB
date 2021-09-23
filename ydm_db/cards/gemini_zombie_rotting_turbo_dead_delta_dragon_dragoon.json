@@ -1,0 +1,21 @@
+{
+  "id": 2000000284,
+  "name": "Gemini Zombie Rotting Turbo-Dead Delta Dragon Dragoon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect./n- When you Special Summon a monster(s) from the GY: Draw 1 card.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/gemini_zombie_rotting_turbo_dead_delta_dragon_dragoon.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Zombie",
+  "monster_type": "Effect",
+  "is_pendulum": false,
+  "ability": "Gemini",
+  "has_effect": true,
+  "def": 3500,
+  "level": 8,
+  "is_tuner": false
+}

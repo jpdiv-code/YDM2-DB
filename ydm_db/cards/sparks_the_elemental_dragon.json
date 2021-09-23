@@ -1,0 +1,21 @@
+{
+  "id": 2000000281,
+  "name": "Sparks the Elemental Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card is also always treated as a Dragon-type monster. You can only activate this card’s effects if you’ve activated 2 or more \"Sparks\" this Duel. You can Special Summon this card from your hand. If this card is Special Summoned: You can add 1 \"Sparks\" from your Deck or GY to your hand. You can only use this effect of \"Sparks the Elemental Dragon\" once per turn. ",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/sparks_the_elemental_dragon.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 3000,
+  "species": "Pyro",
+  "monster_type": "Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 8,
+  "is_tuner": false
+}

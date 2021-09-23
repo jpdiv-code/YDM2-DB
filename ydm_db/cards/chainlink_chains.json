@@ -1,0 +1,21 @@
+{
+  "id": 2000000253,
+  "name": "Chainlink Chains",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "(Quick Effect): You can discard this card; add 1 \"Chainlink Chaining Changing\" from your Deck to your hand. If this card is sent to the GY: You can gain 1000 LP. If this effect resolves in a Chain Link of 3 or higher, you can add this card from your GY to your hand. You can only activate this effect of \"Chainlink Chains\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/chainlink_chains.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Machine",
+  "monster_type": "Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2000000294,
+  "name": "Supersonic Mega-Heated Ultra Metal Launcher",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 monster on the field; send it to the GY, and if you do, inflict damage to your opponent’s LP equal to its original ATK. ",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/supersonic_mega_heated_ultra_metal_launcher.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

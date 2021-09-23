@@ -1,0 +1,12 @@
+{
+  "id": 2000000286,
+  "name": "Gemini Slash",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 face-up monster your opponent controls; send 1 Gemini monster from your Deck to the GY, and if you do, destroy it.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/gemini_slash.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

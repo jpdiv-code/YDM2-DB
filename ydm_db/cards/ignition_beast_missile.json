@@ -1,0 +1,21 @@
+{
+  "id": 2000000301,
+  "name": "Ignition Beast Missile",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is in your hand: You can discard 1 card; Special Summon this card. If this card is sent to the GY for the Summon of an \"Ignition Beast\" monster: You can banish this card; inflict 1500 damage to your opponent, and if you do, take 2000 damage. You can only use each effect of \"Ignition Beast Missile\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/ignition_beast_missile.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Machine",
+  "monster_type": "Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

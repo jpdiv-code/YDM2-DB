@@ -1,0 +1,20 @@
+{
+  "id": 2000000272,
+  "name": "Poofers Poofected - Dish",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card cannot be Xyz Summoned. This card can attack your opponent directly. After damage calculation, if this card battled: You can add 1 \"Poofers\" card from your Deck or GY to your hand. Once per turn (Quick Effect): You can banish 1 \"Poofers\" monster from your hand, field, or GY and target 1 monster your opponent controls; return it to the hand.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/poofers_poofected_dish.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Reptile",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "rank": 4
+}

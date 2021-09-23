@@ -1,0 +1,21 @@
+{
+  "id": 2000000268,
+  "name": "Poofers the Dog",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is Summoned: You can add 1 \"Poofers\" card from your Deck to your hand. (Quick Effect): You can banish this card from your GY; shuffle 1 \"Poofers\" monster you control into the Deck, and if you do, Special Summon 1 \"Poofers\" monster with a different name from your Deck. You can only use each effect of \"Poofers the Dog\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/poofers_the_dog.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Reptile",
+  "monster_type": "Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

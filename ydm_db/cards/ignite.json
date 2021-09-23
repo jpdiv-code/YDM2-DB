@@ -1,0 +1,12 @@
+{
+  "id": 2000000280,
+  "name": "Ignite",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 \"Sparks\" in your GY; add it to your hand, and if you do, you can destroy 1 card on the field, and if you do that, for the rest of the duel your \"Sparks\" inflict 400 points of damage to your opponent instead.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/ignite.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

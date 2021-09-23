@@ -1,0 +1,12 @@
+{
+  "id": 2000000254,
+  "name": "Chainlink Chaining Changing",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Activate only as Chain Link 3 or higher. Fusion Summon 1 \"Chainlink\" monster from your Extra Deck, using monsters from your hand, your side of the field, or your Deck as Fusion Materials. You cannot activate this card if multiple cards/effects with the same name as this card are in that chain. ",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/chainlink_chaining_changing.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 2000000314,
+  "name": "Penguin Steed",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Level 3 \"Penguin\" monster/nWhile this card is on the field or in the GY: If a \"Penguin\" monster is targeted by a card effect or would leave the field because of an opponent’s card effect: You can banish this card; negate that effect, and if you do, return that card to the hand. If this card is destroyed by battle: Special Summon 1 \"Penguin\" monster from your hand or GY, except \"Penguin Steed\". You can only use each effect of \"Penguin Steed\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/penguin_steed.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 0,
+  "species": "Aqua",
+  "monster_type": "Aqua",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 1,
+  "link_arrows": [
+    "Bottom"
+  ]
+}

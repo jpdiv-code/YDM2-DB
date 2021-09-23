@@ -1,0 +1,20 @@
+{
+  "id": 2000000273,
+  "name": "Poofers Poofected - Cog",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/poofers_poofected_cog.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Reptile",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "rank": 4
+}

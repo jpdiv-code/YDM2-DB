@@ -1,0 +1,21 @@
+{
+  "id": 2000000300,
+  "name": "Ignition Beast Candle",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is Normal Summoned: You can add 1 \"Ignition Beast\" card from your Deck to your hand, then take 500 damage. If this card is used as Fusion Material for the Fusion Summon of an \"Ignition Beast\" monster: You can banish this card, and if you do, that monster gains this effect./nOnce per turn: You can banish 1 \"Ignition Beast\" monster from your GY; inflict damage to your opponent equal to halve that monster’s ATK./nYou can only use each effect of \"Ignition Beast Candle\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/ignition_beast_candle.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 500,
+  "species": "Pyro",
+  "monster_type": "Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

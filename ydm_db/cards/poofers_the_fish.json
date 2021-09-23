@@ -1,0 +1,21 @@
+{
+  "id": 2000000270,
+  "name": "Poofers the Fish",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card can attack directly. If this card inflicts battle damage: You can send 1 Reptile-type monster from your Deck to your GY and target 1 card on the field; banish it. If you sent a \"Poofers\" monster from your Deck to your GY to activate this effect, this card can make a second attack during each Battle Phase this turn. You can only control 1 \"Poofers the Fish\" during the Battle Phase. (Quick Effect): You can banish this card from your GY; return up to 3 \"Poofers Poofected\" monsters from your GY to the Extra Deck, and if you do, draw 1 card. You can only use this effect of \"Poofers the Fish\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/poofers_the_fish.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 100,
+  "species": "Reptile",
+  "monster_type": "Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

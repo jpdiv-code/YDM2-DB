@@ -1,0 +1,20 @@
+{
+  "id": 2000000275,
+  "name": "Poofers Poofected - Cogatadish",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card cannot be Xyz Summoned. You can banish 1 each of \"Poofers Poofected - Dish\", \"Poofers Poofected - Cog\", and \"Poofers Poofected - Fat\" you control or in your GY to Special Summon this card from your Extra Deck. You can only Special Summon \"Poofers Poofected - Cogatadish\" once per turn this way. This card can attack directly. Once per turn, when a card or effect is activated (Quick Effect): You can negate that effect, and if you do, destroy that card. Once per turn, during your End Phase: You can shuffle 3 \"Poofers Poofected\" monsters that are banished into the Extra Deck, and if you do, this card cannot be targeted or destroyed by your opponent’s card effects until the end of the next turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/poofers_poofected_cogatadish.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Reptile",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "rank": 12
+}

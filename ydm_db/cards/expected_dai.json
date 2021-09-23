@@ -1,0 +1,12 @@
+{
+  "id": 2000000289,
+  "name": "Expected Dai",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Special Summon 1 Gemini monster from your Deck.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/expected_dai.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

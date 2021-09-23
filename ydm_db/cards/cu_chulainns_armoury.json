@@ -1,0 +1,12 @@
+{
+  "id": 2000000292,
+  "name": "Cu Chulainn’s Armoury",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If a Normal Monster is Normal Summoned: You can banish 1 Normal Monster from your GY; add 1 Ritual Monster, 1 Ritual Spell, and 1 Gemini monster from your Deck to your hand. You can only use the effect of \"Cú Chulainn’s Armoury\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/cu_chulainns_armoury.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2000000298,
+  "name": "Giant Koala",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card's name is treated as \"Big Koala\" while face-up on the field, in the GY or banished face-up. Once per turn, during your opponent’s turn (Quick Effect): You can banish 1 \"Koala\" monster from your hand or GY; banish 1 card your opponent controls or is in their GY.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/giant_koala.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2800,
+  "species": "Beast",
+  "monster_type": "Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 7,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2000000304,
+  "name": "The Ignition Beast",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is Special Summoned: You can Special Summon 1 \"Ignition Token\" (Machine/EARTH/Level 1/ATK 0/DEF 0), also it cannot be used as Link Material. If this card is sent to the GY: You can send 1 \"Ignition Beast\" card from your Deck to the GY, except \"The Ignition Beast\", and if you do, Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"The Ignition Beast\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/the_ignition_beast.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1800,
+  "species": "Pyro",
+  "monster_type": "Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

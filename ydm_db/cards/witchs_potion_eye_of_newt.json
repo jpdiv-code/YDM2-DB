@@ -1,0 +1,12 @@
+{
+  "id": 2000000265,
+  "name": "Witch’s Potion: Eye of Newt",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can make all face-up monsters you control gain 1000 ATK; add 1 \"Baba Yaga, Witch of the Woods\" from your Deck to your hand. ",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/witchs_potion_eye_of_newt.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2000000267,
+  "name": "Witch’s Potion: Wolftooth ",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If you control \"Baba Yaga, Witch of the Woods\", you can also use 1 monster from your Deck as Fusion Material. You can only activate 1 \"Witch’s Potion: Wolftooth\" per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/witchs_potion_wolftooth.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}
