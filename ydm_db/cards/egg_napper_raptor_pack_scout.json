@@ -3,7 +3,7 @@
   "name": "Egg-Napper - Raptor Pack Scout",
   "is_illegal": false,
   "is_custom": true,
-  "text": "1 Tuner + 1 or more non-Tuner \"Raptor Pack\" monsters/nIf this card is Special Summoned from the Extra Deck: You can add 1 \"Raptor Pack\" card or 1 \"Selective Evolution\" from your Deck to your hand. You cannot Special Summon monsters the turn you activate this effect, except \"Raptor Pack\" monsters or Reptile-Type monsters. You can only use the effect of \"Egg-Napper - Raptor Pack Scout\" once per turn.",
+  "text": "1 Tuner + 1 or more non-Tuner \"Raptor Pack\" monsters\nIf this card is Special Summoned from the Extra Deck: You can add 1 \"Raptor Pack\" card or 1 \"Selective Evolution\" from your Deck to your hand. You cannot Special Summon monsters the turn you activate this effect, except \"Raptor Pack\" monsters or Reptile-Type monsters. You can only use the effect of \"Egg-Napper - Raptor Pack Scout\" once per turn.",
   "images": [
     "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/egg_napper_raptor_pack_scout.jpg"
   ],
