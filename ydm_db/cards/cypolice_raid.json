@@ -1,0 +1,12 @@
+{
+  "id": 2000000324,
+  "name": "CyPolice Raid",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "\"CyPolice\" monsters you control gain 300 ATK/DEF. When this card is activated: You can add 1 \"CyPolice\" monster from your Deck to your hand, or, if you control no monsters, Special Summon it. Once per turn, during your Main Phase: You can reveal the top card of your Deck then, if the revealed card is a \"CyPolice\" monster, Special Summon it. You can only activate 1 \"CyPolice Raid\" per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/cypolice_raid.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

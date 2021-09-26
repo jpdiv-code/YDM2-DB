@@ -1,0 +1,12 @@
+{
+  "id": 2000000325,
+  "name": "CyPolice Stand-Off",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can target 1 \"CyPolice\" monster you control and 1 monster your opponent controls; destroy them. During your 2nd Standby Phase after this card's activation, Special Summon the \"CyPolice\" monster destroyed by this card's effect. You can only use one \"CyPolice Stand-Off\" per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/cypolice_stand_off.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

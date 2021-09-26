@@ -1,0 +1,21 @@
+{
+  "id": 2000000319,
+  "name": "Red-Eyes Black Abyss Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Level 7 \"Red-Eyes Black Dragon\" + 2 DARK Dragon monsters\nThis card cannot be destroyed by your opponent's card effects. If this card destroys a monster your opponent controls, banish that monster. If this monster is destroyed by battle and sent to the GY: Inflict damage to your opponent equal to the number of banished monsters x 500",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/red_eyes_black_abyss_dragon.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2900,
+  "level": 9,
+  "is_tuner": false
+}

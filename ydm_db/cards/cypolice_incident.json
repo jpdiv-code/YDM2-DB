@@ -1,0 +1,12 @@
+{
+  "id": 2000000327,
+  "name": "CyPolice Incident",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When your opponent activates a card or effect that targets a \"CyPolice\" monster you control: Negate that activation. Then, apply one of the following effects, based on the card negated:\n\u25cf Monster: Negate its effects until the end of the turn\n\u25cfSpell: Banish it\n\u25cfTrap: Shuffle the targeted card back into the Deck",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/cypolice_incident.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}
