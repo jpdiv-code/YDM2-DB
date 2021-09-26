@@ -1,0 +1,23 @@
+{
+  "id": 2000000334,
+  "name": "CyPolice MechForcer - Yuu Mk. II",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 Cyberse monsters, including \"CyPolice Heavy Officer - Yuu\"\nIf this card is Link Summoned: You can target 1 monster your opponent controls; this card gains ATK equal to half the targeted monster's original ATK until the end of the turn. When this card destroys an opponent's monster by battle: this card can make a second attack this turn. You can only use each effect of \"CyPolice Mechforcer - Yuu Mk. II\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/cypolice_mechforcer_yuu_mk.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2200,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": [
+    "Left"
+    "Right"
+  ]
+}
