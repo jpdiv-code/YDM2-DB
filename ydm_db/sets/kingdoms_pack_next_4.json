@@ -1,10 +1,10 @@
 {
-  "name": "Kingdoms Pack 4",
+ "name": "Kingdoms Pack 4",
   "code": "KPN4",
   "type": "Deck Build Pack",
   "date": "30-09-2021",
   "image": "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/PackImages/kingdoms4.png"",
- "pull_type": "distribution",
+  "pull_type": "distribution",
   "distribution": "deck_build_pack",
   "cards": [
     {
