@@ -17,8 +17,8 @@
   "has_effect": true,
   "link_rating": 3,
   "link_arrows": [
-    "Top"
-    "Bottom-Left"
+    "Top",
+    "Bottom-Left",
     "Bottom-Right"
   ]
 }
