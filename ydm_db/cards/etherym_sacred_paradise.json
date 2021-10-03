@@ -1,0 +1,12 @@
+{
+  "id": 2000000352,
+  "name": "Etherym Sacred Paradise",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is activated: You can add 1 \"Etherym\" monster from your Deck to your hand. You can only use each of the following effects of \"Etherym Sacred Paradise\" once per turn. You can send 1 card from your hand to the GY; Special Summon 1 of your banished \"Etherym\" monsters. (Quick Effect) You can banish 2 monsters from your GY; this card is unaffected by your opponent's card effects until the end of this turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/etherym_sacred_paradise.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

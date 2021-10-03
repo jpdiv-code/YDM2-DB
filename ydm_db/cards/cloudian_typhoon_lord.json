@@ -1,0 +1,20 @@
+{
+  "id": 2000000366,
+  "name": "Cloudian Typhoon Lord",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 level 4 WATER monsters\nThis card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. If this card is Special Summoned: Place 2 Fog Counters on it for each \"Cloudian\" monster on the field. Once per turn: You can detach1 Xyz material from this card; add 1 \"Cloudian\" card from your Deck to your hand. Once per turn: You can remove 2 Fog Counters from the field; Destroy 1 card on the field. ",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/cloudian_typhoon_lord.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1500,
+  "species": "Fairy",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "rank": 4
+}

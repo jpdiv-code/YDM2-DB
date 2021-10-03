@@ -1,0 +1,22 @@
+{
+  "id": 2000000367,
+  "name": "Emperor of the Skull Servants",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 \"King of the Skull Servants\"\nThis card can only be Link Summoned using a \"King of the Skull Servants\" that has 6000 or more ATK as Link Material. The original ATK of this card is the combined number of \"King of the Skull Servants\" and \"Skull Servant\" monsters in your GY x3000. This card can make up to 3 attacks each turn. This card cannot be tributed. You can only Summon \"Emperor of the Skull Servants\" once per turn. ",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/emperor_of_the_skull_servants.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Zombie",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 1,
+  "link_arrows": [
+    "Bottom"
+  ]
+}

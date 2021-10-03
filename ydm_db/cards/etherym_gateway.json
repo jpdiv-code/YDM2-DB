@@ -1,0 +1,12 @@
+{
+  "id": 2000000354,
+  "name": "Etherym Gateway",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can banish 1 \"Etherym\" monster you control; Special Summon 1 \"Etherym\" monster from your hand or GY. If this card leaves the field, you can target 1 card your opponent controls; banish it. You can only use each effect of \"Etherym Gateway\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/etherym_gateway.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

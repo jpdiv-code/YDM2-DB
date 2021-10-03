@@ -1,0 +1,21 @@
+{
+  "id": 2000000348,
+  "name": "Etherym Power Canceller",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can banish 1 \"Etherym\" monster from your GY, then target 1 Spell/Trap card on the field; destroy that target. An \"Etherym\" Xyz monster Summoned using this card as Xyz material gains this effect.\n\u25cf(Quick Effect) You can Detach 2 Xyz materials from this card; banish 1 Spell/Trap card your opponent controls.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/etherym_power_canceller.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1800,
+  "species": "Sea Serpent",
+  "monster_type": "Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

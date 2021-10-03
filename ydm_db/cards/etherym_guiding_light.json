@@ -1,0 +1,21 @@
+{
+  "id": 2000000347,
+  "name": "Etherym Guiding Light",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is in your hand, you can banish this card; add 1 \"Etherym\" Spell/Trap card or 1 \"Rift Eternal\" from your Deck to your hand. If this card is Summoned you can add 1 \"Etherym\" monster from your Deck to your hand, except \"Etherym Guiding Light\". You can only use each effect of \"Etherym Guiding Light\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/etherym_guiding_light.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 800,
+  "species": "Sea Serpent",
+  "monster_type": "Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 3,
+  "is_tuner": false
+}

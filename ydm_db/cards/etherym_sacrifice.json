@@ -1,0 +1,12 @@
+{
+  "id": 2000000355,
+  "name": "Etherym Sacrifice",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Tribute 1 face-up Sea Serpent monster and target 2 cards your opponent controls; banish those targets. You can only activate 1 \"Etherym Sacrfice\" per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/etherym_sacrifice.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}
