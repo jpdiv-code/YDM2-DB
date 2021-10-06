@@ -1,0 +1,21 @@
+{
+  "id": 2000000250,
+  "name": "Serrating-Claws - Raptor Pack Alpha",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Tuner + 1 or more non-Tuner \"Raptor Pack\" monsters\nIf this card is Special Summoned: You can target 1 monster on the field; negate its effects. (Quick Effect): You can destroy this card and 1 card on the field with its effects negated. If this card is destroyed by battle or card effect: draw 1 card. You can only activate each effect of \"Serrating-Claws - Raptor Pack Alpha\" once per turn. ",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/serrating_claws_raptor_pack_alpha.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2100,
+  "species": "Dinosaur",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 6,
+  "is_tuner": false
+}

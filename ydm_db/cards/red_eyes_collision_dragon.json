@@ -1,0 +1,24 @@
+{
+  "id": 2000000318,
+  "name": "Red-Eyes Collision Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2+ DARK Dragon monsters\nWhen this card is Link Summoned: Inflict damage to your opponent equal to half of the original ATK of \"Red-Eyes\" monsters this card points to. While this card points to a monster, it cannot be destroyed by battle. If this card is sent from the field to the GY by an opponent's card (by battle or card effect): Add 1 \"Red-Eyes\" monster from your Deck or GY to your hand. You can only use each effect of \"Red-Eyes Collision Dragon\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/red_eyes_collision_dragon.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Dragon",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": [
+    "Top-Left"
+    "Top-Right"
+    "Bottom"
+  ]
+}

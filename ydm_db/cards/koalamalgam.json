@@ -1,0 +1,21 @@
+{
+  "id": 2000000310,
+  "name": "Koalamalgam",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 Level 5 or Higher \"Koala\" monsters\nIf this card is Special Summoned: You can Normal Summon/Set 1 \"Koala\" monster in addition to your Normal Summon/Set this turn. (You can only gain this effect once per turn.) Once per turn (Quick Effect): You can banish 1 \"Koala\" monster from your hand or GY; negate the effects of a face-up monster on the field, until the end of your opponent’s next turn. If this card is sent to the GY, except for the Summon of a monster: You can banish 1 \"Big Koala\" from your field or GY; Special Summon this card from your GY. You can only use this effect of \"Koalamalgam\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/koalamalgam.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2800,
+  "species": "Beast",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1375,
+  "level": 12,
+  "is_tuner": false
+}

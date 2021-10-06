@@ -1,0 +1,21 @@
+{
+  "id": 2000000341,
+  "name": "Belle Belle",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card’s Normal Summon cannot be negated. This card cannot be Special Summoned. This card is unaffected by other card effects. This card cannot be destroyed by battle. During the End Phase: this card gains 1000 ATK/DEF. Any damage you take is halved",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/belle_belle.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Divine-Beast",
+  "monster_type": "Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 12,
+  "is_tuner": false
+}

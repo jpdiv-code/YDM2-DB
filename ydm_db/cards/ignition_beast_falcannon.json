@@ -1,0 +1,21 @@
+{
+  "id": 2000000309,
+  "name": "Ignition Beast Falcannon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Machine monster + 1 Pyro monster\nIf this card is Summoned: You can discard 1 card; inflict 500 damage to your opponent. While this card is on the field your cards cannot be banished by your opponent’s cards or effect. If this card would be destroyed, you can take 800 damage instead. You can send this card you control to the GY; Special Summon 1 Pyro-type and 1 Machine-type monster from your GY, but their effects are negated and they cannot be used as Link Material. While this card is in your GY: You can banish this card; add 1 FIRE Machine-type monster from your Deck to your hand, but you cannot Summon monsters with that card’s name for the rest of the turn. You can only use each effect of \"Ignition Beast Falcannon\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/ignition_beast_falcannon.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2300,
+  "species": "Pyro",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1450,
+  "level": 7,
+  "is_tuner": false
+}

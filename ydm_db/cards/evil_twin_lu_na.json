@@ -1,0 +1,23 @@
+{
+  "id": 2000000337,
+  "name": "Evil\u2605Twin Lu-na",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 monsters, including a \"Lu-na\" monster\nIf this card is Special Summoned and you control a \"Sun-ny\" monster: Your opponent discards 1 random card. During the Main Phase, if you do not control a \"Sun-ny\" monster (Quick Effect): You can Special Summon 1 \"Sun-ny\" monster from your GY, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Fiend monsters. You can only use each effect of \"Evil\u2605Twin Lu-na\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/evil_twin_lu_na.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1100,
+  "species": "Fiend",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": [
+    "Left"
+    "Bottom-Right"
+  ]
+}

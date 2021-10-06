@@ -1,0 +1,24 @@
+{
+  "id": 2000000333,
+  "name": "CyPolice MechAngel - Justicia, the Patron Saint",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2+ Cyberse monsters, including a \"CyPolice\" Link monster/nIf this card is Link Summoned: Place CyPolice counters on this card, equal to the number of \"CyPolice\" Monsters on the field and in the GYs. Once per turn, during the Main Phase (Quick Effect): You can remove 2 CyPolice counters from this card; Special Summon 1 \"CyPolice Token\" (Cyberse/LIGHT/Level 1/ATK 0/DEF 0) in Defense Position. This token cannot be used for Fusion, Synchro, Xyz, or Link Summon, and can only be Tributed by effect of a \"CyPolice\" Monster.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/cypolice_mechangel_justicia_the_patron_saint.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2300,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": [
+    "Top",
+    "Bottom-Left",
+    "Bottom-Right"
+  ]
+}

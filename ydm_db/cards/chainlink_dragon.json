@@ -1,0 +1,21 @@
+{
+  "id": 2000000252,
+  "name": "Chainlink Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you resolve a Chain Link of 2 or higher: you can Special Summon this card from your hand. You cannot activate this effect if multiple cards/effects with the same name as this card are in that chain. You can only activate the following 2 effects of \"Chainlink Dragon\" once per turn. If this card is Special Summoned: You can add 1 \"Chainlink\" card from your Deck to your hand. If you resolve the effect of a card with the same name as a card added by this card’s effect as Chain Link 3 or higher, while this card is face-up on the field: You can add 1 \"Chainlink\" card from your Deck to your hand.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/chainlink_dragon.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2100,
+  "species": "Machine",
+  "monster_type": "Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1900,
+  "level": 6,
+  "is_tuner": false
+}

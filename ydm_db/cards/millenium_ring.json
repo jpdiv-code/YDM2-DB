@@ -1,0 +1,12 @@
+{
+  "id": 2000000340,
+  "name": "Millennium Ring",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Activate only when your opponent would destroy 1 or more face-down card(s) you control. Negate that effect and destroy this card instead. If this face-down card is destroyed, draw 1 card for every 2 monsters your opponent controls. You can banish this card in your GY, target 1 monster you control; that card cannot be destroyed by battle this turn (this is a quick effect). Only 1 \"Millenium Ring\" effect can be activated per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/millenium_ring.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

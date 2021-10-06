@@ -1,0 +1,21 @@
+{
+  "id": 2000000264,
+  "name": "House",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "\"Witch’s Cauldron\" + \"Baba Yaga, Witch of the Woods\"\nIf this card is Special Summoned: You can target 1 \"Witch’s Cauldron\" and/or 1 \"Baba Yaga, Witch of the Woods\" in your GY; add them to your hand. Once per turn (Quick Effect): You can activate 1 \"Witch’s Potion\" card from your Deck. If this card leaves the field because of an opponent’s card effect: You can Special Summon 1 \"Baba Yaga, Witch of the Woods\" from your hand, Deck, or GY. You can only use this effect of \"House\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/house.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Winged Beast",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 3000,
+  "level": 7,
+  "is_tuner": false
+}

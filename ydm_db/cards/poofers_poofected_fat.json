@@ -1,0 +1,21 @@
+{
+  "id": 2000000274,
+  "name": "Poofers Poofected - Fat",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card cannot be Xyz Summoned. If this card is Special Summoned: You can Special Summon 1 Reptile-Type monster from your hand or GY. When a Trap card or effect is activated (Quick Effect): You can banish 1 \"Poofers'' monster from your hand, field, or GY; negate that effect, and if you do, destroy that card. You can only activate each effect of \"Poofers Poofected - Fat\" once per turn.
+",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/poofers_poofected_fat.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Reptile",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "rank": 4
+}

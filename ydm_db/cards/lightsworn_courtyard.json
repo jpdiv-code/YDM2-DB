@@ -1,0 +1,12 @@
+{
+  "id": 2000000307,
+  "name": "Lightsworn Courtyard",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Once per turn: You can target up to 2 \"Lightsworn\" cards in your GY or that are banished; shuffle them into the Deck, then send the top 2 cards of your Deck to the GY. If this card is sent from the Deck to the GY: Draw 1 card, reveal it, and if it is not a \"Lightsworn\" card send it to the GY. You can only activate 1 \"Lightsworn Courtyard\" per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/lightsworn_courtyard.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2000000328,
+  "name": "Evil\u2605Twin's Chaos Collab",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by banishing 1 LIGHT \"Evil\u2605Twin\" Link Monster and 1 DARK \"Evil\u2605Twin\" Link Monster from your GY. If this card is Special Summoned: You can activate this effect. You can banish 4 \"Live\u2606Twin\" monsters with different names from your GY, and if you do, this card gains 2200 ATK/DEF and is unaffected by your opponent's card effects. You can banish an \"Evil\u2605Twin\" Link Monster from your GY, and if you do, target 1 card your opponent controls: banish it. You can only activate each effect of \"Evil\u2605Twin's Chaos Collab\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/evil_twins_chaos_collab.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2200,
+  "species": "Fiend",
+  "monster_type": "Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2200,
+  "level": 8,
+  "is_tuner": false
+}

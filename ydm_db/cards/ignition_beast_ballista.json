@@ -1,0 +1,21 @@
+{
+  "id": 2000000299,
+  "name": "Ignition Beast Ballista",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is Special Summoned: You can equip this card to an opponent’s monster, and if you do, your opponent takes damage equal to that monster's current ATK, then its ATK becomes 0. You can Special Summon this card from your Spell/Trap Zone. If this card is sent from the hand or field to the GY for the Fusion Summon of an \"Ignition Beast\" monster: You can banish this card; add 1 \"Ignition Beast\" card from your GY to your hand. You can only use each effect of \"Ignition Beast Ballista\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/ignition_beast_ballista.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1700,
+  "species": "Machine",
+  "monster_type": "Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
+}

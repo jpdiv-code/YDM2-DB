@@ -1,0 +1,12 @@
+{
+  "id": 2000000246,
+  "name": "Selective Evolution",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Reveal 1 Dinosaur-type \"Raptor Pack\" monster and 1 Reptile-type \"Raptor Pack\" monster from your Deck; choose to either add 1 of them to your hand and shuffle the other back or send both to the GY. You can only activate 1 \"Selective Evolution\" per turn. ",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/selective_evolution.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

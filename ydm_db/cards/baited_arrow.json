@@ -1,0 +1,12 @@
+{
+  "id": 2000000244,
+  "name": "Baited Arrow",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 monster your opponent controls; Special Summon 1 \"Raptor Pack\" monster from your Deck or Extra Deck that has more ATK than that monster, and if you do, destroy that targeted monster. You cannot Special Summon monsters the turn you activate this card, except \"Raptor Pack\" monsters or Reptile-Type monsters. You can only use \"Baited Arrow\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/baited_arrow.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 2000000276,
+  "name": "Plunder Patrollship Gustr",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 monsters including a \"Plunder Patroll\" monster\nYou can discard 1 \"Plunder Patroll\" card, then target 1 face-up card on the field; return it to the hand, then, shuffle 1 \"Plunder Patroll\" card from your GY or that is banished into the Deck, and if you do, draw 1 card. This is a Quick Effect if this card is equipped with a \"Plunder Patroll\" card. If you would discard for the effect of a \"Plunder Patroll\" card you can banish this card from your GY instead. You can only use one effect of \"Plunder Patrollship Gustr\" per turn. ",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/plunder_patrollship_gustr.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1200,
+  "species": "Fiend",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": [
+    "Up"
+    "Down"
+  ]
+}
