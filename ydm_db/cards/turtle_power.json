@@ -1,0 +1,12 @@
+{
+  "id": 2000000308,
+  "name": "Turtle Power!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can add 1 \"Turtle\" monster from your Deck to your hand, and if you do, banish 1 \"Turtle\" card from your GY. If this card's activation is negated or if this card is banished: You can target 1 \"Turtle\" monster in your GY; Special Summon it, then banish 1 \"Turtle\" card from your GY except \"Turtle Power!\". You can only use each effect of \"Turtle Power!\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/turtle_power.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}
