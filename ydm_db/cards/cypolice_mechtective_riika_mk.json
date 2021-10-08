@@ -3,7 +3,7 @@
   "name": "CyPolice Mechtective - Riika Mk. II",
   "is_illegal": false,
   "is_custom": true,
-  "text": "2+ Cyberse monsters, including a \"CyPolice\" Link monster/nIf this card is Link Summoned, you can search your deck for 1 \"CyPolice\" card and place it on top of your Deck. During your Main Phase: You can excavate the top 3 cards of your Deck, and if you do, you can send cards your opponent controls to the GY, up to the number of \"CyPolice\" monsters excavated, also shuffle the excavated cards back into your deck. You can only use this effect of \"CyPolice Mechtective - Riika Mk. II\" once per turn.",
+  "text": "2+ Cyberse monsters, including a \"CyPolice\" Link monster/nIf this card is Link Summoned, you can search your Deck for 1 \"CyPolice\" card and place it on top of your Deck. During your Main Phase: You can excavate the top 3 cards of your Deck, and if you do, you can send cards your opponent controls to the GY, up to the number of \"CyPolice\" monsters excavated, also shuffle the excavated cards back into your Deck. You can only use this effect of \"CyPolice Mechtective - Riika Mk. II\" once per turn.",
   "images": [
     "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/cypolice_mechtective_riika_mk.jpg"
   ],
@@ -17,7 +17,7 @@
   "has_effect": true,
   "link_rating": 2,
   "link_arrows": [
-    "Left"
+    "Left",
     "Down"
   ]
 }
