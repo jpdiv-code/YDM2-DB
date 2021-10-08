@@ -3,7 +3,7 @@
   "name": "CyPolice Commander - Regius the Cybernetic Overseer",
   "is_illegal": false,
   "is_custom": true,
-  "text": "2+ Cyberse Monsters, including at least 1 \"CyPolice\" Monster\"\nThis card's Summon and effects cannot be negated. If this card is Link Summoned: this card gains ATK equal to the total Link Ratings of \"CyPolice\" Link Monsters used as material x 300. You can target 1 \"CyPolice\" Link Monster in your GY: Shuffle it into your Extra Deck, and if you do, Special Summon 1 \"CyPolice\" Link Monster from your GY whose Link Rating is equal to the shuffled Monster's - 1. You can only use the second effect of \"CyPolice Commander - Regius the Cybernetic Overseer\" once per turn.",
+  "text": "2+ Cyberse Monsters, including at least 1 \"CyPolice\" Monster\nThis card's Summon and effects cannot be negated. If this card is Link Summoned: this card gains ATK equal to the total Link Ratings of \"CyPolice\" Link Monsters used as material x 300. You can target 1 \"CyPolice\" Link Monster in your GY: Shuffle it into your Extra Deck, and if you do, Special Summon 1 \"CyPolice\" Link Monster from your GY whose Link Rating is equal to the shuffled Monster's - 1. You can only use the second effect of \"CyPolice Commander - Regius the Cybernetic Overseer\" once per turn.",
   "images": [
     "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/cypolice_commander_regius_the_cybernetic_overseer.jpg"
   ],
@@ -21,6 +21,6 @@
     "Right",
     "Bottom-Left",
     "Bottom-Right",
-    "Down"
+    "Bottom"
   ]
 }
