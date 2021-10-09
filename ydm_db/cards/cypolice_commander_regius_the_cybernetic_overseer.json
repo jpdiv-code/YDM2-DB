@@ -11,7 +11,7 @@
   "attribute": "LIGHT",
   "atk": 3000,
   "species": "Cyberse",
-  "monster_type": "",
+  "monster_type": "Link",
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,
