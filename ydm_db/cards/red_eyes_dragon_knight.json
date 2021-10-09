@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "While this card is on the field, it is also treated as a Dragon type. Once per turn: You can equip 1 Dragon monster you control to this card, except \"Red-Eyes Dragon Knight\" (max. 1). If this card would be destroyed, send the equipped monster to the GY instead. If this card is sent to the GY: You can add 1 Warrior type monster from your Deck to your hand. You can only use this effect of \"Red-Eyes Dragon Knight\" once per turn.",
   "images": [
-    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/red_eyes_dragon_knight.jpg"
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/red-eyes_dragon_knight.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
