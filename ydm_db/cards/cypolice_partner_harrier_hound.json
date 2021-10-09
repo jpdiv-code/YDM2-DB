@@ -1,0 +1,22 @@
+{
+  "id": 2000000368,
+  "name": "CyPolice Partner - Harrier Hound",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "
+If you control a "CyPolice" monster, you can Special Summon this card (from your hand). If this card is used as material for the Link Summon of a "CyPolice" Link Monster: You can pay 500 LP, and if you do, shuffle this card back into your Deck. You can only activate the second effect of \"CyPolice Partner - Harrier Hound\" once per turn.",
+  "images": [
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/cypolice_partner_harrier_hound.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1200,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}
