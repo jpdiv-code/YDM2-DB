@@ -1,11 +1,11 @@
 {
   "id": 2000000349,
-  "name": "Latas, Etherym Force",
+  "name": "Iatas, Etherym Force",
   "is_illegal": false,
   "is_custom": true,
   "text": "If this card is in your hand: You can banish 2 \"Etherym\" monster from your field and/or GY, then Special Summon this card. \"Etherym\" monsters you control gain 200 ATK and DEF for each of your banished monsters.",
   "images": [
-    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/latas_etherym_force.jpg"
+    "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/iatas_etherym_force.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
