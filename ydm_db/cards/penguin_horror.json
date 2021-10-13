@@ -10,7 +10,7 @@
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1350,
-  "species": "",
+  "species": "Aqua",
   "monster_type": "Synchro",
   "is_pendulum": false,
   "ability": "",
