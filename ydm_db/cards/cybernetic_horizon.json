@@ -1,0 +1,12 @@
+{
+  "id": 100341053,
+  "name": "Cybernetic Horizon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as a \"Cyberdark\" card.)\nSend 2 Dragon and/or Machine \"Cyber\" monsters with different Attributes to the GY (1 from your hand and 1 from your Deck); add 1 Dragon or Machine \"Cyber\" monster from your Deck to your hand, and if you do, send 1 Machine \"Cyber\" Fusion Monster from your Extra Deck to the GY. You cannot Special Summon monsters from the Extra Deck the turn you activate this card, except Machine monsters. You can only activate 1 \"Cybernetic Horizon\" per turn.",
+  "images": [
+    "https://ygoprodeck.com/pics/100341053.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
