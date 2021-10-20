@@ -10,7 +10,7 @@
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2000,
-  "species": "THUNDER",
+  "species": "Thunder",
   "monster_type": "Xyz",
   "is_pendulum": false,
   "ability": "",
