@@ -3,7 +3,7 @@
   "name": "Malefic Dimensional Gears",
   "is_illegal": false,
   "is_custom": true,
-  "text": "1 Level 1 \"Malefic\" monster \n If this card is Link Summoned: You can target 1\"Malefic\" monster that is banished or in your GY; shuffle that target into the Deck, and if you do, you can dd 1 \"Malefic\" card from your Deck to your hand. You can only activate this effect of \"Malefic Dimensional Gears\" once per turn. If there is no face-up \"Malefic\" Fiend Spell: Destroy this card.",
+  "text": "1 Level 1 \"Malefic\" monster \n If this card is Link Summoned: You can target 1\"Malefic\" monster that is banished or in your GY; shuffle that target into the Deck, and if you do, you can add 1 \"Malefic\" card from your Deck to your hand. You can only activate this effect of \"Malefic Dimensional Gears\" once per turn. If there is no face-up \"Malefic\" Fiend Spell: Destroy this card.",
   "images": [
     "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/Malefic_Dimensional_Gears.jpg"
   ],
