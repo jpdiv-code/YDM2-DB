@@ -2,7 +2,7 @@
   "id": 2000000080,
   "name": "Thunderstrike - Teru, Stormbringer",
   "is_illegal": false,
-  "is_custom": false,
+  "is_custom": true,
   "text": "1 Thunder type Tuner monster + 1 or more Thunder type non-Tuner monster(s) \n During your opponent's turn (Quick Effect): You can Special Summon 1 \"Thunderstrike\" monster from your hand, and if you do, \"Thunderstrike\" monsters you control this turn do not need to return themselves to the hand because of their effects. You can only activate the effect of \"Thunderstrike - Teru, Stormbringer\" once per turn.",
   "images": [
     "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/thunderstrike_teru_stormbringer.png"
