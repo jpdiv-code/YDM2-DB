@@ -293,6 +293,12 @@
       "code": "SDCS-048",
       "rarity": "Common",
       "image_index": 0
+    },
+    {
+      "id": 63031396,
+      "code": "SDCS-048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
     }
   ]
 }
