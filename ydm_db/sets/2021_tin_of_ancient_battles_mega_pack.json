@@ -74,7 +74,7 @@
       "image_index": 0
     },
     {
-      "id": 01799464,
+      "id": 1799464,
       "code": "MP21-012",
       "rarity": "Common",
       "image_index": 0
@@ -182,7 +182,7 @@
       "image_index": 0
     },
     {
-      "id": 02971446,
+      "id": 2971446,
       "code": "MP21-030",
       "rarity": "Rare",
       "image_index": 0
@@ -200,7 +200,7 @@
       "image_index": 0
     },
     {
-      "id": 01759808,
+      "id": 1759808,
       "code": "MP21-033",
       "rarity": "Super Rare",
       "image_index": 0
@@ -224,7 +224,7 @@
       "image_index": 0
     },
     {
-      "id": 04148264,
+      "id": 4148264,
       "code": "MP21-037",
       "rarity": "Super Rare",
       "image_index": 0
@@ -278,7 +278,7 @@
       "image_index": 0
     },
     {
-      "id": 07540107,
+      "id": 7540107,
       "code": "MP21-046",
       "rarity": "Common",
       "image_index": 0
@@ -296,7 +296,7 @@
       "image_index": 0
     },
     {
-      "id": 08495780,
+      "id": 8495780,
       "code": "MP21-049",
       "rarity": "Common",
       "image_index": 0
@@ -314,7 +314,7 @@
       "image_index": 0
     },
     {
-      "id": 08372133,
+      "id": 8372133,
       "code": "MP21-052",
       "rarity": "Common",
       "image_index": 0
@@ -332,7 +332,7 @@
       "image_index": 0
     },
     {
-      "id": 07150545,
+      "id": 7150545,
       "code": "MP21-055",
       "rarity": "Common",
       "image_index": 0
@@ -464,7 +464,7 @@
       "image_index": 0
     },
     {
-      "id": 08559524,
+      "id": 8559524,
       "code": "MP21-077",
       "rarity": "Common",
       "image_index": 0
@@ -506,7 +506,7 @@
       "image_index": 0
     },
     {
-      "id": 05376159,
+      "id": 5376159,
       "code": "MP21-084",
       "rarity": "Common",
       "image_index": 0
@@ -548,7 +548,7 @@
       "image_index": 0
     },
     {
-      "id": 00220414,
+      "id": 220414,
       "code": "MP21-091",
       "rarity": "Super Rare",
       "image_index": 0
@@ -596,7 +596,7 @@
       "image_index": 0
     },
     {
-      "id": 07913375,
+      "id": 7913375,
       "code": "MP21-099",
       "rarity": "Super Rare",
       "image_index": 0
@@ -770,7 +770,7 @@
       "image_index": 0
     },
     {
-      "id": 03040496,
+      "id": 3040496,
       "code": "MP21-128",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -812,7 +812,7 @@
       "image_index": 0
     },
     {
-      "id": 01984618,
+      "id": 1984618,
       "code": "MP21-135",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -1070,7 +1070,7 @@
       "image_index": 0
     },
     {
-      "id": 00410904,
+      "id": 410904,
       "code": "MP21-178",
       "rarity": "Common",
       "image_index": 0
@@ -1082,7 +1082,7 @@
       "image_index": 0
     },
     {
-      "id": 09798352,
+      "id": 9798352,
       "code": "MP21-180",
       "rarity": "Common",
       "image_index": 0
@@ -1100,7 +1100,7 @@
       "image_index": 0
     },
     {
-      "id": 08576764,
+      "id": 8576764,
       "code": "MP21-183",
       "rarity": "Common",
       "image_index": 0
@@ -1114,12 +1114,6 @@
     {
       "id": 34848821,
       "code": "MP21-185",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 34848821,
-      "code": "MP21-186",
       "rarity": "Rare",
       "image_index": 0
     },
@@ -1316,7 +1310,7 @@
       "image_index": 0
     },
     {
-      "id": 00545781,
+      "id": 545781,
       "code": "MP21-218",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -1346,7 +1340,7 @@
       "image_index": 0
     },
     {
-      "id": 08736823,
+      "id": 8736823,
       "code": "MP21-223",
       "rarity": "Prismatic Secret Rare",
       "image_index": 0
@@ -1400,7 +1394,7 @@
       "image_index": 0
     },
     {
-      "id": 09464441,
+      "id": 9464441,
       "code": "MP21-232",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -1418,7 +1412,7 @@
       "image_index": 0
     },
     {
-      "id": 09341993,
+      "id": 9341993,
       "code": "MP21-235",
       "rarity": "Super Rare",
       "image_index": 0
@@ -1520,7 +1514,7 @@
       "image_index": 0
     },
     {
-      "id": 06007213,
+      "id": 6007213,
       "code": "MP21-252",
       "rarity": "Prismatic Secret Rare",
       "image_index": 0
