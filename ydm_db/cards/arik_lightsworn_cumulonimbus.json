@@ -3,7 +3,7 @@
   "name": "Arik, Lightsworn Cumulonimbus",
   "is_illegal": false,
   "is_custom": true,
-  "text": "This card is also always a WATER-Attribute. If this card is Normal Summoned: You can send the top 4 cards of your Deck to the GY; this card is treated as a Tuner monster for the rest of the turn. If this card is used for the Synchro Summon of a LIGHT or WATER monster, that monster gains this effect:/nOnce per turn, during the End Phase: You can send the top 2 cards of your Deck to the GY and if you send a Spell card, Special Summon 1 \"Lightsworn monster from your Deck, but its ATK/DEF become 0 and its effects are negated.\nYou can only use each effect of \"Arik, Lightsworn Cumulonimbus\" once per turn.",
+  "text": "This card is also always a WATER-Attribute. If this card is Normal Summoned: You can send the top 4 cards of your Deck to the GY; this card is treated as a Tuner monster for the rest of the turn. If this card is used for the Synchro Summon of a LIGHT or WATER monster, that monster gains this effect:\nOnce per turn, during the End Phase: You can send the top 2 cards of your Deck to the GY and if you send a Spell card, Special Summon 1 \"Lightsworn monster from your Deck, but its ATK/DEF become 0 and its effects are negated.\nYou can only use each effect of \"Arik, Lightsworn Cumulonimbus\" once per turn.",
   "images": [
     "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/arik_lightsworn_cumulonimbus.jpg"
   ],
