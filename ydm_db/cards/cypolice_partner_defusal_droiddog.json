@@ -3,7 +3,7 @@
   "name": "CyPolice Partner - Defusal Droiddog",
   "is_illegal": false,
   "is_custom": true,
-  "text": "If this card is Normal or Special Summoned, you can excavate the top 3 cards of your Deck, and if you do, you can add 1 excavated \"CyPolice\" monster to your hand, also shuffle the rest into your Deck. If you control no other monsters, Special Summon it instead. If this card is used as material for the Link Summon of \"CyPolice MechTective - Riika Mk. II\": You can excavate the top 3 cards of your Deck, and if you do, you can add 1 excavated \"CyPolice\" Spell or Trap to your hand, also shuffle the rest into your Deck. You can only use each effect of \"CyPolice Partner - Defusal Droiddog\" once per turn.",
+  "text": "If you control a \"CyPolice\" monster, you can Special Summon this card (from your hand). When your opponent activates a monster effect that would destroy a \"Cypolice\" monster (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy that monster.",
   "images": [
     "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/cypolice_partner_defusal_droiddog.jpg"
   ],
