@@ -1,0 +1,21 @@
+{
+  "id": 2139640,
+  "name": "Amabie",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "At the start of your Main Phase 1: You can reveal this card in your hand; each player gains 300 LP.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2139640.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 0,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
+}
