@@ -3,7 +3,7 @@
   "name": "Chainlink Phoenix",
   "is_illegal": false,
   "is_custom": true,
-  "text": "3 Chainlink monsters\nIf you activate a \"Chainlink\" card or effect: you can make this card gain 100 ATK. If a Chain Link of 2 or higher resolves: You can target 1 card on the field; destroy it. You can only use this effect of \"Chanlink Phoenix\" once per turn. If this card leaves the field because of an opponent’s card effect: You can target 1 \"Chainlink\" Spell/Trap card in your GY; add it to your hand. ",
+  "text": "3 Chainlink monsters\nIf you activate a \"Chainlink\" card or effect, except \"Chainlink Phoenix\": you can make this card gain 100 ATK. If a Chain Link of 2 or higher resolves: You can target 1 card on the field; destroy it. If this card leaves the field because of an opponent's card effect: You can target 1 \"Chainlink\" Spell/Trap card in your GY; add it to your hand.",
   "images": [
     "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP4/chainlink_phoenix.jpg"
   ],
