@@ -1,0 +1,20 @@
+{
+  "id": 21293424,
+  "name": "Gunkan Suship Shirauo-class Carrier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 4 monsters\nIf this card is Xyz Summoned: You can apply these effects, in sequence, based on the materials used. You can only use this effect of \"Gunkan Suship Shirauo-class Carrier\" once per turn.\n? \"Gunkan Suship Shari\": Draw 1 card.\n? \"Gunkan Suship Shirauo\": Add 1 \"Gunkan\" Spell/Trap from your Deck to your hand.\nWhile a face-up card is in a Field Zone, your \"Gunkan\" monsters Special Summoned from the Extra Deck cannot be destroyed by your opponent\u0027s card effects, also they gain ATK equal to their own original DEF.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/21293424.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2200,
+  "species": "Aqua",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 250,
+  "rank": 4
+}

@@ -1,0 +1,12 @@
+{
+  "id": 77610503,
+  "name": "Floowandereeze and the Scary Sea",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When your opponent would Special Summon a monster(s) while you control a face-up Tribute Summoned monster and no Special Summoned monsters: Your opponent cannot Special Summon monsters for the rest of this turn, but they can conduct 3 Normal Summons/Sets this turn, not just 1, also negate the Summon, and if you do, return that monster(s) to the hand. You can only activate 1 \"Floowandereeze and the Scary Sea\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77610503.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Counter"
+}

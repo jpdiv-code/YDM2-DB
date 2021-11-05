@@ -1,0 +1,12 @@
+{
+  "id": 42560034,
+  "name": "Night Flight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 face-up monster you control; return that face-up monster to the hand, and if you do, neither player can activate cards, or the effects of cards, with the same name as the card returned to the hand by this effect for the rest of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/42560034.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

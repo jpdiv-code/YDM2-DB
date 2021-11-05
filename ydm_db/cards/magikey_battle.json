@@ -1,0 +1,12 @@
+{
+  "id": 54408264,
+  "name": "Magikey Battle",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 Normal Monster, \"Magikey\" monster, or \"Magikey Maftea\" in your GY; shuffle it into the Deck, then, if you activated this card in response to the activation of an opponent\u0027s card or effect, non-Token Normal Monsters and \"Magikey\" monsters you control are unaffected by that opponent\u0027s effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54408264.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

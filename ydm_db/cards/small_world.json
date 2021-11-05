@@ -1,0 +1,12 @@
+{
+  "id": 89558743,
+  "name": "Small World",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Reveal 1 monster in your hand and show 1 monster in your Deck with its same Type, Attribute, Level, ATK, or DEF (exactly 1 of these), and if you do, banish the revealed monster face-down, then add 1 monster from your Deck to your hand with the same Type, Attribute, Level, ATK, or DEF (exactly 1 of these) as the shown monster, and if you do, banish the shown monster face-down. You can only activate 1 \"Small World\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89558743.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

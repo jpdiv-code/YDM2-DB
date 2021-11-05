@@ -1,0 +1,21 @@
+{
+  "id": 81555617,
+  "name": "Ad Libitum of Despia",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Main Phase: You can make all face-up monsters currently on the field gain ATK equal to their Level x 100, until the end of your opponent\u0027s turn. If this card is used as material for a Fusion Summon from the hand or field, and sent to the GY or banished: You can target 1 of your \"Despia\" monsters or 1 of your Level 8 or higher Fusion Monsters that is banished or in your GY, except \"Ad Libitum of Despia\"; Special Summon it. You can only use each effect of \"Ad Libitum of Despia\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81555617.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
+}

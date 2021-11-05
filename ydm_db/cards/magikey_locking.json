@@ -1,0 +1,12 @@
+{
+  "id": 40493210,
+  "name": "Magikey Locking",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Tribute 1 non-Token Normal Monster or \"Magikey\" monster, then target up to 2 Normal Monsters and/or \"Magikey\" monsters in your GY whose total Levels equal 8 or less; Special Summon them in Defense Position, then you can apply 1 of these effects.\n? Immediately after this effect resolves, Synchro Summon 1 \"Magikey\" Synchro Monster using monsters you control.\n? Immediately after this effect resolves, Xyz Summon 1 \"Magikey\" Xyz Monster using monsters you control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40493210.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}
