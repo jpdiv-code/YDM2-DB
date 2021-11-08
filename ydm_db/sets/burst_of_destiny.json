@@ -612,6 +612,12 @@
       "code": "BODE-EN099",
       "rarity": "Common",
       "image_index": 0
+     },
+     {
+      "id": 54334420,
+      "code": "BODE-EN100",
+      "rarity": "Super Rare",
+      "image_index": 0
     }
   ]
 }
