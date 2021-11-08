@@ -3,7 +3,7 @@
   "name": "Stained Glass of Light \u0026 Dark",
   "is_illegal": false,
   "is_custom": false,
-  "text": "",
+  "text": "Apply these effects, in sequence, based on the Types of Effect Monsters you control.\nFairy: Draw 3 cards, then place 2 cards from your hand on the bottom of the Deck in any order.\nFiend: Your opponent draws 1 card, then they discard 1 random card, then, if they have any other cards in their hand, discard 1 more card of their choice.\nYou can only activate 1 \"Stained Glass of Light and Dark\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16598965.jpg"
   ],
