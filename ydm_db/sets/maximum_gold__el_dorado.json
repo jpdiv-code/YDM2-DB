@@ -1,0 +1,1127 @@
+{
+  "name": "Maximum Gold: El Dorado",
+  "code": "MGED",
+  "type": "Gold Series",
+  "date": "19-11-2021",
+  "image": "https://ygoprodeck.com/pics_sets/MGED.jpg",
+  "pull_type": "distribution",
+  "distribution": "maximum_gold",
+  "cards": [
+    {
+      "id": 33396948,
+      "code": "MGED-EN005",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33396948,
+      "code": "MGED-EN005",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14878871,
+      "code": "MGED-EN006",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14878871,
+      "code": "MGED-EN006",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42009836,
+      "code": "MGED-EN008",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42009836,
+      "code": "MGED-EN008",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88264978,
+      "code": "MGED-EN009",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88264978,
+      "code": "MGED-EN009",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56746202,
+      "code": "MGED-EN010",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56746202,
+      "code": "MGED-EN010",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89399912,
+      "code": "MGED-EN011",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89399912,
+      "code": "MGED-EN011",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38814750,
+      "code": "MGED-EN012",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38814750,
+      "code": "MGED-EN012",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18940556,
+      "code": "MGED-EN014",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44335251,
+      "code": "MGED-EN015",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44335251,
+      "code": "MGED-EN015",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65017789,
+      "code": "MGED-EN016",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65017789,
+      "code": "MGED-EN016",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26077387,
+      "code": "MGED-EN017",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26077387,
+      "code": "MGED-EN017",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43316238,
+      "code": "MGED-EN018",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43316238,
+      "code": "MGED-EN018",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70711847,
+      "code": "MGED-EN019",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70711847,
+      "code": "MGED-EN019",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68464358,
+      "code": "MGED-EN020",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68464358,
+      "code": "MGED-EN020",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37351133,
+      "code": "MGED-EN021",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37351133,
+      "code": "MGED-EN021",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32600024,
+      "code": "MGED-EN022",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32600024,
+      "code": "MGED-EN022",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95440946,
+      "code": "MGED-EN024",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95440946,
+      "code": "MGED-EN024",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75286621,
+      "code": "MGED-EN025",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75286621,
+      "code": "MGED-EN025",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73580471,
+      "code": "MGED-EN026",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73580471,
+      "code": "MGED-EN026",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52687916,
+      "code": "MGED-EN027",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52687916,
+      "code": "MGED-EN027",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74294676,
+      "code": "MGED-EN028",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74294676,
+      "code": "MGED-EN028",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42752141,
+      "code": "MGED-EN029",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42752141,
+      "code": "MGED-EN029",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85692042,
+      "code": "MGED-EN030",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85692042,
+      "code": "MGED-EN030",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89477759,
+      "code": "MGED-EN031",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15862758,
+      "code": "MGED-EN032",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54178659,
+      "code": "MGED-EN033",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54178659,
+      "code": "MGED-EN033",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38342335,
+      "code": "MGED-EN034",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38342335,
+      "code": "MGED-EN034",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70369116,
+      "code": "MGED-EN036",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70369116,
+      "code": "MGED-EN036",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86066372,
+      "code": "MGED-EN037",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86066372,
+      "code": "MGED-EN037",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12580477,
+      "code": "MGED-EN038",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12580477,
+      "code": "MGED-EN038",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14087893,
+      "code": "MGED-EN039",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14087893,
+      "code": "MGED-EN039",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28553439,
+      "code": "MGED-EN040",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28553439,
+      "code": "MGED-EN040",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75500286,
+      "code": "MGED-EN041",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75500286,
+      "code": "MGED-EN041",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57103969,
+      "code": "MGED-EN042",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57103969,
+      "code": "MGED-EN042",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43898403,
+      "code": "MGED-EN043",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43898403,
+      "code": "MGED-EN043",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74063034,
+      "code": "MGED-EN044",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74063034,
+      "code": "MGED-EN044",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16269385,
+      "code": "MGED-EN045",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16269385,
+      "code": "MGED-EN045",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49238328,
+      "code": "MGED-EN046",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49238328,
+      "code": "MGED-EN046",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76375976,
+      "code": "MGED-EN047",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76375976,
+      "code": "MGED-EN047",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31434645,
+      "code": "MGED-EN048",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31434645,
+      "code": "MGED-EN048",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68829754,
+      "code": "MGED-EN049",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68829754,
+      "code": "MGED-EN049",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41850466,
+      "code": "MGED-EN050",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41850466,
+      "code": "MGED-EN050",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20936251,
+      "code": "MGED-EN051",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20936251,
+      "code": "MGED-EN051",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53582587,
+      "code": "MGED-EN052",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53582587,
+      "code": "MGED-EN052",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58120309,
+      "code": "MGED-EN053",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58120309,
+      "code": "MGED-EN053",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20590515,
+      "code": "MGED-EN054",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20590515,
+      "code": "MGED-EN054",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80280944,
+      "code": "MGED-EN055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36042004,
+      "code": "MGED-EN056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47325505,
+      "code": "MGED-EN057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17228908,
+      "code": "MGED-EN058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82012319,
+      "code": "MGED-EN059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76774528,
+      "code": "MGED-EN060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47363932,
+      "code": "MGED-EN061",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52481437,
+      "code": "MGED-EN062",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25274141,
+      "code": "MGED-EN063",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56910167,
+      "code": "MGED-EN064",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49032236,
+      "code": "MGED-EN065",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26096328,
+      "code": "MGED-EN066",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39765958,
+      "code": "MGED-EN067",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9753964,
+      "code": "MGED-EN068",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36857073,
+      "code": "MGED-EN069",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62242678,
+      "code": "MGED-EN070",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21495657,
+      "code": "MGED-EN071",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58990362,
+      "code": "MGED-EN072",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32354768,
+      "code": "MGED-EN073",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49036338,
+      "code": "MGED-EN074",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37192109,
+      "code": "MGED-EN075",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74586817,
+      "code": "MGED-EN076",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8802510,
+      "code": "MGED-EN077",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90432163,
+      "code": "MGED-EN078",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36426778,
+      "code": "MGED-EN079",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62709239,
+      "code": "MGED-EN080",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42352091,
+      "code": "MGED-EN081",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79747096,
+      "code": "MGED-EN082",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15232745,
+      "code": "MGED-EN083",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42230449,
+      "code": "MGED-EN084",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78625448,
+      "code": "MGED-EN085",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4019153,
+      "code": "MGED-EN086",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41418852,
+      "code": "MGED-EN087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77402960,
+      "code": "MGED-EN088",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1992816,
+      "code": "MGED-EN089",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90590303,
+      "code": "MGED-EN090",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53143898,
+      "code": "MGED-EN091",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89538537,
+      "code": "MGED-EN092",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25533642,
+      "code": "MGED-EN093",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52927340,
+      "code": "MGED-EN094",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42790071,
+      "code": "MGED-EN095",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92411493,
+      "code": "MGED-EN096",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91299846,
+      "code": "MGED-EN097",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80577258,
+      "code": "MGED-EN098",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53956001,
+      "code": "MGED-EN099",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16849715,
+      "code": "MGED-EN100",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74218258,
+      "code": "MGED-EN101",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2347477,
+      "code": "MGED-EN102",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40669071,
+      "code": "MGED-EN103",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53413628,
+      "code": "MGED-EN104",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33897356,
+      "code": "MGED-EN105",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45462149,
+      "code": "MGED-EN106",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18236002,
+      "code": "MGED-EN107",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55725117,
+      "code": "MGED-EN108",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81119816,
+      "code": "MGED-EN109",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31440046,
+      "code": "MGED-EN110",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18514525,
+      "code": "MGED-EN111",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44509529,
+      "code": "MGED-EN112",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81997228,
+      "code": "MGED-EN113",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17382973,
+      "code": "MGED-EN114",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43886072,
+      "code": "MGED-EN115",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25725326,
+      "code": "MGED-EN116",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43664494,
+      "code": "MGED-EN117",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79059098,
+      "code": "MGED-EN118",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48815792,
+      "code": "MGED-EN119",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30674956,
+      "code": "MGED-EN120",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97661969,
+      "code": "MGED-EN121",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73309655,
+      "code": "MGED-EN122",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74889525,
+      "code": "MGED-EN123",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94224458,
+      "code": "MGED-EN124",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20612097,
+      "code": "MGED-EN125",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67007102,
+      "code": "MGED-EN126",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93191801,
+      "code": "MGED-EN127",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56984514,
+      "code": "MGED-EN128",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92379223,
+      "code": "MGED-EN129",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78868119,
+      "code": "MGED-EN130",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19353570,
+      "code": "MGED-EN131",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99234526,
+      "code": "MGED-EN132",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61901281,
+      "code": "MGED-EN133",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33746252,
+      "code": "MGED-EN134",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 645087,
+      "code": "MGED-EN135",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40177746,
+      "code": "MGED-EN136",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86346643,
+      "code": "MGED-EN137",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1686814,
+      "code": "MGED-EN138",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38495396,
+      "code": "MGED-EN139",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86221741,
+      "code": "MGED-EN140",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11969228,
+      "code": "MGED-EN142",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74752631,
+      "code": "MGED-EN143",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60303245,
+      "code": "MGED-EN144",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73539069,
+      "code": "MGED-EN145",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70368879,
+      "code": "MGED-EN146",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64061284,
+      "code": "MGED-EN147",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57160136,
+      "code": "MGED-EN148",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78231355,
+      "code": "MGED-EN149",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23516703,
+      "code": "MGED-EN150",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88086137,
+      "code": "MGED-EN151",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80101899,
+      "code": "MGED-EN152",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}
