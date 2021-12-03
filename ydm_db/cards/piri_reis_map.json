@@ -1,0 +1,12 @@
+{
+  "id": 33907039,
+  "name": "Piri Reis Map",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "At the start of your Main Phase 1: Add 1 monster with 0 ATK from your Deck to your hand, and if you do, halve your LP, also you cannot activate cards, or the effects of cards, with that added monster\u0027s name until the end of the next turn after this card resolves or until you Normal Summon a monster with that name.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33907039.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

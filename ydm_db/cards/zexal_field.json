@@ -1,0 +1,12 @@
+{
+  "id": 95856586,
+  "name": "Zexal Field",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Your opponent cannot activate cards or effects in response to the activation of your cards and effects that target an Xyz Monster(s) you control. If an Xyz Monster(s) is Special Summoned to your field: You can target 1 of those monsters; attach 1 Xyz Monster from your Extra Deck or GY to it as material. You can only use this effect of \"Zexal Field\" once per turn. During your Draw Phase, before you draw: You can place 1 \"Shining Draw\" from your Deck on top of the Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95856586.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

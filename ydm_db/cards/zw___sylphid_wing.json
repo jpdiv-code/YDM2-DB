@@ -1,0 +1,21 @@
+{
+  "id": 95886782,
+  "name": "ZW - Sylphid Wing",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can only control 1 \"ZW - Sylphid Wing\". You can target 1 \"Utopia\" monster you control; equip this card from your hand or field to it as an Equip Spell that gives it 800 ATK. Once per turn, if your opponent Special Summons a monster(s) by an activated effect: You can have the equipped monster gain 1600 ATK. If the equipped monster would activate an effect by detaching material(s), you can send this card to the GY instead of 1 of those materials.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95886782.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 800,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

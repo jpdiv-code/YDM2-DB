@@ -1,0 +1,12 @@
+{
+  "id": 100278013,
+  "name": "Ice Barrier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When an attack is declared involving an opponent\u0027s monster: Change that opponent\u0027s monster\u0027s ATK to 0, its battle position cannot be changed, also negate its effects. You can banish this card from your GY; you cannot Special Summon monsters until the end of your next turn, except WATER monsters, also send 1 Level 5 or higher WATER monster from your Deck to the GY, then you can add 1 WATER monster from your GY to your hand. You can only use this effect of \"Ice Barrier\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/100278013.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

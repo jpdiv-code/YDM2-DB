@@ -1,0 +1,21 @@
+{
+  "id": 71036835,
+  "name": "Kuribee",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is also always treated as a \"Kuriboh\" card.)\nWhen this card or your \"Kuriboh\" monster is destroyed by battle: You can add 1 Spell/Trap from your Deck to your hand that specifically lists the card \"Kuriboh\" in its text. You can only use this effect of \"Kuribee\" once per turn. Once per turn, when an opponent\u0027s monster declares an attack while you control another \"Kuriboh\" monster: You can change the ATK of as many other monsters you currently control as possible to 0 (until the end of this turn), and if you do, negate the attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71036835.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 300,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

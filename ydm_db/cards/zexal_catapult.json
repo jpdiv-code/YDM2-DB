@@ -1,0 +1,12 @@
+{
+  "id": 95664204,
+  "name": "Zexal Catapult",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summon 1 \"ZW -\" or \"ZS -\" monster from your hand, then if you control a \"Utopia\" monster, you can make the Levels of all face-up monsters you currently control become 4 or 5. If this card is in your GY, except the turn it was sent there: You can banish this card and 1 \"ZW -\" or \"ZS -\" monster from your GY, then target 1 card your opponent controls; destroy it. You can only use each effect of \"Zexal Catapult\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95664204.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

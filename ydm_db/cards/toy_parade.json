@@ -1,0 +1,12 @@
+{
+  "id": 92607427,
+  "name": "Toy Parade",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as a \"Frightfur\" card.)\nTarget 1 of your DARK monsters Special Summoned from the Extra Deck; this turn, you can only declare attacks with that monster, also each time it destroys a monster by battle and sends it to the GY, it can make another attack in a row. If you control a Fairy monster: You can banish this card from your GY; add 1 Level 4 or lower DARK monster from your GY to your hand. You can only use 1 \"Toy Parade\" effect per turn, and only once that turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92607427.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

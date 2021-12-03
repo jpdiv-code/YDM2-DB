@@ -1,0 +1,12 @@
+{
+  "id": 54374642,
+  "name": "A.I.\u0027s Show",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When an opponent\u0027s monster declares an attack while you control a Link-3 or higher \"@Ignister\" monster in the Extra Monster Zone: Special Summon any number of non-Link Cyberse monsters with 2300 ATK from your Extra Deck, whose total ATK is less than or equal to the attacking monster\u0027s ATK, then end the Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54374642.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 8843569,
+  "name": "Wing Requital",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control 2 or more monsters with different original names and no non-Winged Beast monsters: Pay 600 LP; draw 2 cards. You can only activate 1 \"Wing Requital\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8843569.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
