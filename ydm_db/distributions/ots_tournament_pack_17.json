@@ -1,0 +1,161 @@
+{
+  "name": "OTS Tournament Pack 17",
+  "code": "OP17",
+  "type": "",
+  "date": "",
+  "image": "",
+  "pull_type": "distribution",
+  "distribution": "",
+  "cards": [
+    {
+      "id": 84013237,
+      "code": "OP17-EN001",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10045474,
+      "code": "OP17-EN002",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49202162,
+      "code": "OP17-EN003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37630732,
+      "code": "OP17-EN004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6836211,
+      "code": "OP17-EN005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58069384,
+      "code": "OP17-EN006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96938986,
+      "code": "OP17-EN007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39730727,
+      "code": "OP17-EN008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65124425,
+      "code": "OP17-EN009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91397409,
+      "code": "OP17-EN010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80529459,
+      "code": "OP17-EN011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69167267,
+      "code": "OP17-EN012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93920745,
+      "code": "OP17-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11548522,
+      "code": "OP17-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63977008,
+      "code": "OP17-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11366199,
+      "code": "OP17-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98558751,
+      "code": "OP17-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59070329,
+      "code": "OP17-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68184115,
+      "code": "OP17-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66970002,
+      "code": "OP17-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12927849,
+      "code": "OP17-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43202238,
+      "code": "OP17-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1033312,
+      "code": "OP17-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78917791,
+      "code": "OP17-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38030232,
+      "code": "OP17-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
