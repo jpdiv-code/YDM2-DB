@@ -1,0 +1,24 @@
+{
+  "id": 72860663,
+  "name": "Vampire Fascinator",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ monsters, including a Zombie monster\nIf this card is Link Summoned: You can target 1 monster in your opponent\u0027s GY; Special Summon it to your field in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except Zombie monsters. You can Tribute 1 \"Vampire\" monster, then target 1 monster your opponent controls; take control of it until the End Phase. You can only use each effect of \"Vampire Fascinator\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72860663.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Zombie",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": [
+    "Bottom-Left",
+    "Bottom-Right",
+    "Top"
+  ]
+}

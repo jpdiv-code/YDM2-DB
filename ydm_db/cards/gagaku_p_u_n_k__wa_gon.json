@@ -1,0 +1,21 @@
+{
+  "id": 50642380,
+  "name": "Gagaku-P.U.N.K. Wa Gon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can pay 600 LP; add 1 \"P.U.N.K.\" Spell from your Deck to your hand. When your opponent activates a card or effect that targets a \"P.U.N.K.\" monster(s) you control, or when your opponent\u0027s monster targets one for an attack (Quick Effect): You can draw 1 card. You can only use each effect of \"Gagaku-P.U.N.K. Wa Gon\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50642380.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 900,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 3,
+  "is_tuner": true
+}

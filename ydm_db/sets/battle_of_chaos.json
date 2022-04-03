@@ -1,0 +1,647 @@
+{
+  "name": "Battle of Chaos",
+  "code": "BACH",
+  "type": "Booster Pack (Series 11)",
+  "date": "10-02-2022",
+  "image": "https://ygoprodeck.com/pics_sets/BACH.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_without_rare_with_starlight_rare",
+  "cards": [
+    {
+      "id": 46123974,
+      "code": "BACH-EN000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31699677,
+      "code": "BACH-EN001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77683371,
+      "code": "BACH-EN002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3078380,
+      "code": "BACH-EN003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30576089,
+      "code": "BACH-EN004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30576089,
+      "code": "BACH-EN004",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66961194,
+      "code": "BACH-EN005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3355732,
+      "code": "BACH-EN006",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39354437,
+      "code": "BACH-EN007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66749546,
+      "code": "BACH-EN008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92133240,
+      "code": "BACH-EN009",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92133240,
+      "code": "BACH-EN009",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38628859,
+      "code": "BACH-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65626958,
+      "code": "BACH-EN011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91011603,
+      "code": "BACH-EN012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28406301,
+      "code": "BACH-EN013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64804316,
+      "code": "BACH-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90299015,
+      "code": "BACH-EN015",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27383719,
+      "code": "BACH-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53782828,
+      "code": "BACH-EN017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90176467,
+      "code": "BACH-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26561172,
+      "code": "BACH-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52566270,
+      "code": "BACH-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99054885,
+      "code": "BACH-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25449584,
+      "code": "BACH-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52843699,
+      "code": "BACH-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88232397,
+      "code": "BACH-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24226942,
+      "code": "BACH-EN025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51611041,
+      "code": "BACH-EN026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87116749,
+      "code": "BACH-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14504454,
+      "code": "BACH-EN028",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50599453,
+      "code": "BACH-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86993168,
+      "code": "BACH-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13382806,
+      "code": "BACH-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49776811,
+      "code": "BACH-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86271510,
+      "code": "BACH-EN033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12266229,
+      "code": "BACH-EN034",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12266229,
+      "code": "BACH-EN034",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48654323,
+      "code": "BACH-EN035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85059922,
+      "code": "BACH-EN036",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85059922,
+      "code": "BACH-EN036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11443677,
+      "code": "BACH-EN037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48832775,
+      "code": "BACH-EN038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74936480,
+      "code": "BACH-EN039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11321089,
+      "code": "BACH-EN040",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47710198,
+      "code": "BACH-EN041",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73104892,
+      "code": "BACH-EN042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 109401,
+      "code": "BACH-EN043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46593546,
+      "code": "BACH-EN044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73082255,
+      "code": "BACH-EN045",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9486959,
+      "code": "BACH-EN046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35871958,
+      "code": "BACH-EN047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72860663,
+      "code": "BACH-EN048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8264361,
+      "code": "BACH-EN049",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8264361,
+      "code": "BACH-EN049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35659410,
+      "code": "BACH-EN050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71143015,
+      "code": "BACH-EN051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7142724,
+      "code": "BACH-EN052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34536828,
+      "code": "BACH-EN053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60921537,
+      "code": "BACH-EN054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7320132,
+      "code": "BACH-EN055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33814281,
+      "code": "BACH-EN056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69809989,
+      "code": "BACH-EN057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96203584,
+      "code": "BACH-EN058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32692693,
+      "code": "BACH-EN059",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69087397,
+      "code": "BACH-EN060",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95471006,
+      "code": "BACH-EN061",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21570001,
+      "code": "BACH-EN062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64964750,
+      "code": "BACH-EN063",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90359458,
+      "code": "BACH-EN064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27753563,
+      "code": "BACH-EN065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53742162,
+      "code": "BACH-EN066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99137266,
+      "code": "BACH-EN067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26631975,
+      "code": "BACH-EN068",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52020510,
+      "code": "BACH-EN069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99414629,
+      "code": "BACH-EN070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25419323,
+      "code": "BACH-EN071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52807032,
+      "code": "BACH-EN072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28292031,
+      "code": "BACH-EN073",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64797746,
+      "code": "BACH-EN074",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91781484,
+      "code": "BACH-EN075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27170599,
+      "code": "BACH-EN076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54564198,
+      "code": "BACH-EN077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90969892,
+      "code": "BACH-EN078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26357901,
+      "code": "BACH-EN079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53442500,
+      "code": "BACH-EN080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84462118,
+      "code": "BACH-EN081",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10851853,
+      "code": "BACH-EN082",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57946551,
+      "code": "BACH-EN083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83340560,
+      "code": "BACH-EN084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19739265,
+      "code": "BACH-EN085",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82128978,
+      "code": "BACH-EN086",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19516687,
+      "code": "BACH-EN087",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45001322,
+      "code": "BACH-EN088",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71406430,
+      "code": "BACH-EN089",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18890039,
+      "code": "BACH-EN090",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44889144,
+      "code": "BACH-EN091",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28363749,
+      "code": "BACH-EN092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72717433,
+      "code": "BACH-EN093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18106132,
+      "code": "BACH-EN094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28427869,
+      "code": "BACH-EN095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25607552,
+      "code": "BACH-EN096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45420955,
+      "code": "BACH-EN097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71595845,
+      "code": "BACH-EN098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16720314,
+      "code": "BACH-EN099",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50237654,
+      "code": "BACH-EN100",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    }
+  ]
+}

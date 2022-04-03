@@ -1,0 +1,280 @@
+{
+  "name": "Structure Deck: Albaz Strike",
+  "code": "SDAZ",
+  "type": "Structure Deck",
+  "date": "15-4-2022",
+  "image": "https://img.yugioh-card.com/en/products/images/SDAZ_550.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 19096726,
+      "code": "SDAZ-EN001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45484331,
+      "code": "SDAZ-EN002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82489470,
+      "code": "SDAZ-EN003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68468459,
+      "code": "SDAZ-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25451383,
+      "code": "SDAZ-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69680031,
+      "code": "SDAZ-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88264978,
+      "code": "SDAZ-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48770333,
+      "code": "SDAZ-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55878038,
+      "code": "SDAZ-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28674152,
+      "code": "SDAZ-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20292186,
+      "code": "SDAZ-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99234526,
+      "code": "SDAZ-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61901281,
+      "code": "SDAZ-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15381421,
+      "code": "SDAZ-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48048590,
+      "code": "SDAZ-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 423585,
+      "code": "SDAZ-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97268402,
+      "code": "SDAZ-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8972398,
+      "code": "SDAZ-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18973184,
+      "code": "SDAZ-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44362883,
+      "code": "SDAZ-EN021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34995106,
+      "code": "SDAZ-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62022479,
+      "code": "SDAZ-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33550694,
+      "code": "SDAZ-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22829942,
+      "code": "SDAZ-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74335036,
+      "code": "SDAZ-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75500286,
+      "code": "SDAZ-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49238328,
+      "code": "SDAZ-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24224830,
+      "code": "SDAZ-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54693926,
+      "code": "SDAZ-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81767888,
+      "code": "SDAZ-EN031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17751597,
+      "code": "SDAZ-EN032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67100549,
+      "code": "SDAZ-EN033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93595154,
+      "code": "SDAZ-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81223446,
+      "code": "SDAZ-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59919307,
+      "code": "SDAZ-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11429811,
+      "code": "SDAZ-EN037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24207889,
+      "code": "SDAZ-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83326048,
+      "code": "SDAZ-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10813327,
+      "code": "SDAZ-EN040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44146295,
+      "code": "SDAZ-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70534340,
+      "code": "SDAZ-EN042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41373230,
+      "code": "SDAZ-EN043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34848821,
+      "code": "SDAZ-EN044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1906812,
+      "code": "SDAZ-EN045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87746184,
+      "code": "SDAZ-EN046",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

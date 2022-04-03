@@ -1,0 +1,21 @@
+{
+  "id": 19516687,
+  "name": "Libromancer Agent",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can reveal 1 Ritual Monster in your hand: Special Summon this card from your hand. You can target 1 \"Libromancer\" card in your GY, except \"Libromancer Agent\"; add it to your hand, then if you added a Spell/Trap by this effect, place 1 card from your hand on the bottom of the Deck. You can only use each effect of \"Libromancer Agent\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19516687.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 6,
+  "is_tuner": false
+}

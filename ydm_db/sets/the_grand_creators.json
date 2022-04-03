@@ -1,0 +1,461 @@
+{
+  "name": "The Grand Creators",
+  "code": "GRCR",
+  "type": "Deck Build Pack",
+  "date": "27-01-2022",
+  "image": "https://ygoprodeck.com/pics_sets/GRCR.jpg",
+  "pull_type": "distribution",
+  "distribution": "toon_chaos",
+  "cards": [
+    {
+      "id": 13258285,
+      "code": "GRCR-EN001",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50642380,
+      "code": "GRCR-EN002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82041999,
+      "code": "GRCR-EN003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19535693,
+      "code": "GRCR-EN004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55920742,
+      "code": "GRCR-EN005",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55920742,
+      "code": "GRCR-EN005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81914447,
+      "code": "GRCR-EN006",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81914447,
+      "code": "GRCR-EN006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18313046,
+      "code": "GRCR-EN007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44708154,
+      "code": "GRCR-EN008",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44708154,
+      "code": "GRCR-EN008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81192859,
+      "code": "GRCR-EN009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17691568,
+      "code": "GRCR-EN010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43685562,
+      "code": "GRCR-EN011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70070211,
+      "code": "GRCR-EN012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16474916,
+      "code": "GRCR-EN013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43863925,
+      "code": "GRCR-EN014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79858629,
+      "code": "GRCR-EN015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5352328,
+      "code": "GRCR-EN016",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5352328,
+      "code": "GRCR-EN016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42741437,
+      "code": "GRCR-EN017",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42741437,
+      "code": "GRCR-EN017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78135071,
+      "code": "GRCR-EN018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5530780,
+      "code": "GRCR-EN019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41524885,
+      "code": "GRCR-EN020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77913594,
+      "code": "GRCR-EN021",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77913594,
+      "code": "GRCR-EN021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4408198,
+      "code": "GRCR-EN022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30802207,
+      "code": "GRCR-EN023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77891946,
+      "code": "GRCR-EN024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3285551,
+      "code": "GRCR-EN025",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3285551,
+      "code": "GRCR-EN025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30680659,
+      "code": "GRCR-EN026",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30680659,
+      "code": "GRCR-EN026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66078354,
+      "code": "GRCR-EN027",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2563463,
+      "code": "GRCR-EN028",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39568067,
+      "code": "GRCR-EN029",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39568067,
+      "code": "GRCR-EN029",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65952776,
+      "code": "GRCR-EN030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92341815,
+      "code": "GRCR-EN031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38745520,
+      "code": "GRCR-EN032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64230128,
+      "code": "GRCR-EN033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91228233,
+      "code": "GRCR-EN034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27623932,
+      "code": "GRCR-EN035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64018647,
+      "code": "GRCR-EN036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97946536,
+      "code": "GRCR-EN037",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97946536,
+      "code": "GRCR-EN037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69207766,
+      "code": "GRCR-EN038",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69207766,
+      "code": "GRCR-EN038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21790410,
+      "code": "GRCR-EN039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68184115,
+      "code": "GRCR-EN040",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68184115,
+      "code": "GRCR-EN040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52601736,
+      "code": "GRCR-EN041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2461031,
+      "code": "GRCR-EN042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25788011,
+      "code": "GRCR-EN043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17535764,
+      "code": "GRCR-EN044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3233859,
+      "code": "GRCR-EN045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30227494,
+      "code": "GRCR-EN046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8736823,
+      "code": "GRCR-EN047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44505297,
+      "code": "GRCR-EN048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26211048,
+      "code": "GRCR-EN049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82633039,
+      "code": "GRCR-EN050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97273514,
+      "code": "GRCR-EN051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96965364,
+      "code": "GRCR-EN052",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40450317,
+      "code": "GRCR-EN053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52105192,
+      "code": "GRCR-EN054",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67723438,
+      "code": "GRCR-EN055",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67723438,
+      "code": "GRCR-EN055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16550875,
+      "code": "GRCR-EN056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53582587,
+      "code": "GRCR-EN057",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53582587,
+      "code": "GRCR-EN057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11109820,
+      "code": "GRCR-EN058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40605147,
+      "code": "GRCR-EN059",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40605147,
+      "code": "GRCR-EN059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38960450,
+      "code": "GRCR-EN060",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}

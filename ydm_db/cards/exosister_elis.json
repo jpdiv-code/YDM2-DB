@@ -1,0 +1,21 @@
+{
+  "id": 16474916,
+  "name": "Exosister Elis",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control an \"Exosister\" monster: You can Special Summon this card from your hand, then if you control \"Exosister Stella\", you gain 800 LP. If your opponent moves a card(s) out of either GY (except during the Damage Step): You can Special Summon from your Extra Deck, 1 \"Exosister\" Xyz Monster using this face-up card you control as material. (This is treated as an Xyz Summon.) You can only use each effect of \"Exosister Elis\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16474916.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 500,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

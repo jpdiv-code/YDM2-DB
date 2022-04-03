@@ -1,0 +1,12 @@
+{
+  "id": 53742162,
+  "name": "Icejade Erosion",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 face-up card your opponent controls; destroy 1 \"Icejade\" monster you control, and if you do, negate the targeted card\u0027s effects until the end of this turn (even if this card leaves the field). If a face-up WATER monster(s) you control leaves the field by your opponent, except by being destroyed (except during the Damage Step): You can take 1 \"Icejade\" monster from your Deck, and either add it to your hand or Special Summon it. You can only use each effect of \"Icejade Erosion\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53742162.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}
