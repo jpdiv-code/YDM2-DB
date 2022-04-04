@@ -1,0 +1,12 @@
+{
+  "id": 300202007,
+  "name": "Aroma Strategy",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "[At the start of the Duel, flip this card over.]\n\nYou may look at the top card of your Deck at any time.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/300202007.jpg"
+  ],
+  "type": "Skill",
+  "spell_type": "Normal"
+}
