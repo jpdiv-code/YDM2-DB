@@ -1,0 +1,24 @@
+{
+  "id": 25857977,
+  "name": "D/D/D Vice King Requiem",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You cannot Special Summon monsters, except \"D/D/D\" monsters. A \"D/D/D\" monster that was Fusion, Synchro, Xyz, or Link Summoned using this card on the field as material gains this effect.\nOnce per turn: You can target 1 card on the field; shuffle 1 \"Dark Contract\" card from your field or GY into the Deck, and if you do, destroy that target, then gain 1000 LP.\nYou can only use this effect of "D/D/D Vice King Requiem" once per turn.",
+  "images": [
+    "https://static.wikia.nocookie.net/yugioh/images/7/76/DDDViceKingRequiem-GFP2-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20220518014537"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2800,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false,
+  "pendulum_text": "You can target any number of \"Dark Contract\" cards you control; destroy them, and if you do, Special Summon this card from your Pendulum Zone, then you can increase or decrease its Level by the number destroyed. You can only use this effect of \"D/D/D Vice King Requiem\" once per turn.",
+  "pendulum_scale_left_blue": 4,
+  "pendulum_scale_right_red": 4
+}
