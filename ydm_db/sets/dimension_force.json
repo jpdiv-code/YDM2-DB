@@ -6,7 +6,7 @@
   "image": "https://ms.yugipedia.com//8/8b/DIFO-BoosterEN.png",
   "pull_type": "distribution",
   "distribution": "booster_pack_without_rare_with_starlight_rare",
-  "cards": [
+  "cards": {
     {
       "id": 16312943,
       "code": "DIFO-EN000",
@@ -638,4 +638,4 @@
       "image_index": 0
      }
   ]
-]
+}
