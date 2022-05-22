@@ -10,7 +10,7 @@
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1400,
-  "species": "",
+  "species": "Fairy",
   "monster_type": "Ritual",
   "is_pendulum": false,
   "ability": "",
