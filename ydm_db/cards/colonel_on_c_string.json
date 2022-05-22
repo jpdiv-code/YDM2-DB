@@ -11,7 +11,7 @@
   "attribute": "LIGHT",
   "atk": 1400,
   "species": "Warrior",
-  "monster_type": "Effect",
+  "monster_type": "",
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,

@@ -11,7 +11,7 @@
   "attribute": "EARTH",
   "atk": 800,
   "species": "Rock",
-  "monster_type": "Ritual",
+  "monster_type": "",
   "is_pendulum": false,
   "ability": "Flip",
   "has_effect": true,

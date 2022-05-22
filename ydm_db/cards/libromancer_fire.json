@@ -11,7 +11,7 @@
   "attribute": "FIRE",
   "atk": 1800,
   "species": "Cyberse",
-  "monster_type": "Effect",
+  "monster_type": "",
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,
