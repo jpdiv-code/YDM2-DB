@@ -3,7 +3,7 @@
   "code": "SS03",
   "type": "Starter Deck",
   "date": "02-08-2019",
-  "image": "https://static.wikia.nocookie.net/yugioh/images/e/ee/SS03-DeckEN.png/revision/latest/scale-to-width-down/317?cb=20190521182026",
+  "image": ["https://static.wikia.nocookie.net/yugioh/images/e/ee/SS03-DeckEN.png/revision/latest/scale-to-width-down/317?cb=20190521182026"],
   "pull_type": "full",
   "cards": [
     {
@@ -403,4 +403,4 @@
       "image_index": 0
     }
   ]
-}
+]
