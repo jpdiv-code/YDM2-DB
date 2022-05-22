@@ -1,0 +1,641 @@
+{
+  "name": "Dimension Force",
+  "code": "DIFO",
+  "type": "Booster Pack (Series 11)",
+  "date": "19-05-2022",
+  "image": "https://ms.yugipedia.com//8/8b/DIFO-BoosterEN.png",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_without_rare_with_starlight_rare",
+  "cards": [
+    {
+      "id": 16312943,
+      "code": "DIFO-EN000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id":	21949879,
+      "code": "DIFO-EN001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58938528,
+      "code": "DIFO-EN002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 84332527,
+      "code": "DIFO-EN003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21727231,
+      "code": "DIFO-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57111330,
+      "code": "DIFO-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83610035,
+      "code": "DIFO-EN006",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 10604644,
+      "code": "DIFO-EN007",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 10604644,
+      "code": "DIFO-EN007",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56099748,
+      "code": "DIFO-EN008",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83488497,
+      "code": "DIFO-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19882096,
+      "code": "DIFO-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 46877100,
+      "code": "DIFO-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82361809,
+      "code": "DIFO-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18760514,
+      "code": "DIFO-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45154513,
+      "code": "DIFO-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 71549257,
+      "code": "DIFO-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18548966,
+      "code": "DIFO-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44932065,
+      "code": "DIFO-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70427670,
+      "code": "DIFO-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 17825378,
+      "code": "DIFO-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43210483,
+      "code": "DIFO-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70204022,
+      "code": "DIFO-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 06609736,
+      "code": "DIFO-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 42198835,
+      "code": "DIFO-EN023",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79582540,
+      "code": "DIFO-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 05577149,
+      "code": "DIFO-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52253888,
+      "code": "DIFO-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 32975247,
+      "code": "DIFO-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78360952,
+      "code": "DIFO-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 04754691,
+      "code": "DIFO-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31259606,
+      "code": "DIFO-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 67248304,
+      "code": "DIFO-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 04632019,
+      "code": "DIFO-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30037118,
+      "code": "DIFO-EN033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66425726,
+      "code": "DIFO-EN034",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 03410461,
+      "code": "DIFO-EN035",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 03410461,
+      "code": "DIFO-EN035",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39915560,
+      "code": "DIFO-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66309175,
+      "code": "DIFO-EN037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92798873,
+      "code": "DIFO-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 38192988,
+      "code": "DIFO-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65187687,
+      "code": "DIFO-EN040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91575236,
+      "code": "DIFO-EN041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24070330,
+      "code": "DIFO-EN042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 60465049,
+      "code": "DIFO-EN043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97453744,
+      "code": "DIFO-EN044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23848752,
+      "code": "DIFO-EN045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59242457,
+      "code": "DIFO-EN046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59242457,
+      "code": "DIFO-EN046",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+	{
+      "id": 96637156,
+      "code": "DIFO-EN047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22125101,
+      "code": "DIFO-EN048",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59120809,
+      "code": "DIFO-EN049",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95515518,
+      "code": "DIFO-EN050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id":	21903613 ,
+      "code": "DIFO-EN051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58308221,
+      "code": "DIFO-EN052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84792926,
+      "code": "DIFO-EN053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21887075,
+      "code": "DIFO-EN054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 57285770,
+      "code": "DIFO-EN055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83670388,
+      "code": "DIFO-EN056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10065487,
+      "code": "DIFO-EN057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56063182,
+      "code": "DIFO-EN058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 83558891,
+      "code": "DIFO-EN059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19942835,
+      "code": "DIFO-EN060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45337544,
+      "code": "DIFO-EN061",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82735249,
+      "code": "DIFO-EN062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 18720257,
+      "code": "DIFO-EN063",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45115956,
+      "code": "DIFO-EN064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81613061,
+      "code": "DIFO-EN065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17008760,
+      "code": "DIFO-EN066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 44092304,
+      "code": "DIFO-EN067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70491413,
+      "code": "DIFO-EN068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17885118,
+      "code": "DIFO-EN069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43270827,
+      "code": "DIFO-EN070",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 79775821,
+      "code": "DIFO-EN071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 06763530,
+      "code": "DIFO-EN072",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42158279,
+      "code": "DIFO-EN073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79552283,
+      "code": "DIFO-EN074",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 05941982,
+      "code": "DIFO-EN075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32335697,
+      "code": "DIFO-EN076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78420796,
+      "code": "DIFO-EN077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 04825390,
+      "code": "DIFO-EN078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id":	31213049,
+      "code": "DIFO-EN079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id":	07608148,
+      "code": "DIFO-EN080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id":	54656181,
+      "code": "DIFO-EN081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80040886,
+      "code": "DIFO-EN082",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 26435595,
+      "code": "DIFO-EN083",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 26435595,
+      "code": "DIFO-EN083",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53923690,
+      "code": "DIFO-EN084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id":	89328238,
+      "code": "DIFO-EN085",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52707042,
+      "code": "DIFO-EN086",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id":	88106656,
+      "code": "DIFO-EN087",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15590355,
+      "code": "DIFO-EN088",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41085464,
+      "code": "DIFO-EN089",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88083109,
+      "code": "DIFO-EN090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id":	14478717,
+      "code": "DIFO-EN091",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id":	77672444,
+      "code": "DIFO-EN092",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38412161,
+      "code": "DIFO-EN093",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64806765,
+      "code": "DIFO-EN094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 90583279,
+      "code": "DIFO-EN095",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76352503,
+      "code": "DIFO-EN096",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72064891,
+      "code": "DIFO-EN097",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id":	58074177 ,
+      "code": "DIFO-EN098",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 13536606,
+      "code": "DIFO-EN099",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73642296,
+      "code": "DIFO-EN100",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+     }
+  ]
+]
