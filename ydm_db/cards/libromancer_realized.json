@@ -1,0 +1,12 @@
+{
+  "id": 15590355,
+  "name": "Libromancer Realized",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can reveal 1 \"Libromancer\" Ritual Monster in your hand: Special Summon 1 \"Fire Token\" (Cyberse/FIRE/ATK 0/DEF 0) with the same Level as the revealed monster. While you control that Token, you cannot Special Summon monsters, except \"Libromancer\" monsters. You can only use this effect of \"Libromancer Realized\" once per turn.",
+  "images": [
+    "https://ms.yugipedia.com//thumb/8/8c/LibromancerRealized-DIFO-EN-SR-1E.png/300px-LibromancerRealized-DIFO-EN-SR-1E.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

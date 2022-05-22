@@ -1,0 +1,21 @@
+{
+  "id": 54656181,
+  "name": "Colonel on C-String",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can Special Summon 2 Level 4 or lower Warrior monsters with different names from your hand in Defense Position.",
+  "images": [
+    ["https://ms.yugipedia.com//thumb/c/cb/ColonelonCString-DIFO-EN-C-1E.png/300px-ColonelonCString-DIFO-EN-C-1E.png"]
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1400,
+  "species": "Warrior",
+  "monster_type": "Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 67248304,
+  "name": "Reverse Jar",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Change all other monsters on the field to face-down Defense Position, then, return all face-up Spell/Traps on the field to the hand, then, each player can Set Spell/Traps from their hand, up to the number of their cards returned to the hand by this effect. You can only use this effect of \"Reverse Jar\" once per turn.",
+  "images": [
+    "https://ms.yugipedia.com//thumb/9/95/ReverseJar-DIFO-EN-C-1E.png/300px-ReverseJar-DIFO-EN-C-1E.png"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Rock",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}
