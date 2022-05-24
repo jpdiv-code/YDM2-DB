@@ -1,0 +1,39 @@
+{
+  "name": "speed_duel_tournament_3",
+  "pulls": [
+    {
+      "weight": 24,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 8,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    }
+   ]
+ }
