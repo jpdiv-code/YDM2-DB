@@ -1,0 +1,12 @@
+{
+  "id": 19712214,
+  "name": "Marincess Bubble Ring",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a monster declares an attack: Negate that attack, and if you do, Special Summon 1 \"Marincess Crystal Heart\" from your Extra Deck or GY. You can banish this card from your GY, then target 1 Link-2 or higher \"Marincess\" Link Monster you control; this turn, it can attack a number of times each Battle Phase, up to its Link Rating, but your opponent takes no battle damage from battles involving it. You can only activate 1 \"Marincess Bubble Ring\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19712214.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}
