@@ -427,10 +427,10 @@
       "image_index": 0
     },
     {
-      "id": 83965311,
+      "id": 83965310,
       "code": "SGX1-ENB01",
       "rarity": "Common",
-      "image_index": 0
+      "image_index": 1
     },
     {
       "id": 41613948,
@@ -829,10 +829,10 @@
       "image_index": 0
     },
     {
-      "id": 23401840,
+      "id": 23401839,
       "code": "SGX1-ENE02",
       "rarity": "Common",
-      "image_index": 0
+      "image_index": 1
     },
     {
       "id": 57617178,
@@ -1333,7 +1333,7 @@
       "image_index": 0
     },
     {
-      "id": 8783685,
+      "id": 43530283,
       "code": "SGX1-ENI01",
       "rarity": "Common",
       "image_index": 0
