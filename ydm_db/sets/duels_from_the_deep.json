@@ -1,0 +1,352 @@
+{
+  "name": "Duels From the Deep",
+  "code": "LED9",
+  "type": "Booster Pack (Series 11)",
+  "date": "16-06-2022",
+  "image": "https://ms.yugipedia.com//c/c6/LED9-BoosterEN.png",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_without_rare_with_starlight_rare",
+  "cards": [
+    {
+      "id": 48739166,
+      "code": "LED9-EN000",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61496006,
+      "code": "LED9-EN001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 98881700,
+      "code": "LED9-EN002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 34876719,
+      "code": "LED9-EN003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 61374414,
+      "code": "LED9-EN004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    {
+      "id": 61374414,
+      "code": "LED9-EN005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 23153227,
+      "code": "LED9-EN006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+ 	{
+      "id": 60158866,
+      "code": "LED9-EN007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 90303176,
+      "code": "LED9-EN008",
+      "rarity": "Common",
+      "image_index": 0
+   },
+    {
+      "id": 43138260,
+      "code": "LED9-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 12744567,
+      "code": "LED9-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id":	00440556,
+      "code": "LED9-EN011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 25853045,
+      "code": "LED9-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59479050,
+      "code": "LED9-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 57734012,
+      "code": "LED9-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+ 	{
+      "id": 33252803,
+      "code": "LED9-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 96546575,
+      "code": "LED9-EN016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23931679,
+      "code": "LED9-EN017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 69436288,
+      "code": "LED9-EN018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 95824983,
+      "code": "LED9-EN019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 22819092,
+      "code": "LED9-EN020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58203736,
+      "code": "LED9-EN021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 95602345,
+      "code": "LED9-EN022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 03643300,
+      "code": "LED9-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 19801646,
+      "code": "LED9-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44968687,
+      "code": "LED9-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 46290741,
+      "code": "LED9-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 82685480,
+      "code": "LED9-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 98804359,
+      "code": "LED9-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53582587,
+      "code": "LED9-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 19089195,
+      "code": "LED9-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 21057444,
+      "code": "LED9-EN031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 57541158,
+      "code": "LED9-EN032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84546257,
+      "code": "LED9-EN033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 20934852,
+      "code": "LED9-EN034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 57329501,
+      "code": "LED9-EN035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id":	83723605,
+      "code": "LED9-EN036",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19712214,
+      "code": "LED9-EN037",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 36492575,
+      "code": "LED9-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+ 	{
+      "id": 99885917,
+      "code": "LED9-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 30691817,
+      "code": "LED9-EN040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79130389,
+      "code": "LED9-EN041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 67712104,
+      "code": "LED9-EN042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 94207108,
+      "code": "LED9-EN043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 91027843,
+      "code": "LED9-EN044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52945066,
+      "code": "LED9-EN045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 06631034,
+      "code": "LED9-EN046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 37721209,
+      "code": "LED9-EN047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 32393580,
+      "code": "LED9-EN048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 64319467,
+      "code": "LED9-EN049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 63193879,
+      "code": "LED9-EN050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 91953000,
+      "code": "LED9-EN051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 07150545,
+      "code": "LED9-EN052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 63746411,
+      "code": "LED9-EN053",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 05524387,
+      "code": "LED9-EN054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 34103656,
+      "code": "LED9-EN055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 24299458,
+      "code": "LED9-EN056",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}
