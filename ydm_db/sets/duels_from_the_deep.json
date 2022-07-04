@@ -36,6 +36,7 @@
       "code": "LED9-EN004",
       "rarity": "Super Rare",
       "image_index": 0
+    },
     {
       "id": 61374414,
       "code": "LED9-EN005",
@@ -347,6 +348,6 @@
       "code": "LED9-EN056",
       "rarity": "Ultra Rare",
       "image_index": 0
-    },
-  ],
+    }
+  ]
 }
