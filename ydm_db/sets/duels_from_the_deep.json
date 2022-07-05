@@ -1,11 +1,11 @@
 {
-  "name": "Duels From the Deep",
+  "name": "Legendary Duelists: Duels From the Deep",
   "code": "LED9",
   "type": "Booster Pack (Series 11)",
   "date": "16-06-2022",
   "image": "https://ms.yugipedia.com//c/c6/LED9-BoosterEN.png",
   "pull_type": "distribution",
-  "distribution": "booster_pack_without_rare_with_starlight_rare",
+  "distribution": "legendary_duelists",
   "cards": [
     {
       "id": 48739166,
