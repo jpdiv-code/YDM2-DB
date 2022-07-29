@@ -1,0 +1,629 @@
+{
+  "name": "Burst of Destiny",
+  "code": "BODE",
+  "type": "Booster Pack (Series 11)",
+  "date": "05-11-2021",
+  "image": "https://ygoprodeck.com/pics_sets/BODE.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_without_rare_with_starlight_rare",
+  "cards": [
+    {
+      "id": 48784854,
+      "code": "BODE-EN000",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67127799,
+      "code": "BODE-EN001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93612434,
+      "code": "BODE-EN002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20001443,
+      "code": "BODE-EN003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56495147,
+      "code": "BODE-EN004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93490856,
+      "code": "BODE-EN005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29884951,
+      "code": "BODE-EN006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55273560,
+      "code": "BODE-EN007",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55273560,
+      "code": "BODE-EN007",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82777208,
+      "code": "BODE-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28762303,
+      "code": "BODE-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55151012,
+      "code": "BODE-EN010",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81555617,
+      "code": "BODE-EN011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53212882,
+      "code": "BODE-EN012",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53212882,
+      "code": "BODE-EN012",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18940725,
+      "code": "BODE-EN013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54334420,
+      "code": "BODE-EN014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80433039,
+      "code": "BODE-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17827173,
+      "code": "BODE-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80611581,
+      "code": "BODE-EN017",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16605586,
+      "code": "BODE-EN018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42090294,
+      "code": "BODE-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89594399,
+      "code": "BODE-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15983048,
+      "code": "BODE-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42377643,
+      "code": "BODE-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78362751,
+      "code": "BODE-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14761450,
+      "code": "BODE-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41255165,
+      "code": "BODE-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73640163,
+      "code": "BODE-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44818,
+      "code": "BODE-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46033517,
+      "code": "BODE-EN028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72427512,
+      "code": "BODE-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9822220,
+      "code": "BODE-EN030",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35311929,
+      "code": "BODE-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72305034,
+      "code": "BODE-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8700633,
+      "code": "BODE-EN033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34198387,
+      "code": "BODE-EN034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71583486,
+      "code": "BODE-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7987191,
+      "code": "BODE-EN036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34072799,
+      "code": "BODE-EN037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6855503,
+      "code": "BODE-EN038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60461804,
+      "code": "BODE-EN039",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33250142,
+      "code": "BODE-EN040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69248256,
+      "code": "BODE-EN041",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69248256,
+      "code": "BODE-EN041",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96633955,
+      "code": "BODE-EN042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32138660,
+      "code": "BODE-EN043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69522668,
+      "code": "BODE-EN044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95911373,
+      "code": "BODE-EN045",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21915012,
+      "code": "BODE-EN046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68300121,
+      "code": "BODE-EN047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94798725,
+      "code": "BODE-EN048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21293424,
+      "code": "BODE-EN049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67288539,
+      "code": "BODE-EN050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93672138,
+      "code": "BODE-EN051",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93672138,
+      "code": "BODE-EN051",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20071842,
+      "code": "BODE-EN052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56465981,
+      "code": "BODE-EN053",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93850690,
+      "code": "BODE-EN054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29948294,
+      "code": "BODE-EN055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55343303,
+      "code": "BODE-EN056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82738008,
+      "code": "BODE-EN057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28126717,
+      "code": "BODE-EN058",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55521751,
+      "code": "BODE-EN059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81615450,
+      "code": "BODE-EN060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17000165,
+      "code": "BODE-EN061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54408264,
+      "code": "BODE-EN062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80893872,
+      "code": "BODE-EN063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17888577,
+      "code": "BODE-EN064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53286626,
+      "code": "BODE-EN065",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89771220,
+      "code": "BODE-EN066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16165939,
+      "code": "BODE-EN067",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42560034,
+      "code": "BODE-EN068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89558743,
+      "code": "BODE-EN069",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15943341,
+      "code": "BODE-EN070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41348446,
+      "code": "BODE-EN071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78836195,
+      "code": "BODE-EN072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14821890,
+      "code": "BODE-EN073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41215808,
+      "code": "BODE-EN074",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77610503,
+      "code": "BODE-EN075",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4008212,
+      "code": "BODE-EN076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40493210,
+      "code": "BODE-EN077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16598965,
+      "code": "BODE-EN078",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43986064,
+      "code": "BODE-EN079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79371769,
+      "code": "BODE-EN080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20295753,
+      "code": "BODE-EN081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 101106082,
+      "code": "BODE-EN082",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82184400,
+      "code": "BODE-EN083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25573115,
+      "code": "BODE-EN084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51578214,
+      "code": "BODE-EN085",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88962829,
+      "code": "BODE-EN086",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14357527,
+      "code": "BODE-EN087",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50855622,
+      "code": "BODE-EN088",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87240371,
+      "code": "BODE-EN089",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13234975,
+      "code": "BODE-EN090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40633084,
+      "code": "BODE-EN091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32176662,
+      "code": "BODE-EN092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4550066,
+      "code": "BODE-EN094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31944175,
+      "code": "BODE-EN095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77449773,
+      "code": "BODE-EN096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36092504,
+      "code": "BODE-EN098",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4433488,
+      "code": "BODE-EN099",
+      "rarity": "Common",
+      "image_index": 0
+     },
+     {
+      "id": 40044918,
+      "code": "BODE-EN100",
+      "rarity": "Starlight",
+      "image_index": 0
+     }
+  ]
+}
