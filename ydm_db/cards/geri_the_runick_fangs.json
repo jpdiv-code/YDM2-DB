@@ -1,0 +1,21 @@
+{
+  "id": 28373620,
+  "name": "Geri the Runick Fangs",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 \"Runick\" monsters\nIf this card is Special Summoned from the Extra Deck: You can target 1 \"Runick\" Spell in your GY, except a Quick-Play Spell; add it to your hand. Cannot be destroyed by card effects. When this card is destroyed by battle: You can target 1 card on the field; destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28373620.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Beast",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}
