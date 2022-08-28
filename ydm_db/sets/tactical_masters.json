@@ -1,0 +1,449 @@
+{
+  "name": "Tactical Masters",
+  "code": "TAMA",
+  "type": "Deck Build Pack",
+  "date": "25-08-2022",
+  "image": "https://ms.yugipedia.com//0/0a/TAMA-BoosterEN.png",
+  "pull_type": "distribution",
+  "distribution": "deck_build_pack",
+  "cards": [
+    {
+      "id": 49131917,
+      "code": "TAMA-EN001",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49131917,
+      "code": "TAMA-EN001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15130912,
+      "code": "TAMA-EN002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41525660,
+      "code": "TAMA-EN003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88919365,
+      "code": "TAMA-EN004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14418464,
+      "code": "TAMA-EN005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41802073,
+      "code": "TAMA-EN006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87897777,
+      "code": "TAMA-EN007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13291886,
+      "code": "TAMA-EN008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40680521,
+      "code": "TAMA-EN009",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40680521,
+      "code": "TAMA-EN009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76075139,
+      "code": "TAMA-EN010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13179234,
+      "code": "TAMA-EN011",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13179234,
+      "code": "TAMA-EN011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49568943,
+      "code": "TAMA-EN012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75952542,
+      "code": "TAMA-EN013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2347656,
+      "code": "TAMA-EN014",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2347656,
+      "code": "TAMA-EN014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48745395,
+      "code": "TAMA-EN015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75730490,
+      "code": "TAMA-EN016",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75730490,
+      "code": "TAMA-EN016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1225009,
+      "code": "TAMA-EN017",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1225009,
+      "code": "TAMA-EN017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37629703,
+      "code": "TAMA-EN018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74018812,
+      "code": "TAMA-EN019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2511,
+      "code": "TAMA-EN020",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33407125,
+      "code": "TAMA-EN021",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33407125,
+      "code": "TAMA-EN021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69895264,
+      "code": "TAMA-EN022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5380979,
+      "code": "TAMA-EN023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32785578,
+      "code": "TAMA-EN024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68779682,
+      "code": "TAMA-EN025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5168381,
+      "code": "TAMA-EN026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92107604,
+      "code": "TAMA-EN027",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92107604,
+      "code": "TAMA-EN027",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29595202,
+      "code": "TAMA-EN028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31562086,
+      "code": "TAMA-EN029",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31562086,
+      "code": "TAMA-EN029",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68957034,
+      "code": "TAMA-EN030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94445733,
+      "code": "TAMA-EN031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66712905,
+      "code": "TAMA-EN032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30430448,
+      "code": "TAMA-EN033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67835547,
+      "code": "TAMA-EN034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20618850,
+      "code": "TAMA-EN035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93229151,
+      "code": "TAMA-EN036",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55990317,
+      "code": "TAMA-EN037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92385016,
+      "code": "TAMA-EN038",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28373620,
+      "code": "TAMA-EN039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76794549,
+      "code": "TAMA-EN040",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76794549,
+      "code": "TAMA-EN040",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35480699,
+      "code": "TAMA-EN041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63394872,
+      "code": "TAMA-EN042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73915051,
+      "code": "TAMA-EN043",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73915051,
+      "code": "TAMA-EN043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94192409,
+      "code": "TAMA-EN044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80101899,
+      "code": "TAMA-EN045",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80101899,
+      "code": "TAMA-EN045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56647086,
+      "code": "TAMA-EN046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60990740,
+      "code": "TAMA-EN048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23898021,
+      "code": "TAMA-EN049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80141055,
+      "code": "TAMA-EN050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25643346,
+      "code": "TAMA-EN051",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45869829,
+      "code": "TAMA-EN052",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8267140,
+      "code": "TAMA-EN053",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8267140,
+      "code": "TAMA-EN053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65646587,
+      "code": "TAMA-EN054",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37469904,
+      "code": "TAMA-EN055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58921041,
+      "code": "TAMA-EN056",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58921041,
+      "code": "TAMA-EN056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37576645,
+      "code": "TAMA-EN057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30459350,
+      "code": "TAMA-EN058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60743819,
+      "code": "TAMA-EN059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42378577,
+      "code": "TAMA-EN060",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}
