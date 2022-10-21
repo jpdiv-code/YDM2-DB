@@ -1,0 +1,287 @@
+{
+  "name": "Structure Deck: Legend of the Crystal Beasts",
+  "code": "SDCB",
+  "type": "Structure Deck",
+  "date": "29-09-2022",
+  "image": "https://ms.yugipedia.com//thumb/7/7b/SDCB-DeckEN.png/257px-SDCB-DeckEN.png",
+  "pull_type": "distribution",
+  "distribution": "full",
+  "cards": [
+    {
+      "id": 32710364,
+      "code": "SDCB-EN001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32933942,
+      "code": "SDCB-EN002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68215963,
+      "code": "SDCB-EN003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95600067,
+      "code": "SDCB-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69937550,
+      "code": "SDCB-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21698716,
+      "code": "SDCB-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7093411,
+      "code": "SDCB-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79407975,
+      "code": "SDCB-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87475570,
+      "code": "SDCB-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14469229,
+      "code": "SDCB-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32491822,
+      "code": "SDCB-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91800273,
+      "code": "SDCB-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87170768,
+      "code": "SDCB-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14558127,
+      "code": "SDCB-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73642296,
+      "code": "SDCB-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12877076,
+      "code": "SDCB-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58371671,
+      "code": "SDCB-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34487429,
+      "code": "SDCB-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63945693,
+      "code": "SDCB-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95326659,
+      "code": "SDCB-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35486099,
+      "code": "SDCB-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72881007,
+      "code": "SDCB-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8275702,
+      "code": "SDCB-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47408488,
+      "code": "SDCB-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10004783,
+      "code": "SDCB-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60876124,
+      "code": "SDCB-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40854824,
+      "code": "SDCB-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12644061,
+      "code": "SDCB-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48800175,
+      "code": "SDCB-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35726888,
+      "code": "SDCB-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8267140,
+      "code": "SDCB-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85766789,
+      "code": "SDCB-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11155484,
+      "code": "SDCB-EN033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47149093,
+      "code": "SDCB-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47121070,
+      "code": "SDCB-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87259933,
+      "code": "SDCB-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36328300,
+      "code": "SDCB-EN037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11136371,
+      "code": "SDCB-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31044787,
+      "code": "SDCB-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89208725,
+      "code": "SDCB-EN040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79856792,
+      "code": "SDCB-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10034401,
+      "code": "SDCB-EN042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37440988,
+      "code": "SDCB-EN043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36795102,
+      "code": "SDCB-EN044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10938846,
+      "code": "SDCB-EN045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9334391,
+      "code": "SDCB-EN046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}
