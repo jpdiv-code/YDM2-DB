@@ -4,8 +4,7 @@
   "type": "Structure Deck",
   "date": "29-09-2022",
   "image": "https://ms.yugipedia.com//thumb/7/7b/SDCB-DeckEN.png/257px-SDCB-DeckEN.png",
-  "pull_type": "distribution",
-  "distribution": "full",
+  "pull_type": "full",
   "cards": [
     {
       "id": 32710364,
