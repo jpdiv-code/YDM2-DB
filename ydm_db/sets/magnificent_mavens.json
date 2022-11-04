@@ -80,12 +80,6 @@
             "image_index": 0
         },
         {
-            "id": 52340445,
-            "code": "MAMA-EN013",
-            "rarity": "Ultra Rare",
-            "image_index": 0
-        },
-        {
             "id": 36114945,
             "code": "MAMA-EN014",
             "rarity": "Ultra Rare",
@@ -446,12 +440,6 @@
             "image_index": 0
         },
         {
-            "id": 85289966,
-            "code": "MAMA-EN072",
-            "rarity": "Ultra Rare",
-            "image_index": 0
-        },
-        {
             "id": 49202162,
             "code": "MAMA-EN073",
             "rarity": "Ultra Rare",
@@ -650,25 +638,19 @@
             "image_index": 0
         },
         {
-            "id": 8198621,
-            "code": "MAMA-EN102",
-            "rarity": "Ultra Rare",
-            "image_index": 0
-        },
-        {
             "id": 89631139,
             "code": "MAMA-EN104",
             "rarity": "Ultra Rare (Pharaoh's Rare)",
             "image_index": 0
         },
         {
-            "id": 74677427,
+            "id": 74677422,
             "code": "MAMA-EN105",
             "rarity": "Ultra Rare (Pharaoh's Rare)",
             "image_index": 0
         },
         {
-            "id": 89943724,
+            "id": 89943723,
             "code": "MAMA-EN106",
             "rarity": "Ultra Rare (Pharaoh's Rare)",
             "image_index": 0
