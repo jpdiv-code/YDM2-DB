@@ -1,0 +1,12 @@
+{
+  "id": 47149093,
+  "name": "Crystal Brilliance",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can only control 1 \"Crystal Brilliance\". \"Crystal Beast\" monsters you control gain ATK equal to their original DEF. If a \"Crystal Beast\" card(s) is placed in your Spell \u0026 Trap Zone (even during the Damage Step): You can send this face-up card from your Spell \u0026 Trap Zone to the GY; Special Summon 1 \"Crystal Beast\" monster from your hand or GY, also any damage you take this turn is halved.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/47149093.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}
