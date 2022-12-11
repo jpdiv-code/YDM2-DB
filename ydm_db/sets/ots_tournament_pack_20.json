@@ -1,0 +1,167 @@
+{
+  "name": "OTS Tournament Pack 20",
+  "code": "OP20",
+  "type": "OTS Tournament Pack",
+  "date": "20-10-22",
+  "image": "https://ms.yugipedia.com//0/0c/OP20-BoosterEN.png",
+  "pull_type": "distribution",
+  "distribution": "ots_tournament_pack",
+  "cards": [
+    {
+      "id": 62015408,
+      "code": "OP20-EN001",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26077387,
+      "code": "OP20-EN002",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62962630,
+      "code": "OP20-EN003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11021521,
+      "code": "OP20-EN004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17266660,
+      "code": "OP20-EN005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68353324,
+      "code": "OP20-EN006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52296675,
+      "code": "OP20-EN007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64487132,
+      "code": "OP20-EN008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37260946,
+      "code": "OP20-EN009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37354507,
+      "code": "OP20-EN010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79324191,
+      "code": "OP20-EN011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83266092,
+      "code": "OP20-EN012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12160911,
+      "code": "OP20-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79109599,
+      "code": "OP20-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24694698,
+      "code": "OP20-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95027497,
+      "code": "OP20-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73534250,
+      "code": "OP20-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76913983,
+      "code": "OP20-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73445448,
+      "code": "OP20-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21044178,
+      "code": "OP20-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26232916,
+      "code": "OP20-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6459419,
+      "code": "OP20-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50766506,
+      "code": "OP20-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47594939,
+      "code": "OP20-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3734202,
+      "code": "OP20-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10632284,
+      "code": "OP20-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

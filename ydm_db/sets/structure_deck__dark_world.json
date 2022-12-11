@@ -1,0 +1,280 @@
+{
+  "name": "Structure Deck: Dark World",
+  "code": "SR13",
+  "type": "Structure Deck",
+  "date": "01-12-22",
+  "image": "https://ms.yugipedia.com//thumb/3/37/SR13-DeckEN.png/257px-SR13-DeckEN.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 41406613,
+      "code": "SR13-EN001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77895328,
+      "code": "SR13-EN002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3289027,
+      "code": "SR13-EN003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99458769,
+      "code": "SR13-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34968834,
+      "code": "SR13-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15667446,
+      "code": "SR13-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78004197,
+      "code": "SR13-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32619583,
+      "code": "SR13-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6214884,
+      "code": "SR13-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33731070,
+      "code": "SR13-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79126789,
+      "code": "SR13-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5498296,
+      "code": "SR13-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25847467,
+      "code": "SR13-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51232472,
+      "code": "SR13-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7623640,
+      "code": "SR13-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7459013,
+      "code": "SR13-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60606759,
+      "code": "SR13-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43316238,
+      "code": "SR13-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90807199,
+      "code": "SR13-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52350806,
+      "code": "SR13-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99745551,
+      "code": "SR13-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23898021,
+      "code": "SR13-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47217354,
+      "code": "SR13-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60990740,
+      "code": "SR13-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30284022,
+      "code": "SR13-EN025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76672730,
+      "code": "SR13-EN026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74117290,
+      "code": "SR13-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85325774,
+      "code": "SR13-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93431518,
+      "code": "SR13-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93554166,
+      "code": "SR13-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16435215,
+      "code": "SR13-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72892473,
+      "code": "SR13-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3167439,
+      "code": "SR13-EN033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29826127,
+      "code": "SR13-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10131855,
+      "code": "SR13-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41930553,
+      "code": "SR13-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15800838,
+      "code": "SR13-EN037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35027493,
+      "code": "SR13-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38761908,
+      "code": "SR13-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82732705,
+      "code": "SR13-EN040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39552584,
+      "code": "SR13-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65956182,
+      "code": "SR13-EN042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34230233,
+      "code": "SR13-EN043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60228941,
+      "code": "SR13-EN044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33017655,
+      "code": "SR13-EN045",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
