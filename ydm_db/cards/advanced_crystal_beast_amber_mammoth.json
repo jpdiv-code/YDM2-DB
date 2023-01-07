@@ -1,0 +1,21 @@
+{
+  "id": 18847598,
+  "name": "Advanced Crystal Beast Amber Mammoth",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If \"Advanced Dark\" is not in the Field Zone, send this monster to the GY. Once per turn, when your opponent activates a card or effect that targets your \"Advanced Crystal Beast\" card(s) and/or \"Advanced Dark\" (Quick Effect): You can negate the activation. Once per turn, when your \"Advanced Crystal Beast\" monster is targeted for an attack: You can negate the attack. If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell \u0026 Trap Zone as a Continuous Spell, instead of sending it to the GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/18847598.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1700,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

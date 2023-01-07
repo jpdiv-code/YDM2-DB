@@ -1,0 +1,24 @@
+{
+  "id": 24151924,
+  "name": "G Golem Invalid Dolmen",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ EARTH monsters\nYour co-linked monsters are unaffected by monster effects activated on your opponent\u0027s field. Your opponent\u0027s monsters must attack this card, if able. Once per turn: You can discard 1 Cyberse monster; draw 1 card. If this co-linked card is destroyed: You can negate the effects of all face-up cards your opponent currently controls.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/24151924.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2800,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": [
+    "Left",
+    "Right",
+    "Top"
+  ]
+}
