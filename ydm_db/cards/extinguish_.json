@@ -1,0 +1,12 @@
+{
+  "id": 99162522,
+  "name": "EXTINGUISH!",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as a \"Rescue-ACE\" card.)\nIf you control a \"Rescue-ACE\" monster: Target 1 Effect Monster your opponent controls; destroy it, then, if you control \"Rescue-ACE Hydrant\", this turn, your opponent cannot activate the effects of the destroyed monster or monsters with the same original name.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/99162522.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

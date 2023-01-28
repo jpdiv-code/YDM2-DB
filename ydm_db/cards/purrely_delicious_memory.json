@@ -1,0 +1,12 @@
+{
+  "id": 55584558,
+  "name": "Purrely Delicious Memory",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Make 1 monster on the field unable to be destroyed by battle (until the end of the next turn), then you can discard 1 card, and if you do, Special Summon 1 Level 1 \"Purrely\" monster from your Deck. A \"Purrely\" Xyz Monster that has this card as material gains this effect.\n? Gains 300 ATK/DEF for each material attached to it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/55584558.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}
