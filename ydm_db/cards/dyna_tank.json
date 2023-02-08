@@ -9,6 +9,7 @@
   ],
   "type": "Monster",
   "attribute": "EARTH",
+  "atk": 0,
   "species": "Machine",
   "monster_type": "Fusion",
   "is_pendulum": false,
