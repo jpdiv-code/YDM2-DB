@@ -1,0 +1,21 @@
+{
+  "id": 51522296,
+  "name": "Dogmatika Alba Zoa",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Ritual Summoned, except by \"Dogmatikalamity\" or another \"Dogmatika\" card effect. \"Dogmatika\" monsters you control are unaffected by the activated effects of your opponent\u0027s Fusion, Synchro, Xyz, and Link Monsters. During your Main Phase: You can make your opponent choose and apply 1 of these effects (\u0027you\u0027 in these effects means that opponent).\n? For every 2 cards in your Extra Deck, send 1 card from your hand or Extra Deck to the GY.\n? Return all Fusion, Synchro, Xyz, and Link Monsters you control to the Extra Deck.\nYou can only use this effect of \"Dogmatika Alba Zoa\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/51522296.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 4000,
+  "species": "Spellcaster",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 4000,
+  "level": 12,
+  "is_tuner": false
+}

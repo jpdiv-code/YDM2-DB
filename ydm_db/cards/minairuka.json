@@ -1,0 +1,21 @@
+{
+  "id": 61845881,
+  "name": "Minairuka",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a WATER monster\u0027s effect is activated (Quick Effect): You can Special Summon this card from your hand. You can banish 1 face-up Fish, Sea Serpent, or Aqua monster you control, then target 1 face-up card on the field; negate its effects until the end of your opponent\u0027s turn. You can only use each effect of \"Minairuka\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/61845881.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1500,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
+}

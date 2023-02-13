@@ -1,0 +1,20 @@
+{
+  "id": 48626373,
+  "name": "Kashtira Arise-Heart",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 Level 7 monsters\nOnce per turn, if \"Kashtira Shangri-Ira\" activated its effect(s) this turn, you can also Xyz Summon \"Kashtira Arise-Heart\" by using a \"Kashtira\" monster you control. (Transfer its materials to this card.) Any card sent to the GY is banished instead. Once per Chain, each time a card(s) is banished: Attach 1 banished card to this card as material. Once per turn (Quick Effect): You can detach 3 materials from this card, then target 1 card on the field; banish it face-down.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/48626373.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Machine",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "rank": 7
+}
