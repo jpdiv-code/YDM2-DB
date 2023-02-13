@@ -5,7 +5,7 @@
   "date": "13-08-2021",
   "image": "https://ygoprodeck.com/pics_sets/DAMA.jpg",
   "pull_type": "distribution",
-  "distribution": "booster_pack_with_starlight_rare",
+  "distribution": "booster_pack_without_rare_with_starlight_rare",
   "cards": [
     {
       "id": 2656842,
@@ -635,12 +635,6 @@
       "id": 35870016,
       "code": "DAMA-099",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 44508094,
-      "code": "DAMA-100",
-      "rarity": "Rare",
       "image_index": 0
     },
     {
