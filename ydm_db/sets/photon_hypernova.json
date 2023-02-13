@@ -1,0 +1,665 @@
+{
+  "name": "Photon Hypernova",
+  "code": "PHHY",
+  "type": "Booster pack",
+  "date": "09-02-23",
+  "image": "https://ms.yugipedia.com//b/b3/PHHY-BoosterEN.png",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_with_starlight_rare",
+  "cards": [
+    {
+      "id": 59494222,
+      "code": "PHHY-EN000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73478096,
+      "code": "PHHY-EN001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 863795,
+      "code": "PHHY-EN002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46261704,
+      "code": "PHHY-EN003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72656408,
+      "code": "PHHY-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5141117,
+      "code": "PHHY-EN005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31149212,
+      "code": "PHHY-EN006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78534861,
+      "code": "PHHY-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4928565,
+      "code": "PHHY-EN008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30327674,
+      "code": "PHHY-EN009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77312273,
+      "code": "PHHY-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3806388,
+      "code": "PHHY-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30291086,
+      "code": "PHHY-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66699781,
+      "code": "PHHY-EN013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3084730,
+      "code": "PHHY-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39078434,
+      "code": "PHHY-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65477143,
+      "code": "PHHY-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92962242,
+      "code": "PHHY-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38356857,
+      "code": "PHHY-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65351555,
+      "code": "PHHY-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91749600,
+      "code": "PHHY-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27134209,
+      "code": "PHHY-EN021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64538914,
+      "code": "PHHY-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90027012,
+      "code": "PHHY-EN023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27012717,
+      "code": "PHHY-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53416326,
+      "code": "PHHY-EN025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99801464,
+      "code": "PHHY-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26259179,
+      "code": "PHHY-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52254878,
+      "code": "PHHY-EN028",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99748883,
+      "code": "PHHY-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25137581,
+      "code": "PHHY-EN030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51522296,
+      "code": "PHHY-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51522296,
+      "code": "PHHY-EN031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88926295,
+      "code": "PHHY-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88926295,
+      "code": "PHHY-EN032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24915933,
+      "code": "PHHY-EN033",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24915933,
+      "code": "PHHY-EN033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51409648,
+      "code": "PHHY-EN034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87804747,
+      "code": "PHHY-EN035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13298352,
+      "code": "PHHY-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50687050,
+      "code": "PHHY-EN037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86682165,
+      "code": "PHHY-EN038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13076804,
+      "code": "PHHY-EN039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49565413,
+      "code": "PHHY-EN040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85969517,
+      "code": "PHHY-EN041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85969517,
+      "code": "PHHY-EN041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12954226,
+      "code": "PHHY-EN042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48348921,
+      "code": "PHHY-EN043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85747929,
+      "code": "PHHY-EN044",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11132674,
+      "code": "PHHY-EN045",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48626373,
+      "code": "PHHY-EN046",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48626373,
+      "code": "PHHY-EN046",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74615388,
+      "code": "PHHY-EN047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10019086,
+      "code": "PHHY-EN048",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10019086,
+      "code": "PHHY-EN048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47404795,
+      "code": "PHHY-EN049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73898890,
+      "code": "PHHY-EN050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 897409,
+      "code": "PHHY-EN051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46382143,
+      "code": "PHHY-EN052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72776252,
+      "code": "PHHY-EN053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9175957,
+      "code": "PHHY-EN054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35569555,
+      "code": "PHHY-EN055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35569555,
+      "code": "PHHY-EN055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72554664,
+      "code": "PHHY-EN056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8953369,
+      "code": "PHHY-EN057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34447918,
+      "code": "PHHY-EN058",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71832012,
+      "code": "PHHY-EN059",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7236721,
+      "code": "PHHY-EN060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34225426,
+      "code": "PHHY-EN061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60619435,
+      "code": "PHHY-EN062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6004133,
+      "code": "PHHY-EN063",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33503878,
+      "code": "PHHY-EN064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9597987,
+      "code": "PHHY-EN065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36982581,
+      "code": "PHHY-EN066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72386290,
+      "code": "PHHY-EN067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8775395,
+      "code": "PHHY-EN068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35269904,
+      "code": "PHHY-EN069",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61264008,
+      "code": "PHHY-EN070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8653757,
+      "code": "PHHY-EN071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34047456,
+      "code": "PHHY-EN072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60442460,
+      "code": "PHHY-EN073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7436169,
+      "code": "PHHY-EN074",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33925864,
+      "code": "PHHY-EN075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60329973,
+      "code": "PHHY-EN076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92714517,
+      "code": "PHHY-EN077",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39103226,
+      "code": "PHHY-EN078",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65107325,
+      "code": "PHHY-EN079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91592030,
+      "code": "PHHY-EN080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61845881,
+      "code": "PHHY-EN081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97240499,
+      "code": "PHHY-EN082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24634594,
+      "code": "PHHY-EN083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60622305,
+      "code": "PHHY-EN084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96127902,
+      "code": "PHHY-EN085",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23512906,
+      "code": "PHHY-EN086",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59900655,
+      "code": "PHHY-EN087",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96305350,
+      "code": "PHHY-EN088",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96305350,
+      "code": "PHHY-EN088",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22390469,
+      "code": "PHHY-EN089",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58884063,
+      "code": "PHHY-EN090",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95283172,
+      "code": "PHHY-EN091",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21677871,
+      "code": "PHHY-EN092",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12527118,
+      "code": "PHHY-EN093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13302026,
+      "code": "PHHY-EN094",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86605515,
+      "code": "PHHY-EN095",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23099524,
+      "code": "PHHY-EN096",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85888377,
+      "code": "PHHY-EN097",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15198996,
+      "code": "PHHY-EN098",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9627468,
+      "code": "PHHY-EN099",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44146295,
+      "code": "PHHY-EN100",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    }
+  ]
+}
