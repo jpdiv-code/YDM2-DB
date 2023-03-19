@@ -1,0 +1,12 @@
+{
+  "id": 65433790,
+  "name": "Battle Royal Mode - Joining",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate this card by targeting 1 Effect Monster on the field. The first 2 times that monster would be destroyed by battle each turn, it is not destroyed. When that monster is destroyed by battle, the player that destroyed it gains 2000 LP. If the turn player\u0027s opponent takes battle or effect damage: Activate this effect; they can apply the following effect.\n? Special Summon 1 Level 4 or lower monster from your hand or Deck, and if you do, you lose 2000 LP.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/65433790.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}
