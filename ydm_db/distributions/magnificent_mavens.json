@@ -1,0 +1,33 @@
+{
+  "name": "magnificent_mavens",
+  "pulls": [
+    {
+      "weight": 575,
+      "entries": [
+        {
+          "count": 5,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare (Pharaoh's Rare)"
+          ]
+        }
+      ]
+    }
+  ]
+}
