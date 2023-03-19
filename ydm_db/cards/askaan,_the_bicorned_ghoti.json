@@ -1,1 +1,21 @@
-{"id": 101109089, "name": "Askaan, the Bicorned Ghoti", "is_illegal": false, "is_custom": false, "text": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can target 1 Fish monster you control and 1 card your opponent controls; banish them. If this card is banished: You can banish 1 Fish monster from your GY; Special Summon this card. You can only use each effect of \"Askaan, the Bicorned Ghoti\" once per turn.", "images": ["https://storage.googleapis.com/ygoprodeck.com/pics/101109089.jpg"], "type": "Monster", "attribute": "WATER", "atk": 2700, "species": "Fish", "monster_type": "Synchro", "is_pendulum": false, "ability": " ", "has_effect": true, "def": 0, "level": 8, "is_tuner": false}
+{
+    "id": 46815301,
+    "name": "Askaan, the Bicorned Ghoti",
+    "is_illegal": false,
+    "is_custom": false,
+    "text": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can target 1 Fish monster you control and 1 card your opponent controls; banish them. If this card is banished: You can banish 1 Fish monster from your GY; Special Summon this card. You can only use each effect of \"Askaan, the Bicorned Ghoti\" once per turn.",
+    "images": [
+        "https://storage.googleapis.com/ygoprodeck.com/pics/101109089.jpg"
+    ],
+    "type": "Monster",
+    "attribute": "WATER",
+    "atk": 2700,
+    "species": "Fish",
+    "monster_type": "Synchro",
+    "is_pendulum": false,
+    "ability": " ",
+    "has_effect": true,
+    "def": 0,
+    "level": 8,
+    "is_tuner": false
+}
