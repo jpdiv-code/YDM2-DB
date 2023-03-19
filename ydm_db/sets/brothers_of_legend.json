@@ -1,11 +1,11 @@
 {
   "name": "Brothers of Legend",
   "code": "BROL",
-  "type": "60 Card Set",
+  "type": "Battles of Legend",
   "date": "02-12-2021",
   "image": "https://ygoprodeck.com/pics_sets/BROL.jpg",
   "pull_type": "distribution",
-  "distribution": "battles_of_legend__armageddon",
+  "distribution": "battles_of_legend__crystal_revenge",
   "cards": [
     {
       "id": 69610924,
@@ -86,7 +86,7 @@
       "image_index": 0
     },
     {
-      "id": 100278013,
+      "id": 34293667,
       "code": "BROL-EN013",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -254,7 +254,7 @@
       "image_index": 0
     },
     {
-      "id": 100278041,
+      "id": 28270534,
       "code": "BROL-EN041",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -356,9 +356,15 @@
       "image_index": 0
     },
     {
-      "id": 10034202,
+      "id": 31123642,
       "code": "BROL-EN058",
       "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84013237,
+      "code": "BROL-EN059",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
