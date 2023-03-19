@@ -1,11 +1,11 @@
 {
   "name": "Battles of Legend: Crystal Revenge",
   "code": "BLCR",
-  "type": "60 Card Set",
+  "type": "Battles of Legend",
   "date": "17-11-2022",
   "image": "https://ms.yugipedia.com//thumb/7/78/BLCR-BoxEN.png/257px-BLCR-BoxEN.png",
   "pull_type": "distribution",
-  "distribution": "60_card_set",
+  "distribution": "battles_of_legend__crystal_revenge",
   "cards": [
     {
       "id": 11020863,
