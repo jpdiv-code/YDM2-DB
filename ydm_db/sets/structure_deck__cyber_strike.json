@@ -1,0 +1,298 @@
+{
+  "name": "Structure Deck: Cyber Strike",
+  "code": "SDCS",
+  "type": "Structure Deck",
+  "date": "14-10-2021",
+  "image": "https://ygoprodeck.com/pics_sets/SDCS.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 79875526,
+      "code": "SDCS-EN001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5370235,
+      "code": "SDCS-EN002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70095154,
+      "code": "SDCS-EN003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5373478,
+      "code": "SDCS-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59281922,
+      "code": "SDCS-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29975188,
+      "code": "SDCS-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1142880,
+      "code": "SDCS-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23893227,
+      "code": "SDCS-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56364287,
+      "code": "SDCS-EN009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29719112,
+      "code": "SDCS-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3657444,
+      "code": "SDCS-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3370104,
+      "code": "SDCS-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41230939,
+      "code": "SDCS-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77625948,
+      "code": "SDCS-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3019642,
+      "code": "SDCS-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45078193,
+      "code": "SDCS-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82562802,
+      "code": "SDCS-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70298454,
+      "code": "SDCS-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63941210,
+      "code": "SDCS-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71197066,
+      "code": "SDCS-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16229315,
+      "code": "SDCS-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32768230,
+      "code": "SDCS-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64753988,
+      "code": "SDCS-EN023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86686671,
+      "code": "SDCS-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60600126,
+      "code": "SDCS-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55704856,
+      "code": "SDCS-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80033124,
+      "code": "SDCS-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44352516,
+      "code": "SDCS-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77565204,
+      "code": "SDCS-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6498706,
+      "code": "SDCS-EN030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59432181,
+      "code": "SDCS-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63995093,
+      "code": "SDCS-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23171610,
+      "code": "SDCS-EN033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1157683,
+      "code": "SDCS-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18597560,
+      "code": "SDCS-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10045474,
+      "code": "SDCS-EN036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76403456,
+      "code": "SDCS-EN037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97077563,
+      "code": "SDCS-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98414735,
+      "code": "SDCS-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82428674,
+      "code": "SDCS-EN040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1546123,
+      "code": "SDCS-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64599569,
+      "code": "SDCS-EN042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18967507,
+      "code": "SDCS-EN043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37542782,
+      "code": "SDCS-EN044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40418351,
+      "code": "SDCS-EN045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63031396,
+      "code": "SDCS-EN046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37630732,
+      "code": "SDCS-EN047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3659803,
+      "code": "SDCS-EN048",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
