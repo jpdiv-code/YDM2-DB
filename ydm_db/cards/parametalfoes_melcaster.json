@@ -5,7 +5,7 @@
   "is_custom": false,
   "text": "If this card on the field is destroyed by battle or card effect: You can add 1 face-up \"Metalfoes\" Pendulum Monster from your Extra Deck to your hand, except \"Parametalfoes Melcaster\", but you cannot activate it, or cards with its name, to place it in the Pendulum Zones, for the rest of this turn, except by card effect. You can only use this effect of \"Parametalfoes Melcaster\" once per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/10024317.jpg"
+    "https://images.ygoprodeck.com/images/cards/10024317.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",
@@ -18,7 +18,7 @@
   "def": 2500,
   "level": 7,
   "is_tuner": false,
-  "pendulum_text": "",
+  "pendulum_text": "Once per turn: You can target 1 other face-up card you control; destroy it, and if you do, Set 1 \"Metalfoes\" Spell/Trap directly from your Deck.\n[ Monster Effect ] If this card on the field is destroyed by battle or card effect: You can add 1 face-up \"Metalfoes\" Pendulum Monster from your Extra Deck to your hand, except \"Parametalfoes Melcaster\", but you cannot activate it, or cards with its name, to place it in the Pendulum Zones, for the rest of this turn, except by card effect. You can only use this effect of \"Parametalfoes Melcaster\" once per turn.",
   "pendulum_scale_left_blue": 1,
   "pendulum_scale_right_red": 1
 }

@@ -3,9 +3,9 @@
   "name": "White Steed of the Floral Knights",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a Level 2 or lower monster, you can Special Summon this card (from your hand) in Defense Position. You can only Special Summon \"White Steed of the Floral Knights\" once per turn this way. When an opponent\u0027s monster declares an attack: You can banish this card from your GY, then target 1 card you control; negate the attack, and if you do, destroy the targeted card. You can only use this effect of \"White Steed of the Floral Knights\" once per turn.",
+  "text": "If you control a Level 2 or lower monster, you can Special Summon this card (from your hand) in Defense Position. You can only Special Summon \"White Steed of the Floral Knights\" once per turn this way. When an opponent\u0027s monster declares an attack: You can banish this card from your GY, then target 1 card you control; negate the attack, and if you do, destroy that targeted card. You can only use this effect of \"White Steed of the Floral Knights\" once per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/11426487.jpg"
+    "https://images.ygoprodeck.com/images/cards/11426487.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",

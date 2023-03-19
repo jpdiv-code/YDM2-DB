@@ -3,9 +3,9 @@
   "name": "Cyber-Stein",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(This card is not treated as a \"Cyber\" card.)\nYou can pay 5000 LP; Special Summon 1 Fusion Monster from your Extra Deck in Attack Position.",
+  "text": "You can pay 5000 LP; Special Summon 1 Fusion Monster from your Extra Deck in Attack Position.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/69015963.jpg"
+    "https://images.ygoprodeck.com/images/cards/69015963.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

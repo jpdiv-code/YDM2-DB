@@ -3,9 +3,9 @@
   "name": "Kuriboo",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(This card is also always treated as a \"Kuriboh\" card.)\nWhen an opponent\u0027s monster declares an attack: You can discard this card; add 1 \"Kuriboh\" monster from your Deck to your hand, except \"Kuriboo\". Once per turn (Quick Effect): You can discard 1 Trap, then target 1 face-up monster your opponent controls; it loses 1500 ATK until the end of this turn.",
+  "text": "(This card is always treated as a \"Kuriboh\" card.)\nWhen an opponent\u0027s monster declares an attack: You can discard this card; add 1 \"Kuriboh\" monster from your Deck to your hand, except \"Kuriboo\". Once per turn (Quick Effect): You can discard 1 Trap, then target 1 face-up monster your opponent controls; it loses 1500 ATK until the end of this turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/7021574.jpg"
+    "https://images.ygoprodeck.com/images/cards/7021574.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

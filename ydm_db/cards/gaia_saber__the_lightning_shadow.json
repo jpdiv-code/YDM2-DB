@@ -5,7 +5,7 @@
   "is_custom": false,
   "text": "2+ monsters",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/67598234.jpg"
+    "https://images.ygoprodeck.com/images/cards/67598234.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
@@ -14,7 +14,7 @@
   "monster_type": "Link",
   "is_pendulum": false,
   "ability": "",
-  "has_effect": true,
+  "has_effect": false,
   "link_rating": 3,
   "link_arrows": [
     "Left",

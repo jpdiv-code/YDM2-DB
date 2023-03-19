@@ -3,9 +3,9 @@
   "name": "Sunavalon Dryanome",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ Plant monsters\nThis card cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. Three times per turn, if you take battle or effect damage: You can gain that much LP, and if you do, Special Summon 1 \"Sunvine\" monster from your Extra Deck. Once per turn, when a monster this card points to is targeted for an attack: You can negate the attack, and if you do, move that monster you control to another of your Main Monster Zones. ",
+  "text": "2+ Plant monsters\nThis card cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. Three times per turn, if you take battle or effect damage: You can gain that much LP, and if you do, Special Summon 1 \"Sunvine\" monster from your Extra Deck. Once per turn, when a monster this card points to is targeted for an attack: You can negate the attack, and if you do, move that monster you control to another of your Main Monster Zones.",
   "images": [
-    "https://ygoprodeck.com/pics/65285459.jpg"
+    "https://images.ygoprodeck.com/images/cards/65285459.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
@@ -17,8 +17,8 @@
   "has_effect": true,
   "link_rating": 3,
   "link_arrows": [
-    "bottom",
-    "bottom-left",
-    "bottom-right"
+    "Bottom-Left",
+    "Bottom",
+    "Bottom-Right"
   ]
 }

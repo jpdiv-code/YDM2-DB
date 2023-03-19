@@ -3,9 +3,9 @@
   "name": "Reptilianne Melusine",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Reptile Tuner + 1+ non-Tuner monsters\nIf this card was Synchro Summoned using only Reptile monsters as material, it cannot be destroyed by battle or card effects. Once per Chain, when your opponent activates a monster effect (Quick Effect): You can target 1 face-up monster they control; change its ATK to 0. If this Synchro Summoned card you control is sent to your GY by an opponent\u0027s card: You can add 1 Reptile monster from your Deck to your hand.",
+  "text": "1 Reptile Tuner + 1+ non-Tuner monsters\nIf this card was Synchro Summoned using only Reptile monsters as material, it cannot be destroyed by battle or card effects. Once per Chain, when your opponent activates a monster effect, except during the Damage Step (Quick Effect): You can target 1 face-up monster your opponent controls; change its ATK to 0. If this Synchro Summoned card you control is sent to your GY by an opponent\u0027s card: You can add 1 Reptile monster from your Deck to your hand.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/32138660.jpg"
+    "https://images.ygoprodeck.com/images/cards/32138660.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

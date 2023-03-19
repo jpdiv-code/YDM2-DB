@@ -3,7 +3,7 @@
   "name": "Galaxy Photon Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 monsters\nAll other LIGHT monsters you control gain 500 ATK. You can only use each of the following effects of \"Galaxy Photon Dragon\" once per turn. You can detach 1 material from this card; take 1 \"Photon\" or \"Galaxy\" card from your Deck, and either add it to your hand or send it to the GY. If a LIGHT monster(s) that has a Level is Special Summoned to your field (except during the Damage Step): You can target 1 of them; its Level becomes 4 or 8 until the end of this turn.",
+  "text": "2 Level 4 monsters\nOther LIGHT monsters you control gain 500 ATK. You can only use each of the following effects of \"Galaxy Photon Dragon\" once per turn. You can detach 1 material from this card; either add 1 \"Photon\" or \"Galaxy\" card from your Deck to your hand, or send it to the GY. If a LIGHT monster(s) is Special Summoned to your field (except during the Damage Step): You can target 1 of those monsters; its Level becomes 4 or 8 until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/85747929.jpg"
   ],

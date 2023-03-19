@@ -3,9 +3,9 @@
   "name": "Starry Knight Orbitael",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(Quick Effect): You can target 1 LIGHT monster you control; Tribute it, and if you do, Set 1 \"Starry Knight\" Spell/Trap directly from your Deck. If a face-up Level 7 LIGHT Dragon monster you control returns to the hand while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of \"Starry Knight Orbitael\" once per turn.",
+  "text": "(Quick Effect): You can target 1 LIGHT monster you control; Tribute it, and if you do, Set 1 \"Starry Knight\" Spell/Trap directly from your Deck. If a face-up Level 7 LIGHT Dragon monster you control returns to the hand, while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of \"Starry Knight Orbitael\" once per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/44818.jpg"
+    "https://images.ygoprodeck.com/images/cards/44818.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",

@@ -1,1 +1,21 @@
-{"id": 29942771, "name": "Naturia Camellia", "is_illegal": false, "is_custom": false, "text": "If this card is Normal or Special Summoned: You can send 1 \"Naturia\" card from your Deck to the GY. If you would Tribute a monster(s) to activate a \"Naturia\" monster's effect, you can send the top 2 cards of your Deck to the GY instead. If your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can Special Summon 1 \"Naturia\" monster from your GY. You can only use each effect of \"Naturia Camellia\" once per turn.", "images": ["https://images.ygoprodeck.com/images/cards/29942771.jpg"], "type": "Monster", "attribute": "EARTH", "atk": 1400, "species": "Plant", "monster_type": "", "is_pendulum": false, "ability": " ", "has_effect": true, "def": 700, "level": 4, "is_tuner": true}
+{
+  "id": 29942771,
+  "name": "Naturia Camellia",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can send 1 \"Naturia\" card from your Deck to the GY. If you would Tribute a monster(s) to activate a \"Naturia\" monster\u0027s effect, you can send the top 2 cards of your Deck to the GY instead. If your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can Special Summon 1 \"Naturia\" monster from your GY. You can only use each effect of \"Naturia Camellia\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/29942771.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 700,
+  "level": 4,
+  "is_tuner": true
+}

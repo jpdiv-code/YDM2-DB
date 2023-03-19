@@ -3,9 +3,9 @@
   "name": "Sunavalon Dryades",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Plant monsters, including a \"Sunavalon\" Link Monster\nThis card cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. Twice per turn, if you take battle or effect damage: You can gain that much LP, and if you do, Special Summon 1 \"Sunvine\" monster from your Extra Deck. ",
+  "text": "2 Plant monsters, including a \"Sunavalon\" Link Monster\nThis card cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. Twice per turn, if you take battle or effect damage: You can gain that much LP, and if you do, Special Summon 1 \"Sunvine\" monster from your Extra Deck.",
   "images": [
-    "https://ygoprodeck.com/pics/39880350.jpg"
+    "https://images.ygoprodeck.com/images/cards/39880350.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
@@ -17,7 +17,7 @@
   "has_effect": true,
   "link_rating": 2,
   "link_arrows": [
-    "bottom-left",
-    "bottom-right"
+    "Bottom-Left",
+    "Bottom-Right"
   ]
 }

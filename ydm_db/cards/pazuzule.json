@@ -5,7 +5,7 @@
   "is_custom": false,
   "text": "Pendulum Summons of your monsters cannot be negated.",
   "images": [
-    "https://ygoprodeck.com/pics/77384395.jpg"
+    "https://images.ygoprodeck.com/images/cards/77384395.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
@@ -18,7 +18,7 @@
   "def": 500,
   "level": 1,
   "is_tuner": false,
-  "pendulum_text": "Once per turn: You can target 1 card in your other Pendulum Zone; this card's Pendulum Scale becomes the Level of that Pendulum Monster Card until the end of this turn, also you cannot Special Summon for the rest of this turn, except by Pendulum Summon.",
+  "pendulum_text": "Once per turn: You can target 1 card in your other Pendulum Zone; this card\u0027s Pendulum Scale becomes the Level of that Pendulum Monster Card until the end of this turn, also you cannot Special Summon for the rest of this turn, except by Pendulum Summon.\n[ Monster Effect ] Pendulum Summons of your monsters cannot be negated.",
   "pendulum_scale_left_blue": 1,
   "pendulum_scale_right_red": 1
 }

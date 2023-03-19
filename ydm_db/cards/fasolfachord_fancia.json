@@ -3,9 +3,9 @@
   "name": "FaSolfachord Fancia",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While you have an odd Pendulum Scale in your Pendulum Zone, if your \"Solfachord\" Pendulum Monster would be destroyed by battle, you can destroy this card instead. During your Main Phase: You can add 1 \"Solfachord\" Pendulum Monster from your Deck to your Extra Deck face-up, except \"FaSolfachord Fancia\". You can only use this effect of \"FaSolfachord Fancia\" once per turn. ",
+  "text": "While you have an odd Pendulum Scale in your Pendulum Zone, if your \"Solfachord\" Pendulum Monster would be destroyed by battle, you can destroy this card instead. During your Main Phase: You can add 1 \"Solfachord\" Pendulum Monster from your Deck to your Extra Deck face-up, except \"FaSolfachord Fancia\". You can only use this effect of \"FaSolfachord Fancia\" once per turn.",
   "images": [
-    "https://ygoprodeck.com/pics/54100561.jpg"
+    "https://images.ygoprodeck.com/images/cards/54100561.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",
@@ -18,7 +18,7 @@
   "def": 400,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "Pendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated. ",
+  "pendulum_text": "Pendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.\n[ Monster Effect ] While you have an odd Pendulum Scale in your Pendulum Zone, if your \"Solfachord\" Pendulum Monster would be destroyed by battle, you can destroy this card instead. During your Main Phase: You can add 1 \"Solfachord\" Pendulum Monster from your Deck to your Extra Deck face-up, except \"FaSolfachord Fancia\". You can only use this effect of \"FaSolfachord Fancia\" once per turn.",
   "pendulum_scale_left_blue": 5,
   "pendulum_scale_right_red": 5
 }

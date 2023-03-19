@@ -1,1 +1,12 @@
-{"id": 7602800, "name": "Black Feather Whirlwind", "is_illegal": false, "is_custom": false, "text": "Once per turn, if you Special Summon a DARK Synchro Monster(s) from the Extra Deck: You can target 1 of your \"Blackwing\" monsters, or \"Black-Winged Dragon\", with lower ATK that is banished or in your GY; Special Summon it. Once per turn, if a DARK monster(s) you control would be destroyed by battle or card effect, you can remove 1 Black Feather Counter from your field instead.", "images": ["https://images.ygoprodeck.com/images/cards/7602800.jpg"], "type": "Spell", "spell_type": "Continuous"}
+{
+  "id": 7602800,
+  "name": "Black Feather Whirlwind",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, if you Special Summon a DARK Synchro Monster(s) from the Extra Deck: You can target 1 of your \"Blackwing\" monsters, or \"Black-Winged Dragon\", with lower ATK that is banished or in your GY; Special Summon it. Once per turn, if a DARK monster(s) you control would be destroyed by battle or card effect, you can remove 1 Black Feather Counter from your field instead.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/7602800.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

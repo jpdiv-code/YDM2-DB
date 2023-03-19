@@ -3,9 +3,9 @@
   "name": "Sunseed Twin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal or Special Summoned while you control a \"Sunavalon\" Link Monster: You can target 1 Level 4 or lower Plant Normal Monster in your GY; Special Summon it. You can banish this card in your GY and 1 Link Monster you control; if you have 2 or more Plant Link Monsters with the same name as each other in your GY, Special Summon 1 of them. You can only use each effect of \"Sunseed Twin\" once per turn. ",
+  "text": "If this card is Normal or Special Summoned while you control a \"Sunavalon\" Link Monster: You can target 1 Level 4 or lower Plant Normal Monster in your GY; Special Summon it. You can banish this card in your GY and 1 Link Monster you control; if you have 2 or more Plant Link Monsters with the same name as each other in your GY, Special Summon 1 of them. You can only use each effect of \"Sunseed Twin\" once per turn.",
   "images": [
-    "https://ygoprodeck.com/pics/66407907.jpg"
+    "https://images.ygoprodeck.com/images/cards/66407907.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
@@ -14,7 +14,7 @@
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",
-  "has_effect": false,
+  "has_effect": true,
   "def": 800,
   "level": 2,
   "is_tuner": false

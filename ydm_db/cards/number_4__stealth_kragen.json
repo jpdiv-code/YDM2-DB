@@ -3,9 +3,9 @@
   "name": "Number 4: Stealth Kragen",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 WATER monsters\nAll face-up monsters on the field become WATER. Once per turn, during the Main Phase (Quick Effect): You can destroy 1 WATER monster your opponent controls, and if you do, inflict damage to your opponent equal to half the ATK it had on the field. If this Xyz Summoned card is destroyed: You can Special Summon \"Kragen Spawn(s)\" from your Extra Deck, up to the number of materials this card had, then you can attach up to 1 WATER monster from your GY to each of them as material.",
+  "text": "2 Level 4 WATER monsters\nAll face-up monsters on the field become WATER. Once per turn, during the Main Phase (Quick Effect): You can destroy 1 WATER monster your opponent controls, and if you do, inflict damage to your opponent equal to half the ATK it had on the field. If this Xyz Summoned card is destroyed: You can Special Summon \"Stealth Kragen Spawn(s)\" from your Extra Deck, up to the number of materials this card had, then you can attach up to 1 WATER monster from your GY to each of those Special Summoned monsters as material.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/67557908.jpg"
+    "https://images.ygoprodeck.com/images/cards/67557908.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",

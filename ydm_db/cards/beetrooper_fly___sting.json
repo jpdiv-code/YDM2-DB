@@ -1,11 +1,11 @@
 {
-  "id": 01712616,
-  "name": "Beetrooper Fly & Sting",
+  "id": 1712616,
+  "name": "Beetrooper Fly \u0026 Sting",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When your opponent activates a monster effect , while you control a \"Beetrooper\" monster: Negate the activation, and if you do, destroy it. During your End Phase, if this card is in your GY and you control an Insect monster with 3000 or : You can banish 1 Insect monster from your GY; Set this card. You can only use 1 \"Beetrooper Fly & Sting\" effect per turn, and only once that turn .",
+  "text": "When your opponent activates a monster effect, while you control a \"Beetrooper\" monster: Negate the activation, and if you do, destroy it. During your End Phase, if this card is in your GY and you control an Insect monster with 3000 or more ATK: You can banish 1 Insect monster from your GY; Set this card. You can only use 1 \"Beetrooper Fly \u0026 Sting\" effect per turn, and only once that turn.",
   "images": [
-    "https://ms.yugipedia.com//thumb/8/86/BeetrooperFlySting-DAMA-EN-C-1E.png/414px-BeetrooperFlySting-DAMA-EN-C-1E.png"
+    "https://images.ygoprodeck.com/images/cards/1712616.jpg"
   ],
   "type": "Trap",
   "trap_type": "Counter"

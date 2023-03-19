@@ -5,7 +5,7 @@
   "is_custom": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/97204936.jpg"
+    "https://images.ygoprodeck.com/images/cards/97204936.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
@@ -14,7 +14,7 @@
   "monster_type": "Synchro",
   "is_pendulum": false,
   "ability": "",
-  "has_effect": true,
+  "has_effect": false,
   "def": 800,
   "level": 6,
   "is_tuner": false

@@ -1,1 +1,12 @@
-{"id": 75047173, "name": "Favorite Contact", "is_illegal": false, "is_custom": false, "text": "Special Summon 1 Fusion Monster from your Extra Deck that lists a \"HERO\" monster as material, by placing the materials listed on it on the bottom of the Deck in any order, from among the cards in your hand, on your field, in your GY, and/or your face-up banished cards, ignoring its Summoning conditions, and if you placed \"Elemental HERO Neos\", the Summoned monster cannot be returned to the Extra Deck. You can only activate 1 \"Favorite Contact\" per turn.", "images": ["https://storage.googleapis.com/ygoprodeck.com/pics/75047173.jpg"], "type": "Trap", "trap_type": "Normal"}
+{
+  "id": 75047173,
+  "name": "Favorite Contact",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summon 1 Fusion Monster from your Extra Deck that lists a \"HERO\" monster as material, by placing the materials listed on it on the bottom of the Deck in any order, from among the cards in your hand, on your field, in your GY, and/or your face-up banished cards, ignoring its Summoning conditions, and if you placed \"Elemental HERO Neos\", the Summoned monster cannot be returned to the Extra Deck. You can only activate 1 \"Favorite Contact\" per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/75047173.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

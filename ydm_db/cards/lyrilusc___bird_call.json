@@ -3,9 +3,9 @@
   "name": "Lyrilusc - Bird Call",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Add to your hand, or send to the GY, 1 \"Lyrilusc\" monster from your Deck, then you can Special Summon 1 \"Lyrilusc\" monster with a different name from your hand. You can only activate 1 \"Lyrilusc - Bird Call\" per turn.",
+  "text": "Take 1 \"Lyrilusc\" monster from your Deck, and either add it to your hand or send it to the GY, then you can Special Summon 1 \"Lyrilusc\" monster with a different name from your hand. You can only activate 1 \"Lyrilusc - Bird Call\" per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/45354718.jpg"
+    "https://images.ygoprodeck.com/images/cards/45354718.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

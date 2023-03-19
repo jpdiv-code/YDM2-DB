@@ -3,9 +3,9 @@
   "name": "Crystal Clear Wing Synchro Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner Synchro Monster + 1 non-Tuner \"Clear Wing\" monster\nOnce per turn, when your opponent activates a monster effect (Quick Effect): You can activate this effect; until the end of this turn, this card gains ATK equal to that opponent\u0027s monster\u0027s original ATK, also this card is unaffected by your opponent\u0027s activated monster effects. Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy that card. If this Synchro Summoned card you control is sent to your GY by an opponent\u0027s card: You can add 1 WIND monster from your Deck to your hand.",
+  "text": "1 Tuner Synchro Monster + 1 non-Tuner \"Clear Wing\" monster\nOnce per turn, when your opponent activates a monster effect (except during the Damage Step) (Quick Effect): You can activate this effect; until the end of this turn, this face-up card is unaffected by the activated effects of your opponent\u0027s monsters, also this card gains ATK equal to that opponent\u0027s monster\u0027s original ATK. Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy that card. If this Synchro Summoned card you control is sent to your GY by an opponent\u0027s card: You can add 1 WIND monster from your Deck to your hand.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/59765225.jpg"
+    "https://images.ygoprodeck.com/images/cards/59765225.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",

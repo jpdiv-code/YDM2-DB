@@ -3,9 +3,9 @@
   "name": "D - Force",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is activated: You can add 1 \"Destiny HERO - Plasma\" from your Deck or GY to your hand. While you control \"Destiny HERO - Plasma\", apply these effects.\n? You cannot draw during the Draw Phase.\n? Your opponent cannot target cards you control with card effects.\n? Each \"Destiny HERO - Plasma\" you control gains 100 ATK for each monster in the GYs, it cannot be destroyed by your opponent\u0027s card effects, also it can make a second attack during each Battle Phase.",
+  "text": "When this card is activated: You can add 1 \"Destiny HERO - Plasma\" from your Deck or GY to your hand. While you control \"Destiny HERO - Plasma\", apply the following effects.\n? You cannot draw during the Draw Phase.\n? Your opponent cannot target cards you control with card effects.\n? Each \"Destiny HERO - Plasma\" you control gains 100 ATK for each monster in the GYs, cannot be destroyed by your opponent\u0027s card effects, also can make a second attack during each Battle Phase.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/6186304.jpg"
+    "https://images.ygoprodeck.com/images/cards/6186304.jpg"
   ],
   "type": "Spell",
   "spell_type": "Continuous"

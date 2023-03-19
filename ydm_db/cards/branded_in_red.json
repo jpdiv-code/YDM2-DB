@@ -3,9 +3,9 @@
   "name": "Branded in Red",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 \"Despia\" monster or 1 \"Fallen of Albaz\" in your GY; add it to your hand, then you can Fusion Summon 1 Level 8 or higher Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your hand or field, but it cannot attack directly this turn. You can only activate 1 \"Branded in Red\" per turn.",
+  "text": "Target 1 \"Despia\" monster or \"Fallen of Albaz\" in your GY; add it to your hand, then you can apply the following effect.\n? Fusion Summon 1 Level 8 or higher Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your hand or field, but it cannot attack directly this turn.\nYou can only activate 1 \"Branded in Red\" per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/82738008.jpg"
+    "https://images.ygoprodeck.com/images/cards/82738008.jpg"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"

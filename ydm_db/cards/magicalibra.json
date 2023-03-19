@@ -3,9 +3,9 @@
   "name": "Magicalibra",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A sentient scale. It maintains the balance of the universe, but often places the stars on the wrong side.",
+  "text": "\u0027\u0027A sentient scale. It maintains the balance of the universe, but often places the stars on the wrong side.\u0027\u0027",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/43857222.jpg"
+    "https://images.ygoprodeck.com/images/cards/43857222.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
@@ -18,7 +18,7 @@
   "def": 1000,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "You can declare a Level from 1 to 6, then target 2 face-up monsters you control; until the end of this turn, reduce the Level of 1 of those monsters by the declared amount, and if you do, increase the Level of the other by the same amount (even if this card leaves the field). You can only use this effect of \"Magicalibra\" once per turn.\n",
+  "pendulum_text": "You can declare a Level from 1 to 6, then target 2 face-up monsters you control; until the end of this turn, reduce the Level of 1 of those monsters by the declared amount, and if you do, increase the Level of the other by the same amount (even if this card leaves the field). You can only use this effect of \"Magicalibra\" once per turn.\n[ Monster Effect ] \u0027\u0027A sentient scale. It maintains the balance of the universe, but often places the stars on the wrong side.\u0027\u0027",
   "pendulum_scale_left_blue": 5,
   "pendulum_scale_right_red": 5
 }

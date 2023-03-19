@@ -3,15 +3,15 @@
   "name": "Cyberdark Chimera",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can discard 1 Spell/Trap; add 1 \"Power Bond\" from your Deck to your hand, also you cannot use monsters as Fusion Material for the rest of this turn, except Dragon or Machine \"Cyber\" monsters, and once, if you Fusion Summon this turn, you can also use monsters in your GY as Fusion Material by banishing them. If this card is sent to the GY: You can send 1 \"Cyberdark\" monster from your Deck to the GY, with a name different from the cards in your GY. You can only use each effect of \"Cyberdark Chimera\" once per turn.",
+  "text": "You can discard 1 Spell/Trap; add 1 \"Power Bond\" from your Deck to your hand, you can only use Dragon or Machine \"Cyber\" monsters as Fusion Material this turn, also once when you Fusion Summon this turn, you can also banish monster(s) from your GY as material. If this card is sent to the GY: You can send 1 \"Cyberdark\" monster from your Deck to the GY, with a different name from the cards in your GY. You can only use each effect of \"Cyberdark Chimera\" once per turn.",
   "images": [
-    "https://ygoprodeck.com/pics/5370235.jpg"
+    "https://images.ygoprodeck.com/images/cards/5370235.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 800,
   "species": "Machine",
-  "monster_type": "Effect",
+  "monster_type": "",
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,

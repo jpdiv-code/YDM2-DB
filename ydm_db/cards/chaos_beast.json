@@ -3,7 +3,7 @@
   "name": "Chaos Beast",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 LIGHT Tuner + 1+ non-Tuner DARK monsters\nGains 1000 ATK during the turn a card(s) is banished. You can only use each of the following effects of \"Chaos Beast\" once per turn. You can target 1 of your banished LIGHT or DARK monsters; add it to your hand. If this card is in your GY, except the turn it was sent there: You can banish 1 LIGHT and 1 DARK monster from your hand and/or GY, except this card; Special Summon this card.",
+  "text": "1 LIGHT Tuner + 1+ non-Tuner DARK monsters\nIf any card(s) have been banished this turn, this card gains 1000 ATK. You can only use each of the following effects of \"Chaos Beast\" once per turn. You can target 1 of your banished LIGHT or DARK monsters; add it to your hand. During your Main Phase, except the turn this card was sent to the GY: You can banish 1 LIGHT and 1 DARK monster from your hand and/or GY, except this card; Special Summon this card from your GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/49565413.jpg"
   ],

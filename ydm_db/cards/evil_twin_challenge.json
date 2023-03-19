@@ -3,9 +3,9 @@
   "name": "Evil?Twin Challenge",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 \"Kisikil\" or \"Lilla\" monster in your GY; Special Summon it, then, immediately after this effect resolves, you can Link Summon 1 \"Evil?Twin\" Link Monster using monsters you control as material. You can only activate 1 \"Evil?Twin Easy Game\" per turn.",
+  "text": "Target 1 \"Ki-sikil\" monster or 1 \"Lil-la\" monster in your GY; Special Summon it, then you can apply the following effect.\n? Immediately after this effect resolves, Link Summon 1 \"Evil?Twin\" Link Monster using monsters you control as material.\nYou can only activate 1 \"Evil?Twin Challenge\" per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/98360333.jpg"
+    "https://images.ygoprodeck.com/images/cards/98360333.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

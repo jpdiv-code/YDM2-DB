@@ -3,9 +3,9 @@
   "name": "Flip Frozen",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent to the GY: You can change all Attack Position monsters your opponent controls to Defense Position.",
+  "text": "If this card is sent to the GY: Change all Attack Position monsters your opponent controls to Defense Position.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/32176662.jpg"
+    "https://images.ygoprodeck.com/images/cards/32176662.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",

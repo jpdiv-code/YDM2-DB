@@ -3,9 +3,9 @@
   "name": "Detonation Code",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a \"Topologic\" Link Monster: You can target 1 DARK Dragon, Machine, or Cyberse monster in your GY, except a Link Monster; Special Summon it. During the Standby Phase of the next turn after this card was banished from the Spell \u0026 Trap Zone: You can Set this card. You can only use each effect of \"Detonation Code\" once per turn.",
+  "text": "If you control a \"Topologic\" Link Monster: You can target 1 DARK non-Link Dragon, Machine, or Cyberse monster in your GY; Special Summon it. During the Standby Phase of the next turn after this card was banished from the Spell \u0026 Trap Zone: You can Set this card. You can only use each effect of \"Detonation Code\" once per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/41348446.jpg"
+    "https://images.ygoprodeck.com/images/cards/41348446.jpg"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

@@ -1,1 +1,12 @@
-{"id": 98715423, "name": "Gravekeeper's Trap", "is_illegal": false, "is_custom": false, "text": "While \"Exchange of the Spirit\" is in your GY, your opponent cannot activate card effects in the GY or Special Summon monsters from the GY. You can only use each of the following effects of \"Gravekeeper's Trap\" once per turn. During the Main Phase: You can discard 1 card; add 1 \"Gravekeeper's\" monster or 1 EARTH Fairy monster from your Deck to your hand. During your opponent's Draw Phase, before they draw, if this card is already face-up on the field: Declare 1 card name; look at the card your opponent draws for their normal draw, and if it is the declared card, send it to the GY.", "images": ["https://images.ygoprodeck.com/images/cards/98715423.jpg"], "type": "Trap", "trap_type": "Continuous"}
+{
+  "id": 98715423,
+  "name": "Gravekeeper\u0027s Trap",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While \"Exchange of the Spirit\" is in your GY, your opponent cannot activate card effects in the GY or Special Summon monsters from the GY. You can only use each of the following effects of \"Gravekeeper\u0027s Trap\" once per turn. During the Main Phase: You can discard 1 card; add 1 \"Gravekeeper\u0027s\" monster or 1 EARTH Fairy monster from your Deck to your hand. During your opponent\u0027s Draw Phase, before they draw, if this card is already face-up on the field: Declare 1 card name; look at the card your opponent draws for their normal draw, and if it is the declared card, send it to the GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/98715423.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

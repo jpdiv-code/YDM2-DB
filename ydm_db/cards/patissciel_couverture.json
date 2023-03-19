@@ -5,7 +5,7 @@
   "is_custom": false,
   "text": "2 Pendulum Monsters\nIf this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
   "images": [
-    "https://ms.yugipedia.com//thumb/5/57/PatisscielCouverture-DIFO-EN-SR-1E.png/300px-PatisscielCouverture-DIFO-EN-SR-1E.png"
+    "https://images.ygoprodeck.com/images/cards/26435595.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
@@ -18,7 +18,7 @@
   "def": 700,
   "level": 5,
   "is_tuner": false,
-  "pendulum_text": "If you have no card in your other Pendulum Zone: You can place 1 face-up Pendulum Monster from your Extra Deck in your Pendulum Zone. You can only use this effect of \"Patissciel Couverture\" once per turn.",
+  "pendulum_text": "If you have no card in your other Pendulum Zone: You can place 1 face-up Pendulum Monster from your Extra Deck in your Pendulum Zone. You can only use this effect of \"Patissciel Couverture\" once per turn.\n[ Monster Effect ] 2 Pendulum Monsters\nIf this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
   "pendulum_scale_left_blue": 1,
   "pendulum_scale_right_red": 1
 }

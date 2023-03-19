@@ -5,7 +5,7 @@
   "is_custom": false,
   "text": "FLIP: Target 1 Spell/Trap Card your opponent controls; destroy it.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/82176812.jpg"
+    "https://images.ygoprodeck.com/images/cards/82176812.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
@@ -13,7 +13,7 @@
   "species": "Warrior",
   "monster_type": "",
   "is_pendulum": false,
-  "ability": "",
+  "ability": "Flip",
   "has_effect": true,
   "def": 900,
   "level": 3,

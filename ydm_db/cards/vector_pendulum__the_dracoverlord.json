@@ -5,7 +5,7 @@
   "is_custom": false,
   "text": "This Overlord overran an entire world with his army of Dracofiends, using his Dragon Alchemy to convert all life into his terrible minions. The source of this power is unidentified, and probably extra-dimensional.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/69512157.jpg"
+    "https://images.ygoprodeck.com/images/cards/69512157.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
@@ -14,7 +14,7 @@
   "monster_type": "",
   "is_pendulum": true,
   "ability": "",
-  "has_effect": true,
+  "has_effect": false,
   "def": 0,
   "level": 4,
   "is_tuner": false,

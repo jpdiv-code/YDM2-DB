@@ -1,1 +1,12 @@
-{"id": 41619242, "name": "Scareclaw Straddle", "is_illegal": false, "is_custom": false, "text": "Activate 1 of these effects.\r\n\u25cf Target 1 \"Scareclaw\" monster or \"Visas Starfrost\" you control and 1 face-up monster your opponent controls; that monster you control gains ATK/DEF equal to that opponent's monster's ATK or DEF (whichever is higher, your choice if tied).\r\n\u25cf When a card or effect is activated that targets a \"Scareclaw\" monster(s) and/or \"Visas Starfrost\" you control: Negate that effect.\r\nYou can only activate 1 \"Scareclaw Straddle\" per turn.", "images": ["https://storage.googleapis.com/ygoprodeck.com/pics/41619242.jpg"], "type": "Spell", "spell_type": "Quick-Play"}
+{
+  "id": 41619242,
+  "name": "Scareclaw Straddle",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate 1 of these effects.\n? Target 1 \"Scareclaw\" monster or \"Visas Starfrost\" you control and 1 face-up monster your opponent controls; that monster you control gains ATK/DEF equal to that opponent\u0027s monster\u0027s ATK or DEF (whichever is higher, your choice if tied).\n? When a card or effect is activated that targets a \"Scareclaw\" monster(s) and/or \"Visas Starfrost\" you control: Negate that effect.\nYou can only activate 1 \"Scareclaw Straddle\" per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/41619242.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

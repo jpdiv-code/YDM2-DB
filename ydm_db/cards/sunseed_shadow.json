@@ -3,9 +3,9 @@
   "name": "Sunseed Shadow",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a Plant Normal Monster: You can Special Summon this card from your hand. You can banish this card from your GY, then target 1 linked Link-2 or lower \"Sunavalon\" or \"Sunvine\" monster you control; Special Summon 1 monster with the same name from your Extra Deck, but negate its effects, also you cannot Special Summon for the rest of this turn, except Plant monsters. You can only use each effect of \"Sunseed Shadow\" once per turn. ",
+  "text": "If you control a Plant Normal Monster: You can Special Summon this card from your hand. You can banish this card from your GY, then target 1 linked Link-2 or lower \"Sunavalon\" or \"Sunvine\" monster you control; Special Summon 1 monster with the same name from your Extra Deck, but negate its effects, also you cannot Special Summon for the rest of this turn, except Plant monsters. You can only use each effect of \"Sunseed Shadow\" once per turn.",
   "images": [
-    "https://ygoprodeck.com/pics/30013902.jpg"
+    "https://images.ygoprodeck.com/images/cards/30013902.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
@@ -14,8 +14,8 @@
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",
-  "has_effect": false,
+  "has_effect": true,
   "def": 400,
-  "level": 2,
+  "level": 1,
   "is_tuner": false
 }

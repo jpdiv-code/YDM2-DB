@@ -3,9 +3,9 @@
   "name": "Double Exposure",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can target 2 Level 6 or lower monsters on the field with the same name; double their Levels. At the start of the Battle Phase: You can target 1 \"Cipher\" monster you control; the name of 1 other face-up monster on the field becomes the targeted \"Cipher\" monster\u0027s name until the End Phase. You can only use each effect of \"Double Exposure\" once per turn.",
+  "text": "You can target 2 Level 6 or lower monsters with the same name on the field; their Levels are doubled. At the start of the Battle Phase: You can target 1 \"Cipher\" monster you control; choose 1 other face-up monster on the field, and its name becomes that \"Cipher\" monster\u0027s, until the End Phase. You can only use each effect of \"Double Exposure\" once per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/81881839.jpg"
+    "https://images.ygoprodeck.com/images/cards/81881839.jpg"
   ],
   "type": "Spell",
   "spell_type": "Continuous"

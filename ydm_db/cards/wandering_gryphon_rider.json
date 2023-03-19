@@ -3,9 +3,9 @@
   "name": "Wandering Gryphon Rider",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During the Main Phase, if you control no monsters, or you control \"Brave Token\" (Quick Effect): You can Special Summon this card from your hand. When a card or effect is activated while you control \"Brave Token\" (Quick Effect): You can shuffle this card into the Deck, and if you do, negate the activation, and if you do that, destroy that card. You can only use each effect of \"Wandering Gryphon Rider\" once per turn.",
+  "text": "During the Main Phase, if you control no monsters, or control an \"Adventurer Token\" (Quick Effect): You can Special Summon this card from your hand. When a card or effect is activated while you control an \"Adventurer Token\" (Quick Effect): You can shuffle this card into the Deck, and if you do, negate that activation, and if you do that, destroy that card. You can only use each effect of \"Wandering Gryphon Rider\" once per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/2563463.jpg"
+    "https://images.ygoprodeck.com/images/cards/2563463.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",

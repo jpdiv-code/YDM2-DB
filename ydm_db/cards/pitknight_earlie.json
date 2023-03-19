@@ -1,24 +1,23 @@
 {
-    "id": 47759571,
-    "name": "Pitknight Earlie",
-    "is_illegal": false,
-    "is_custom": false,
-    "text": "2 Effect Monsters\r\nWhen a monster this card points to activates its effect (except during the Damage Step) (Quick Effect): You can target 1 Effect Monster your opponent controls; until the end of this turn, change its ATK to 0, also negate its effects. During the End Phase, if this card is in the GY because it was destroyed by battle or card effect and sent there this turn: You can Special Summon this card. You can only use each effect of \"Pitknight Earlie\" once per turn.",
-    "images": [
-        "https://storage.googleapis.com/ygoprodeck.com/pics/101109083.jpg"
-    ],
-    "type": "Monster",
-    "attribute": "FIRE",
-    "atk": 1500,
-    "species": "Cyberse",
-    "monster_type": "Link",
-    "is_pendulum": false,
-    "ability": " ",
-    "has_effect": true,
-    "is_tuner": false,
-    "link_rating": 2,
-    "link_arrows": [
-        "Right",
-        "Top-Right"
-    ]
+  "id": 47759571,
+  "name": "Pitknight Earlie",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Effect Monsters\nWhen a monster this card points to activates its effect (except during the Damage Step) (Quick Effect): You can target 1 Effect Monster your opponent controls; until the end of this turn, change its ATK to 0, also negate its effects. During the End Phase, if this card is in the GY because it was destroyed by battle or card effect and sent there this turn: You can Special Summon this card. You can only use each effect of \"Pitknight Earlie\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/47759571.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1500,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": [
+    "Right",
+    "Top-Right"
+  ]
 }

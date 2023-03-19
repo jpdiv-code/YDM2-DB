@@ -3,9 +3,9 @@
   "name": "Reptilianne Coatl",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a DARK Reptile monster: You can Special Summon this card from your hand, then, if your opponent controls a monster(s) with 0 ATK, you can Special Summon \"Reptilianne\" monsters from your hand up to the number of those monsters. You can only use this effect of \"Reptilianne Coatl\" once per turn. If this card you control is used as Synchro Material for a Reptile monster, you can treat it as a non-Tuner.",
+  "text": "If you control a DARK Reptile monster: You can Special Summon this card from your hand, then, if your opponent controls any monsters with 0 ATK, you can Special Summon up to an equal number of \"Reptilianne\" monsters from your hand. You can only use this effect of \"Reptilianne Coatl\" once per turn. If this card you control would be used as Synchro Material for a Reptile monster, you can treat it as a non-Tuner.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/89594399.jpg"
+    "https://images.ygoprodeck.com/images/cards/89594399.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

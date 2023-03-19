@@ -3,7 +3,7 @@
   "name": "Rescue-ACE Fire Attacker",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a \"Rescue-ACE\" monster(s) other than \"Rescue-ACE Fire Attacker\" is Normal or Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand. If a card(s) is added to your opponent\u0027s hand, except by drawing it: You can draw 2 cards, then discard 1 card. You can only use each effect of \"Rescue-ACE Fire Attacker\" once per turn.",
+  "text": "If a \"Rescue-ACE\" monster(s) is Normal or Special Summoned to your field, except \"Rescue-ACE Fire Attacker\" (except during the Damage Step): You can Special Summon this card from your hand. If a card(s) is added to your opponent\u0027s hand, except by drawing it (except during the Damage Step): You can draw 2 cards, then discard 1 card. You can only use each effect of \"Rescue-ACE Fire Attacker\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/64612053.jpg"
   ],

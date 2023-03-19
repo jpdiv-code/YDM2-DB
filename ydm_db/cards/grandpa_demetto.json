@@ -3,9 +3,9 @@
   "name": "Grandpa Demetto",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can detach 1 material from your \"Princess Cologne\"; Special Summon up to 2 Normal Monsters with 0 ATK or DEF from your GY as Level 8 DARK monsters. If your Xyz Monster activates an effect by detaching a material(s) that was originally a Normal Monster (except during the Damage Step): You can target that Xyz Monster and 1 monster your opponent controls; destroy that opponent\u0027s monster, and if you do, inflict damage to your opponent equal to that Xyz Monster\u0027s Rank x 300. You can only use each effect of \"Grandpa Demetto\" once per turn.",
+  "text": "You can detach 1 material from \"Princess Cologne\" you control; Special Summon up to 2 Normal Monsters with 0 ATK or DEF from your GY, each as a Level 8 DARK monster in Defense Position. If an Xyz Monster you control activates its effect by detaching a Normal Monster: You can target that Xyz Monster and 1 monster your opponent controls; destroy your opponent\u0027s monster, and if you do, inflict damage to your opponent equal to that Xyz Monster\u0027s Rank x 300. You can only use each effect of \"Grandpa Demetto\" once per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/44190146.jpg"
+    "https://images.ygoprodeck.com/images/cards/44190146.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

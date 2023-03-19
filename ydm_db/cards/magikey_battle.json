@@ -3,9 +3,9 @@
   "name": "Magikey Battle",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 Normal Monster, \"Magikey\" monster, or \"Magikey Maftea\" in your GY; shuffle it into the Deck, then, if you activated this card in response to the activation of an opponent\u0027s card or effect, non-Token Normal Monsters and \"Magikey\" monsters you control are unaffected by that opponent\u0027s effect.",
+  "text": "Target 1 Normal Monster, 1 \"Magikey\" monster, or 1 \"Magikey Maftea\" in your GY; shuffle it into the Deck, then if you activated this card in response to your opponent\u0027s card or effect activation, Normal Monsters and \"Magikey\" monsters you control (except Tokens) are unaffected by that opponent\u0027s card effect.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/54408264.jpg"
+    "https://images.ygoprodeck.com/images/cards/54408264.jpg"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"

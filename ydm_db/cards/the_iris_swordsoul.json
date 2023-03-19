@@ -3,9 +3,9 @@
   "name": "The Iris Swordsoul",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During the Main Phase, if a monster, whose effects are negated, is on the field (Quick Effect): You can Special Summon this card from your hand. If your opponent Special Summons a monster(s) (except during the Damage Step): You can activate 1 of these effects based on where it was Special Summoned from;\n\u25CF Hand: Special Summon 1 monster from your hand.\n\u25CF Deck: Draw 2 cards.\n\u25CF Extra Deck: Destroy 1 of those monsters Special Summoned from the Extra Deck.\nYou can only use each effect of \"The Iris Swordsoul\" once per turn. ",
+  "text": "During the Main Phase, if a monster, whose effects are negated, is on the field (Quick Effect): You can Special Summon this card from your hand. If your opponent Special Summons a monster(s) (except during the Damage Step): You can activate 1 of these effects based on where it was Special Summoned from;\n? Hand: Special Summon 1 monster from your hand. ? Deck: Draw 2 cards.\n? Extra Deck: Destroy 1 of those monsters Special Summoned from the Extra Deck.\nYou can only use each effect of \"The Iris Swordsoul\" once per turn.",
   "images": [
-    "https://ygoprodeck.com/pics/62849088.jpg"
+    "https://images.ygoprodeck.com/images/cards/62849088.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
@@ -15,7 +15,7 @@
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "def": 2000,
+  "def": 2500,
   "level": 8,
   "is_tuner": false
 }

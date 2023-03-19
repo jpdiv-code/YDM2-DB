@@ -3,9 +3,9 @@
   "name": "Transonic Bird",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Ritual Summon this card with \"Sonic Tracker\". Once per turn: You can reveal 1 Ritual Spell in your hand, and if you do, add 1 Ritual Monster from your Deck to your hand whose name is listed on it, and if you do that, shuffle the revealed card into the Deck. Once per opponent\u0027s turn (Quick Effect): You can send 1 Ritual Spell from your Deck to the GY; this effect becomes that Ritual Spell\u0027s effect that Ritual Summons a monster when that card is activated. If this Ritual Summoned card is Tributed: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn.",
+  "text": "You can Ritual Summon this card with \"Sonic Tracker\". Once per turn: You can reveal 1 Ritual Spell in your hand, add 1 Ritual Monster from your Deck to your hand whose name is listed on that card, and if you do, shuffle the revealed card into the Deck. Once per opponent\u0027s turn (Quick Effect): You can send 1 Ritual Spell from your Deck to the GY; this effect becomes that card\u0027s effect that Ritual Summons a monster when the card is activated. If this Ritual Summoned card is Tributed: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/34072799.jpg"
+    "https://images.ygoprodeck.com/images/cards/34072799.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

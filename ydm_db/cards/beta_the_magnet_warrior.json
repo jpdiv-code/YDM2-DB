@@ -1,11 +1,11 @@
 {
   "id": 39256679,
-  "name": "Beta the Magnet Warrior",
+  "name": "Beta The Magnet Warrior",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Alpha, Beta, and Gamma meld as one to form a powerful monster.",
+  "text": "\u0027\u0027Alpha, Beta, and Gamma meld as one to form a powerful monster.\u0027\u0027",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/39256679.jpg"
+    "https://images.ygoprodeck.com/images/cards/39256679.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",

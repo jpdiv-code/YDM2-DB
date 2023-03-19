@@ -3,9 +3,9 @@
   "name": "Floowandereeze \u0026 Snowl",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, if you control this Tribute Summoned card: You can activate this effect; you can conduct 3 Normal Summons/Sets this turn, not just 1. While you control this Tribute Summoned card, if your monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per opponent\u0027s turn (Quick Effect): You can banish 1 card from your hand; change all opponent\u0027s Special Summoned monsters to face-down Defense Position.",
+  "text": "Once per turn, while you control this Tribute Summoned card: You can conduct up to 3 Normal Summons/Sets this turn, not just 1. While this Tribute Summoned card is in the Monster Zone, if your monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per opponent\u0027s turn (Quick Effect): You can banish 1 card from your hand; change all Special Summoned monsters your opponent controls to face-down Defense Position.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/53212882.jpg"
+    "https://images.ygoprodeck.com/images/cards/53212882.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",

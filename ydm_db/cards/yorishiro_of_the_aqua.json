@@ -1,1 +1,21 @@
-{"id": 57511992, "name": "Yorishiro of the Aqua", "is_illegal": false, "is_custom": false, "text": "You can banish this card from your GY, then target 1 \"Umi\" in your GY; add it to your hand. You can target 1 WATER monster in your GY; apply 1 of these effects, but you cannot Special Summon monsters for the rest of this turn, except WATER monsters.\r\n\u25cf Until the End Phase, this card's Level and name become that monster's.\r\n\u25cf If \"Umi\" is on the field, Special Summon that monster in Defense Position.\r\nYou can only use each effect of \"Yorishiro of the Aqua\" once per turn.", "images": ["https://images.ygoprodeck.com/images/cards/57511992.jpg"], "type": "Monster", "attribute": "WATER", "atk": 700, "species": "Aqua", "monster_type": "", "is_pendulum": false, "ability": " ", "has_effect": true, "def": 2000, "level": 4, "is_tuner": false}
+{
+  "id": 57511992,
+  "name": "Yorishiro of the Aqua",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can banish this card from your GY, then target 1 \"Umi\" in your GY; add it to your hand. You can target 1 WATER monster in your GY; apply 1 of these effects, but you cannot Special Summon monsters for the rest of this turn, except WATER monsters.\n? Until the End Phase, this card\u0027s Level and name become that monster\u0027s.\n? If \"Umi\" is on the field, Special Summon that monster in Defense Position.\nYou can only use each effect of \"Yorishiro of the Aqua\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/57511992.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 700,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

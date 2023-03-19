@@ -3,7 +3,7 @@
   "name": "Chaos Witch",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute this card; Special Summon 2 \"Black Beast Tokens\" (Fiend/DARK/Level 2/ATK 1000/DEF 500). If this card is banished from the hand or GY: You can Special Summon 2 \"White Beast Tokens\" (Fairy/Tuner/LIGHT/Level 2/ATK 500/DEF 1000). You can only use 1 \"Chaos Witch\" effect per turn, and only once that turn. You cannot Special Summon monsters from the Extra Deck the turn you activate either of this card\u0027s effects, except LIGHT and DARK Synchro Monsters.",
+  "text": "You can Tribute this card; Special Summon 2 \"Dark Beast Tokens\" (Fiend/DARK/Level 2/ATK 1000/DEF 500). If this card is banished from the hand or GY: You can Special Summon 2 \"Light Beast Tokens\" (Fairy/Tuner/LIGHT/Level 2/ATK 500/DEF 1000). You can only use 1 \"Chaos Witch\" effect per turn, and only once that turn, also you cannot Special Summon monsters from the Extra Deck, except LIGHT or DARK Synchro Monsters, the turn you activate either effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/30327674.jpg"
   ],

@@ -1,1 +1,21 @@
-{"id": 9238125, "name": "Vernusylph of the Thawing Mountains", "is_illegal": false, "is_custom": false, "text": "You can discard this card, and 1 monster or \"Vernusylph\" card; draw 1 card, then you can Special Summon 1 EARTH monster from your GY, also you cannot activate non-EARTH monster effects for the rest of this turn. You can target 1 \"Vernusylph\" monster you control; it can make a second attack during each Battle Phase this turn. You can only use each effect of \"Vernusylph of the Thawing Mountains\" once per turn.", "images": ["https://storage.googleapis.com/ygoprodeck.com/pics/9238125.jpg"], "type": "Monster", "attribute": "EARTH", "atk": 1100, "species": "Fairy", "monster_type": "", "is_pendulum": false, "ability": " ", "has_effect": true, "def": 0, "level": 3, "is_tuner": false}
+{
+  "id": 9238125,
+  "name": "Vernusylph of the Thawing Mountains",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can discard this card, and 1 monster or \"Vernusylph\" card; draw 1 card, then you can Special Summon 1 EARTH monster from your GY, also you cannot activate non-EARTH monster effects for the rest of this turn. You can target 1 \"Vernusylph\" monster you control; it can make a second attack during each Battle Phase this turn. You can only use each effect of \"Vernusylph of the Thawing Mountains\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/9238125.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1100,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
+}

@@ -3,9 +3,9 @@
   "name": "Clock Arc",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Special Summoned to a zone that is not the center Main Monster Zone, destroy this card. Cannot be destroyed by battle. Once per turn, during your opponent\u0027s End Phase: You can target 1 card in your Pendulum Zone; destroy it, and if you do, place this card in your Pendulum Zone.",
+  "text": "If this card is Special Summoned to a zone that is not the center Main Monster Zone, destroy it. Cannot be destroyed by battle. Once per turn, during your opponent\u0027s End Phase: You can target 1 card in your Pendulum Zone; destroy it, and if you do, place this card in your Pendulum Zone.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/87468732.jpg"
+    "https://images.ygoprodeck.com/images/cards/87468732.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
@@ -18,7 +18,7 @@
   "def": 1200,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "",
+  "pendulum_text": "If you control no monsters, or only Pendulum Monsters, apply this effect, based on this card\u0027s Pendulum Zone.\n? Left: Reduce its Pendulum Scale by 3.\n? Right: Increase its Pendulum Scale by 4.\nDuring your opponent\u0027s Standby Phase: You can Special Summon this card.\n[ Monster Effect ] If this card is Special Summoned to a zone that is not the center Main Monster Zone, destroy it. Cannot be destroyed by battle. Once per turn, during your opponent\u0027s End Phase: You can target 1 card in your Pendulum Zone; destroy it, and if you do, place this card in your Pendulum Zone.",
   "pendulum_scale_left_blue": 4,
   "pendulum_scale_right_red": 4
 }

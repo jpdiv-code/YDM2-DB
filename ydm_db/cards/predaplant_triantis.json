@@ -1,1 +1,24 @@
-{"id": 17825378, "name": "Predaplant Triantis", "is_illegal": false, "is_custom": false, "text": " If this card is used as material for a Fusion Summon, and sent to the GY or added to the Extra Deck face-up: You can place 1 Predator Counter on a number of monsters on the field, up to the number of monsters you control, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter.", "images": ["https://storage.googleapis.com/ygoprodeck.com/pics/17825378.jpg"], "type": "Monster", "attribute": "DARK", "atk": 2400, "species": "Plant", "monster_type": "", "is_pendulum": true, "ability": " ", "has_effect": true, "def": 1000, "level": 8, "is_tuner": false, "pendulum_text": "You can use cards in your Pendulum Zones as material to Fusion Summon a DARK Fusion Monster, as if they were monsters on the field.\n", "pendulum_scale_left_blue": 8, "pendulum_scale_right_red": 8}
+{
+  "id": 17825378,
+  "name": "Predaplant Triantis",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is used as material for a Fusion Summon, and sent to the GY or added to the Extra Deck face-up: You can place 1 Predator Counter on a number of monsters on the field, up to the number of monsters you control, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/17825378.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 8,
+  "is_tuner": false,
+  "pendulum_text": "You can use cards in your Pendulum Zones as material to Fusion Summon a DARK Fusion Monster, as if they were monsters on the field.\n[ Monster Effect ] If this card is used as material for a Fusion Summon, and sent to the GY or added to the Extra Deck face-up: You can place 1 Predator Counter on a number of monsters on the field, up to the number of monsters you control, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter.",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8
+}

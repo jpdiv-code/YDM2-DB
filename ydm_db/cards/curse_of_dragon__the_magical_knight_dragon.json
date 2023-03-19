@@ -1,0 +1,21 @@
+{
+  "id": 72064891,
+  "name": "Curse of Dragon, the Magical Knight Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Warrior monster + 1 Level 5 or higher Dragon monster\nIf this card is Fusion Summoned: You can target 1 Spell/Trap in your GY that specifically lists the card \"Gaia the Dragon Champion\" in its text; add it to your hand. You can only use this effect of \"Curse of Dragon, the Magical Knight Dragon\" once per turn. If you would Fusion Summon a Level 7 Dragon monster, you can also banish monsters from your GY as Fusion Material.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/72064891.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}
