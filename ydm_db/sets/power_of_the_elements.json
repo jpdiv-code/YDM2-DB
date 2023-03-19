@@ -1,0 +1,641 @@
+{
+  "name": "Power of the Elements",
+  "code": "POTE",
+  "type": "Booster Pack",
+  "date": "05-08-2022",
+  "image": "https://ms.yugipedia.com//c/ca/POTE-BoosterEN.png",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_without_rare_with_starlight_rare",
+  "cards": [
+    {
+      "id": 1011091,
+      "code": "POTE-EN000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13256226,
+      "code": "POTE-EN001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40740224,
+      "code": "POTE-EN002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76145933,
+      "code": "POTE-EN003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13533678,
+      "code": "POTE-EN004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49928686,
+      "code": "POTE-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75922381,
+      "code": "POTE-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2311090,
+      "code": "POTE-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48806195,
+      "code": "POTE-EN008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75290703,
+      "code": "POTE-EN009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1295442,
+      "code": "POTE-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37683547,
+      "code": "POTE-EN011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74078255,
+      "code": "POTE-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37961969,
+      "code": "POTE-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 572850,
+      "code": "POTE-EN014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73956664,
+      "code": "POTE-EN015",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9350312,
+      "code": "POTE-EN016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36745317,
+      "code": "POTE-EN017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62133026,
+      "code": "POTE-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9238125,
+      "code": "POTE-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35622739,
+      "code": "POTE-EN020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61011438,
+      "code": "POTE-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98416533,
+      "code": "POTE-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34800281,
+      "code": "POTE-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1855886,
+      "code": "POTE-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37343995,
+      "code": "POTE-EN025",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37343995,
+      "code": "POTE-EN025",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63748694,
+      "code": "POTE-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 132308,
+      "code": "POTE-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36521307,
+      "code": "POTE-EN028",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63526052,
+      "code": "POTE-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99910751,
+      "code": "POTE-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35405755,
+      "code": "POTE-EN031",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35405755,
+      "code": "POTE-EN031",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62803464,
+      "code": "POTE-EN032",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62803464,
+      "code": "POTE-EN032",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98898163,
+      "code": "POTE-EN033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35283277,
+      "code": "POTE-EN034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61681816,
+      "code": "POTE-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94076521,
+      "code": "POTE-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20560620,
+      "code": "POTE-EN037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66569334,
+      "code": "POTE-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93953933,
+      "code": "POTE-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29348048,
+      "code": "POTE-EN040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56733747,
+      "code": "POTE-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92731385,
+      "code": "POTE-EN042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28226490,
+      "code": "POTE-EN043",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55610199,
+      "code": "POTE-EN044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81019803,
+      "code": "POTE-EN045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28403802,
+      "code": "POTE-EN046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54498517,
+      "code": "POTE-EN047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80993256,
+      "code": "POTE-EN048",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27381364,
+      "code": "POTE-EN049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53776969,
+      "code": "POTE-EN050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80170678,
+      "code": "POTE-EN051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16169772,
+      "code": "POTE-EN052",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89058026,
+      "code": "POTE-EN053",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52553471,
+      "code": "POTE-EN054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15443125,
+      "code": "POTE-EN055",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42431833,
+      "code": "POTE-EN056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88836438,
+      "code": "POTE-EN057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14220547,
+      "code": "POTE-EN058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41619242,
+      "code": "POTE-EN059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77103950,
+      "code": "POTE-EN060",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14108995,
+      "code": "POTE-EN061",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40597694,
+      "code": "POTE-EN062",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76981308,
+      "code": "POTE-EN063",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13386407,
+      "code": "POTE-EN064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49370016,
+      "code": "POTE-EN065",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76869711,
+      "code": "POTE-EN066",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2263869,
+      "code": "POTE-EN067",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2263869,
+      "code": "POTE-EN067",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49658464,
+      "code": "POTE-EN068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75047173,
+      "code": "POTE-EN069",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1041278,
+      "code": "POTE-EN070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38436986,
+      "code": "POTE-EN071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74920585,
+      "code": "POTE-EN072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1329620,
+      "code": "POTE-EN073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37313338,
+      "code": "POTE-EN074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63708033,
+      "code": "POTE-EN075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 197042,
+      "code": "POTE-EN076",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36591747,
+      "code": "POTE-EN077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63086455,
+      "code": "POTE-EN078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9070454,
+      "code": "POTE-EN079",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35479109,
+      "code": "POTE-EN080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84366728,
+      "code": "POTE-EN081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11765832,
+      "code": "POTE-EN082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47759571,
+      "code": "POTE-EN083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73244186,
+      "code": "POTE-EN084",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10632284,
+      "code": "POTE-EN085",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46037983,
+      "code": "POTE-EN086",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73421698,
+      "code": "POTE-EN087",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9416697,
+      "code": "POTE-EN088",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46815301,
+      "code": "POTE-EN089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8794055,
+      "code": "POTE-EN090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45792753,
+      "code": "POTE-EN091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50699850,
+      "code": "POTE-EN092",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38082437,
+      "code": "POTE-EN093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64487132,
+      "code": "POTE-EN094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1876841,
+      "code": "POTE-EN095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37260946,
+      "code": "POTE-EN096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63265554,
+      "code": "POTE-EN097",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90659259,
+      "code": "POTE-EN098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36148308,
+      "code": "POTE-EN099",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60461804,
+      "code": "POTE-EN100",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    }
+  ]
+}
