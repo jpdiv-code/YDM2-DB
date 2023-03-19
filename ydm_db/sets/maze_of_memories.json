@@ -1,0 +1,503 @@
+{
+  "name": "Maze of Memories",
+  "code": "MAZE",
+  "type": "Booster pack",
+  "date": "09-03-2023",
+  "image": "https://static.wikia.nocookie.net/yugioh/images/0/02/MAZE-BoosterEN.png/revision/latest?cb=20221122193518",
+  "pull_type": "distribution",
+  "distribution": "toon_chaos",
+  "cards": [
+    {
+      "id": 35026117,
+      "code": "MAZE-EN001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62411811,
+      "code": "MAZE-EN002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8505920,
+      "code": "MAZE-EN003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34904525,
+      "code": "MAZE-EN004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61398234,
+      "code": "MAZE-EN005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97783338,
+      "code": "MAZE-EN006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34771947,
+      "code": "MAZE-EN007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60176682,
+      "code": "MAZE-EN008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96661780,
+      "code": "MAZE-EN009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33055499,
+      "code": "MAZE-EN010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70551291,
+      "code": "MAZE-EN011",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70551291,
+      "code": "MAZE-EN011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6556909,
+      "code": "MAZE-EN012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5833312,
+      "code": "MAZE-EN013",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5833312,
+      "code": "MAZE-EN013",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32828466,
+      "code": "MAZE-EN014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78217065,
+      "code": "MAZE-EN015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31006879,
+      "code": "MAZE-EN016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68490573,
+      "code": "MAZE-EN017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4599182,
+      "code": "MAZE-EN018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30983281,
+      "code": "MAZE-EN019",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30983281,
+      "code": "MAZE-EN019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67378935,
+      "code": "MAZE-EN020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93777634,
+      "code": "MAZE-EN021",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93777634,
+      "code": "MAZE-EN021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30761649,
+      "code": "MAZE-EN022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66156348,
+      "code": "MAZE-EN023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92644052,
+      "code": "MAZE-EN024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39049051,
+      "code": "MAZE-EN025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65433790,
+      "code": "MAZE-EN026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92428405,
+      "code": "MAZE-EN027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64211118,
+      "code": "MAZE-EN028",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64211118,
+      "code": "MAZE-EN028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91706817,
+      "code": "MAZE-EN029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27104921,
+      "code": "MAZE-EN030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67284908,
+      "code": "MAZE-EN031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25955164,
+      "code": "MAZE-EN032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62340868,
+      "code": "MAZE-EN033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98434877,
+      "code": "MAZE-EN034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25833572,
+      "code": "MAZE-EN035",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25833572,
+      "code": "MAZE-EN035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88307361,
+      "code": "MAZE-EN036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85215458,
+      "code": "MAZE-EN037",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11613567,
+      "code": "MAZE-EN038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14785765,
+      "code": "MAZE-EN039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46291010,
+      "code": "MAZE-EN040",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46291010,
+      "code": "MAZE-EN040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25716180,
+      "code": "MAZE-EN041",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25716180,
+      "code": "MAZE-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88686573,
+      "code": "MAZE-EN042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20537097,
+      "code": "MAZE-EN043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29415459,
+      "code": "MAZE-EN044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56809158,
+      "code": "MAZE-EN045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89132148,
+      "code": "MAZE-EN046",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89132148,
+      "code": "MAZE-EN046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71734607,
+      "code": "MAZE-EN047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71002019,
+      "code": "MAZE-EN048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11321089,
+      "code": "MAZE-EN049",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11321089,
+      "code": "MAZE-EN049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25862681,
+      "code": "MAZE-EN050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84815190,
+      "code": "MAZE-EN051",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84815190,
+      "code": "MAZE-EN051",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10406322,
+      "code": "MAZE-EN052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33779875,
+      "code": "MAZE-EN053",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33779875,
+      "code": "MAZE-EN053",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21887175,
+      "code": "MAZE-EN054",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21887175,
+      "code": "MAZE-EN054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23265313,
+      "code": "MAZE-EN055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3659803,
+      "code": "MAZE-EN056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48976825,
+      "code": "MAZE-EN057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24449083,
+      "code": "MAZE-EN058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97997309,
+      "code": "MAZE-EN059",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97997309,
+      "code": "MAZE-EN059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14094090,
+      "code": "MAZE-EN060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21082832,
+      "code": "MAZE-EN061",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69164989,
+      "code": "MAZE-EN062",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41420027,
+      "code": "MAZE-EN063",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41420027,
+      "code": "MAZE-EN063",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51452091,
+      "code": "MAZE-EN064",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30459350,
+      "code": "MAZE-EN065",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99590524,
+      "code": "MAZE-EN066",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28654932,
+      "code": "MAZE-EN067",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}
