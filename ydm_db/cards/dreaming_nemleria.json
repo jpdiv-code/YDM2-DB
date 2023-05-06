@@ -1,0 +1,24 @@
+{
+  "id": 70155677,
+  "name": "Dreaming Nemleria",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck) by having no cards in your Extra Deck except \"Dreaming Nemleria\". You can only Special Summon \"Dreaming Nemleria(s)\" once per turn. If this card is Special Summoned: You can banish up to 1 card your opponent controls and/or in their GY, face-down, for every 3 of your face-down banished cards, then shuffle your face-down banished cards into the Deck equal to the number of cards banished by this effect.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/70155677.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 1,
+  "is_tuner": false,
+  "pendulum_text": "Once per turn: You can place 1 \"Nemleria\" Continuous Spell from your Deck or GY face-up on your field, and if you do, add this card to the Extra Deck face-up. You cannot Special Summon \"Dreaming Nemleria\" the turn you activate this effect.\n[ Monster Effect ] Cannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck) by having no cards in your Extra Deck except \"Dreaming Nemleria\". You can only Special Summon \"Dreaming Nemleria(s)\" once per turn. If this card is Special Summoned: You can banish up to 1 card your opponent controls and/or in their GY, face-down, for every 3 of your face-down banished cards, then shuffle your face-down banished cards into the Deck equal to the number of cards banished by this effect.",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8
+}

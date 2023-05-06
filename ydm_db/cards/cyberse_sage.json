@@ -1,0 +1,21 @@
+{
+  "id": 65037172,
+  "name": "Cyberse Sage",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with \"Cynet Ritual\". You can only use each of the following effects of \"Cyberse Sage\" once per turn. During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing Fusion Materials mentioned on it from your field and/or GY, including a Cyberse monster. If this card is sent to the GY as Synchro Material: You can target 1 Cyberse monster or 1 Ritual Spell in your GY; add it to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/65037172.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Cyberse",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}
