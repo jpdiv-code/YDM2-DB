@@ -1,0 +1,437 @@
+{
+  "name": "Wild Survivors",
+  "code": "WISU",
+  "type": "Deck Build Pack",
+  "date": "01-06-23",
+  "image": "https://ms.yugipedia.com//thumb/e/e3/WISU-BoosterEN.png/257px-WISU-BoosterEN.png",
+  "pull_type": "distribution",
+  "distribution": "toon_chaos",
+  "cards": [
+    {
+      "id": 5852388,
+      "code": "WISU-EN001",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5852388,
+      "code": "WISU-EN001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31241087,
+      "code": "WISU-EN002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67745632,
+      "code": "WISU-EN003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94130731,
+      "code": "WISU-EN004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30128445,
+      "code": "WISU-EN005",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67523044,
+      "code": "WISU-EN006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93918159,
+      "code": "WISU-EN007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6631034,
+      "code": "WISU-EN008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18940556,
+      "code": "WISU-EN009",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18940556,
+      "code": "WISU-EN009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80280944,
+      "code": "WISU-EN010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38572779,
+      "code": "WISU-EN011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44335251,
+      "code": "WISU-EN012",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44335251,
+      "code": "WISU-EN012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36042004,
+      "code": "WISU-EN013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82946847,
+      "code": "WISU-EN014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18511599,
+      "code": "WISU-EN015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29302858,
+      "code": "WISU-EN016",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29302858,
+      "code": "WISU-EN016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66401502,
+      "code": "WISU-EN017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92895501,
+      "code": "WISU-EN018",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92895501,
+      "code": "WISU-EN018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29280200,
+      "code": "WISU-EN019",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29280200,
+      "code": "WISU-EN019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55688914,
+      "code": "WISU-EN020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91073013,
+      "code": "WISU-EN021",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91073013,
+      "code": "WISU-EN021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28168628,
+      "code": "WISU-EN022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54562327,
+      "code": "WISU-EN023",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54562327,
+      "code": "WISU-EN023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91951471,
+      "code": "WISU-EN024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27345070,
+      "code": "WISU-EN025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53330789,
+      "code": "WISU-EN026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80738884,
+      "code": "WISU-EN027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57103969,
+      "code": "WISU-EN028",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57103969,
+      "code": "WISU-EN028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26223582,
+      "code": "WISU-EN029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53618197,
+      "code": "WISU-EN030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89016236,
+      "code": "WISU-EN031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15001940,
+      "code": "WISU-EN032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52495649,
+      "code": "WISU-EN033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88890658,
+      "code": "WISU-EN034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15388353,
+      "code": "WISU-EN035",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15388353,
+      "code": "WISU-EN035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87955518,
+      "code": "WISU-EN040",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87955518,
+      "code": "WISU-EN040",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30243636,
+      "code": "WISU-EN041",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30243636,
+      "code": "WISU-EN041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80811661,
+      "code": "WISU-EN042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53303460,
+      "code": "WISU-EN043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80701178,
+      "code": "WISU-EN044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96729612,
+      "code": "WISU-EN045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95492061,
+      "code": "WISU-EN046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30539496,
+      "code": "WISU-EN047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82085295,
+      "code": "WISU-EN048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18474999,
+      "code": "WISU-EN049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98022050,
+      "code": "WISU-EN050",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98022050,
+      "code": "WISU-EN050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65877963,
+      "code": "WISU-EN051",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98045062,
+      "code": "WISU-EN052",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38179121,
+      "code": "WISU-EN053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1475311,
+      "code": "WISU-EN054",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47325505,
+      "code": "WISU-EN055",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47325505,
+      "code": "WISU-EN055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13048472,
+      "code": "WISU-EN056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17228908,
+      "code": "WISU-EN057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35027493,
+      "code": "WISU-EN058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54974237,
+      "code": "WISU-EN059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24207889,
+      "code": "WISU-EN060",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24207889,
+      "code": "WISU-EN060",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}
