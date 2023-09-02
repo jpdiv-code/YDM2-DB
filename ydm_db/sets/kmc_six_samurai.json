@@ -1,0 +1,256 @@
+{
+    "name": "KMC Six Samurai",
+    "code": "KSSM",
+    "type": "Structure Deck",
+    "date": "2-9-2023",
+    "image": "https://ygoprodeck.com/pics_sets/SDWA.jpg",
+    "pull_type": "full",
+    "cards": [
+        {
+            "id": 44430454,
+            "code": "KSSM-001",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 63176202,
+            "code": "KSSM-002",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 38280762,
+            "code": "KSSM-003",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 83039729,
+            "code": "KSSM-004",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 95519486,
+            "code": "KSSM-005",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 95519486,
+            "code": "KSSM-006",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 49721904,
+            "code": "KSSM-007",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 27782503,
+            "code": "KSSM-008",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 27782503,
+            "code": "KSSM-009",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 75116619,
+            "code": "KSSM-010",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 31904181,
+            "code": "KSSM-011",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 31904181,
+            "code": "KSSM-012",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 74094021,
+            "code": "KSSM-013",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 48505422,
+            "code": "KSSM-014",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 90397998,
+            "code": "KSSM-015",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 90397998,
+            "code": "KSSM-016",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 64398890,
+            "code": "KSSM-017",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 64398890,
+            "code": "KSSM-018",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 69025477,
+            "code": "KSSM-019",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 69025477,
+            "code": "KSSM-020",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 61737116,
+            "code": "KSSM-021",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 61737116,
+            "code": "KSSM-022",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 2511717,
+            "code": "KSSM-023",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 99675356,
+            "code": "KSSM-024",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 99675356,
+            "code": "KSSM-025",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 99675356,
+            "code": "KSSM-026",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 1498130,
+            "code": "KSSM-027",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 54031490,
+            "code": "KSSM-028",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 81426505,
+            "code": "KSSM-029",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 27821104,
+            "code": "KSSM-030",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 54913680,
+            "code": "KSSM-031",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 27970830,
+            "code": "KSSM-032",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 72345736,
+            "code": "KSSM-033",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 11102908,
+            "code": "KSSM-034",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 11102908,
+            "code": "KSSM-035",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 53819808,
+            "code": "KSSM-036",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 21007444,
+            "code": "KSSM-037",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 23212990,
+            "code": "KSSM-038",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 46874015,
+            "code": "KSSM-039",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 41458579,
+            "code": "KSSM-040",
+            "rarity": "Common",
+            "image_index": 0
+        },
+        {
+            "id": 29981921,
+            "code": "KSSM-041",
+            "rarity": "Common",
+            "image_index": 0
+        }
+    ]
+}
