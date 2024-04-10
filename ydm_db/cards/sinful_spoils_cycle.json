@@ -1,0 +1,10 @@
+{
+  "id": 26334139,
+  "name": "Sinful Spoils Cycle",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Take 1 Level 5 or higher Illusion monster from your Deck, and either add it to your hand or Special Summon it. If Summoned this way, you cannot activate its effects during the Main Phase this turn. You can banish this card from your GY, then target 1 face-down card you control; return it to the hand, then you can Set 1 Spell/Trap from your hand. You can only use each effect of \"Sinful Spoils Cycle\" once per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/26334139.jpg"],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

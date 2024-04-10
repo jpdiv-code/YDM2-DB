@@ -1,0 +1,19 @@
+{
+  "id": 91810826,
+  "name": "Tenpai Dragon Zhongdora",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, during the Battle Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. You can only use each of the following effects of \"Tenpai Dragon Zhongdora\" once per turn. If you control a FIRE Dragon monster: You can Special Summon this card from your hand. At the start of the Damage Step, if a monster battles: You can Special Summon 1 Level 4 or lower FIRE Dragon monster from your Deck, except \"Tenpai Dragon Zhongdora\".",
+  "images": ["https://images.ygoprodeck.com/images/cards/91810826.jpg"],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1500,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": true
+}
