@@ -1,0 +1,773 @@
+{
+  "name": "Phantom Nightmare",
+  "code": "PHNI",
+  "type": "Booster Pack",
+  "date": "09-02-2024",
+  "image": "https://images.ygoprodeck.com/images/sets/PHNI.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_without_rare_with_starlight_rare",
+  "cards": [
+  {
+    "id": 15845914,
+    "code": "PHNI-EN000",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 90829280,
+    "code": "PHNI-EN001",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 26913989,
+    "code": "PHNI-EN002",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 62318994,
+    "code": "PHNI-EN003",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 99707692,
+    "code": "PHNI-EN004",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 25191307,
+    "code": "PHNI-EN005",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 52596406,
+    "code": "PHNI-EN006",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 98684051,
+    "code": "PHNI-EN007",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 24079759,
+    "code": "PHNI-EN008",
+    "rarity": "Ultra Rare",
+    "image_index": 0
+  },
+  {
+    "id": 24079759,
+    "code": "PHNI-EN008",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 51473858,
+    "code": "PHNI-EN009",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 27868563,
+    "code": "PHNI-EN010",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 64257161,
+    "code": "PHNI-EN011",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 90241276,
+    "code": "PHNI-EN012",
+    "rarity": "Ultra Rare",
+    "image_index": 0
+  },
+  {
+    "id": 90241276,
+    "code": "PHNI-EN012",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 26746975,
+    "code": "PHNI-EN013",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 53134520,
+    "code": "PHNI-EN014",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 99529628,
+    "code": "PHNI-EN015",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 26523337,
+    "code": "PHNI-EN016",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 26523337,
+    "code": "PHNI-EN016",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 52918032,
+    "code": "PHNI-EN017",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 99307040,
+    "code": "PHNI-EN018",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 99307040,
+    "code": "PHNI-EN018",
+    "rarity": "Secret Rare",
+    "image_index": 0
+  },
+  {
+    "id": 25801745,
+    "code": "PHNI-EN019",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 25801745,
+    "code": "PHNI-EN019",
+    "rarity": "Secret Rare",
+    "image_index": 0
+  },
+  {
+    "id": 51296484,
+    "code": "PHNI-EN020",
+    "rarity": "Ultra Rare",
+    "image_index": 0
+  },
+  {
+    "id": 51296484,
+    "code": "PHNI-EN020",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 88284599,
+    "code": "PHNI-EN021",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 24689197,
+    "code": "PHNI-EN022",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 51073802,
+    "code": "PHNI-EN023",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 13567610,
+    "code": "PHNI-EN024",
+    "rarity": "Ultra Rare",
+    "image_index": 0
+  },
+  {
+    "id": 13567610,
+    "code": "PHNI-EN024",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 50951254,
+    "code": "PHNI-EN025",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 86346363,
+    "code": "PHNI-EN026",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 13744068,
+    "code": "PHNI-EN027",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 49139666,
+    "code": "PHNI-EN028",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 85123771,
+    "code": "PHNI-EN029",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 87462901,
+    "code": "PHNI-EN030",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 12612470,
+    "code": "PHNI-EN031",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 48017189,
+    "code": "PHNI-EN032",
+    "rarity": "Ultra Rare",
+    "image_index": 0
+  },
+  {
+    "id": 48017189,
+    "code": "PHNI-EN032",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 85401123,
+    "code": "PHNI-EN033",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 11496832,
+    "code": "PHNI-EN034",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 47894537,
+    "code": "PHNI-EN035",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 74289646,
+    "code": "PHNI-EN036",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 10774240,
+    "code": "PHNI-EN037",
+    "rarity": "Ultra Rare",
+    "image_index": 0
+  },
+  {
+    "id": 10774240,
+    "code": "PHNI-EN037",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 47172959,
+    "code": "PHNI-EN038",
+    "rarity": "Ultra Rare",
+    "image_index": 0
+  },
+  {
+    "id": 47172959,
+    "code": "PHNI-EN038",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 73167098,
+    "code": "PHNI-EN039",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 9551692,
+    "code": "PHNI-EN040",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 46956301,
+    "code": "PHNI-EN041",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 72444406,
+    "code": "PHNI-EN042",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 72444406,
+    "code": "PHNI-EN042",
+    "rarity": "Secret Rare",
+    "image_index": 0
+  },
+  {
+    "id": 9839115,
+    "code": "PHNI-EN043",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 35834119,
+    "code": "PHNI-EN044",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 71222868,
+    "code": "PHNI-EN045",
+    "rarity": "Ultra Rare",
+    "image_index": 0
+  },
+  {
+    "id": 71222868,
+    "code": "PHNI-EN045",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 8617563,
+    "code": "PHNI-EN046",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 34001672,
+    "code": "PHNI-EN047",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 34001672,
+    "code": "PHNI-EN047",
+    "rarity": "Secret Rare",
+    "image_index": 0
+  },
+  {
+    "id": 71100270,
+    "code": "PHNI-EN048",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 3594985,
+    "code": "PHNI-EN049",
+    "rarity": "Ultra Rare",
+    "image_index": 0
+  },
+  {
+    "id": 3594985,
+    "code": "PHNI-EN049",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 30989084,
+    "code": "PHNI-EN050",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 66384688,
+    "code": "PHNI-EN051",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 66384688,
+    "code": "PHNI-EN051",
+    "rarity": "Secret Rare",
+    "image_index": 0
+  },
+  {
+    "id": 2772337,
+    "code": "PHNI-EN052",
+    "rarity": "Ultra Rare",
+    "image_index": 0
+  },
+  {
+    "id": 2772337,
+    "code": "PHNI-EN052",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 39767432,
+    "code": "PHNI-EN053",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 65261141,
+    "code": "PHNI-EN054",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 92650749,
+    "code": "PHNI-EN055",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 38044854,
+    "code": "PHNI-EN056",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 64049553,
+    "code": "PHNI-EN057",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 91434208,
+    "code": "PHNI-EN058",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 27822206,
+    "code": "PHNI-EN059",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 64327901,
+    "code": "PHNI-EN060",
+    "rarity": "Ultra Rare",
+    "image_index": 0
+  },
+  {
+    "id": 64327901,
+    "code": "PHNI-EN060",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 90711610,
+    "code": "PHNI-EN061",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 90711610,
+    "code": "PHNI-EN061",
+    "rarity": "Secret Rare",
+    "image_index": 0
+  },
+  {
+    "id": 26700718,
+    "code": "PHNI-EN062",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 53194323,
+    "code": "PHNI-EN063",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 99599062,
+    "code": "PHNI-EN064",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 26984177,
+    "code": "PHNI-EN065",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 52472775,
+    "code": "PHNI-EN066",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 98477480,
+    "code": "PHNI-EN067",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 25861589,
+    "code": "PHNI-EN068",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 51250293,
+    "code": "PHNI-EN069",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 51250293,
+    "code": "PHNI-EN069",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 88654892,
+    "code": "PHNI-EN070",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 88654892,
+    "code": "PHNI-EN070",
+    "rarity": "Secret Rare",
+    "image_index": 0
+  },
+  {
+    "id": 24649931,
+    "code": "PHNI-EN071",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 50134646,
+    "code": "PHNI-EN072",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 87532344,
+    "code": "PHNI-EN073",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 13927359,
+    "code": "PHNI-EN074",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 50311058,
+    "code": "PHNI-EN075",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 86310763,
+    "code": "PHNI-EN076",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 12804701,
+    "code": "PHNI-EN077",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 49299410,
+    "code": "PHNI-EN078",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 49299410,
+    "code": "PHNI-EN078",
+    "rarity": "Secret Rare",
+    "image_index": 0
+  },
+  {
+    "id": 85698115,
+    "code": "PHNI-EN079",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 12682213,
+    "code": "PHNI-EN080",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 12682213,
+    "code": "PHNI-EN080",
+    "rarity": "Secret Rare",
+    "image_index": 0
+  },
+  {
+    "id": 70843274,
+    "code": "PHNI-EN081",
+    "rarity": "Ultra Rare",
+    "image_index": 0
+  },
+  {
+    "id": 70843274,
+    "code": "PHNI-EN081",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 16238373,
+    "code": "PHNI-EN082",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 43633088,
+    "code": "PHNI-EN083",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 79627627,
+    "code": "PHNI-EN084",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 6116731,
+    "code": "PHNI-EN085",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 42510430,
+    "code": "PHNI-EN086",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 78905039,
+    "code": "PHNI-EN087",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 5993144,
+    "code": "PHNI-EN088",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 31398842,
+    "code": "PHNI-EN089",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 78783557,
+    "code": "PHNI-EN090",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 78783557,
+    "code": "PHNI-EN090",
+    "rarity": "Secret Rare",
+    "image_index": 0
+  },
+  {
+    "id": 4271596,
+    "code": "PHNI-EN091",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 30676200,
+    "code": "PHNI-EN092",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 67660909,
+    "code": "PHNI-EN093",
+    "rarity": "Ultra Rare",
+    "image_index": 0
+  },
+  {
+    "id": 67660909,
+    "code": "PHNI-EN093",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 3055018,
+    "code": "PHNI-EN094",
+    "rarity": "Super Rare",
+    "image_index": 0
+  },
+  {
+    "id": 30453613,
+    "code": "PHNI-EN095",
+    "rarity": "Ultra Rare",
+    "image_index": 0
+  },
+  {
+    "id": 30453613,
+    "code": "PHNI-EN095",
+    "rarity": "Starlight Rare",
+    "image_index": 0
+  },
+  {
+    "id": 66848311,
+    "code": "PHNI-EN096",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 31464658,
+    "code": "PHNI-EN097",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 97534104,
+    "code": "PHNI-EN098",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 3121655,
+    "code": "PHNI-EN099",
+    "rarity": "Common",
+    "image_index": 0
+  },
+  {
+    "id": 76823930,
+    "code": "PHNI-EN100",
+    "rarity": "Common",
+    "image_index": 0
+  }
+]
+}
