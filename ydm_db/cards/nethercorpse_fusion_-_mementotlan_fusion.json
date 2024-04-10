@@ -1,0 +1,10 @@
+{
+  "id": 66518509,
+  "name": "Nethercorpse Fusion - Mementotlan Fusion",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During the Main Phase: Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material, including a \"Memento\" monster. If a monster(s) in your possession was destroyed by card effect this turn, you can also use \"Memento\" monsters in your GY as material, by shuffling them into the Deck. During your Main Phase: You can banish this card from your GY; destroy 1 monster you control, and if you do, add 1 \"Memento\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Nethercorpse Fusion - Mementotlan Fusion\" once per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/66518509.jpg"],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

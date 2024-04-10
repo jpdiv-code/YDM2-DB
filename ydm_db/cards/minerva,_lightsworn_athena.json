@@ -1,0 +1,19 @@
+{
+  "id": 18843291,
+  "name": "Minerva, Lightsworn Athena",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\r\n\"Lightsworn\" monsters you control cannot be banished by card effects. You can only use each of the following effects of \"Minerva, Lightsworn Athena\" once per turn. If this card is Synchro Summoned: You can send \"Lightsworn\" monsters with different Types from your Deck to the GY, up to the number of \"Lightsworn\" monsters used as material for this card's Summon. You can banish up to 4 \"Lightsworn\" monsters from your GY; send that many cards from the top of your Deck to the GY.",
+  "images": ["https://images.ygoprodeck.com/images/cards/18843291.jpg"],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2800,
+  "species": "Fairy",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 8,
+  "is_tuner": false
+}

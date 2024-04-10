@@ -1,0 +1,19 @@
+{
+  "id": 85401123,
+  "name": "Mokomoko",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Draw 1 card.\r\nDuring your Main Phase: You can change this card to face-down Defense Position.\r\nYou can only use each of the preceding effects of \"Mokomoko\" once per turn. If this card battles a monster, neither can be destroyed by that battle.",
+  "images": ["https://images.ygoprodeck.com/images/cards/85401123.jpg"],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 300,
+  "species": "Illusion",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
+}

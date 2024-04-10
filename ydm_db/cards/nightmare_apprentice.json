@@ -1,0 +1,19 @@
+{
+  "id": 58143852,
+  "name": "Nightmare Apprentice",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Special Summon this card (from your hand) by discarding 1 card. You can only Special Summon \"Nightmare Apprentice\" once per turn this way. If this card is Normal or Special Summoned: You can add 1 Illusion monster from your Deck to your hand, except \"Nightmare Apprentice\". You can only use this effect of \"Nightmare Apprentice\" once per turn. If this card battles a monster, neither can be destroyed by that battle.",
+  "images": ["https://images.ygoprodeck.com/images/cards/58143852.jpg"],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Illusion",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1700,
+  "level": 6,
+  "is_tuner": false
+}

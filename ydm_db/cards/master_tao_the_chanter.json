@@ -1,0 +1,19 @@
+{
+  "id": 34541543,
+  "name": "Master Tao the Chanter",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card battles a monster, neither can be destroyed by that battle. If this card is sent to the GY: You can target 1 Illusion monster in your GY, except \"Master Tao the Chanter\"; Special Summon it in Defense Position, also you cannot Special Summon from the GY for the rest of this turn, except Illusion monsters. You can only use this effect of \"Master Tao the Chanter\" once per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/34541543.jpg"],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Illusion",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

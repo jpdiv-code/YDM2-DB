@@ -1,0 +1,19 @@
+{
+  "id": 19181420,
+  "name": "Mementotlan Twin Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 \"Memento\" monsters\r\nBanish any monster destroyed by battle with your \"Memento\" monsters. You can only use each of the following effects of \"Mementotlan Twin Dragon\" once per turn. If this card is Fusion Summoned: You can destroy 1 \"Memento\" monster in your hand or face-up field, and if you do, add up to 2 \"Memento\" monsters with different names from each other from your Deck to your hand. If this Fusion Summoned card is destroyed: You can Special Summon 1 Level 6 or lower \"Memento\" monster from your GY.",
+  "images": ["https://images.ygoprodeck.com/images/cards/19181420.jpg"],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2800,
+  "species": "Thunder",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 7,
+  "is_tuner": false
+}
