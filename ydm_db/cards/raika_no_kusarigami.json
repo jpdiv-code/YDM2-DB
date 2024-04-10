@@ -1,0 +1,18 @@
+{
+  "id": 6908161,
+  "name": "Raika no Kusarigami",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ monsters, including an Insect, Plant, or Reptile monster\r\nIf your opponent activates a monster effect: You can activate this effect; neither player can activate monsters effects in the hand for the rest of this turn. If this card is in your GY: You can target 1 Insect, Plant, or Reptile monster you control; place it on the bottom of the Deck, and if you do, Special Summon this card, also you cannot Special Summon monsters for the rest of this turn, except Insect, Plant, and Reptile monsters. You can only use each effect of \"Raika no Kusarigami\" once per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/6908161.jpg"],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2900,
+  "species": "Reptile",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 4,
+  "link_arrows": ["Bottom-Left", "Bottom", "Bottom-Right", "Right"]
+}

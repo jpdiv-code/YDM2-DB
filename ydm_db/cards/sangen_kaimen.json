@@ -1,0 +1,10 @@
+{
+  "id": 66730191,
+  "name": "Sangen Kaimen",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card was activated outside the Battle Phase, apply 1 of these effects. If it was activated during the Battle Phase, you can apply any of them, in sequence.\r\n\u25cf Add 1 Level 4 or lower FIRE Dragon monster from your Deck to your hand.\r\n\u25cf Special Summon 1 FIRE Dragon monster from your hand.\r\nYou can only activate 1 \"Sangen Kaimen\" per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/66730191.jpg"],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

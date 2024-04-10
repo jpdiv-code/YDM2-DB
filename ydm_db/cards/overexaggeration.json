@@ -1,0 +1,10 @@
+{
+  "id": 96352712,
+  "name": "Overexaggeration",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "At the start of the Damage Step, if 2 monsters battle: Activate 1 of these effects;\r\n\u25cf Change the attacking monster to Defense Position.\r\n\u25cf Return the attack target monster to the hand.\r\n\u25cf Destroy both battling monsters.\r\nYou can only activate 1 \"Overexaggeration\" per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/96352712.jpg"],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

@@ -1,0 +1,10 @@
+{
+  "id": 91668078,
+  "name": "One by One We Walk, Frosty Forest Frolicking, Treading in the Tracks",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a card(s) other than \"One by One We Walk, Frosty Forest Frolicking, Treading in the Tracks\" is sent to the GY: Banish up to 5 cards from your GY face-down, then, if you have 7 or more face-down banished cards, your opponent banishes as many cards from their GY as possible face-down (max. 5).",
+  "images": ["https://images.ygoprodeck.com/images/cards/91668078.jpg"],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}
