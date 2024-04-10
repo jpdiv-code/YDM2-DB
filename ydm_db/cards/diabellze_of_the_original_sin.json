@@ -1,0 +1,19 @@
+{
+  "id": 53765052,
+  "name": "Diabellze of the Original Sin",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a \"Sinful Spoils\" card is in either GY, you can Special Summon this card (from your hand). You can only Special Summon \"Diabellze of the Original Sin\" once per turn this way. Your opponent cannot activate Spell/Trap Cards that were not Set. If either player Sets a Spell/Trap(s) to the field while this monster is on the field (except during the Damage Step): You can target 1 card you control and 1 card your opponent controls; destroy them. You can only use this effect of \"Diabellze of the Original Sin\" once per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/53765052.jpg"],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Illusion",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

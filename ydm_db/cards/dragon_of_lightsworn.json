@@ -1,0 +1,19 @@
+{
+  "id": 59481082,
+  "name": "Dragon of Lightsworn",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you have a \"Lightsworn\" monster in your GY: You can Special Summon this card from your hand. If this card is Special Summoned: You can send 1 \"Lightsworn\" card from your Deck to the GY, except \"Dragon of Lightsworn\". If this card is sent to the GY: You can add 1 Dragon monster with 3000 ATK/2600 DEF from your Deck to your hand. You can only use each effect of \"Dragon of Lightsworn\" once per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/59481082.jpg"],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

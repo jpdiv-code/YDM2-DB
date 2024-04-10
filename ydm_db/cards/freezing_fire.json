@@ -1,0 +1,19 @@
+{
+  "id": 83819309,
+  "name": "Freezing Fire",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a player gains LP (except during the Damage Step): You can Special Summon this card from your hand. Once per turn, if a player gains LP while this monster is on the field (except during the Damage Step): You can make either player gain 1000 LP.",
+  "images": ["https://images.ygoprodeck.com/images/cards/83819309.jpg"],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 500,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
+}

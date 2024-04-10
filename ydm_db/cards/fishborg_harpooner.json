@@ -1,0 +1,19 @@
+{
+  "id": 57420265,
+  "name": "Fishborg Harpooner",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can reveal this card and 1 other WATER monster in your hand; Special Summon 1 of them and discard the other. You can only use this effect of \"Fishborg Harpooner\" once per turn. If this card is sent to the GY as Synchro Material for a WATER monster: You can negate the effects of 1 Effect Monster your opponent controls, until the end of this turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/57420265.jpg"],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 400,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 4,
+  "is_tuner": true
+}
