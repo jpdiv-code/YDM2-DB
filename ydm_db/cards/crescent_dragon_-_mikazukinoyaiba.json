@@ -1,0 +1,19 @@
+{
+  "id": 85753549,
+  "name": "Crescent Dragon - Mikazukinoyaiba",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During the End Phase, if this card is in your hand or GY: You can Special Summon it, but place it on the bottom of the Deck when it leaves the field. You can discard 1 card; add 1 Level 7 DARK Dragon monster from your Deck to your hand. You can only use each effect of \"Crescent Dragon - Mikazukinoyaiba\" once per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/85753549.jpg"],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2200,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2350,
+  "level": 7,
+  "is_tuner": false
+}

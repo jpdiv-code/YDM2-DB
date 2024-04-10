@@ -1,0 +1,19 @@
+{
+  "id": 71858682,
+  "name": "Centur-Ion Arkcoela",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\r\nFace-up cards in your Spell & Trap Zone cannot be destroyed by card effects. You can only use each of the following effects of \"Centur-Ion Arkcoela\" once per turn. If this card is Special Summoned: You can add 1 \"Centur-Ion\" card from your Deck to your hand. During the End Phase: You can place 1 non-Synchro \"Centur-Ion\" monster from your GY or banishment face-up in your Spell & Trap Zone as a Continuous Trap.",
+  "images": ["https://images.ygoprodeck.com/images/cards/71858682.jpg"],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 12,
+  "is_tuner": false
+}

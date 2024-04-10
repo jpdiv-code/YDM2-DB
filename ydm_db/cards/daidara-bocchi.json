@@ -1,0 +1,19 @@
+{
+  "id": 69133798,
+  "name": "Daidara-Bocchi",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Special Summoned. You can Tribute Summon this card face-up by Tributing 1 Zombie monster. Gains 200 ATK for each Zombie monster you control, except this card. At the start of your Main Phase 1, if you have this card, and 2 or more Zombie monsters other than \"Daidara-Bocchi\", in your GY: You can discard 1 card; add this card to your hand.",
+  "images": ["https://images.ygoprodeck.com/images/cards/69133798.jpg"],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2900,
+  "species": "Zombie",
+  "monster_type": "Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 10,
+  "is_tuner": false
+}

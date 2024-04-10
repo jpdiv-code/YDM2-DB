@@ -1,0 +1,10 @@
+{
+  "id": 30336082,
+  "name": "Brimming Sangen Manor",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FIRE Dragon monsters you control are unaffected by your opponent's activated effects during your Main Phase 1 only. During your Main Phase: You can add 1 \"Tenpai Dragon\" monster from your Deck to your hand, then discard 1 card. You can only use this effect of \"Brimming Sangen Manor\" once per turn. If this card is destroyed during the Battle Phase: You can target 1 Dragon Synchro Monster you control; its ATK becomes doubled.",
+  "images": ["https://images.ygoprodeck.com/images/cards/30336082.jpg"],
+  "type": "Spell",
+  "spell_type": "Field"
+}
