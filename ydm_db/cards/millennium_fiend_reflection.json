@@ -1,0 +1,19 @@
+{
+  "id": 101205005,
+  "name": "Millennium Fiend Reflection",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Millennium Fiend Reflection\" once per turn. If this card is in your hand: You can place it face-up in your Spell & Trap Zone as a Continuous Spell. If your opponent activates a card or effect while this card is a Continuous Spell: You can Special Summon this card, then you can gain LP equal to half the ATK of 1 monster on the field.",
+  "images": ["https://images.ygoprodeck.com/images/cards/101205005.jpg"],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1300,
+  "species": "Illusion",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}
