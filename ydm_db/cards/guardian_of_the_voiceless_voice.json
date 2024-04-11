@@ -1,0 +1,12 @@
+{
+  "id": 101205074,
+  "name": "Guardian of the Voiceless Voice",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When an opponent's monster declares an attack, or an opponent's monster effect is activated that would destroy a monster(s) on the field, and a monster that mentions \"Shining Sarcophagus\" is on the field: The first time each monster you control that mentions \"Shining Sarcophagus\" would be destroyed by battle or card effect for the rest of this turn after this card resolves, it is not destroyed, also destroy as many opponent's Attack Position monsters as possible, then, if you control \"Dark Magician\", inflict 500 damage to them for each monster destroyed.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13262-1b1cb32632.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

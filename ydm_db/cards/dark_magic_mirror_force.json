@@ -1,0 +1,10 @@
+{
+  "id": 101205069,
+  "name": "Dark Magic Mirror Force",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When an opponent's monster declares an attack, or an opponent's monster effect is activated that would destroy a monster(s) on the field, and a monster that mentions \"Shining Sarcophagus\" is on the field: The first time each monster you control that mentions \"Shining Sarcophagus\" would be destroyed by battle or card effect for the rest of this turn after this card resolves, it is not destroyed, also destroy as many opponent's Attack Position monsters as possible, then, if you control \"Dark Magician\", inflict 500 damage to them for each monster destroyed.",
+  "images": ["https://images.ygoprodeck.com/images/cards/101205069.jpg"],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

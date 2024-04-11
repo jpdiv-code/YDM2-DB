@@ -1,0 +1,10 @@
+{
+  "id": 101205053,
+  "name": "Millennium Cross",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Show 5 \"Forbidden One\" Monster Cards from your hand, Deck, and/or face-up field, then Special Summon 1 \"The Phantom Exodia Incarnate\" from your Extra Deck, then shuffle any face-up Monster Cards you control into the Deck, except \"Exodia\" Monster Cards whose original Level is 10 or higher, \"Millennium\" Monster Cards, and \"Sengenjin\", also you cannot Summon monsters for the rest of this turn (but you can Normal Set). After activation, shuffle this card into the Deck instead of sending it to the GY.",
+  "images": ["https://images.ygoprodeck.com/images/cards/101205053.jpg"],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

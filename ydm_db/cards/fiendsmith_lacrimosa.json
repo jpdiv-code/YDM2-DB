@@ -1,0 +1,21 @@
+{
+  "id": 101205035,
+  "name": "Fiendsmith Lacrimosa",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 LIGHT Fiend monsters\r\nMonsters your opponent controls lose 600 ATK. You can only use each of the following effects of \"Fiendsmith Lacrimosa\" once per turn. If this card is Fusion Summoned: You can target 1 LIGHT Fiend monster in your GY or banishment; either add it to your hand or Special Summon it. If this card is sent to the GY: You can shuffle 1 other LIGHT Fiend monster from your GY into the Deck/Extra Deck; inflict 1200 damage to your opponent.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13216-7a0aa7a2c6.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2400,
+  "species": "Fiend",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 6,
+  "is_tuner": false
+}

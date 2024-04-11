@@ -1,0 +1,21 @@
+{
+  "id": 101205041,
+  "name": "DPA Jeanne d'Moore",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can Special Summon 1 Level 4 Cyberse monster from your GY in Defense Position, but its effects are negated, also you cannot Special Summon for the rest of this turn, except Cyberse monsters. When your Cyberse monster inflicts battle damage to your opponent during battle with their monster: You can banish this card from your GY; inflict an equal amount of damage to them. You can only use each effect of \"DPA Jeanne d'Moore\" once per turn.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13229-5e6d26edb6.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2000,
+  "species": "Cyberse",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2800,
+  "level": 8,
+  "is_tuner": true
+}

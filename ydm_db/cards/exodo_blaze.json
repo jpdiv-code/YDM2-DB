@@ -1,0 +1,10 @@
+{
+  "id": 101205055,
+  "name": "Exodo Blaze",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "One Level 10 or higher monster you control with \"Exodia\" in its original name gains these effects.\r\n\u25cf You can pay half your LP; you cannot activate other cards or their effects for the rest of this turn, also destroy as many cards in the Spell & Trap Zone as possible, then equip 5 \"Forbidden One\" monsters from your hand and/or Deck to this card, each as an Equip Spell that gives it 2000 ATK.\r\n\u25cf If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "images": ["https://images.ygoprodeck.com/images/cards/101205055.jpg"],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

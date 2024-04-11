@@ -1,0 +1,12 @@
+{
+  "id": 101205072,
+  "name": "Fiendsmith in Paradisum",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 Level 7 or higher LIGHT Fiend monster you control; send all cards on the field to the GY, except that monster. If your opponent Special Summons a monster(s) while this card is in your GY: You can banish this card; send 1 \"Fiendsmith\" monster from your Deck or Extra Deck to the GY. You can only use each effect of \"Fiendsmith in Paradisum\" once per turn.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13222-f0862b52ba.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

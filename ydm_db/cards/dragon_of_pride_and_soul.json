@@ -1,0 +1,19 @@
+{
+  "id": 101205000,
+  "name": "Dragon of Pride and Soul",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) while your opponent has 25 or more cards in their GY. While you have 25 or more cards in your GY, this card gains 2500 ATK/DEF.",
+  "images": ["https://images.ygoprodeck.com/images/cards/101205000.jpg"],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

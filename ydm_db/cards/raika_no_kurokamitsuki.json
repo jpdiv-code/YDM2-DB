@@ -1,0 +1,20 @@
+{
+  "id": 101205048,
+  "name": "Raika no Kurokamitsuki",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Insect, Plant and/or Reptile monsters\r\nYou can banish up to 2 monsters from your GY, then target the same number of Spell/Traps on your opponent's fied; destroy those cards. While this card is in the GY: You can target 1 Insect, Plant or Reptile monster on your field; place that monster on the bottom of the Deck, and if you do, Special Summon this card, but you cannot Special Summon monsters during this turn, except Insect, Plant or Reptile monsters. You can only use each effect of \"Raika no Kurokamitsuki\" once per turn.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13265-85c159c5aa.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2600,
+  "species": "Reptile",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": ["Left", "Bottom", "Right"]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 101205033,
+  "name": "The Legendary Exodia Phantom Incarnate",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "5 \"Forbidden One\" monsters\r\nThis card on the field cannot be destroyed by your opponent's card effects. Once per turn, if this card battles, during damage calculation: It gains ATK equal to your current LP. Once per turn, when a Spell/Trap Card or effect is activated (Quick effect): You can negate the activation. Once per turn, during the End Phase: You can Set 1 \"Exodo\" Spell/Trap or \"Obliterate!!!\" directly from your Deck. Once per turn, during your Standby Phase: You lose 1000 LP.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13201-7342b6f422.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Spellcaster",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 10,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 101205071,
+  "name": "Woes of the White Woods",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summon 1 \"White Woods\" monster from your hand or Deck, then, immediately after this effect resolves, you can Synchro Summon 1 \"White Woods\" monster. If this card is sent to the GY to activate a monster effect: You can Set this card. You can only use each effect of \"Woes of the White Woods\" once per turn.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13281-3f2a4aabc6.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

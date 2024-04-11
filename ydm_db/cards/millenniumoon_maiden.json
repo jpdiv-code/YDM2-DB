@@ -1,0 +1,19 @@
+{
+  "id": 101205004,
+  "name": "Millenniumoon Maiden",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Millenniumoon Maiden\" once per turn. If this card is in your hand: You can place it face-up in your Spell & Trap Zone as a Continuous Spell. If your opponent activates a card or effect while this card is a Continuous Spell: You can Special Summon this card, and if you do, your opponent cannot target Level 5 or higher Illusion and Spellcaster monsters you control with card effects this turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/101205004.jpg"],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Illusion",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

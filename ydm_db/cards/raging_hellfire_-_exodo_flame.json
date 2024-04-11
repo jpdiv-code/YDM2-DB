@@ -1,0 +1,10 @@
+{
+  "id": 101205068,
+  "name": "Raging Hellfire - Exodo Flame",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a Level 10 or higher \"Exodia\" monster: Destroy all cards your opponent controls. You can banish this card from your GY, except the turn it was sent there, then activate 1 of these effects;\r\n\u25cf Add 1 \"Forbidden One\" monster from your Deck or GY to your hand.\r\n\u25cf Shuffle up to 5 \"Forbidden One\" monsters from your GY and/or banishment into the Deck.\r\nYou can only use each effect of \"Raging Hellfire - Exodo Flame\" once per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/101205068.jpg"],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

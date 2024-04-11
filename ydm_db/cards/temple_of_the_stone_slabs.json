@@ -1,0 +1,12 @@
+{
+  "id": 101205054,
+  "name": "Temple of the Stone Slabs",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Main Phase: You can place 1 monster from your hand face-up in your Spell & Trap Zone as a Continuous Spell, then you can place 1 \"Millennium\" monster or 1 \"Sengenjin\" from your Deck face-up in your Spell & Trap Zone as a Continuous Spell. You can only use this effect of \"Temple of the Stone Slabs\" once per turn. If a face-up \"Millennium\" monster(s) and/or \"Sengenjin\" you control is destroyed by battle or effect, you can place it face-up in your Spell & Trap Zone as a Continuous Spell instead of sending it to the GY.",
+  "images": [
+    "https://api.cardcluster.de/storage/tmp/TMP-CARD-13208-d216965db3.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}
