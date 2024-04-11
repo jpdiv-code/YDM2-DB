@@ -1,0 +1,21 @@
+{
+  "id": 101205015,
+  "name": "Silve of the White Woods",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"White Woods\" Spell/Trap from your Deck to your hand. If this card is in your GY (Quick Effect): You can target 1 \"White Woods\" Synchro Monster you control or in your GY; return it to the Extra Deck, and if you do, Special Summon this card, but its effects are negated. You can only use each effect of \"Silve of the White Woods\" once per turn.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13273-02eae89127.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 4,
+  "is_tuner": true
+}

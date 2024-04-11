@@ -1,0 +1,21 @@
+{
+  "id": 101205013,
+  "name": "Asteria of the White Woods",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can send 1 Spell/Trap from your hand or field to the GY; Special Summon 1 LIGHT Spellcaster Tuner from your Deck. If a Spell(s)/Trap(s) is sent to your GY to activate a monster effect while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Asteria of the White Woods\" once per turn.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13271-d22827cea2.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}
