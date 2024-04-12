@@ -1,0 +1,20 @@
+{
+  "id": 1012050039,
+  "name": "Trickstar Colchica",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 non-Link \"Trickstar\" monster\r\nYou can only Special Summon \"Trickstar Colchica(s)\" once per turn. When a monster(s) is destroyed by a battle involving your \"Trickstar\" monster while this card is in your GY: You can banish this card, then target 1 of those destroyed monsters; inflict damage to your opponent equal to the ATK it had on the field. You can only use this effect of \"Trickstar Colchica\" once per turn.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13241-c7ebd7bbf1.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 200,
+  "species": "Fairy",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 1,
+  "link_arrows": ["Bottom"]
+}

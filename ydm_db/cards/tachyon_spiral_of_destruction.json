@@ -1,0 +1,12 @@
+{
+  "id": 1012050005,
+  "name": "Tachyon Spiral of Destruction",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate 1 of these effects (but you can only use each effect of this card's name once per turn); \n? If you control a \"Galaxy\" Xyz Monster: Destroy all face-up cards your opponent controls whose effects are negated. \n?Target 1 \"Tachyon\" card in your GY, except \"Tachyon Spiral of Destruction\"; add it to your hand. \n?Target 1 Dragon \"Number\" monster in your GY; Special Summon it in Defense Position.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13286-2f21401873.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

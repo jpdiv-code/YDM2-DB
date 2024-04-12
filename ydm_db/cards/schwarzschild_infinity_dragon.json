@@ -1,0 +1,21 @@
+{
+  "id": 1012050003,
+  "name": "Schwarzschild Infinity Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control no monsters, or your opponent controls a monster with 2000 or more ATK: You can Special Summon this card from your hand, and if you do, Special Summon 1 Level 8 LIGHT or DARK Dragon monster from your Deck in Defense Position, except \"Schwarzschild Infinity Dragon\", but its effects are negated. You can only use this effect of \"Schwarzschild Infinity Dragon\" once per turn. You cannot Special Summon from the Extra Deck the turn you activate this card's effect, except Dragon Xyz Monsters.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13284-842e99b64f.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
+}

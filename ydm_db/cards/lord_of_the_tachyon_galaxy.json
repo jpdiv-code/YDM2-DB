@@ -1,0 +1,12 @@
+{
+  "id": 1012050007,
+  "name": "Lord of the Tachyon Galaxy",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During the Battle Phase: Detach 1 material from your \"Galaxy-Eyes\" Xyz Monster (if you control a \"Number C\" monster, this card's activation and effect cannot be negated); shuffle all monsters your opponent controls Normal or Special Summoned this turn into the Deck. You can only activate 1 \"Lord of the Tachyon Galaxy\" per turn. If you control a \"Galaxy-Eyes Tachyon Dragon\" monster, you can activate this card from the hand.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13287-ca1ae5e52a.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}
