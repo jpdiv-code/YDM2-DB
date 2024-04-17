@@ -1,9 +1,9 @@
 {
   "id": 24215921,
-  "name": "Infernal Grave Squirmer",
+  "name": "Gruesome Grave Squirmer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a Fiend monster (Quick Effect): You can Special Summon this card from your hand, then you can destroy 1 monster you control that is \"Yubel\" or mentions it. You can banish this card from your GY; Special Summon 1 Fiend monster with 0 ATK/DEF from your hand or GY, except \"Infernal Grave Squirmer\". You can only use each effect of \"Infernal Grave Squirmer\" once per turn.",
+  "text": "If you control a Fiend monster (Quick Effect): You can Special Summon this card from your hand, then you can destroy 1 monster you control that is \"Yubel\" or mentions it. You can banish this card from your GY; Special Summon 1 Fiend monster with 0 ATK/DEF from your hand or GY, except \"Gruesome Grave Squirmer\". You can only use each effect of \"Gruesome Grave Squirmer\" once per turn.",
   "images": ["https://images.ygoprodeck.com/images/cards/24215921.jpg"],
   "type": "Monster",
   "attribute": "DARK",
