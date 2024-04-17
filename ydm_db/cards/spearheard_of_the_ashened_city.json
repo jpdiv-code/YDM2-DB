@@ -1,0 +1,21 @@
+{
+  "id": 1012050091,
+  "name": "Spearheard of the Ashened City",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If \"Obsidim, the Ashened City\" is in the Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Spearhead of the Ashened City\" once per turn this way. If your opponent controls a monster with 2800 or more ATK: You can Tribute this card, then target 1 card your opponent controls; return it to the hand. You can only use this effect of \"Spearheard of the Ashened City\" once per turn.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13297-8bf792d1a3.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 4,
+  "is_tuner": false
+}

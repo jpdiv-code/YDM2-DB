@@ -1,0 +1,12 @@
+{
+  "id": 1012050094,
+  "name": "Rekindling the Ashened",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Place 1 of your \"Ashened\" cards that is banished or in your GY on the bottom of your Main Deck, except \"Rekindling the Ashened\", then target 1 Effect Monster your opponent controls, negate its effects until the end of this turn. You can only activate 1 \"Rekindling the Ashened\" per turn.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13299-d17f25fefa.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

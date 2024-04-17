@@ -1,0 +1,12 @@
+{
+  "id": 101205064,
+  "name": "Vesper Girsu",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If your opponent controls 2 or more monsters than you do: Your opponent can send any number of monsters they control to the GY, also you apply these effects based on the number they control.\n?0: Halve your LP. \n?1: Your opponent gains 2000 LP. \n?2: Banish your opponent's entire hand face-up until the End Phase. \n?3+: Your opponent cannot activate monster effects for the rest of this turn. You can only activate 1 \"Vesper Girsu\" per turn.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13294-57846416fc.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

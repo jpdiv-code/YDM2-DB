@@ -1,0 +1,19 @@
+{
+  "id": 83819309,
+  "name": "Cooling Embers",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a player gains LP (except during the Damage Step): You can Special Summon this card from your hand. Once per turn, if a player gains LP while this card is in the Monster Zone (except during the Damage Step): You can make 1 player gain 1000 LP.",
+  "images": ["https://images.ygoprodeck.com/images/cards/83819309.jpg"],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 500,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
+}
