@@ -1,9 +1,9 @@
 {
   "id": 60203670,
-  "name": "Gold Pride - Assassinator",
+  "name": "Gold Pride - Eliminator",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your LP are lower than your opponent's: You can Special Summon this card from your hand. You can banish 1 other \"Gold Pride\" monster from your hand, face-up field, or GY that has a Level; Special Summon 1 \"Gold Pride Token\" (Machine/DARK/ATK 0/DEF 0) with the same Level, also this card cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon for the rest of this turn, unless it is for a \"Gold Pride\" monster. You can only use each effect of \"Gold Pride - Assassinator\" once per turn.",
+  "text": "If your LP are lower than your opponent's: You can Special Summon this card from your hand. Banish 1 other \"Gold Pride\" monster from your hand, face-up on the field or in your GY; Special Summon 1 \"Gold Pride Token\" (Machine/DARK/ATK 0/DEF 0) with the same Level, also this card cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon for the rest of this turn, unless it is for a \"Gold Pride\" monster. You can only use each effect of \"Gold Pride - Eliminator\" once per turn.",
   "images": ["https://images.ygoprodeck.com/images/cards/60203670.jpg"],
   "type": "Monster",
   "attribute": "EARTH",
