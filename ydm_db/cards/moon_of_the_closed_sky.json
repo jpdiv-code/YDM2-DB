@@ -1,0 +1,18 @@
+{
+  "id": 71818935,
+  "name": "Moon of the Closed Sky",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Effect Monsters\r\nYou can target 1 face-up opponent's monster this card points to; this turn, if you Link Summon a Link-5 monster using this card you control as material, you can also use that opponent's monster as material. You can only use this effect of \"Moon of the Closed Sky\" once per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/71818935.jpg"],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1200,
+  "species": "Fiend",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": ["Top-Right", "Top"]
+}

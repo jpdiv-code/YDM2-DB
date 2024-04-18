@@ -1,0 +1,19 @@
+{
+  "id": 70117791,
+  "name": "Bombing Beast Fire Bomber",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Machine monster + 1 Pyro monster\r\nIf this card is Special Summoned: You can destroy all monsters your opponent controls with 1900 or less ATK. If this card is sent to the GY: You can target 1 monster your opponent controls with 1900 or less ATK; destroy it, and if you do, inflict damage to your opponent equal to its original ATK. You can only use each effect of \"Bombing Beast Fire Bomber\" once per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/70117791.jpg"],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1900,
+  "species": "Machine",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 6,
+  "is_tuner": false
+}

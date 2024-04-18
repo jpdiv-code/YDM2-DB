@@ -1,0 +1,19 @@
+{
+  "id": 47132793,
+  "name": "Blaze, Supreme Ruler of Dragons",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 7 monsters\r\nOnce per turn: You can detach 1 material from this card; destroy 1 card in your hand or field and 1 card your opponent controls. You can banish 2 Dragon and/or FIRE monsters from your hand and/or GY; Special Summon this card from your GY, but return it to the Extra Deck when it leaves the field. You can only use this effect of \"Blaze, Supreme Ruler of Dragons\" once per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/47132793.jpg"],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2800,
+  "species": "Dragon",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "rank": 7,
+  "is_tuner": false
+}

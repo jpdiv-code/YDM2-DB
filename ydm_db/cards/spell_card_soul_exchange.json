@@ -1,0 +1,10 @@
+{
+  "id": 15735108,
+  "name": "Spell Card: \"Soul Exchange\"",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Immediately after this effect resolves, Tribute Summon 1 monster, and if you do, it cannot be Tributed this turn. When you do, you can Tribute a monster(s) your opponent controls, even though you do not control them. If this card is sent from the field to the GY: Activate this effect; your opponent can apply this card's previous effect. You can only activate 1 \"Spell Card: \"Soul Exchange\"\" per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/15735108.jpg"],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
