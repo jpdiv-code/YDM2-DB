@@ -1,9 +1,9 @@
 {
   "id": 67457739,
-  "name": "Battle of the Sinful Spoils",
+  "name": "Sinful Spoils Struggle",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target cards you control up to the number of \"Sinful Spoils\" cards in your GY and/or banishment, and/or cards your opponent controls up to the number of \"Sinful Spoils\" cards in their GY and/or banishment; destroy them. If this Set card in its owner's control is destroyed, or banished, by an opponent's activated effect: You can shuffle up to 2 cards on the field into the Deck. You can only activate 1 \"Battle of the Sinful Spoils\" per turn.",
+  "text": "Target cards you control up to the number of \"Sinful Spoils\" cards in your GY and/or banishment, and/or cards your opponent controls up to the number of \"Sinful Spoils\" cards in their GY and/or banishment; destroy them. If this Set card in its owner's control is destroyed, or banished, by an opponent's activated effect: You can shuffle up to 2 cards on the field into the Deck. You can only activate 1 \"Sinful Spoils Struggle\" per turn.",
   "images": ["https://images.ygoprodeck.com/images/cards/67457739.jpg"],
   "type": "Spell",
   "spell_type": "Quick-Play"
