@@ -1,9 +1,9 @@
 {
   "id": 64664373,
-  "name": "Metaltronios",
+  "name": "Metaltronus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 face-up non-Token Monster your opponent controls; Special Summon 1 monster from your hand, Deck, or Extra Deck that has 2 or more of the same Type, Attribute, and/or ATK (its effects are negated), and if you do, negate the targeted monster's effects, then, if those 2 monsters have the same name, you can banish both, face-down. Your opponent cannot activate the targeted monster's effects in response to this card's activation. You can only activate 1 \"Metaltronios\" per turn.",
+  "text": "Target 1 face-up non-Token Monster your opponent controls; Special Summon 1 monster from your hand, Deck, or Extra Deck that has 2 or more of the same Type, Attribute, and/or ATK (its effects are negated), and if you do, negate the targeted monster's effects, then, if those 2 monsters have the same name, you can banish both, face-down. Your opponent cannot activate the targeted monster's effects in response to this card's activation. You can only activate 1 \"Metaltronus\" per turn.",
   "images": ["https://images.ygoprodeck.com/images/cards/64664373.jpg"],
   "type": "Spell",
   "spell_type": "Quick-Play"
