@@ -1,0 +1,12 @@
+{
+  "id": 1012050100,
+  "name": "Dragon's Glory of Light and Dark",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate 1 of these effects (but you can only use each effect of this card's name once per turn); \n?Shuffle 1 Level 8 Dragon monster from your hand into the Deck, and if you do, add 1 Level 8 Dragon monster with a different Attribute from your Deck to your hand. \n?Target 1 Dragon monster you control; it gains ATK equal to its Level x 200. \n?When a card or effect is activated that targets a Dragon monster(s) you control: Negate that effect.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13316-80e8e7fb1c.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

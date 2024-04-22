@@ -1,0 +1,20 @@
+{
+  "id": 1012050102,
+  "name": "Madolche Mewgnard Meowcaron",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Effect Monsters, including a \"Madolche\" monster\r\nIf this card is Link Summoned: You can add 1 \"Madolche\" card from your Deck to the hand. You can target 1 monster in your GY; you cannot activate non-\"Madolche\" monster effects for the rest of this turn, also Special Summon 1 \"Madolche\" monster from your hand, and if you do, shuffle that target into the Deck. You can only use each effect of \"Madolche Mewgnard Meowcaron\" once per turn.",
+  "images": [
+    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13318-149eebbaab.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2300,
+  "species": "Beast",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": ["Bottom-Left", "Bottom-Right", "Bottom"]
+}
