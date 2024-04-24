@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "If a Field Spell Card is activated: You can Special Summon this card from your hand in Defense Position. You can target 1 face-up card in the Field Zone, then activate this effect based on its controller; \n?You: Destroy that target, and if you do, add 1 Field Spell with a different name from your Deck. \n?Your opponent: Negate that target's effects (until the end of this turn), and if you do, add 1 Field Spell from your Deck to your hand. You can only use each effect of \"Cosmo Queen, the Queen of Prayers\" once per turn.",
-  "images": [
-    "https://api.cardcluster.de/storage/tmp/TMP-CARD-13289-097ce8e08b.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205024.jpg"],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2900,
