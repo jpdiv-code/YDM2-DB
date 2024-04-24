@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "During the Main Phase, if all monsters you control are FIRE Dragon monsters (min. 1) and your opponent controls more monsters than you do: End this Main Phase. If 3 or more attacks were declared this turn: You can banish this card from your GY; draw 1 card, then you can Special Summon any number of \"Tenpai Dragon\" monsters from your hand. You can only use each effect of \"Sangen Kaihou\" once per turn.",
-  "images": [
-    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13268-fb80579436.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205073.jpg"],
   "type": "Trap",
   "trap_type": "Normal"
 }
