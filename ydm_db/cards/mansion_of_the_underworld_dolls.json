@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "When this card resolves, you can add 1 \"Gimmick Puppet\" monster from your Deck to your hand. \"Gimmick Puppet\" monsters you control cannot be destroyed by battle, also they are unaffected by your opponent's activated non-Xyz monster effects. Once per turn: You can detach 1 Xyz Material from your monster, then target 1 \"Gimmick Puppet\" monster in your GY; Special Summon it to your opponent's field in Defense Position. You can only activate 1 \"Mansion of the Underworld Dolls\" per turn.",
-  "images": [
-    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13237-7c147e5a4e.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205056.jpg"],
   "type": "Spell",
   "spell_type": "Field"
 }
