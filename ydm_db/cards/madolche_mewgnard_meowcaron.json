@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "2+ Effect Monsters, including a \"Madolche\" monster\r\nIf this card is Link Summoned: You can add 1 \"Madolche\" card from your Deck to the hand. You can target 1 monster in your GY; you cannot activate non-\"Madolche\" monster effects for the rest of this turn, also Special Summon 1 \"Madolche\" monster from your hand, and if you do, shuffle that target into the Deck. You can only use each effect of \"Madolche Mewgnard Meowcaron\" once per turn.",
-  "images": [
-    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13318-149eebbaab.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205050.jpg"],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2300,
