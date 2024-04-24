@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "If you control no cards (Quick Effect): You can discard this card; apply these effects for the rest of this turn. \n?Each time your opponent Normal or Special Summons a monster(s) from the hand, immediately draw 1 card. \n?During the End Phase, if you have more cards in your hand than the number of cards your opponent controls +6, shuffle random cards from your hand into the Deck equal to the difference. You can only activate another \"Multchummy\" monster's effect once, during the turn you activate this effect.",
-  "images": [
-    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13295-271c60a6cf.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205027.jpg"],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 100,
