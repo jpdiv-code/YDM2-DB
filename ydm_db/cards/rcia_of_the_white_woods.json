@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "If you control a \"White Woods\" monster: You can Special Summon this card from your hand. You can send 1 Spell/Trap from your hand or field to the GY; draw 1 card. If this card is in your GY (Quick Effect): You can target 1 \"White Woods\" Synchro monster you control or in your GY; return it to the Extra Deck, and if you do, Special Summon this card, but its effects are negated. You can only use each effect of \"Rcia of the White Woods\" once per turn.",
-  "images": [
-    "https://api.cardcluster.de/storage/tmp/TMP-CARD-13274-4e1ffc56ee.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205016.jpg"],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 800,
