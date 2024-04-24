@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "1 LIGHT Fiend monster\r\nYou can only Special Summon \"Fiendsmith Requiem(s)\" once per turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Fiendsmith\" monster from your hand or Deck. You can target 1 non-Link LIGHT Fiend monster you control; equip this card from your field or GY to that target as an Equip Spell that gives it 600 ATK. You can only use this effect of \"Fiendsmith Requiem\" once per turn.",
-  "images": [
-    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13218-1f70c06d0f.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205046.jpg"],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 600,
