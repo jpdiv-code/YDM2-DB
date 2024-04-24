@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "You can Ritual Summon this with \"Meteonis Drytron\". Other \"Drytron\" monsters you control cannot be destroyed by your opponent's card effects. Up to twice per turn, when your opponent activates a monster effect (Quick Effect): You can banish \"Drytron\" monsters from your GY whose total ATK equal or exceed that monster's original ATK; negate the activation, and if you do, destroy that monster. If this Ritual Summoned card you control is destroyed by your opponent: You can Special Summon 1 Ritual Monster with 4000 ATK from your hand or Deck. (This is treated as a Ritual Summon.)",
-  "images": [
-    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13225-632ab699f1.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205032.jpg"],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 5000,
