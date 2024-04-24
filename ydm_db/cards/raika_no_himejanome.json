@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "You can discard this card; Special Summon 1 Insect, Plant, or Reptile monster from your hand. If this card is banished from the hand or GY: You can activate this effect; during the End Phase of this turn, draw cards equal to the number of different Types among Insect, Plant, and Reptile monsters you control. You can only use each effect of \"Raika no Himejanome\" once per turn.",
-  "images": [
-    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13264-6434bf2f03.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205018.jpg"],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,
