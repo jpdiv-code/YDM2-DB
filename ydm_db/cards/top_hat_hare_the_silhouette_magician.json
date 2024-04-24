@@ -1,0 +1,18 @@
+{
+  "id": 101205052,
+  "name": "Top Hat Hare the Silhouette Magician",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Effect Monsters\r\nIf this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Top Hat Hare the Silhouette Magician\" once per turn. If this card is Link Summoned: You can Set 1 Continuous Trap directly from your Deck with an effect that Special Summons itself as a monster, also this card cannot be used as Link Material for the rest of this turn. If a card(s) is Special Summoned from the Spell & Trap Zone to the Monster Zone: You can target 1 Spell/Trap your opponent controls; destroy it.",
+  "images": ["https://images.ygoprodeck.com/images/cards/101205052.jpg"],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Illusion",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": ["Bottom-Left", "Bottom-Right"]
+}

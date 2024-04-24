@@ -1,0 +1,10 @@
+{
+  "id": 101205079,
+  "name": "Silhouhatte",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summon this card as an Effect Monster (Illusion/DARK/Level 4/ATK 1500/DEF 600) with the following effects (this card is also still a Trap).\r\n\u25cf If this card is Special Summoned: You can target face-up cards your opponent controls, up to the number of Illusion monsters you control; negate their effects until the end of this turn.\r\n\u25cf If this card battles a monster, neither can be destroyed by that battle.\r\nYou can only activate 1 \"Silhouhatte\" per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/101205079.jpg"],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}
