@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "You can send 1 Spell/Trap from your hand or field to the GY; Special Summon this card from your hand, then add 1 \"White Woods\" monster from your Deck to your hand, except \"Risette of the White Woods\". If a LIGHT Spellcaster Tuner(s) is Special Summoned to your field during your opponent's turn while this card is in your GY: You can add this card to your hand. You can only use each effect of \"Risette of the White Woods\" once per turn.",
-  "images": [
-    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13272-5a530d6d49.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205014.jpg"],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 0,
