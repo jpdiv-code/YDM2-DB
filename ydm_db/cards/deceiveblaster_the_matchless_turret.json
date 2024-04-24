@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "You can Special Summon this card (from your hand) to a column with no cards. You can only Special Summon \"Deceiveblaster the Matchless Turret\" once per turn this way. Negate all cards and effects activated in this card's column. If this card in the Monster Zone is destroyed: You can place it in your Pendulum Zone.",
-  "images": [
-    "https://api.cardcluster.de/storage/tmp/TMP-CARD-13228-5d2db022f9.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205026.jpg"],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 500,
