@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "If this card is in your hand: You can reveal 1 \"Gimmick Puppet\" Xyz Monster in your Extra Deck; Special Summon both 1 \"Gimmick Puppet\" monster from your Deck with a Level equal to the revealed monster's Rank, and this card. If this card is sent to the GY, except from the hand: You can add it to your hand. You can only use each effect of \"Gimmick Puppet Bloody Doll\" once per turn. You cannot Special Summon from the Extra Deck the turn you activate either of this card's effects, except \"Gimmick Puppet\" monsters.",
-  "images": [
-    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13233-4b72d4e50f.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205008.jpg"],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 400,
