@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "3+ Effect Monsters\r\nYou can only control 1 \"Astral World Tree Illumistil\". Each time your opponent Special Summons a monster(s) face-up during the Main Phase, you gain LP equal to its ATK. Once per turn (Quick Effect): You can pay LP in multiples of 1000 (max. 3000); this card gains an equal amount of ATK.",
-  "images": [
-    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13231-d41ed95c2f.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205051.jpg"],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2000,
