@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "If this card is Normal Summoned: You can add I Level 4 or lower FIRE Dragon monster from your Deck to your hand. You can only use this effect of \"Dora Draco\" once per turn. Once per turn: You can excavate the top card of your Deck, and if it is a FIRE Dragon monster, send it to the GY, and if you do, this card gains 1000 ATK for each \"Dora Draco\" you currently control. Otherwise, place the excavated card on the bottom of the Deck.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/101205028.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205028.jpg"],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 400,
