@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "Target monsters your opponent controls up to the number of \"Gimmick Puppet\" Xyz Monsters you control; take control of them until the End Phase. If you control a \"Gimmick Puppet\" Xyz Monster, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 Xyz Monster in either GY; Special Summon it to either field in Defense Position. You can only use each effect of \"Servist Puppet\" once per turn.",
-  "images": [
-    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13238-9365d4953a.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205070.jpg"],
   "type": "Trap",
   "trap_type": "Normal"
 }
