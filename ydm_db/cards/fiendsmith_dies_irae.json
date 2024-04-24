@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "\"The Fiendsmith\" + 2 LIGHT Fiend monsters\r\nMust be Fusion Summoned. Monsters you control gain 200 ATK for each different Attribute you control. You can only use each of the following effects of \"Elemental HERO Sunrise\" once per turn.\r\n\u25cf If this card is Special Summoned: You can add 1 \"Miracle Fusion\" from your Deck to your hand.\r\n\u25cf When an attack is declared involving another \"HERO\" monster you control: You can target 1 card on the field; destroy it.",
-  "images": [
-    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13217-2a5ad949b4.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205036.jpg"],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2800,
