@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "Add 1 LIGHT Fiend monster from your Deck to your hand, then discard 1 card. You can banish this card from your GY; Fusion Summon 1 \"Fiendsmith\" Fusion Monster from your Extra Deck, using monsters from your hand or field as material. You can only use each effect of \"Fiendsmith Tractus\" once per turn.",
-  "images": [
-    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13220-382b892004.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205061.jpg"],
   "type": "Spell",
   "spell_type": "Normal"
 }
