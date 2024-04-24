@@ -4,9 +4,7 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "If a \"Drytron\" card(s) is banished: You can Tribute 1 \"Drytron\" monster, then target up to 2 of your banished \"Drytron\" cards; add them to your hand. You can reveal 1 \"Meteonis Drytron\" in your hand; Ritual Summon 1 Machine Ritual Monster from your hand or GY, by Tributing Machine monsters from your hand or field whose total ATK equal or exceed that monster's. You can only use each effect of \"Meteoaurora Drytron\" once per turn.",
-  "images": [
-    "https://api.cardcluster.de/storage/tmp/TMP-CARD-13226-d7cd266ca5.jpg"
-  ],
+  "images": ["https://images.ygoprodeck.com/images/cards/101205076.jpg"],
   "type": "Trap",
   "trap_type": "Continuous"
 }
