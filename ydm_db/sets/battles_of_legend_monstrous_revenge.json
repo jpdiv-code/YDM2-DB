@@ -1,10 +1,773 @@
 {
   "name": "Battles of Legend: Monstrous Revenge",
   "code": "BLMR",
-  "type": "Booster pack",
+  "type": "Battles of Legend",
   "date": "06-23-2023",
   "image": "https://ygoprodeck.com/pics_sets/BLMR.jpg",
   "pull_type": "distribution",
-  "distribution": "toon_chaos",
-  "cards": []
+  "distribution": "battles_of_legend__crystal_revenge",
+  "cards": [
+    {
+      "id": 5829717,
+      "code": "BLMR-EN001",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 5829717,
+      "code": "BLMR-EN001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31817415,
+      "code": "BLMR-EN002",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 31817415,
+      "code": "BLMR-EN002",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77202120,
+      "code": "BLMR-EN003",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 77202120,
+      "code": "BLMR-EN003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4606229,
+      "code": "BLMR-EN004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30095833,
+      "code": "BLMR-EN005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77189532,
+      "code": "BLMR-EN006",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26050548,
+      "code": "BLMR-EN007",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 26050548,
+      "code": "BLMR-EN007",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52445243,
+      "code": "BLMR-EN008",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 52445243,
+      "code": "BLMR-EN008",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39943352,
+      "code": "BLMR-EN009",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65938950,
+      "code": "BLMR-EN010",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1259814,
+      "code": "BLMR-EN011",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93347961,
+      "code": "BLMR-EN012",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30342076,
+      "code": "BLMR-EN013",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91479482,
+      "code": "BLMR-EN014",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89839552,
+      "code": "BLMR-EN015",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77590412,
+      "code": "BLMR-EN016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88617904,
+      "code": "BLMR-EN017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42228966,
+      "code": "BLMR-EN018",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86469231,
+      "code": "BLMR-EN019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47077697,
+      "code": "BLMR-EN020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84900597,
+      "code": "BLMR-EN021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1683982,
+      "code": "BLMR-EN022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64104037,
+      "code": "BLMR-EN023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99370594,
+      "code": "BLMR-EN024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61103515,
+      "code": "BLMR-EN025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35705817,
+      "code": "BLMR-EN026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19272658,
+      "code": "BLMR-EN027",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56677752,
+      "code": "BLMR-EN028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82661461,
+      "code": "BLMR-EN029",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19050066,
+      "code": "BLMR-EN030",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55554175,
+      "code": "BLMR-EN031",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32549749,
+      "code": "BLMR-EN032",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31600513,
+      "code": "BLMR-EN033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53754104,
+      "code": "BLMR-EN034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3574681,
+      "code": "BLMR-EN035",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39973386,
+      "code": "BLMR-EN036",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61322713,
+      "code": "BLMR-EN037",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66367984,
+      "code": "BLMR-EN038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54594017,
+      "code": "BLMR-EN039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2752099,
+      "code": "BLMR-EN040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35756798,
+      "code": "BLMR-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61245403,
+      "code": "BLMR-EN042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97639441,
+      "code": "BLMR-EN043",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34034150,
+      "code": "BLMR-EN044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60023855,
+      "code": "BLMR-EN045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97417863,
+      "code": "BLMR-EN046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23812568,
+      "code": "BLMR-EN047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60306277,
+      "code": "BLMR-EN048",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96795312,
+      "code": "BLMR-EN049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22790910,
+      "code": "BLMR-EN050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34456146,
+      "code": "BLMR-EN051",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98462037,
+      "code": "BLMR-EN052",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33365932,
+      "code": "BLMR-EN053",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 33365932,
+      "code": "BLMR-EN053",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65192027,
+      "code": "BLMR-EN054",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 65192027,
+      "code": "BLMR-EN054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16889337,
+      "code": "BLMR-EN055",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78080961,
+      "code": "BLMR-EN056",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 78080961,
+      "code": "BLMR-EN056",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10158145,
+      "code": "BLMR-EN057",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43147039,
+      "code": "BLMR-EN058",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70711847,
+      "code": "BLMR-EN059",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 70711847,
+      "code": "BLMR-EN059",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27182739,
+      "code": "BLMR-EN060",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13258285,
+      "code": "BLMR-EN061",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19535693,
+      "code": "BLMR-EN062",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55920742,
+      "code": "BLMR-EN063",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 55920742,
+      "code": "BLMR-EN063",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81914447,
+      "code": "BLMR-EN064",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30680659,
+      "code": "BLMR-EN065",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 30680659,
+      "code": "BLMR-EN065",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6609736,
+      "code": "BLMR-EN066",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2311090,
+      "code": "BLMR-EN067",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54092240,
+      "code": "BLMR-EN068",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72656408,
+      "code": "BLMR-EN069",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67972302,
+      "code": "BLMR-EN070",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13735899,
+      "code": "BLMR-EN071",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18313046,
+      "code": "BLMR-EN072",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42810973,
+      "code": "BLMR-EN073",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5041348,
+      "code": "BLMR-EN074",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44708154,
+      "code": "BLMR-EN075",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37164373,
+      "code": "BLMR-EN076",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 37164373,
+      "code": "BLMR-EN076",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97403510,
+      "code": "BLMR-EN077",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 97403510,
+      "code": "BLMR-EN077",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1249315,
+      "code": "BLMR-EN078",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3790062,
+      "code": "BLMR-EN079",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75253697,
+      "code": "BLMR-EN080",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83531441,
+      "code": "BLMR-EN081",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 83531441,
+      "code": "BLMR-EN081",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9272381,
+      "code": "BLMR-EN082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18326736,
+      "code": "BLMR-EN083",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 18326736,
+      "code": "BLMR-EN083",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90448279,
+      "code": "BLMR-EN084",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 90448279,
+      "code": "BLMR-EN084",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65741787,
+      "code": "BLMR-EN085",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 65741787,
+      "code": "BLMR-EN085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53129443,
+      "code": "BLMR-EN086",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 53129443,
+      "code": "BLMR-EN086",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73628505,
+      "code": "BLMR-EN087",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 73628505,
+      "code": "BLMR-EN087",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81674782,
+      "code": "BLMR-EN088",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48130397,
+      "code": "BLMR-EN089",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 48130397,
+      "code": "BLMR-EN089",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35480699,
+      "code": "BLMR-EN090",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63166095,
+      "code": "BLMR-EN091",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 63166095,
+      "code": "BLMR-EN091",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14025912,
+      "code": "BLMR-EN092",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3285551,
+      "code": "BLMR-EN093",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 3285551,
+      "code": "BLMR-EN093",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65952776,
+      "code": "BLMR-EN094",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92341815,
+      "code": "BLMR-EN095",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64230128,
+      "code": "BLMR-EN096",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91228233,
+      "code": "BLMR-EN097",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88836438,
+      "code": "BLMR-EN098",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34690953,
+      "code": "BLMR-EN099",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30241314,
+      "code": "BLMR-EN100",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27623932,
+      "code": "BLMR-EN101",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5380979,
+      "code": "BLMR-EN102",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 5380979,
+      "code": "BLMR-EN102",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32731036,
+      "code": "BLMR-EN103",
+      "rarity": "QCScR",
+      "image_index": 0
+    },
+    {
+      "id": 81497285,
+      "code": "BLMR-EN104",
+      "rarity": "QCScR",
+      "image_index": 0
+    }
+  ]
 }
