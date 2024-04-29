@@ -10,7 +10,7 @@
     {
       "id": 5829717,
       "code": "BLMR-EN001",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -22,7 +22,7 @@
     {
       "id": 31817415,
       "code": "BLMR-EN002",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -34,7 +34,7 @@
     {
       "id": 77202120,
       "code": "BLMR-EN003",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -64,7 +64,7 @@
     {
       "id": 26050548,
       "code": "BLMR-EN007",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -76,7 +76,7 @@
     {
       "id": 52445243,
       "code": "BLMR-EN008",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -352,25 +352,25 @@
     {
       "id": 33365932,
       "code": "BLMR-EN053",
-      "rarity": "QCScR",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 33365932,
       "code": "BLMR-EN053",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 65192027,
-      "code": "BLMR-EN054",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
       "id": 65192027,
       "code": "BLMR-EN054",
       "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65192027,
+      "code": "BLMR-EN054",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -382,13 +382,13 @@
     {
       "id": 78080961,
       "code": "BLMR-EN056",
-      "rarity": "QCScR",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 78080961,
       "code": "BLMR-EN056",
-      "rarity": "Ultra Rare",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -406,7 +406,7 @@
     {
       "id": 70711847,
       "code": "BLMR-EN059",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -436,7 +436,7 @@
     {
       "id": 55920742,
       "code": "BLMR-EN063",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -454,7 +454,7 @@
     {
       "id": 30680659,
       "code": "BLMR-EN065",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -526,7 +526,7 @@
     {
       "id": 37164373,
       "code": "BLMR-EN076",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -538,7 +538,7 @@
     {
       "id": 97403510,
       "code": "BLMR-EN077",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -568,7 +568,7 @@
     {
       "id": 83531441,
       "code": "BLMR-EN081",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -586,7 +586,7 @@
     {
       "id": 18326736,
       "code": "BLMR-EN083",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -598,7 +598,7 @@
     {
       "id": 90448279,
       "code": "BLMR-EN084",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -610,7 +610,7 @@
     {
       "id": 65741787,
       "code": "BLMR-EN085",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -622,7 +622,7 @@
     {
       "id": 53129443,
       "code": "BLMR-EN086",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -634,7 +634,7 @@
     {
       "id": 73628505,
       "code": "BLMR-EN087",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -652,7 +652,7 @@
     {
       "id": 48130397,
       "code": "BLMR-EN089",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -670,7 +670,7 @@
     {
       "id": 63166095,
       "code": "BLMR-EN091",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -688,7 +688,7 @@
     {
       "id": 3285551,
       "code": "BLMR-EN093",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -748,7 +748,7 @@
     {
       "id": 5380979,
       "code": "BLMR-EN102",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
@@ -760,13 +760,13 @@
     {
       "id": 32731036,
       "code": "BLMR-EN103",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
       "id": 81497285,
       "code": "BLMR-EN104",
-      "rarity": "QCScR",
+      "rarity": "Starlight Rare",
       "image_index": 0
     }
   ]
