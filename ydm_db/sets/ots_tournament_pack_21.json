@@ -1,0 +1,167 @@
+{
+  "name": "OTS Tournament Pack 21",
+  "code": "OP21",
+  "type": "OTS Tournament Pack",
+  "date": "08-02-23",
+  "image": "https://ms.yugipedia.com//0/0c/OP21-BoosterEN.png",
+  "pull_type": "distribution",
+  "distribution": "ots_tournament_pack",
+  "cards": [
+    {
+      "id": 76145933,
+      "code": "OP21-EN001",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73956664,
+      "code": "OP21-EN002",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32909498,
+      "code": "OP21-EN003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75922381,
+      "code": "OP21-EN004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74078255,
+      "code": "OP21-EN005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37961969,
+      "code": "OP21-EN006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31887806,
+      "code": "OP21-EN007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78534861,
+      "code": "OP21-EN008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54191698,
+      "code": "OP21-EN009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52645235,
+      "code": "OP21-EN010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63899465,
+      "code": "OP21-EN011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72554664,
+      "code": "OP21-EN012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54098121,
+      "code": "OP21-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74952447,
+      "code": "OP21-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44179224,
+      "code": "OP21-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54757758,
+      "code": "OP21-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46159582,
+      "code": "OP21-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10925955,
+      "code": "OP21-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17418744,
+      "code": "OP21-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60222582,
+      "code": "OP21-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45725480,
+      "code": "OP21-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2055403,
+      "code": "OP21-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 164710,
+      "code": "OP21-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75902998,
+      "code": "OP21-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84640866,
+      "code": "OP21-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29867611,
+      "code": "OP21-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
