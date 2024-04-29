@@ -1,0 +1,761 @@
+{
+  "name": "Legacy Of Destruction",
+  "code": "LEDE",
+  "type": "Booster Pack",
+  "date": "04-26-2024",
+  "image": "https://ygoprodeck.com/pics_sets/LEDE.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_without_rare_with_starlight_rare",
+  "cards": [
+    {
+      "id": 15845914,
+      "code": "LEDE-EN000",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2333466,
+      "code": "LEDE-EN001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2333466,
+      "code": "LEDE-EN001",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39321065,
+      "code": "LEDE-EN002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39321065,
+      "code": "LEDE-EN002",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65726770,
+      "code": "LEDE-EN003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65726770,
+      "code": "LEDE-EN003",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92110878,
+      "code": "LEDE-EN004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92110878,
+      "code": "LEDE-EN004",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38505587,
+      "code": "LEDE-EN005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64603182,
+      "code": "LEDE-EN006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91098230,
+      "code": "LEDE-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27483935,
+      "code": "LEDE-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64881644,
+      "code": "LEDE-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90276649,
+      "code": "LEDE-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27260347,
+      "code": "LEDE-EN011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27260347,
+      "code": "LEDE-EN011",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53765052,
+      "code": "LEDE-EN012",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53765052,
+      "code": "LEDE-EN012",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99153051,
+      "code": "LEDE-EN013",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99153051,
+      "code": "LEDE-EN013",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26548709,
+      "code": "LEDE-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52543404,
+      "code": "LEDE-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39931513,
+      "code": "LEDE-EN016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65326118,
+      "code": "LEDE-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91810826,
+      "code": "LEDE-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24215921,
+      "code": "LEDE-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60203670,
+      "code": "LEDE-EN020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97698279,
+      "code": "LEDE-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23093373,
+      "code": "LEDE-EN022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23093373,
+      "code": "LEDE-EN022",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59481082,
+      "code": "LEDE-EN023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59481082,
+      "code": "LEDE-EN023",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96576187,
+      "code": "LEDE-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22970795,
+      "code": "LEDE-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59369430,
+      "code": "LEDE-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85753549,
+      "code": "LEDE-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74150658,
+      "code": "LEDE-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58143852,
+      "code": "LEDE-EN029",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58143852,
+      "code": "LEDE-EN029",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84631951,
+      "code": "LEDE-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21036656,
+      "code": "LEDE-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57420265,
+      "code": "LEDE-EN032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83819309,
+      "code": "LEDE-EN033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10804018,
+      "code": "LEDE-EN034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10804018,
+      "code": "LEDE-EN034",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56208713,
+      "code": "LEDE-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83793721,
+      "code": "LEDE-EN036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19181420,
+      "code": "LEDE-EN037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46186135,
+      "code": "LEDE-EN038",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82570174,
+      "code": "LEDE-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18969888,
+      "code": "LEDE-EN040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45464587,
+      "code": "LEDE-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45464587,
+      "code": "LEDE-EN041",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71858682,
+      "code": "LEDE-EN042",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71858682,
+      "code": "LEDE-EN042",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18843291,
+      "code": "LEDE-EN043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18843291,
+      "code": "LEDE-EN043",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44241999,
+      "code": "LEDE-EN044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70636044,
+      "code": "LEDE-EN045",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70636044,
+      "code": "LEDE-EN045",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7020743,
+      "code": "LEDE-EN046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43129357,
+      "code": "LEDE-EN047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70514456,
+      "code": "LEDE-EN048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6908161,
+      "code": "LEDE-EN049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42307760,
+      "code": "LEDE-EN050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42307760,
+      "code": "LEDE-EN050",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79791878,
+      "code": "LEDE-EN051",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79791878,
+      "code": "LEDE-EN051",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5786513,
+      "code": "LEDE-EN052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32270212,
+      "code": "LEDE-EN053",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32270212,
+      "code": "LEDE-EN053",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78679226,
+      "code": "LEDE-EN054",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78679226,
+      "code": "LEDE-EN054",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4064925,
+      "code": "LEDE-EN055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31458630,
+      "code": "LEDE-EN056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67457739,
+      "code": "LEDE-EN057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4841383,
+      "code": "LEDE-EN058",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4841383,
+      "code": "LEDE-EN058",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30336082,
+      "code": "LEDE-EN059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66730191,
+      "code": "LEDE-EN060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93729896,
+      "code": "LEDE-EN061",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93729896,
+      "code": "LEDE-EN061",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39114494,
+      "code": "LEDE-EN062",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66518509,
+      "code": "LEDE-EN063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92907248,
+      "code": "LEDE-EN064",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92907248,
+      "code": "LEDE-EN064",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38491852,
+      "code": "LEDE-EN065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65496951,
+      "code": "LEDE-EN066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91880660,
+      "code": "LEDE-EN067",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28279365,
+      "code": "LEDE-EN068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64664373,
+      "code": "LEDE-EN069",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91668078,
+      "code": "LEDE-EN070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27157727,
+      "code": "LEDE-EN071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53541822,
+      "code": "LEDE-EN072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90946420,
+      "code": "LEDE-EN073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26334139,
+      "code": "LEDE-EN074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53329234,
+      "code": "LEDE-EN075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89824842,
+      "code": "LEDE-EN076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25218587,
+      "code": "LEDE-EN077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52607696,
+      "code": "LEDE-EN078",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88001391,
+      "code": "LEDE-EN079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25096909,
+      "code": "LEDE-EN080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48228390,
+      "code": "LEDE-EN081",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74213995,
+      "code": "LEDE-EN082",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1607603,
+      "code": "LEDE-EN083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37006702,
+      "code": "LEDE-EN084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73490417,
+      "code": "LEDE-EN085",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 885016,
+      "code": "LEDE-EN086",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36974120,
+      "code": "LEDE-EN087",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36974120,
+      "code": "LEDE-EN087",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63378869,
+      "code": "LEDE-EN088",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9763474,
+      "code": "LEDE-EN089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35151572,
+      "code": "LEDE-EN090",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62156277,
+      "code": "LEDE-EN091",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78783557,
+      "code": "LEDE-EN092",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78783557,
+      "code": "LEDE-EN092",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35035985,
+      "code": "LEDE-EN093",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61434639,
+      "code": "LEDE-EN094",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98828338,
+      "code": "LEDE-EN095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34813443,
+      "code": "LEDE-EN096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36629635,
+      "code": "LEDE-EN097",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43502497,
+      "code": "LEDE-EN098",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74652966,
+      "code": "LEDE-EN099",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48654267,
+      "code": "LEDE-EN100",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}
