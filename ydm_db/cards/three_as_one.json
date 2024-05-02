@@ -1,0 +1,10 @@
+{
+  "id": 101205080,
+  "name": "Three as One",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your opponent's End Phase, if your opponent has more total cards in their hand and field than you do: Special Summon 3 Normal Monsters from your GY. You can banish this card from your GY, then target 3 Monster Cards you control with different original names; Set 1 Spell/Trap directly from your hand or Deck that mentions all 3 of those cards' original names.",
+  "images": ["https://images.ygoprodeck.com/images/cards/101205080.jpg"],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

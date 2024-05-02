@@ -1,0 +1,10 @@
+{
+  "id": 101205066,
+  "name": "Interdimensional Matter Translocator",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 monster on the field; banish it, then return it to the field. If your opponent activates a card or effect: You can target 1 face-up monster whose effects are negated; banish it, then return it to the field. Before resolving an opponent's card effect that targets this face-up card, banish this card until the End Phase of the next turn. You can only use each effect of \"Interdimensional Matter Translocator\" once per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/101205066.jpg"],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}
