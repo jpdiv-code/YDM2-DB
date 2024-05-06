@@ -1,0 +1,132 @@
+{
+  "name": "rarity_collection",
+  "pulls": [
+    {
+      "weight": 70,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": ["Super Rare"]
+        },
+        {
+          "count": 2,
+          "rarities": ["Ultra Rare"]
+        },
+        {
+          "count": 1,
+          "rarities": ["Secret Rare"]
+        }
+      ]
+    },
+    {
+      "weight": 3,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": ["Super Rare"]
+        },
+        {
+          "count": 1,
+          "rarities": ["Ultra Rare"]
+        },
+        {
+          "count": 1,
+          "rarities": ["Collector\u0027s Rare"]
+        },
+        {
+          "count": 1,
+          "rarities": ["Secret Rare"]
+        }
+      ]
+    },
+    {
+      "weight": 3,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": ["Super Rare"]
+        },
+        {
+          "count": 1,
+          "rarities": ["Ultra Rare"]
+        },
+        {
+          "count": 1,
+          "rarities": ["Ultimate Rare"]
+        },
+        {
+          "count": 1,
+          "rarities": ["Secret Rare"]
+        }
+      ]
+    },
+    {
+      "weight": 3,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": ["Super Rare"]
+        },
+        {
+          "count": 2,
+          "rarities": ["Collector\u0027s Rare"]
+        },
+        {
+          "count": 1,
+          "rarities": ["Secret Rare"]
+        }
+      ]
+    },
+    {
+      "weight": 3,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": ["Super Rare"]
+        },
+        {
+          "count": 2,
+          "rarities": ["Ultimate Rare"]
+        },
+        {
+          "count": 1,
+          "rarities": ["Secret Rare"]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": ["Super Rare"]
+        },
+        {
+          "count": 2,
+          "rarities": ["Ultra Rare"]
+        },
+        {
+          "count": 1,
+          "rarities": ["Platinum Secret Rare"]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": ["Super Rare"]
+        },
+        {
+          "count": 2,
+          "rarities": ["Ultra Rare"]
+        },
+        {
+          "count": 1,
+          "rarities": ["Starlight Rare"]
+        }
+      ]
+    }
+  ]
+}
