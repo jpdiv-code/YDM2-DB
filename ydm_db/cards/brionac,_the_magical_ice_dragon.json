@@ -1,0 +1,19 @@
+{
+  "id": 65892310,
+  "name": "Brionac, the Magical Ice Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can discard 1 card, then target 1 card on the field; return it to the hand. If this card is Special Summoned from the GY: You can discard 1 card, then target 1 card on the field; return it to the hand. You can only use each effect of \"Brionac, the Magical Ice Dragon\" once per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/65892310.jpg"],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2300,
+  "species": "Sea Serpent",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 6,
+  "is_tuner": false
+}
