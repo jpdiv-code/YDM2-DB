@@ -1,5 +1,5 @@
 {
-  "name": "Starter Deck: Yu-Gi-Oh! 5D\u0027s 2009",
+  "name": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
   "code": "5DS2",
   "type": "Starter Deck",
   "date": "09-06-2009",
@@ -264,5 +264,13 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "X-Saber",
+    "Penguin",
+    "Junk",
+    "Alligator",
+    "Synchron",
+    "Koala"
   ]
 }

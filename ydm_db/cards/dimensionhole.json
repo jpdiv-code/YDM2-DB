@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/22959079.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Normal"
+  "spell_type": "Normal",
+  "archetype": "Hole"
 }

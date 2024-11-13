@@ -673,5 +673,20 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Power Tool",
+    "Alien",
+    "Earthbound",
+    "Morphtronic",
+    "Rose Dragon",
+    "Junk",
+    "Blackwing",
+    "Archfiend",
+    "Chaos",
+    "Forbidden",
+    "Koa'ki Meiru",
+    "Ojama",
+    "Gadget"
   ]
 }

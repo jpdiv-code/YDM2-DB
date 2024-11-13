@@ -304,5 +304,19 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Fabled",
+    "Naturia",
+    "Resonator",
+    "Cloudian",
+    "Gagaga",
+    "Chaos",
+    "Amazoness",
+    "Blackwing",
+    "Roid",
+    "Mask",
+    "Nordic",
+    "Worm"
   ]
 }

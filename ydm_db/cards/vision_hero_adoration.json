@@ -3,7 +3,7 @@
   "name": "Vision HERO Adoration",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 \"HERO\" monsters\nOnce per turn: You can target 1 face-up monster your opponent controls and 1 other \"HERO\" monster you control; the opponent\u0027s targeted monster loses ATK and DEF equal to the ATK of your targeted monster, until the end of this turn.",
+  "text": "2 \"HERO\" monsters\nOnce per turn: You can target 1 face-up monster your opponent controls and 1 other \"HERO\" monster you control; the opponent's targeted monster loses ATK and DEF equal to the ATK of your targeted monster, until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45170821.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2100,
   "level": 8,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Vision HERO"
 }

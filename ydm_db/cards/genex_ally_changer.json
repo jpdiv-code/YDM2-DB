@@ -3,7 +3,7 @@
   "name": "Genex Ally Changer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, you can select 1 face-up monster on the field and declare 1 Attribute. The selected monster\u0027s Attribute becomes the declared Attribute until the End Phase.",
+  "text": "Once per turn, you can select 1 face-up monster on the field and declare 1 Attribute. The selected monster's Attribute becomes the declared Attribute until the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20127343.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1800,
   "level": 3,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Genex"
 }

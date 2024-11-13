@@ -3,7 +3,7 @@
   "name": "Vampire Lord",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card inflicts battle damage to your opponent: Declare 1 type of card (Monster, Spell, or Trap); your opponent sends 1 card of that type from their Deck to the GY. Once per turn, during your next Standby Phase after this card in your possession was destroyed and sent to your GY by an opponent\u0027s card effect: Special Summon this card from the GY.",
+  "text": "If this card inflicts battle damage to your opponent: Declare 1 type of card (Monster, Spell, or Trap); your opponent sends 1 card of that type from their Deck to the GY. Once per turn, during your next Standby Phase after this card in your possession was destroyed and sent to your GY by an opponent's card effect: Special Summon this card from the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53839837.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1500,
   "level": 5,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Vampire"
 }

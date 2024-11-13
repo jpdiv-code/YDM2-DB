@@ -187,5 +187,16 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "X-Saber",
+    "Elemental HERO",
+    "Cyber Dragon",
+    "Ice Barrier",
+    "Flamvell",
+    "Ally of Justice",
+    "Mist Valley",
+    "Kuriboh",
+    "Worm"
   ]
 }

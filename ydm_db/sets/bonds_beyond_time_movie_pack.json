@@ -61,5 +61,10 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Malefic",
+    "Blue-Eyes",
+    "Junk"
   ]
 }

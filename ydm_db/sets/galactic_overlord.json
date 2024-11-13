@@ -673,5 +673,26 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Noble Knight",
+    "Butterspy",
+    "Evoltile",
+    "Bounzer",
+    "Nimble",
+    "Djinn",
+    "Butterfly",
+    "Gaia The Fierce Knight",
+    "Evolsaur",
+    "Hieratic",
+    "Grepher",
+    "Constellar",
+    "Train",
+    "Watt",
+    "Gagaga",
+    "Photon",
+    "Galaxy-Eyes",
+    "Inzektor",
+    "Shark"
   ]
 }

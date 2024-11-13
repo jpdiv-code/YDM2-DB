@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/69381150.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Continuous"
+  "trap_type": "Continuous",
+  "archetype": "@Ignister"
 }

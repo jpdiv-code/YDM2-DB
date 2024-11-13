@@ -246,5 +246,15 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Magician",
+    "Book of",
+    "Archfiend",
+    "Chaos",
+    "Barbaros",
+    "-Eyes Dragon",
+    "Odd-Eyes",
+    "Performapal"
   ]
 }

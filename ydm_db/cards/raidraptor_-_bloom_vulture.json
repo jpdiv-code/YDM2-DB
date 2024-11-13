@@ -4,7 +4,9 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "If you do not control any face-up monsters, other than Winged Beast monsters: You can Special Summon both this card and 1 \"Raidraptor\" monster from your hand. If you control no monsters: You can target 2 Level 4 or lower \"Raidraptor\" monsters in your GY, including this card; Special Summon them in Defense Position. You can only use 1 \"Raidraptor - Bloom Vulture\" effect per turn, and only once that turn, also you cannot Special Summon monsters the turn you activate either of these effects, except DARK monsters.",
-  "images": ["https://images.ygoprodeck.com/images/cards/25191307.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/25191307.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 300,
@@ -15,5 +17,6 @@
   "has_effect": true,
   "def": 1900,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Raidraptor"
 }

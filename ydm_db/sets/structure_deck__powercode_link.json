@@ -264,5 +264,16 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Code Talker",
+    "Genex",
+    "Cipher",
+    "Mecha Phantom Beast",
+    "Greed",
+    "Traptrix",
+    "Forbidden",
+    "Gadget",
+    "Anti"
   ]
 }

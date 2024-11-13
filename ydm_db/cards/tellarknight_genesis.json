@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/65236257.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Quick-Play"
+  "spell_type": "Quick-Play",
+  "archetype": "Tellarknight"
 }

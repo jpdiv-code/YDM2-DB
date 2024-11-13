@@ -1,5 +1,5 @@
 {
-  "name": "Legendary Collection 5D\u0027s Mega Pack",
+  "name": "Legendary Collection 5D's Mega Pack",
   "code": "LC5D",
   "type": "Mega Pack",
   "date": "23-10-2014",
@@ -1567,5 +1567,32 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Stardust",
+    "Resonator",
+    "Solemn",
+    "Nimble",
+    "Fairy",
+    "Roid",
+    "Timelord",
+    "\"C\"",
+    "Naturia",
+    "Parshath",
+    "T.G.",
+    "Aesir",
+    "Nordic",
+    "Power Tool",
+    "Archfiend",
+    "Junk",
+    "Blackwing",
+    "Meklord",
+    "Greed",
+    "Majestic",
+    "Rose Dragon",
+    "Earthbound",
+    "Chaos",
+    "Synchron",
+    "Guardian"
   ]
 }

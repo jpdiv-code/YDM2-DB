@@ -1,5 +1,5 @@
 {
-  "name": "Structure Deck: Spellcaster\u0027s Judgment",
+  "name": "Structure Deck: Spellcaster's Judgment",
   "code": "SD6",
   "type": "Structure Deck",
   "date": "18-01-2006",
@@ -246,5 +246,10 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Dark Magician",
+    "Magician",
+    "Chaos"
   ]
 }

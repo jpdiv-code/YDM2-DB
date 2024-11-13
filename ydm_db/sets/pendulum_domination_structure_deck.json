@@ -264,5 +264,13 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Dark Contract",
+    "D/D",
+    "Archfiend",
+    "Grepher",
+    "Kuriboh",
+    "Armed Dragon"
   ]
 }

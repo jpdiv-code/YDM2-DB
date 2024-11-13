@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "You can banish this card from your Pendulum Zone; add 2 face-up Pendulum Monster Cards with the same name from your Extra Deck to your hand. You can only use this effect of \"Rescue Hamster\" once per Duel.\n",
   "pendulum_scale_left_blue": 5,
-  "pendulum_scale_right_red": 5
+  "pendulum_scale_right_red": 5,
+  "archetype": "Rescue Squad"
 }

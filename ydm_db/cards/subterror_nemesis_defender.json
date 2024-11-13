@@ -3,7 +3,7 @@
   "name": "Subterror Nemesis Defender",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During either player\u0027s turn, when your opponent activates a card or effect that targets exactly 1 Set monster you control (and no other cards), or when a Set monster you control is targeted for an attack by an opponent\u0027s monster: You can send this card from your hand or face-up from your field to the Graveyard, then target another monster you control that would be an appropriate target; that card/effect/attack now targets the new target. While you control a Set monster, this card cannot be destroyed by battle or card effects.",
+  "text": "During either player's turn, when your opponent activates a card or effect that targets exactly 1 Set monster you control (and no other cards), or when a Set monster you control is targeted for an attack by an opponent's monster: You can send this card from your hand or face-up from your field to the Graveyard, then target another monster you control that would be an appropriate target; that card/effect/attack now targets the new target. While you control a Set monster, this card cannot be destroyed by battle or card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68823957.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2000,
   "level": 2,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Subterror"
 }

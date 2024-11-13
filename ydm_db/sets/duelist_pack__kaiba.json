@@ -247,5 +247,12 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Greed",
+    "Chaos",
+    "Vampire",
+    "ABC",
+    "Blue-Eyes"
   ]
 }

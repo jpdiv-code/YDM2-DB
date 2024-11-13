@@ -3,7 +3,7 @@
   "name": "Magikey Spirit - Vepartu",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 monsters\nIf this card is Xyz Summoned: You can detach 1 material from this card; add 1 Level 4 or higher Normal Monster from your Deck or GY to your hand. If this card has a Normal Monster as material, it gains this effect.\n? At the start of the Damage Step, if this card battles an opponent\u0027s monster with the same Attribute as a Normal Monster or \"Magikey\" monster in your GY: You can detach 1 material from this card; your opponent must send that monster to the GY.",
+  "text": "2 Level 4 monsters\nIf this card is Xyz Summoned: You can detach 1 material from this card; add 1 Level 4 or higher Normal Monster from your Deck or GY to your hand. If this card has a Normal Monster as material, it gains this effect.\n? At the start of the Damage Step, if this card battles an opponent's monster with the same Attribute as a Normal Monster or \"Magikey\" monster in your GY: You can detach 1 material from this card; your opponent must send that monster to the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68300121.jpg"
   ],
@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 2000,
-  "rank": 4
+  "rank": 4,
+  "archetype": "Magikey"
 }

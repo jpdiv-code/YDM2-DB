@@ -157,5 +157,16 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Salamangreat",
+    "Greed",
+    "Subterror",
+    "True Draco",
+    "Sky Striker",
+    "Fortune Lady",
+    "Orcust",
+    "Altergeist",
+    "Gadget"
   ]
 }

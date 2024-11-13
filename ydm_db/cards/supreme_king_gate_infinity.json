@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "If you control a monster, you cannot Pendulum Summon. This effect cannot be negated. Once per turn, if you control \"Supreme King Z-ARC\": You can target 1 face-up monster your opponent controls; gain LP equal to its ATK.\n",
   "pendulum_scale_left_blue": 13,
-  "pendulum_scale_right_red": 13
+  "pendulum_scale_right_red": 13,
+  "archetype": "Supreme King"
 }

@@ -3,7 +3,7 @@
   "name": "Kuriboh",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During damage calculation, if your opponent\u0027s monster attacks (Quick Effect): You can discard this card; you take no battle damage from that battle.",
+  "text": "During damage calculation, if your opponent's monster attacks (Quick Effect): You can discard this card; you take no battle damage from that battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40640057.jpg",
     "https://images.ygoprodeck.com/images/cards/40640058.jpg",
@@ -19,5 +19,6 @@
   "has_effect": true,
   "def": 200,
   "level": 1,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Kuriboh"
 }

@@ -3,7 +3,7 @@
   "name": "Performapal Odd-Eyes Minitaurus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During damage calculation, if your Pendulum Monster attacks an opponent\u0027s monster: You can make that opponent\u0027s monster lose 100 ATK for each \"Performapal\" and \"Odd-Eyes\" card you control, during damage calculation only.",
+  "text": "During damage calculation, if your Pendulum Monster attacks an opponent's monster: You can make that opponent's monster lose 100 ATK for each \"Performapal\" and \"Odd-Eyes\" card you control, during damage calculation only.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10731333.jpg"
   ],
@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "If your \"Performapal\" or \"Odd-Eyes\" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n",
   "pendulum_scale_left_blue": 6,
-  "pendulum_scale_right_red": 6
+  "pendulum_scale_right_red": 6,
+  "archetype": "Odd-Eyes"
 }

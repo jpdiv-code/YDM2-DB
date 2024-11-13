@@ -3,7 +3,7 @@
   "name": "Rindbrumm the Striking Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Fallen of Albaz\" + 1 Beast, Beast-Warrior, or Winged Beast monster\nWhen a Fusion, Synchro, Xyz, or Link Monster\u0027s effect is activated (Quick Effect): You can negate that effect, then you can return 1 monster from the field to the hand. During your opponent\u0027s turn, while this card is in your GY (Quick Effect): You can target 1 \"Fallen of Albaz\" in your GY; Special Summon either that monster or this card, and banish the other. You can only use each effect of \"Rindbrumm the Striking Dragon\" once per turn.",
+  "text": "\"Fallen of Albaz\" + 1 Beast, Beast-Warrior, or Winged Beast monster\nWhen a Fusion, Synchro, Xyz, or Link Monster's effect is activated (Quick Effect): You can negate that effect, then you can return 1 monster from the field to the hand. During your opponent's turn, while this card is in your GY (Quick Effect): You can target 1 \"Fallen of Albaz\" in your GY; Special Summon either that monster or this card, and banish the other. You can only use each effect of \"Rindbrumm the Striking Dragon\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51409648.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2000,
   "level": 8,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Albaz Dragon"
 }

@@ -3,7 +3,7 @@
   "name": "Swordsoul Auspice Chunjun",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Before damage calculation, if your Wyrm monster battles an opponent\u0027s monster that was Special Summoned from the Extra Deck: You can destroy both that opponent\u0027s monster and this card. You can only use each of the following effects of \"Swordsoul Auspice Chunjun\" once per turn. During the Main Phase (Quick Effect): You can Tribute 1 monster; Special Summon this card from your hand. If this card is sent to the GY as Synchro Material: You can target 1 card on the field or in either GY; banish it.",
+  "text": "Before damage calculation, if your Wyrm monster battles an opponent's monster that was Special Summoned from the Extra Deck: You can destroy both that opponent's monster and this card. You can only use each of the following effects of \"Swordsoul Auspice Chunjun\" once per turn. During the Main Phase (Quick Effect): You can Tribute 1 monster; Special Summon this card from your hand. If this card is sent to the GY as Synchro Material: You can target 1 card on the field or in either GY; banish it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/29884951.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1800,
   "level": 6,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Swordsoul"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Spellcaster\u0027s Command Structure Deck: Special Edition",
+  "name": "Spellcaster's Command Structure Deck: Special Edition",
   "code": "SDSC_SE",
   "type": "Structure Deck",
   "date": "31-03-2009",
@@ -8,5 +8,11 @@
   "sub_sets": [
     "SDSC",
     "SDSC_SE_C"
+  ],
+  "archetypes": [
+    "Dark Magician",
+    "Magician",
+    "Endymion",
+    "Book of"
   ]
 }

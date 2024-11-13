@@ -169,5 +169,19 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Train",
+    "\"C\"",
+    "Kaiju",
+    "Artifact",
+    "D/D",
+    "Photon",
+    "Metalfoes",
+    "B.E.S.",
+    "Solemn",
+    "Blackwing",
+    "Utopia",
+    "Frog"
   ]
 }

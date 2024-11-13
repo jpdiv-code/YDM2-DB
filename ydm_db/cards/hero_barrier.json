@@ -3,10 +3,11 @@
   "name": "Hero Barrier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Negate 1 attack from an opponent\u0027s monster. You must control a face-up \"Elemental HERO\" monster to resolve this effect.",
+  "text": "Negate 1 attack from an opponent's monster. You must control a face-up \"Elemental HERO\" monster to resolve this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/44676200.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Normal"
+  "trap_type": "Normal",
+  "archetype": "Elemental HERO"
 }

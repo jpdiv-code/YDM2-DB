@@ -313,5 +313,20 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Train",
+    "Noble Knight",
+    "Bonding",
+    "Photon",
+    "Chaos",
+    "Guardian",
+    "Blackwing",
+    "Dark Magician",
+    "Roid",
+    "Kuriboh",
+    "Legendary Knight",
+    "CXyz",
+    "Utopia"
   ]
 }

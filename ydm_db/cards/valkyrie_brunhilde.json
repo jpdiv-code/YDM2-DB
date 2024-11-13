@@ -3,7 +3,7 @@
   "name": "Valkyrie Brunhilde",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Unaffected by your opponent\u0027s Spell effects. Gains 500 ATK for each monster your opponent controls. When an opponent\u0027s monster declares an attack: You can have this card lose exactly 1000 DEF, and if you do, your \"Valkyrie\" monsters cannot be destroyed by battle this turn.",
+  "text": "Unaffected by your opponent's Spell effects. Gains 500 ATK for each monster your opponent controls. When an opponent's monster declares an attack: You can have this card lose exactly 1000 DEF, and if you do, your \"Valkyrie\" monsters cannot be destroyed by battle this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2204038.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2000,
   "level": 7,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Valkyrie"
 }

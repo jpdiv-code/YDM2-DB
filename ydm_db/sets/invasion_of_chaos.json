@@ -679,5 +679,19 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Black Luster Soldier",
+    "Maju",
+    "Greed",
+    "Umi",
+    "Chaos",
+    "D.D.",
+    "Fairy",
+    "Koala",
+    "Dark Magician",
+    "Ninja",
+    "Ojama",
+    "Anti"
   ]
 }

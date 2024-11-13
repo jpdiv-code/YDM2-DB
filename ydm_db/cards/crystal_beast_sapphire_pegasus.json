@@ -3,7 +3,7 @@
   "name": "Crystal Beast Sapphire Pegasus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Summoned: You can place 1 \"Crystal Beast\" monster from your hand, Deck, or GY, face-up in your Spell \u0026 Trap Zone as a Continuous Spell. If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell \u0026 Trap Zone as a Continuous Spell, instead of sending it to the GY.",
+  "text": "When this card is Summoned: You can place 1 \"Crystal Beast\" monster from your hand, Deck, or GY, face-up in your Spell & Trap Zone as a Continuous Spell. If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7093411.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1200,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Crystal Beast"
 }

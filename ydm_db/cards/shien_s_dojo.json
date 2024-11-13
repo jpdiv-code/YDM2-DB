@@ -1,6 +1,6 @@
 {
   "id": 47436247,
-  "name": "Shien\u0027s Dojo",
+  "name": "Shien's Dojo",
   "is_illegal": false,
   "is_custom": false,
   "text": "Each time a \"Six Samurai\" monster(s) is Normal or Special Summoned, place 1 Bushido Counter on this card. You can send this card to the GY; Special Summon 1 \"Six Samurai\" or \"Shien\" Effect Monster from your Main Deck, whose Level is less than or equal to the number of Bushido Counters on this card.",
@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/47436247.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Continuous"
+  "spell_type": "Continuous",
+  "archetype": "Six Samurai"
 }

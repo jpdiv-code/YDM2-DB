@@ -282,5 +282,15 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Salamangreat",
+    "Volcanic",
+    "Kaiju",
+    "Resonator",
+    "Flamvell",
+    "Hole",
+    "Spellbook",
+    "Fire King"
   ]
 }

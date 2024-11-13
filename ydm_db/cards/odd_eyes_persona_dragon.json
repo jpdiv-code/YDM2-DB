@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "Once per turn, during the End Phase, if your opponent activated a card or effect this turn that targeted 1 \"Odd-Eyes\" Pendulum Monster you controlled (and no other cards) while this card was in your Pendulum Zone: Special Summon this card, and if you do, place 1 face-up \"Odd-Eyes\" Pendulum Monster from your Extra Deck in your Pendulum Zone, except \"Odd-Eyes Persona Dragon\".\n",
   "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "pendulum_scale_right_red": 1,
+  "archetype": "-Eyes Dragon"
 }

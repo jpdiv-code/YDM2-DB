@@ -3,7 +3,7 @@
   "name": "Harpie Dancer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can target 1 WIND monster you control; return it to the hand, then you can Normal Summon 1 WIND monster. You can only use this effect of \"Harpie Dancer\" once per turn. This card\u0027s name becomes \"Harpie Lady\" while on the field or in the GY.",
+  "text": "You can target 1 WIND monster you control; return it to the hand, then you can Normal Summon 1 WIND monster. You can only use this effect of \"Harpie Dancer\" once per turn. This card's name becomes \"Harpie Lady\" while on the field or in the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68815132.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1000,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Harpie"
 }

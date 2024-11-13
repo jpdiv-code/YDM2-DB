@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/74839123.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Continuous"
+  "spell_type": "Continuous",
+  "archetype": "Frightfur"
 }

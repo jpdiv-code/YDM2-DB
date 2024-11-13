@@ -1507,5 +1507,31 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Solemn",
+    "Worm",
+    "Dice",
+    "Gaia The Fierce Knight",
+    "Celtic Guard",
+    "Book of",
+    "Toon",
+    "Vampire",
+    "Parshath",
+    "Eyes Restrict",
+    "Grepher",
+    "Harpie",
+    "Magician",
+    "Watt",
+    "Archfiend",
+    "Thunder Dragon",
+    "Sphinx",
+    "Greed",
+    "Umi",
+    "Penguin",
+    "Dark Scorpion",
+    "Hole",
+    "Spirit Message",
+    "Kuriboh"
   ]
 }

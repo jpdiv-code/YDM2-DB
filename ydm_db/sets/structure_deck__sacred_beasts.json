@@ -282,5 +282,15 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Danger!",
+    "Fabled",
+    "Kaiju",
+    "Sacred Beast",
+    "Greed",
+    "Chaos",
+    "Burning Abyss",
+    "Chaos Phantom"
   ]
 }

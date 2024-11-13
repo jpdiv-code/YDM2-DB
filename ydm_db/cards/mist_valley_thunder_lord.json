@@ -3,7 +3,7 @@
   "name": "Mist Valley Thunder Lord",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1 or more non-Tuner \"Mist Valley\" monsters\nOnce per turn, you can select 1 card you control. Return it to the hand, and this card gains 500 ATK until the End Phase. This effect can be activated during either player\u0027s turn.",
+  "text": "1 Tuner + 1 or more non-Tuner \"Mist Valley\" monsters\nOnce per turn, you can select 1 card you control. Return it to the hand, and this card gains 500 ATK until the End Phase. This effect can be activated during either player's turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/89310929.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2400,
   "level": 7,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Mist Valley"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Legendary Collection 4: Joey\u0027s World Mega Pack",
+  "name": "Legendary Collection 4: Joey's World Mega Pack",
   "code": "LCJW",
   "type": "Mega Pack",
   "date": "11-10-2013",
@@ -1795,5 +1795,32 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Dark World",
+    "Amazoness",
+    "Solemn",
+    "Alligator",
+    "Roid",
+    "Worm",
+    "Slime",
+    "Dice",
+    "Book of",
+    "Red-Eyes",
+    "Jinzo",
+    "Toon",
+    "Vampire",
+    "Harpie",
+    "Gravekeeper's",
+    "Magician",
+    "Volcanic",
+    "Archfiend",
+    "Battleguard",
+    "Ninja",
+    "Greed",
+    "Umi",
+    "Chaos",
+    "Gate Guardian",
+    "Hole"
   ]
 }

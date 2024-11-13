@@ -3,7 +3,7 @@
   "name": "Appliancer Vacculephant",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Appliancer\" monster\nCannot be used as Link Material the turn it is Link Summoned. Can attack directly while it is not co-linked. You can send 1 card from your hand to the GY, then target 1 card your opponent controls; destroy it. If this card is co-linked: You can target 1 monster in your opponent\u0027s Main Monster Zone; destroy it. You can only use 1 \"Appliancer Vacculephant\" effect per turn, and only once that turn.",
+  "text": "1 \"Appliancer\" monster\nCannot be used as Link Material the turn it is Link Summoned. Can attack directly while it is not co-linked. You can send 1 card from your hand to the GY, then target 1 card your opponent controls; destroy it. If this card is co-linked: You can target 1 monster in your opponent's Main Monster Zone; destroy it. You can only use 1 \"Appliancer Vacculephant\" effect per turn, and only once that turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/30118200.jpg"
   ],
@@ -18,5 +18,6 @@
   "link_rating": 1,
   "link_arrows": [
     "Top-Right"
-  ]
+  ],
+  "archetype": "Appliancer"
 }

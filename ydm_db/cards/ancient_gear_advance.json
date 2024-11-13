@@ -4,7 +4,10 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "When this card is activated: Add 1 \"Ancient Gear\" Spell/Trap from your Deck to your hand, except \"Ancient Gear Advance\". Once per turn: You can Tribute 1 monster; draw 1 card, and if you do, for the rest of this turn, you can Normal Summon Level 5 or higher monsters that are \"Ancient Gear Golem\" or mention it without Tributing. You can only activate 1 \"Ancient Gear Advance\" per turn. You cannot Set cards the turn you activate this card.",
-  "images": ["https://images.ygoprodeck.com/images/cards/4064925.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/4064925.jpg"
+  ],
   "type": "Spell",
-  "spell_type": "Continuous"
+  "spell_type": "Continuous",
+  "archetype": "Ancient Gear"
 }

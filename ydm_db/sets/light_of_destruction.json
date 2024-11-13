@@ -673,5 +673,28 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "Elemental HERO",
+    "Lightsworn",
+    "Skull Servant",
+    "Nimble",
+    "Fairy",
+    "Crystal Beast",
+    "Batteryman",
+    "Dice",
+    "Jinzo",
+    "Frog",
+    "Volcanic",
+    "Arcana Force",
+    "Alien",
+    "Cloudian",
+    "Guardian",
+    "Destiny HERO",
+    "Neo-Spacian",
+    "Simorgh",
+    "Bamboo Sword",
+    "Gladiator Beast"
   ]
 }

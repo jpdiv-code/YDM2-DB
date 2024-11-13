@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "Once per turn, when a \"Performapal\" monster you control is destroyed by battle: You can target 1 \"Performapal\" or \"Odd-Eyes\" card in your Pendulum Zone; Special Summon it.\n",
   "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "pendulum_scale_right_red": 2,
+  "archetype": "Performapal"
 }

@@ -1507,5 +1507,34 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Skull Servant",
+    "Amazoness",
+    "Solemn",
+    "Nimble",
+    "Slime",
+    "Worm",
+    "Gaia The Fierce Knight",
+    "Celtic Guard",
+    "Toon",
+    "Jinzo",
+    "Darklord",
+    "Vampire",
+    "Eyes Restrict",
+    "Harpie",
+    "Gravekeeper's",
+    "Archfiend",
+    "Mask",
+    "Ninja",
+    "Greed",
+    "Parasite",
+    "Umi",
+    "Penguin",
+    "Earthbound",
+    "Exodia",
+    "Dark Magician",
+    "Hole",
+    "Madoor"
   ]
 }

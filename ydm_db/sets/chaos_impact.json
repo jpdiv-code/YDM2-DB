@@ -631,5 +631,25 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Salamangreat",
+    "Watt",
+    "Starliege",
+    "Unchained",
+    "Infinitrack",
+    "Aroma",
+    "World Legacy",
+    "Evoltile",
+    "Evil Eye",
+    "Dream Mirror",
+    "Dinowrestler",
+    "Marincess",
+    "Gizmek",
+    "Galaxy-Eyes",
+    "Rokket",
+    "D.D.",
+    "Gladiator Beast",
+    "Tenyi"
   ]
 }

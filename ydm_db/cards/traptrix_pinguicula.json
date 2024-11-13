@@ -3,7 +3,7 @@
   "name": "Traptrix Pinguicula",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 monsters\nWhile this card has material, it is unaffected by Trap effects and the activated effects of other monsters with the same Type as this card\u0027s material. You can only use each of the following effects of \"Traptrix Pinguicula\" once per turn. You can detach 1 material from this card; add 1 \"Traptrix\" monster from your Deck to your hand. If a monster(s) owned by your opponent is sent to the GY, or banished, by a card effect (except during the Damage Step): You can attach 1 of those monsters to this card as material.",
+  "text": "2 Level 4 monsters\nWhile this card has material, it is unaffected by Trap effects and the activated effects of other monsters with the same Type as this card's material. You can only use each of the following effects of \"Traptrix Pinguicula\" once per turn. You can detach 1 material from this card; add 1 \"Traptrix\" monster from your Deck to your hand. If a monster(s) owned by your opponent is sent to the GY, or banished, by a card effect (except during the Damage Step): You can attach 1 of those monsters to this card as material.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/1688285.jpg"
   ],
@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 300,
-  "rank": 4
+  "rank": 4,
+  "archetype": "Traptrix"
 }

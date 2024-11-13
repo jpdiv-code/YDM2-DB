@@ -3,7 +3,7 @@
   "name": "Number 39: Utopia Rising",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 monsters\nIf this card is Special Summoned: You can target 1 \"Number\" Xyz Monster in your GY, except \"Number 39: Utopia Rising\"; Special Summon it in Defense Position, then you can transfer this card\u0027s materials to that monster. If you Xyz Summon: You can Special Summon this card from your GY, but banish it when it leaves the field. You can only use each effect of \"Number 39: Utopia Rising\" once per turn.",
+  "text": "2 Level 4 monsters\nIf this card is Special Summoned: You can target 1 \"Number\" Xyz Monster in your GY, except \"Number 39: Utopia Rising\"; Special Summon it in Defense Position, then you can transfer this card's materials to that monster. If you Xyz Summon: You can Special Summon this card from your GY, but banish it when it leaves the field. You can only use each effect of \"Number 39: Utopia Rising\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/93777634.jpg"
   ],
@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 2000,
-  "rank": 4
+  "rank": 4,
+  "archetype": "Number"
 }

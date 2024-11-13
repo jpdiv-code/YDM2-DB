@@ -4,7 +4,9 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "FLIP: Apply these effects in sequence.\r\n\u25cf Excavate any number of cards from the top of your Deck, up to the number of cards your opponent controls, and if you do, add 1 of them to your hand, also send the remaining to the GY.\r\n\u25cf Send monsters from your Extra Deck to the GY, up to the number of monsters your opponent controls that were Special Summoned from the Extra Deck.\r\nYou can only use this effect of \"Greed Jar\" once per turn.",
-  "images": ["https://images.ygoprodeck.com/images/cards/76593718.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/76593718.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 700,
@@ -15,5 +17,6 @@
   "has_effect": true,
   "def": 800,
   "level": 3,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Jar"
 }

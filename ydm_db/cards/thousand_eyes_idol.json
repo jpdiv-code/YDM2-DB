@@ -3,7 +3,7 @@
   "name": "Thousand-Eyes Idol",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A wicked entity that controls the hearts of men, its thousand eyes are able to see and expand the negative influences in an individual\u0027s soul.",
+  "text": "A wicked entity that controls the hearts of men, its thousand eyes are able to see and expand the negative influences in an individual's soul.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/27125110.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": false,
   "def": 0,
   "level": 1,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Eyes Restrict"
 }

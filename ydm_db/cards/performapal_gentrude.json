@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "If you control no monsters, or all monsters you control are Pendulum Monsters, and you have \"Performapal Lady Ange\" in your other Pendulum Zone: You can add 1 \"Odd-Eyes\" card from your Deck to your hand. You can only use this effect of \"Performapal Gentrude\" once per turn.\n[ Monster Effect ] If this card is destroyed: You can place 1 \"Performapal\" Pendulum Monster from your Deck in your Pendulum Zone, except \"Performapal Gentrude\". If this card is face-up in your Extra Deck: You can discard 1 Pendulum Monster; add this card to your hand, then you can return 1 \"Performapal\" or \"Odd-Eyes\" card from your Pendulum Zone to the hand. You can only use 1 \"Performapal Gentrude\" monster effect per turn, and only once that turn.",
   "pendulum_scale_left_blue": 8,
-  "pendulum_scale_right_red": 8
+  "pendulum_scale_right_red": 8,
+  "archetype": "Performapal"
 }

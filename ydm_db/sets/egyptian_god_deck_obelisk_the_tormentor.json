@@ -246,5 +246,17 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Egyptian God",
+    "Greed",
+    "Wicked God",
+    "Photon",
+    "Lswarm",
+    "Gizmek",
+    "Nimble",
+    "Harpie",
+    "Monarch",
+    "Forbidden"
   ]
 }

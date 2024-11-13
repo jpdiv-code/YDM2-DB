@@ -8,5 +8,6 @@
     "https://api.cardcluster.com/storage/tmp/TMP-CARD-13299-d17f25fefa.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Quick-Play"
+  "spell_type": "Quick-Play",
+  "archetype": "Ashened"
 }

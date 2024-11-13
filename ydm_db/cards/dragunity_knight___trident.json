@@ -3,7 +3,7 @@
   "name": "Dragunity Knight - Trident",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters\nOnce per turn, you can send up to 3 cards you control to the Graveyard to look at your opponent\u0027s Extra Deck and send an equal number of cards from there to the Graveyard.",
+  "text": "1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters\nOnce per turn, you can send up to 3 cards you control to the Graveyard to look at your opponent's Extra Deck and send an equal number of cards from there to the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/80159717.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1700,
   "level": 7,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Dragunity"
 }

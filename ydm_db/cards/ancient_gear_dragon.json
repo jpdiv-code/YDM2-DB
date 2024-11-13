@@ -4,7 +4,9 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "Cannot be Special Summoned. If you control no monsters, or only EARTH Machine monsters, you can Normal Summon this card without Tributing. When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can send 1 Machine monster from your hand or face-up field, or 1 \"Ancient Gear Golem\" from your Deck, to the GY; negate that effect. You can only use this effect of \"Ancient Gear Dragon\" once per turn.",
-  "images": ["https://images.ygoprodeck.com/images/cards/75892194.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/75892194.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,
@@ -15,5 +17,6 @@
   "has_effect": true,
   "def": 2500,
   "level": 5,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Ancient Gear"
 }

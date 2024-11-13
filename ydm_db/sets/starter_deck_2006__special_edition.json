@@ -8,5 +8,12 @@
   "sub_sets": [
     "YSD",
     "YSD_SE_C"
+  ],
+  "archetypes": [
+    "Elemental HERO",
+    "Greed",
+    "Dark World",
+    "Grepher",
+    "Kuriboh"
   ]
 }

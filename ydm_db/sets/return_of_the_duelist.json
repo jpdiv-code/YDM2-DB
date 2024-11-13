@@ -673,5 +673,25 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Elemental HERO",
+    "Chronomaly",
+    "Noble Knight",
+    "Madolche",
+    "Photon",
+    "Priestess",
+    "Geargia",
+    "Mystical Beast of the Forest",
+    "Atlantean",
+    "Elemental Lord",
+    "Gagaga",
+    "Crystal Beast",
+    "Hole",
+    "Spellbook",
+    "Ninja",
+    "Heroic",
+    "Madoor",
+    "Utopia"
   ]
 }

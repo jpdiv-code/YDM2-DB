@@ -3,7 +3,7 @@
   "name": "Revendread Executor",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Ritual Summon this card with any \"Vendread\" Ritual Spell. This card\u0027s name becomes \"Revendread Slayer\" while on the field. While this Ritual Summoned card is on the field, your opponent cannot target cards you control with card effects, except this card. If this Ritual Summoned card is destroyed by battle, or is destroyed by an opponent\u0027s card effect while in its owner\u0027s Monster Zone: You can add 1 \"Vendread\" card from your Deck to your hand. You can only use this effect of \"Revendread Executor\" once per turn.",
+  "text": "You can Ritual Summon this card with any \"Vendread\" Ritual Spell. This card's name becomes \"Revendread Slayer\" while on the field. While this Ritual Summoned card is on the field, your opponent cannot target cards you control with card effects, except this card. If this Ritual Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 \"Vendread\" card from your Deck to your hand. You can only use this effect of \"Revendread Executor\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34093683.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 0,
   "level": 8,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Vendread"
 }

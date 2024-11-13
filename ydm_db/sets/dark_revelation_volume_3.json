@@ -1447,5 +1447,32 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "Elemental HERO",
+    "Dark World",
+    "Horus the Black Flame Dragon",
+    "Skull Servant",
+    "Monarch",
+    "Koala",
+    "Worm",
+    "Batteryman",
+    "Charmer",
+    "Silent Swordsman",
+    "Gaia The Fierce Knight",
+    "Doriado",
+    "Red-Eyes",
+    "Harpie",
+    "Ojama",
+    "Ninja",
+    "Armed Dragon",
+    "Sphinx",
+    "B.E.S.",
+    "Penguin",
+    "Guardian",
+    "D.D.",
+    "Madoor",
+    "Nephthys"
   ]
 }

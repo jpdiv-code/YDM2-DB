@@ -3,7 +3,7 @@
   "name": "Superheavy Samurai Commander Shanawo",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1+ non-Tuner monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn, during the Battle Phase, if you control this Synchro Summoned card (Quick Effect): You can Special Summon 1 \"Superheavy Samurai\" Monster Card from your GY or face-up Spell \u0026 Trap Zone, then you can place this card in your Pendulum Zone.",
+  "text": "1 Tuner + 1+ non-Tuner monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn, during the Battle Phase, if you control this Synchro Summoned card (Quick Effect): You can Special Summon 1 \"Superheavy Samurai\" Monster Card from your GY or face-up Spell & Trap Zone, then you can place this card in your Pendulum Zone.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90587641.jpg"
   ],
@@ -18,7 +18,8 @@
   "def": 2500,
   "level": 8,
   "is_tuner": false,
-  "pendulum_text": "When an opponent\u0027s monster declares an attack: You can Special Summon this card, then if you have no Spells/Traps in your GY, change that opponent\u0027s monster\u0027s ATK to 0, also negate its effects. You can only use this effect of \"Superheavy Samurai Commander Shanawo\" once per turn.\n[ Monster Effect ] 1 Tuner + 1+ non-Tuner monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn, during the Battle Phase, if you control this Synchro Summoned card (Quick Effect): You can Special Summon 1 \"Superheavy Samurai\" Monster Card from your GY or face-up Spell \u0026 Trap Zone, then you can place this card in your Pendulum Zone.",
+  "pendulum_text": "When an opponent's monster declares an attack: You can Special Summon this card, then if you have no Spells/Traps in your GY, change that opponent's monster's ATK to 0, also negate its effects. You can only use this effect of \"Superheavy Samurai Commander Shanawo\" once per turn.\n[ Monster Effect ] 1 Tuner + 1+ non-Tuner monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn, during the Battle Phase, if you control this Synchro Summoned card (Quick Effect): You can Special Summon 1 \"Superheavy Samurai\" Monster Card from your GY or face-up Spell & Trap Zone, then you can place this card in your Pendulum Zone.",
   "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "pendulum_scale_right_red": 1,
+  "archetype": "Superheavy Samurai"
 }

@@ -307,5 +307,24 @@
       "rarity": "Prismatic Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gogogo",
+    "Watt",
+    "Djinn",
+    "Elemental HERO",
+    "Naturia",
+    "Heraldic",
+    "Chronomaly",
+    "Mecha Phantom Beast",
+    "Gagaga",
+    "Chaos",
+    "Star Seraph",
+    "Galaxy-Eyes",
+    "Battlin' Boxer",
+    "Ghostrick",
+    "Dododo",
+    "Heroic",
+    "Utopia"
   ]
 }

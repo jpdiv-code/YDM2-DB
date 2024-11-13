@@ -3,7 +3,7 @@
   "name": "Toon Dark Magician Girl",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 monster, while you control \"Toon World\". If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks. Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in either player\u0027s GY.",
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 monster, while you control \"Toon World\". If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks. Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in either player's GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90960358.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1700,
   "level": 6,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Toon"
 }

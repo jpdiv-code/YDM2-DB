@@ -264,5 +264,18 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Magician",
+    "X-Saber",
+    "Lightsworn",
+    "Archfiend",
+    "Chaos",
+    "Traptrix",
+    "Forbidden",
+    "-Eyes Dragon",
+    "Odd-Eyes",
+    "Performapal",
+    "Armed Dragon"
   ]
 }

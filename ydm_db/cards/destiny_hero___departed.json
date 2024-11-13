@@ -3,7 +3,7 @@
   "name": "Destiny HERO - Departed",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your Standby Phase, if this card is in your Graveyard: Special Summon it in face-up Attack Position to your opponent\u0027s side of the field. If this card is destroyed by battle, banish it instead of sending it to the Graveyard. If a card effect would send this card to the Graveyard from the hand or Deck, banish it instead.",
+  "text": "During your Standby Phase, if this card is in your Graveyard: Special Summon it in face-up Attack Position to your opponent's side of the field. If this card is destroyed by battle, banish it instead of sending it to the Graveyard. If a card effect would send this card to the Graveyard from the hand or Deck, banish it instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/39829561.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 0,
   "level": 2,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Destiny HERO"
 }

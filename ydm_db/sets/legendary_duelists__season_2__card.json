@@ -64,5 +64,14 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Train",
+    "Photon",
+    "Rose Dragon",
+    "Blackwing",
+    "Harpie",
+    "Galaxy-Eyes",
+    "Blue-Eyes"
   ]
 }

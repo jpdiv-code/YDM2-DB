@@ -3,7 +3,7 @@
   "name": "Trickstar Rhodode",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can discard 1 \"Trickstar\" card, then target 1 \"Trickstar\" Link Monster in your GY; Special Summon it. You can only use this effect of \"Trickstar Rhodode\" once per turn. Each time a card(s) is banished from your opponent\u0027s GY, immediately inflict 200 damage to your opponent for each card banished.",
+  "text": "You can discard 1 \"Trickstar\" card, then target 1 \"Trickstar\" Link Monster in your GY; Special Summon it. You can only use this effect of \"Trickstar Rhodode\" once per turn. Each time a card(s) is banished from your opponent's GY, immediately inflict 200 damage to your opponent for each card banished.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59604521.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1900,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Trickstar"
 }

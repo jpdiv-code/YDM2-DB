@@ -3,7 +3,7 @@
   "name": "Kittytail, Mystical Beast of the Forest",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal or Special Summoned: You can target 1 Beast, Beast-Warrior, Winged Beast, Insect, or Plant monster in your GY; send 1 monster with the same original Type from your Deck to the GY. If this card in its owner\u0027s possession is destroyed by an opponent\u0027s card: You can add 1 Beast, Beast-Warrior, Winged Beast, Insect, or Plant monster from your Deck to your hand, except \"Kittytail, Mystical Beast of the Forest\". You can only use each effect of \"Kittytail, Mystical Beast of the Forest\" once per turn.",
+  "text": "If this card is Normal or Special Summoned: You can target 1 Beast, Beast-Warrior, Winged Beast, Insect, or Plant monster in your GY; send 1 monster with the same original Type from your Deck to the GY. If this card in its owner's possession is destroyed by an opponent's card: You can add 1 Beast, Beast-Warrior, Winged Beast, Insect, or Plant monster from your Deck to your hand, except \"Kittytail, Mystical Beast of the Forest\". You can only use each effect of \"Kittytail, Mystical Beast of the Forest\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/64475743.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 200,
   "level": 2,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Mystical Beast of the Forest"
 }

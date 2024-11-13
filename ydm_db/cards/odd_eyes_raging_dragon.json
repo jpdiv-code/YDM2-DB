@@ -19,5 +19,6 @@
   "rank": 7,
   "pendulum_text": "Once per turn, if you have no cards in your other Pendulum Zone: You can place 1 Pendulum Monster from your Deck in your Pendulum Zone.\n",
   "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "pendulum_scale_right_red": 1,
+  "archetype": "-Eyes Dragon"
 }

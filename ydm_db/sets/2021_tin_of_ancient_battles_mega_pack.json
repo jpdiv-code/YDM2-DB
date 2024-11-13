@@ -37,7 +37,7 @@
       "rarity": "Prismatic Secret Rare",
       "image_index": 0
     },
-        {
+    {
       "id": 64756282,
       "code": "MP21-006",
       "rarity": "Common",
@@ -488,7 +488,7 @@
       "image_index": 0
     },
     {
-      "id": 06498706,
+      "id": 6498706,
       "code": "MP21-081",
       "rarity": "Prismatic Secret Rare",
       "image_index": 0
@@ -788,7 +788,7 @@
       "image_index": 0
     },
     {
-      "id": 03828844,
+      "id": 3828844,
       "code": "MP21-131",
       "rarity": "Common",
       "image_index": 0
@@ -1555,5 +1555,63 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Fur Hire",
+    "Sacred Beast",
+    "Hole",
+    "Infinitrack",
+    "Resonator",
+    "Noble Knight",
+    "Dark World",
+    "Marincess",
+    "Performapal",
+    "Invoked",
+    "Mayakashi",
+    "Virtual World",
+    "Salamangreat",
+    "Charmer",
+    "Tri-Brigade",
+    "\"C\"",
+    "Mekk-Knight",
+    "Gaia The Fierce Knight",
+    "Roland",
+    "Phantom Knights",
+    "Possessed",
+    "Darklord",
+    "Superheavy",
+    "Traptrix",
+    "Dogmatika",
+    "Sky Striker",
+    "Gouki",
+    "Code Talker",
+    "@Ignister",
+    "Rose",
+    "Rikka",
+    "Melffy",
+    "Lady of Lament",
+    "Witchcrafter",
+    "Adamancipator",
+    "Junk",
+    "Barbaros",
+    "Infernity",
+    "Infernoble Knight",
+    "ABC",
+    "Machina",
+    "Speedroid",
+    "Drytron",
+    "Dragonmaid",
+    "Shaddoll",
+    "Umi",
+    "Penguin",
+    "Chaos",
+    "Raidraptor",
+    "Gizmek",
+    "-Eyes Dragon",
+    "Rokket",
+    "Dark Magician",
+    "Deep Sea",
+    "Kuriboh",
+    "Blue-Eyes"
   ]
 }

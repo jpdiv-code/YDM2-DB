@@ -673,5 +673,22 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "Charmer",
+    "Book of",
+    "Stardust",
+    "Herald",
+    "Resonator",
+    "Lightsworn",
+    "Archfiend",
+    "Parshath",
+    "Junk",
+    "Six Samurai",
+    "Synchron",
+    "Roid",
+    "Guardian",
+    "Gladiator Beast"
   ]
 }

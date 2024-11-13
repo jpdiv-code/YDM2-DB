@@ -18,7 +18,8 @@
   "def": 400,
   "level": 5,
   "is_tuner": false,
-  "pendulum_text": "If another \"Dinomist\" card(s) you control would be destroyed by battle or an opponent\u0027s card effect, you can destroy this card instead.\n",
+  "pendulum_text": "If another \"Dinomist\" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.\n",
   "pendulum_scale_left_blue": 3,
-  "pendulum_scale_right_red": 3
+  "pendulum_scale_right_red": 3,
+  "archetype": "Dinomist"
 }

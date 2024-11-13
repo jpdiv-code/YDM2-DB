@@ -8,5 +8,6 @@
     "https://api.cardcluster.com/storage/tmp/TMP-CARD-13300-d938af3145.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Normal"
+  "spell_type": "Normal",
+  "archetype": "Ashened"
 }

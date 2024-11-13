@@ -607,5 +607,37 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "Pendulum Dragon",
+    "Subterror",
+    "Lightsworn",
+    "Skull Servant",
+    "Flower Cardian",
+    "Magnet Warrior",
+    "Infernoid",
+    "Ritual Beast",
+    "Crystron",
+    "Roid",
+    "Performapal",
+    "Super Quant",
+    "Zoodiac",
+    "Cyber Angel",
+    "Superheavy",
+    "Windwitch",
+    "Train",
+    "Magician",
+    "Cipher",
+    "Black Luster Soldier",
+    "D/D",
+    "SPYRAL",
+    "Shaddoll",
+    "Parasite",
+    "Shiranui",
+    "Shinobird",
+    "Majespecter",
+    "-Eyes Dragon",
+    "Symphonic Warrior"
   ]
 }

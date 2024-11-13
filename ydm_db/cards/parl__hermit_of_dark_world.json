@@ -3,7 +3,7 @@
   "name": "Parl, Hermit of Dark World",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is discarded to the GY by card effect: You can target 1 \"Dark World\" monster in your GY, except \"Parl, Hermit of Dark World\"; Special Summon it to either field, then, if this card was discarded from your hand to your GY by an opponent\u0027s card effect, you can Special Summon, to either field, 1 of your Fiend monsters that is banished, or in your hand or GY. You can only use this effect of \"Parl, Hermit of Dark World\" once per turn.",
+  "text": "If this card is discarded to the GY by card effect: You can target 1 \"Dark World\" monster in your GY, except \"Parl, Hermit of Dark World\"; Special Summon it to either field, then, if this card was discarded from your hand to your GY by an opponent's card effect, you can Special Summon, to either field, 1 of your Fiend monsters that is banished, or in your hand or GY. You can only use this effect of \"Parl, Hermit of Dark World\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/3289027.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 100,
   "level": 1,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Dark World"
 }

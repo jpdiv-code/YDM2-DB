@@ -804,5 +804,18 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Magician",
+    "Red-Eyes",
+    "Jinzo",
+    "Greed",
+    "Egyptian God",
+    "Silent Magician",
+    "Archfiend",
+    "Alligator",
+    "Exodia",
+    "Dark Magician",
+    "Blue-Eyes"
   ]
 }

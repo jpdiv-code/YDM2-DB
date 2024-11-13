@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/4168871.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Normal"
+  "spell_type": "Normal",
+  "archetype": "Blackwing"
 }

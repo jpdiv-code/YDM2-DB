@@ -1,9 +1,9 @@
 {
   "id": 33883834,
-  "name": "Shien\u0027s Squire",
+  "name": "Shien's Squire",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During damage calculation, in either player\u0027s turn, if a \"Six Samurai\" monster you control battles: You can send this card from your hand to the Graveyard; that monster cannot be destroyed by battle this turn.",
+  "text": "During damage calculation, in either player's turn, if a \"Six Samurai\" monster you control battles: You can send this card from your hand to the Graveyard; that monster cannot be destroyed by battle this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33883834.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 700,
   "level": 1,
-  "is_tuner": true
+  "is_tuner": true,
+  "archetype": "Six Samurai"
 }

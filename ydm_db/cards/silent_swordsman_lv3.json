@@ -3,7 +3,7 @@
   "name": "Silent Swordsman LV3",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Negate your opponent\u0027s Spell effects that target this card. During your Standby Phase: You can send this face-up card to the Graveyard; Special Summon 1 \"Silent Swordsman LV5\" from your hand or Deck. You cannot activate this effect the turn this card is Summoned or flipped face-up.",
+  "text": "Negate your opponent's Spell effects that target this card. During your Standby Phase: You can send this face-up card to the Graveyard; Special Summon 1 \"Silent Swordsman LV5\" from your hand or Deck. You cannot activate this effect the turn this card is Summoned or flipped face-up.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/1995985.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1000,
   "level": 3,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Silent Swordsman"
 }

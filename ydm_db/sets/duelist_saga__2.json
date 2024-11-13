@@ -352,5 +352,35 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Sacred Beast",
+    "Elemental HERO",
+    "Lightsworn",
+    "Solemn",
+    "X-Saber",
+    "Masked HERO",
+    "Red-Eyes",
+    "Jinzo",
+    "Evolzar",
+    "Constellar",
+    "Frog",
+    "Gravekeeper's",
+    "Magician",
+    "Black Luster Soldier",
+    "Junk",
+    "Blackwing",
+    "Infernity",
+    "Chaos Phantom",
+    "Armed Dragon",
+    "Neo-Spacian",
+    "Greed",
+    "Lswarm",
+    "Ice Barrier",
+    "Synchron",
+    "Dark Magician",
+    "Guardian",
+    "D.D.",
+    "Gladiator Beast"
   ]
 }

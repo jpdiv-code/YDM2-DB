@@ -3,7 +3,7 @@
   "name": "Elemental HERO Nova Master",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Elemental HERO\" monster + 1 FIRE monster\nMust be Fusion Summoned. If this card destroys an opponent\u0027s monster by battle: Draw 1 card.",
+  "text": "1 \"Elemental HERO\" monster + 1 FIRE monster\nMust be Fusion Summoned. If this card destroys an opponent's monster by battle: Draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/1945387.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2100,
   "level": 8,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Elemental HERO"
 }

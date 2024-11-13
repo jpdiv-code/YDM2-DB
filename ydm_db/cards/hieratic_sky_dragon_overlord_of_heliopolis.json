@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 2400,
-  "rank": 8
+  "rank": 8,
+  "archetype": "Hieratic"
 }

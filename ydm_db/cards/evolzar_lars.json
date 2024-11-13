@@ -4,7 +4,9 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "2 Level 6 monsters\r\nWhile this card has material, your opponent cannot target it with monster effects. When your opponent activates a card or effect (Quick Effect): You can detach 2 materials from this card, or just 1 material if all this card's materials are Reptile and/or Dinosaur, then target 1 face-up card your opponent controls; negate its effects until the end of this turn.",
-  "images": ["https://images.ygoprodeck.com/images/cards/35103106.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/35103106.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2500,
@@ -14,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 1500,
-  "rank": 6
+  "rank": 6,
+  "archetype": "Evol"
 }

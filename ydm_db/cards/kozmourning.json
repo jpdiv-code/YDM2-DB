@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/12385638.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Continuous"
+  "trap_type": "Continuous",
+  "archetype": "Kozmo"
 }

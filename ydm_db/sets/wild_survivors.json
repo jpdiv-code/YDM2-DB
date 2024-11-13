@@ -10,7 +10,7 @@
     {
       "id": 5852388,
       "code": "WISU-EN001",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -64,7 +64,7 @@
     {
       "id": 18940556,
       "code": "WISU-EN009",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -88,7 +88,7 @@
     {
       "id": 44335251,
       "code": "WISU-EN012",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -118,7 +118,7 @@
     {
       "id": 29302858,
       "code": "WISU-EN016",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -136,7 +136,7 @@
     {
       "id": 92895501,
       "code": "WISU-EN018",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -148,7 +148,7 @@
     {
       "id": 29280200,
       "code": "WISU-EN019",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -166,7 +166,7 @@
     {
       "id": 91073013,
       "code": "WISU-EN021",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -184,7 +184,7 @@
     {
       "id": 54562327,
       "code": "WISU-EN023",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -220,7 +220,7 @@
     {
       "id": 57103969,
       "code": "WISU-EN028",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -268,7 +268,7 @@
     {
       "id": 15388353,
       "code": "WISU-EN035",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -280,7 +280,7 @@
     {
       "id": 87955518,
       "code": "WISU-EN040",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -292,7 +292,7 @@
     {
       "id": 30243636,
       "code": "WISU-EN041",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -352,7 +352,7 @@
     {
       "id": 98022050,
       "code": "WISU-EN050",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -388,7 +388,7 @@
     {
       "id": 47325505,
       "code": "WISU-EN055",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -424,7 +424,7 @@
     {
       "id": 24207889,
       "code": "WISU-EN060",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -433,5 +433,14 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Transcendosaurus",
+    "Recipe",
+    "Impcantation",
+    "Nouvelles",
+    "Vanquish Soul",
+    "Fire Formation",
+    "Evolzar"
   ]
 }

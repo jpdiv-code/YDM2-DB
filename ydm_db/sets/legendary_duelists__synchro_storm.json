@@ -349,5 +349,19 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Hi-Speedroid",
+    "Synchro",
+    "Stardust",
+    "Fleur",
+    "Noble Knight",
+    "Lyrilusc",
+    "True Draco",
+    "Junk",
+    "Clear Wing",
+    "Synchron",
+    "Roid",
+    "Speedroid"
   ]
 }

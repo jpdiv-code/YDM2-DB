@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 2500,
-  "rank": 7
+  "rank": 7,
+  "archetype": "Sylvan"
 }

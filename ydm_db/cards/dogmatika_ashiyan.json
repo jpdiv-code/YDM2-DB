@@ -3,7 +3,7 @@
   "name": "Dogmatika Ashiyan",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a Fusion, Synchro, Xyz, or Link Monster(s) is sent to the GY (except during the Damage Step): You can Special Summon this card from your hand. If this card is Special Summoned from the hand: You can target 1 \"Dogmatika\" card in your GY, except \"Dogmatika Ashiyan\"; add it to your hand. When an opponent\u0027s monster declares an attack: You can make all \"Dogmatika\" monsters you currently control gain 500 ATK. You can only use each effect of \"Dogmatika Ashiyan\" once per turn.",
+  "text": "If a Fusion, Synchro, Xyz, or Link Monster(s) is sent to the GY (except during the Damage Step): You can Special Summon this card from your hand. If this card is Special Summoned from the hand: You can target 1 \"Dogmatika\" card in your GY, except \"Dogmatika Ashiyan\"; add it to your hand. When an opponent's monster declares an attack: You can make all \"Dogmatika\" monsters you currently control gain 500 ATK. You can only use each effect of \"Dogmatika Ashiyan\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13694209.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1500,
   "level": 8,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Dogmatika"
 }

@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/73192600.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Normal"
+  "trap_type": "Normal",
+  "archetype": "World Legacy"
 }

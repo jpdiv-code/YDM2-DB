@@ -3,7 +3,7 @@
   "name": "Gladiator Beast Retiari",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster, you can remove from play 1 card from your opponent\u0027s Graveyard. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Retiari\".",
+  "text": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster, you can remove from play 1 card from your opponent's Graveyard. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Retiari\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/612115.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 800,
   "level": 3,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Gladiator Beast"
 }

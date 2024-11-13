@@ -282,5 +282,12 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Sacred Beast",
+    "\"C\"",
+    "Crystal",
+    "Rainbow Bridge",
+    "Crystal Beast"
   ]
 }

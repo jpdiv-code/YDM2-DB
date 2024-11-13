@@ -3,7 +3,7 @@
   "name": "Altergeist Memorygant",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ \"Altergeist\" monsters\nDuring the Battle Phase (Quick Effect): You can Tribute 1 other monster; this card gains ATK equal to that Tributed monster\u0027s ATK on the field. When this card destroys a monster by battle: You can destroy 1 monster your opponent controls, and if you do, this card can make a second attack in a row. If this card would be destroyed, you can banish 1 monster from your GY instead. You can only use each effect of \"Altergeist Memorygant\" once per turn.",
+  "text": "2+ \"Altergeist\" monsters\nDuring the Battle Phase (Quick Effect): You can Tribute 1 other monster; this card gains ATK equal to that Tributed monster's ATK on the field. When this card destroys a monster by battle: You can destroy 1 monster your opponent controls, and if you do, this card can make a second attack in a row. If this card would be destroyed, you can banish 1 monster from your GY instead. You can only use each effect of \"Altergeist Memorygant\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/23790299.jpg"
   ],
@@ -21,5 +21,6 @@
     "Bottom-Left",
     "Bottom-Right",
     "Right"
-  ]
+  ],
+  "archetype": "Altergeist"
 }

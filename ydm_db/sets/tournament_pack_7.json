@@ -127,5 +127,12 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Umi",
+    "Chaos",
+    "Amazoness",
+    "Dark Magician",
+    "D.D."
   ]
 }

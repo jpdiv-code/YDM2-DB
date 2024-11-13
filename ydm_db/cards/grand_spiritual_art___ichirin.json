@@ -3,10 +3,11 @@
   "name": "Grand Spiritual Art - Ichirin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Negate your opponent\u0027s first monster effect that resolves each turn while you control a Spellcaster monster with 1500 DEF. During your Main Phase: You can reveal 1 Spellcaster monster from your hand, and if you do, add 1 monster with the same Attribute, but with 1500 ATK/200 DEF, from your Deck to your hand, and if you do that, shuffle the revealed card into the Deck. You can only use this effect of \"Grand Spiritual Art - Ichirin\" once per turn.",
+  "text": "Negate your opponent's first monster effect that resolves each turn while you control a Spellcaster monster with 1500 DEF. During your Main Phase: You can reveal 1 Spellcaster monster from your hand, and if you do, add 1 monster with the same Attribute, but with 1500 ATK/200 DEF, from your Deck to your hand, and if you do that, shuffle the revealed card into the Deck. You can only use this effect of \"Grand Spiritual Art - Ichirin\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/38057522.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Field"
+  "spell_type": "Field",
+  "archetype": "Spiritual Art"
 }

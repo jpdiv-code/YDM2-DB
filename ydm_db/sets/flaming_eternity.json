@@ -517,5 +517,12 @@
       "rarity": "Ultimate Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Silent Swordsman",
+    "Gaia The Fierce Knight",
+    "Monarch",
+    "D.D.",
+    "Nephthys"
   ]
 }

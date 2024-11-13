@@ -163,5 +163,16 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Djinn",
+    "Mermail",
+    "Noble Knight",
+    "Atlantean",
+    "Archfiend",
+    "Vampire",
+    "Fire Formation",
+    "Spellbook",
+    "Gladiator Beast"
   ]
 }

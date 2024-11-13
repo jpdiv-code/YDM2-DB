@@ -28,7 +28,7 @@
     {
       "id": 37617348,
       "code": "AMDE-EN004",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -52,7 +52,7 @@
     {
       "id": 37495766,
       "code": "AMDE-EN007",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -94,7 +94,7 @@
     {
       "id": 25550531,
       "code": "AMDE-EN013",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -124,7 +124,7 @@
     {
       "id": 51822687,
       "code": "AMDE-EN017",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -136,7 +136,7 @@
     {
       "id": 83827392,
       "code": "AMDE-EN018",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -154,7 +154,7 @@
     {
       "id": 56700100,
       "code": "AMDE-EN020",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -172,7 +172,7 @@
     {
       "id": 29599813,
       "code": "AMDE-EN022",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -196,7 +196,7 @@
     {
       "id": 18377261,
       "code": "AMDE-EN025",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -208,7 +208,7 @@
     {
       "id": 54862960,
       "code": "AMDE-EN026",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -256,7 +256,7 @@
     {
       "id": 79912449,
       "code": "AMDE-EN033",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -292,7 +292,7 @@
     {
       "id": 56824871,
       "code": "AMDE-EN038",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -310,7 +310,7 @@
     {
       "id": 2295440,
       "code": "AMDE-EN040",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -352,7 +352,7 @@
     {
       "id": 85087012,
       "code": "AMDE-EN046",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -370,7 +370,7 @@
     {
       "id": 71197066,
       "code": "AMDE-EN048",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -400,7 +400,7 @@
     {
       "id": 59934749,
       "code": "AMDE-EN052",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -457,5 +457,12 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Purrely",
+    "Mikanko",
+    "Noble Knight",
+    "Gizmek",
+    "Rescue-ACE"
   ]
 }

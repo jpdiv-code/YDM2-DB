@@ -334,5 +334,20 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "Machina",
+    "Slime",
+    "Jinzo",
+    "Greed",
+    "Archfiend",
+    "Solemn",
+    "Monarch",
+    "Harpie",
+    "Dark Magician",
+    "Wind-Up",
+    "Gem-",
+    "Frog"
   ]
 }

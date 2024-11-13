@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 2300,
-  "rank": 9
+  "rank": 9,
+  "archetype": "CXyz"
 }

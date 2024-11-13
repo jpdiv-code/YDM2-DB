@@ -642,6 +642,37 @@
       "code": "DAMA-100",
       "rarity": "Starlight Rare",
       "image_index": 0
-      }
+    }
+  ],
+  "archetypes": [
+    "Stardust",
+    "Mystical Beast of the Forest",
+    "Branded",
+    "Pendulum",
+    "Triamid",
+    "Springans",
+    "Beetrooper",
+    "Chemicritter",
+    "Chronomaly",
+    "Tindangle",
+    "Dinowrestler",
+    "D.D.",
+    "Gouki",
+    "Magikey",
+    "Alien",
+    "Amazement",
+    "Despia",
+    "Synchro",
+    "Greed",
+    "Swordsoul",
+    "Majestic",
+    "Attraction",
+    "Gusto",
+    "Gizmek",
+    "Live\u2606Twin",
+    "Solfachord",
+    "Trickstar",
+    "Gunkan",
+    "Madoor"
   ]
 }

@@ -517,5 +517,16 @@
       "rarity": "Ultimate Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "Sacred Beast",
+    "Elemental HERO",
+    "Cyber Dragon",
+    "Photon",
+    "B.E.S.",
+    "D.D.",
+    "Demise",
+    "Frog"
   ]
 }

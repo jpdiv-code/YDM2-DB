@@ -3,7 +3,7 @@
   "name": "Emperor Maju Garzett",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters. This card\u0027s ATK becomes the combined original ATK of the Tributed monsters. Your opponent cannot activate cards or effects during the Battle Phase.",
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters. This card's ATK becomes the combined original ATK of the Tributed monsters. Your opponent cannot activate cards or effects during the Battle Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33022867.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 0,
   "level": 9,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Maju"
 }

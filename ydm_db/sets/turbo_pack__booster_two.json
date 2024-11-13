@@ -133,5 +133,13 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gravekeeper's",
+    "Archfiend",
+    "Chaos",
+    "Koa'ki Meiru",
+    "Gladiator Beast",
+    "Anti"
   ]
 }

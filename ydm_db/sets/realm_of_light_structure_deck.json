@@ -252,5 +252,11 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Blackwing",
+    "Vylon",
+    "Lightsworn",
+    "Fabled"
   ]
 }

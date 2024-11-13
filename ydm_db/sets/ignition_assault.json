@@ -637,5 +637,28 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Warriors",
+    "Generaider",
+    "Gimmick Puppet",
+    "Marincess",
+    "Mayakashi",
+    "\"C\"",
+    "Heraldic",
+    "Chronomaly",
+    "Sky Striker",
+    "Code Talker",
+    "Ghostrick",
+    "Megalith",
+    "@Ignister",
+    "Archfiend",
+    "Karakuri",
+    "Witchcrafter",
+    "Time Thief",
+    "Dragonmaid",
+    "Plunder Patroll",
+    "Gizmek",
+    "Kuriboh"
   ]
 }

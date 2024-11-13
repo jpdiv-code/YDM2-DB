@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/97803170.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Continuous"
+  "trap_type": "Continuous",
+  "archetype": "Archfiend"
 }

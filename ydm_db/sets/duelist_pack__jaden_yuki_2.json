@@ -187,5 +187,10 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Neo-Spacian",
+    "Chrysalis",
+    "Elemental HERO"
   ]
 }

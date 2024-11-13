@@ -1,5 +1,5 @@
 {
-  "name": "Structure Deck: Dragon\u0027s Roar",
+  "name": "Structure Deck: Dragon's Roar",
   "code": "SD1",
   "type": "Structure Deck",
   "date": "01-01-2005",
@@ -246,5 +246,10 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Greed",
+    "Armed Dragon",
+    "Red-Eyes"
   ]
 }

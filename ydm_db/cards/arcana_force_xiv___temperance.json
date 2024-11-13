@@ -3,7 +3,7 @@
   "name": "Arcana Force XIV - Temperance",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During damage calculation, in either player\u0027s turn: You can discard this card; you take no Battle Damage from that battle. When this card is Summoned: Toss a coin and apply this effect. The effect lasts while this card is face-up on the field.\n? Heads: Halve all Battle Damage you take.\n? Tails: Halve all Battle Damage your opponent takes.",
+  "text": "During damage calculation, in either player's turn: You can discard this card; you take no Battle Damage from that battle. When this card is Summoned: Toss a coin and apply this effect. The effect lasts while this card is face-up on the field.\n? Heads: Halve all Battle Damage you take.\n? Tails: Halve all Battle Damage your opponent takes.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/60953118.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2400,
   "level": 6,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Arcana Force"
 }

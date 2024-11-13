@@ -20,5 +20,6 @@
     "Left",
     "Bottom",
     "Top"
-  ]
+  ],
+  "archetype": "Gouki"
 }

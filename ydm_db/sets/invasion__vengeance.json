@@ -607,5 +607,36 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Predaplant",
+    "Igknight",
+    "Venom",
+    "Subterror",
+    "Metalfoes",
+    "Apoqliphort",
+    "Flower Cardian",
+    "Crystron",
+    "Performapal",
+    "Yang Zing",
+    "Paleozoic",
+    "Chemicritter",
+    "X-Saber",
+    "Phantom Knights",
+    "Red-Eyes",
+    "Cyber Angel",
+    "Superheavy",
+    "Constellar",
+    "Frog",
+    "Magician",
+    "Cipher",
+    "PSY-Frame",
+    "Alien",
+    "Ninja",
+    "SPYRAL",
+    "Greed",
+    "Aroma",
+    "Graydle",
+    "Tellarknight"
   ]
 }

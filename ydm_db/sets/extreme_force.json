@@ -607,5 +607,34 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Qli",
+    "Noble Knight",
+    "Lightsworn",
+    "Metalfoes",
+    "Ritual Beast",
+    "Altergeist",
+    "Vendread",
+    "\"C\"",
+    "Mekk-Knight",
+    "Tindangle",
+    "Code Talker",
+    "Ghostrick",
+    "Mythical Beast",
+    "Magician",
+    "Watt",
+    "Artifact",
+    "Steelswarm",
+    "F.A.",
+    "Martial Art Spirit",
+    "Archfiend",
+    "Zefra",
+    "Rokket",
+    "Hole",
+    "Guardian",
+    "D.D.",
+    "Gem-",
+    "World Legacy"
   ]
 }

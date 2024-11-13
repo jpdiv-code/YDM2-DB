@@ -613,5 +613,12 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Umi",
+    "Archfiend",
+    "Parshath",
+    "Grepher",
+    "Hole"
   ]
 }

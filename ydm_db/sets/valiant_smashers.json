@@ -7,461 +7,472 @@
   "pull_type": "distribution",
   "distribution": "toon_chaos",
   "cards": [
-  {
-    "id": 23288411,
-    "code": "VASM-EN001",
-    "rarity": "Collector's Rare",
-    "image_index": 0
-  },
-  {
-    "id": 55272555,
-    "code": "VASM-EN002",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 81677154,
-    "code": "VASM-EN003",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 18165869,
-    "code": "VASM-EN004",
-    "rarity": "Collector's Rare",
-    "image_index": 0
-  },
-  {
-    "id": 18165869,
-    "code": "VASM-EN004",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 54550967,
-    "code": "VASM-EN005",
-    "rarity": "Collector's Rare",
-    "image_index": 0
-  },
-  {
-    "id": 54550967,
-    "code": "VASM-EN005",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 81945676,
-    "code": "VASM-EN006",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 17943271,
-    "code": "VASM-EN007",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 43338320,
-    "code": "VASM-EN008",
-    "rarity": "Collector's Rare",
-    "image_index": 0
-  },
-  {
-    "id": 43338320,
-    "code": "VASM-EN008",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 80722024,
-    "code": "VASM-EN009",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 16227633,
-    "code": "VASM-EN010",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 43215738,
-    "code": "VASM-EN011",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 79600447,
-    "code": "VASM-EN012",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 73628505,
-    "code": "VASM-EN013",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 17626381,
-    "code": "VASM-EN014",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 24207889,
-    "code": "VASM-EN015",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 15005145,
-    "code": "VASM-EN016",
-    "rarity": "Collector's Rare",
-    "image_index": 0
-  },
-  {
-    "id": 15005145,
-    "code": "VASM-EN016",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 42493140,
-    "code": "VASM-EN017",
-    "rarity": "Collector's Rare",
-    "image_index": 0
-  },
-  {
-    "id": 42493140,
-    "code": "VASM-EN017",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 78888899,
-    "code": "VASM-EN018",
-    "rarity": "Collector's Rare",
-    "image_index": 0
-  },
-  {
-    "id": 78888899,
-    "code": "VASM-EN018",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 15982593,
-    "code": "VASM-EN019",
-    "rarity": "Collector's Rare",
-    "image_index": 0
-  },
-  {
-    "id": 15982593,
-    "code": "VASM-EN019",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 15982593,
-    "code": "VASM-EN019",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 41371602,
-    "code": "VASM-EN020",
-    "rarity": "Collector's Rare",
-    "image_index": 0
-  },
-  {
-    "id": 41371602,
-    "code": "VASM-EN020",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 77765207,
-    "code": "VASM-EN021",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 4160316,
-    "code": "VASM-EN022",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 40155014,
-    "code": "VASM-EN023",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 77543769,
-    "code": "VASM-EN024",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 423585,
-    "code": "VASM-EN025",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 5041348,
-    "code": "VASM-EN026",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 42216237,
-    "code": "VASM-EN027",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 1073952,
-    "code": "VASM-EN028",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 35817848,
-    "code": "VASM-EN029",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 7811875,
-    "code": "VASM-EN030",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 3048768,
-    "code": "VASM-EN031",
-    "rarity": "Collector's Rare",
-    "image_index": 0
-  },
-  {
-    "id": 3048768,
-    "code": "VASM-EN031",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 30432463,
-    "code": "VASM-EN032",
-    "rarity": "Collector's Rare",
-    "image_index": 0
-  },
-  {
-    "id": 30432463,
-    "code": "VASM-EN032",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 76821171,
-    "code": "VASM-EN033",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 2815176,
-    "code": "VASM-EN034",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 39210885,
-    "code": "VASM-EN035",
-    "rarity": "Collector's Rare",
-    "image_index": 0
-  },
-  {
-    "id": 39210885,
-    "code": "VASM-EN035",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 5605529,
-    "code": "VASM-EN036",
-    "rarity": "Collector's Rare",
-    "image_index": 0
-  },
-  {
-    "id": 5605529,
-    "code": "VASM-EN036",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 42193638,
-    "code": "VASM-EN037",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 78598237,
-    "code": "VASM-EN038",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 4582942,
-    "code": "VASM-EN039",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 31971040,
-    "code": "VASM-EN040",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 84339249,
-    "code": "VASM-EN041",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 67696066,
-    "code": "VASM-EN042",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 60643553,
-    "code": "VASM-EN043",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 90590303,
-    "code": "VASM-EN044",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 16598965,
-    "code": "VASM-EN045",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 37742478,
-    "code": "VASM-EN046",
-    "rarity": "Collector's Rare",
-    "image_index": 0
-  },
-  {
-    "id": 37742478,
-    "code": "VASM-EN046",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 26914168,
-    "code": "VASM-EN047",
-    "rarity": "Collector's Rare",
-    "image_index": 0
-  },
-  {
-    "id": 26914168,
-    "code": "VASM-EN047",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 59509952,
-    "code": "VASM-EN048",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 59509952,
-    "code": "VASM-EN048",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 68140974,
-    "code": "VASM-EN049",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 4545683,
-    "code": "VASM-EN050",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 1966438,
-    "code": "VASM-EN051",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 62411042,
-    "code": "VASM-EN052",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 33212663,
-    "code": "VASM-EN053",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 23693634,
-    "code": "VASM-EN054",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 81439173,
-    "code": "VASM-EN055",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 1353770,
-    "code": "VASM-EN056",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 51630558,
-    "code": "VASM-EN057",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 9995766,
-    "code": "VASM-EN058",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 97077563,
-    "code": "VASM-EN059",
-    "rarity": "Rare",
-    "image_index": 0
-  },
-  {
-    "id": 85888377,
-    "code": "VASM-EN060",
-    "rarity": "Rare",
-    "image_index": 0
+    {
+      "id": 23288411,
+      "code": "VASM-EN001",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55272555,
+      "code": "VASM-EN002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81677154,
+      "code": "VASM-EN003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18165869,
+      "code": "VASM-EN004",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18165869,
+      "code": "VASM-EN004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54550967,
+      "code": "VASM-EN005",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54550967,
+      "code": "VASM-EN005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81945676,
+      "code": "VASM-EN006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17943271,
+      "code": "VASM-EN007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43338320,
+      "code": "VASM-EN008",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43338320,
+      "code": "VASM-EN008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80722024,
+      "code": "VASM-EN009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16227633,
+      "code": "VASM-EN010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43215738,
+      "code": "VASM-EN011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79600447,
+      "code": "VASM-EN012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73628505,
+      "code": "VASM-EN013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17626381,
+      "code": "VASM-EN014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24207889,
+      "code": "VASM-EN015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15005145,
+      "code": "VASM-EN016",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15005145,
+      "code": "VASM-EN016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42493140,
+      "code": "VASM-EN017",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42493140,
+      "code": "VASM-EN017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78888899,
+      "code": "VASM-EN018",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78888899,
+      "code": "VASM-EN018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15982593,
+      "code": "VASM-EN019",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15982593,
+      "code": "VASM-EN019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15982593,
+      "code": "VASM-EN019",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41371602,
+      "code": "VASM-EN020",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41371602,
+      "code": "VASM-EN020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77765207,
+      "code": "VASM-EN021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4160316,
+      "code": "VASM-EN022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40155014,
+      "code": "VASM-EN023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77543769,
+      "code": "VASM-EN024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 423585,
+      "code": "VASM-EN025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5041348,
+      "code": "VASM-EN026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42216237,
+      "code": "VASM-EN027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1073952,
+      "code": "VASM-EN028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35817848,
+      "code": "VASM-EN029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7811875,
+      "code": "VASM-EN030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3048768,
+      "code": "VASM-EN031",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3048768,
+      "code": "VASM-EN031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30432463,
+      "code": "VASM-EN032",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30432463,
+      "code": "VASM-EN032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76821171,
+      "code": "VASM-EN033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2815176,
+      "code": "VASM-EN034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39210885,
+      "code": "VASM-EN035",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39210885,
+      "code": "VASM-EN035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5605529,
+      "code": "VASM-EN036",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5605529,
+      "code": "VASM-EN036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42193638,
+      "code": "VASM-EN037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78598237,
+      "code": "VASM-EN038",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4582942,
+      "code": "VASM-EN039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31971040,
+      "code": "VASM-EN040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84339249,
+      "code": "VASM-EN041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67696066,
+      "code": "VASM-EN042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60643553,
+      "code": "VASM-EN043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90590303,
+      "code": "VASM-EN044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16598965,
+      "code": "VASM-EN045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37742478,
+      "code": "VASM-EN046",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37742478,
+      "code": "VASM-EN046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26914168,
+      "code": "VASM-EN047",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26914168,
+      "code": "VASM-EN047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59509952,
+      "code": "VASM-EN048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59509952,
+      "code": "VASM-EN048",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68140974,
+      "code": "VASM-EN049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4545683,
+      "code": "VASM-EN050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1966438,
+      "code": "VASM-EN051",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62411042,
+      "code": "VASM-EN052",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33212663,
+      "code": "VASM-EN053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23693634,
+      "code": "VASM-EN054",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81439173,
+      "code": "VASM-EN055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1353770,
+      "code": "VASM-EN056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51630558,
+      "code": "VASM-EN057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9995766,
+      "code": "VASM-EN058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97077563,
+      "code": "VASM-EN059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85888377,
+      "code": "VASM-EN060",
+      "rarity": "Rare",
+      "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Meklord",
+    "Trap Monster",
+    "Memento",
+    "Centur-Ion",
+    "Performage",
+    "Fairy",
+    "Goblin",
+    "Vaalmonica",
+    "Tenyi"
   ]
 }

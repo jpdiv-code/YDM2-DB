@@ -276,5 +276,12 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Danger!",
+    "Fabled",
+    "Paleozoic",
+    "Dark World",
+    "Lady of Lament"
   ]
 }

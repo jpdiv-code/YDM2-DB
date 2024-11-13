@@ -4,7 +4,9 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "If this card is added to your hand, except by drawing it for your normal draw: You can reveal this card; Special Summon 1 Level 4 or lower \"Melodious\" monster from your hand or GY. If a \"Melodious\" Fusion Monster(s) is Special Summoned to your field while this card is face-up in your Extra Deck (except during the Damage Step): You can place this card in your Pendulum Zone. You can only use each monster effect of \"Couplet the Melodious Songstress\" once per turn.",
-  "images": ["https://images.ygoprodeck.com/images/cards/90276649.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/90276649.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1200,
@@ -18,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "You cannot Pendulum Summon monsters, except LIGHT monsters. This effect cannot be negated. If you do not control any face-up monsters, other than \"Melodious\" monsters: You can add 1 \"Melodious\" Spell/Trap from your Deck to your hand. You can only use this effect of \"Couplet the Melodious Songstress\" once per turn.",
   "pendulum_scale_left_blue": 9,
-  "pendulum_scale_right_red": 9
+  "pendulum_scale_right_red": 9,
+  "archetype": "Melodious"
 }

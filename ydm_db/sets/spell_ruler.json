@@ -631,5 +631,14 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gravekeeper's",
+    "Toon",
+    "Penguin",
+    "Archfiend",
+    "Eyes Restrict",
+    "Nimble",
+    "Guardian"
   ]
 }

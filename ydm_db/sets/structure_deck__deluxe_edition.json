@@ -9,5 +9,12 @@
     "SD1",
     "SD2",
     "SD-DE_C"
+  ],
+  "archetypes": [
+    "Book of",
+    "Red-Eyes",
+    "Greed",
+    "Vampire",
+    "Armed Dragon"
   ]
 }

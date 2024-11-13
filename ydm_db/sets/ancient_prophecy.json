@@ -673,5 +673,25 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "X-Saber",
+    "\"C\"",
+    "Elemental HERO",
+    "Jester",
+    "Greed",
+    "Earthbound",
+    "Morphtronic",
+    "Archfiend",
+    "Flamvell",
+    "Blackwing",
+    "Infernity",
+    "Fishborg",
+    "Knight",
+    "Chaos Phantom",
+    "Barbaros",
+    "Fortune Lady",
+    "Koa'ki Meiru",
+    "Shark"
   ]
 }

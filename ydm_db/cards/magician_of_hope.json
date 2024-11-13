@@ -19,5 +19,6 @@
   "rank": 4,
   "pendulum_text": "Once per turn, when a monster declares an attack: You can negate that attack, then destroy this card.\n",
   "pendulum_scale_left_blue": 8,
-  "pendulum_scale_right_red": 8
+  "pendulum_scale_right_red": 8,
+  "archetype": "Magician"
 }

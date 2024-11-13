@@ -157,5 +157,10 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Neo-Spacian",
+    "Evil HERO",
+    "Elemental HERO"
   ]
 }

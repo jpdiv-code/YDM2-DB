@@ -3,7 +3,7 @@
   "name": "Gold Pride - Nytro Head",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your LP are lower than your opponent\u0027s: You can Special Summon this card from your hand. During your opponent\u0027s Standby Phase: You can Special Summon 1 \"Nytro Token\" (Pyro/FIRE/Level 8/ATK 0/DEF 0) to your opponent\u0027s field, but it cannot be used as Link Material. During your opponent\u0027s Main Phase (Quick Effect): You can target 1 \"Nytro Token\" on the field; destroy that Token, also destroy all cards in its adjacent Monster Zones and Spell \u0026 Trap Zones. You can only use each effect of \"Gold Pride - Nytro Head\" once per turn.",
+  "text": "If your LP are lower than your opponent's: You can Special Summon this card from your hand. During your opponent's Standby Phase: You can Special Summon 1 \"Nytro Token\" (Pyro/FIRE/Level 8/ATK 0/DEF 0) to your opponent's field, but it cannot be used as Link Material. During your opponent's Main Phase (Quick Effect): You can target 1 \"Nytro Token\" on the field; destroy that Token, also destroy all cards in its adjacent Monster Zones and Spell & Trap Zones. You can only use each effect of \"Gold Pride - Nytro Head\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59900655.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2600,
   "level": 8,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Gold Pride"
 }

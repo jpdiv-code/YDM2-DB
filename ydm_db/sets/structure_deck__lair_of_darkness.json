@@ -252,5 +252,13 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Maju",
+    "Archfiend",
+    "Chaos",
+    "Lady of Lament",
+    "Monarch",
+    "Kuriboh"
   ]
 }

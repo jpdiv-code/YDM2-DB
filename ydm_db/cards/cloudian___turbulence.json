@@ -3,7 +3,7 @@
   "name": "Cloudian - Turbulence",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. When you Normal Summon this card, place 1 Fog Counter on it for each \"Cloudian\" monster on the field. You can remove 1 Fog Counter from this card to Special Summon 1 \"Cloudian - Smoke Ball\" from your Deck or from either player\u0027s Graveyard.",
+  "text": "This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. When you Normal Summon this card, place 1 Fog Counter on it for each \"Cloudian\" monster on the field. You can remove 1 Fog Counter from this card to Special Summon 1 \"Cloudian - Smoke Ball\" from your Deck or from either player's Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16197610.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 0,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Cloudian"
 }

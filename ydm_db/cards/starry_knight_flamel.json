@@ -3,7 +3,7 @@
   "name": "Starry Knight Flamel",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When an opponent\u0027s monster declares an attack: You can send this card from your hand or face-up field to the GY; Special Summon 1 Level 7 LIGHT Dragon monster from your hand. (Quick Effect): You can banish this card from your GY, then target 1 Level 7 LIGHT Dragon monster you control or in your GY; return it to your hand. You can only use 1 \"Starry Knight Flamel\" effect per turn, and only once that turn.",
+  "text": "When an opponent's monster declares an attack: You can send this card from your hand or face-up field to the GY; Special Summon 1 Level 7 LIGHT Dragon monster from your hand. (Quick Effect): You can banish this card from your GY, then target 1 Level 7 LIGHT Dragon monster you control or in your GY; return it to your hand. You can only use 1 \"Starry Knight Flamel\" effect per turn, and only once that turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/86613346.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1000,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Starry Knight"
 }

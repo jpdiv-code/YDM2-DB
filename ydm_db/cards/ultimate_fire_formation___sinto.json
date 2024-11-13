@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/55538156.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Counter"
+  "trap_type": "Counter",
+  "archetype": "Fire Formation"
 }

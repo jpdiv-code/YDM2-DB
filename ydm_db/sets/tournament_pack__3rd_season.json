@@ -127,5 +127,13 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Greed",
+    "Archfiend",
+    "Harpie",
+    "Hole",
+    "Worm",
+    "Anti"
   ]
 }

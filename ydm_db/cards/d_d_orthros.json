@@ -20,5 +20,6 @@
   "is_tuner": true,
   "pendulum_text": "Once per turn: You can target 1 Spell/Trap Card on the field and 1 other \"D/D\" or \"Dark Contract\" card you control; destroy them.\n",
   "pendulum_scale_left_blue": 3,
-  "pendulum_scale_right_red": 3
+  "pendulum_scale_right_red": 3,
+  "archetype": "D/D"
 }

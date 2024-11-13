@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 4000,
-  "rank": 11
+  "rank": 11,
+  "archetype": "Train"
 }

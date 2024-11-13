@@ -373,5 +373,11 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Abyss Actor",
+    "Hole",
+    "Destiny HERO",
+    "Darklord"
   ]
 }

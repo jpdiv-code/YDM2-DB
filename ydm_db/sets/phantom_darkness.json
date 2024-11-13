@@ -673,5 +673,33 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Elemental HERO",
+    "Cyber Dragon",
+    "Dark World",
+    "Koala",
+    "Worm",
+    "Slime",
+    "Crystal Beast",
+    "Darklord",
+    "Parshath",
+    "Vampire",
+    "Six Samurai",
+    "Grepher",
+    "Volcanic",
+    "Archfiend",
+    "Destiny HERO",
+    "Armed Dragon",
+    "Yubel",
+    "Neo-Spacian",
+    "Greed",
+    "Atlantean",
+    "Priestess",
+    "Rose Dragon",
+    "Earthbound",
+    "Hole",
+    "Gladiator Beast",
+    "Nephthys"
   ]
 }

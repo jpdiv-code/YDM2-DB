@@ -3,10 +3,11 @@
   "name": "Counter Gem",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Send all cards in your Spell \u0026 Trap Card Zone to the Graveyard. Place as many \"Crystal Beast\" monsters as possible from your Graveyard in your Spell \u0026 Trap Card Zone, face-up, as Continuous Spell Cards. During the End Phase, destroy all face-up \"Crystal Beast\" cards you control.",
+  "text": "Send all cards in your Spell & Trap Card Zone to the Graveyard. Place as many \"Crystal Beast\" monsters as possible from your Graveyard in your Spell & Trap Card Zone, face-up, as Continuous Spell Cards. During the End Phase, destroy all face-up \"Crystal Beast\" cards you control.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11136371.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Normal"
+  "trap_type": "Normal",
+  "archetype": "Crystal Beast"
 }

@@ -3,7 +3,7 @@
   "name": "Gold Pride - Pin Baller",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Gold Pride - Roller Baller\" + 1+ \"Gold Pride\" monsters\nIf this card is Fusion Summoned: You can equip face-up monsters your opponent controls to it, up to the number of Fusion Materials used. You can only use the previous effect of \"Gold Pride - Pin Baller\" once per turn, also, if your LP are lower than your opponent\u0027s, the effect\u0027s activation and effect cannot be negated. Once per turn, during the End Phase, if the previous effect was activated this turn: Return this card to the Extra Deck, and if you do, Special Summon 1 \"Gold Pride - Roller Baller\" from your Deck or GY.",
+  "text": "\"Gold Pride - Roller Baller\" + 1+ \"Gold Pride\" monsters\nIf this card is Fusion Summoned: You can equip face-up monsters your opponent controls to it, up to the number of Fusion Materials used. You can only use the previous effect of \"Gold Pride - Pin Baller\" once per turn, also, if your LP are lower than your opponent's, the effect's activation and effect cannot be negated. Once per turn, during the End Phase, if the previous effect was activated this turn: Return this card to the Extra Deck, and if you do, Special Summon 1 \"Gold Pride - Roller Baller\" from your Deck or GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28497830.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 0,
   "level": 9,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Gold Pride"
 }

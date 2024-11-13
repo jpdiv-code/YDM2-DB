@@ -133,5 +133,14 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "X-Saber",
+    "Watt",
+    "Skull Servant",
+    "Amazoness",
+    "Blackwing",
+    "Hole",
+    "Gladiator Beast"
   ]
 }

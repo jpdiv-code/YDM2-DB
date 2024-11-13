@@ -127,5 +127,12 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Batteryman",
+    "Elemental HERO",
+    "Majestic",
+    "Blaze Accelerator",
+    "Destiny HERO"
   ]
 }

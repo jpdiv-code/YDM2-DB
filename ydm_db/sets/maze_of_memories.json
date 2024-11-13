@@ -70,7 +70,7 @@
     {
       "id": 70551291,
       "code": "MAZE-EN011",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -88,7 +88,7 @@
     {
       "id": 5833312,
       "code": "MAZE-EN013",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -130,7 +130,7 @@
     {
       "id": 30983281,
       "code": "MAZE-EN019",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -148,7 +148,7 @@
     {
       "id": 93777634,
       "code": "MAZE-EN021",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -196,7 +196,7 @@
     {
       "id": 64211118,
       "code": "MAZE-EN028",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -244,7 +244,7 @@
     {
       "id": 25833572,
       "code": "MAZE-EN035",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -280,7 +280,7 @@
     {
       "id": 46291010,
       "code": "MAZE-EN040",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -292,7 +292,7 @@
     {
       "id": 25716180,
       "code": "MAZE-EN041",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -328,7 +328,7 @@
     {
       "id": 89132148,
       "code": "MAZE-EN046",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -352,7 +352,7 @@
     {
       "id": 11321089,
       "code": "MAZE-EN049",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -370,7 +370,7 @@
     {
       "id": 84815190,
       "code": "MAZE-EN051",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -388,7 +388,7 @@
     {
       "id": 33779875,
       "code": "MAZE-EN053",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -400,7 +400,7 @@
     {
       "id": 21887175,
       "code": "MAZE-EN054",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -436,7 +436,7 @@
     {
       "id": 97997309,
       "code": "MAZE-EN059",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -466,7 +466,7 @@
     {
       "id": 41420027,
       "code": "MAZE-EN063",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -499,5 +499,36 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Elemental HERO",
+    "Stardust",
+    "Cyber Dragon",
+    "Trap Monster",
+    "Solemn",
+    "Nimble",
+    "Performapal",
+    "Mekk-Knight",
+    "Red-Eyes",
+    "Blue-Eyes",
+    "Wind-Up",
+    "Firewall",
+    "Black Luster Soldier",
+    "Rikka",
+    "Fleur",
+    "Photon",
+    "Blackwing",
+    "Infernity",
+    "Supreme King",
+    "Signature move",
+    "Barian's",
+    "Overlay",
+    "Labyrinth Wall",
+    "Gate Guardian",
+    "Number",
+    "Hole",
+    "Spellbook",
+    "Guardian",
+    "Sylvan"
   ]
 }

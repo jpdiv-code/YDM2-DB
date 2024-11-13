@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "If a \"Performapal\" monster(s) is Pendulum Summoned to your field: All \"Performapal\" monsters you currently control gain 1000 ATK until the end of this turn (even if this card leaves the field).\n",
   "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "pendulum_scale_right_red": 2,
+  "archetype": "Performapal"
 }

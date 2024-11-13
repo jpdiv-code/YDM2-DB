@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "Once per turn, if your DARK Spellcaster-Type monster battles, before damage calculation: You can activate this effect; that monster gains 1200 ATK (until the end of the Damage Step), then destroy this card.\n",
   "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "pendulum_scale_right_red": 1,
+  "archetype": "Magician"
 }

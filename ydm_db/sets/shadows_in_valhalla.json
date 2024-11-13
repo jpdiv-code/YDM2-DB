@@ -367,5 +367,25 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Hi-Speedroid",
+    "Shaddoll",
+    "Elemental HERO",
+    "Mermail",
+    "Cyberdark",
+    "Neo-Spacian",
+    "Gem-",
+    "Black Luster Soldier",
+    "Valkyrie",
+    "Ninjitsu Art",
+    "Bamboo Sword",
+    "Vision HERO",
+    "Dragunity",
+    "Mist Valley",
+    "Ninja",
+    "Invoked",
+    "Windwitch",
+    "Crystal Beast"
   ]
 }

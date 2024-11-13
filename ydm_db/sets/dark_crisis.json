@@ -643,5 +643,20 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Dice",
+    "Maju",
+    "Greed",
+    "Parasite",
+    "Archfiend",
+    "Vampire",
+    "Dark Scorpion",
+    "Exodia",
+    "D.D.",
+    "Dark Magician",
+    "Guardian",
+    "Ninja",
+    "Ojama"
   ]
 }

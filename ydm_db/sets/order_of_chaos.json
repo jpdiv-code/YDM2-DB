@@ -673,5 +673,23 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gogogo",
+    "Charmer",
+    "X-Saber",
+    "Koala",
+    "Photon",
+    "Gagaga",
+    "Evolsaur",
+    "Archfiend",
+    "Evoltile",
+    "Ninjitsu Art",
+    "Mist Valley",
+    "Inzektor",
+    "Evolzar",
+    "Wind-Up",
+    "Ninja",
+    "Utopia"
   ]
 }

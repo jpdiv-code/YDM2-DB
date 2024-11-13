@@ -8,5 +8,6 @@
     "https://ms.yugipedia.com//thumb/b/b4/RecettedeViande%28MeatRecipe%29-WISU-EN-SR-1E.png/300px-RecettedeViande%28MeatRecipe%29-WISU-EN-SR-1E.png"
   ],
   "type": "Spell",
-  "spell_type": "Ritual"
+  "spell_type": "Ritual",
+  "archetype": "Recipe"
 }

@@ -4,7 +4,9 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "2 Pendulum Monsters, including a \"Majespecter\" monster\r\nIf this card is Link Summoned: You can add up to 2 face-up \"Majespecter\" Pendulum Monsters from your Extra Deck to your hand, then you can add up to 2 \"Majespecter\" Pendulum Monsters with different names from your Deck to your face-up Extra Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except \"Majespecter\" or \"Dracoslayer\" monsters. You can only use this effect of \"Majespecter Orthrus - Nue\" once per turn.",
-  "images": ["https://images.ygoprodeck.com/images/cards/66384688.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/66384688.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1500,
@@ -14,5 +16,9 @@
   "ability": "",
   "has_effect": true,
   "link_rating": 2,
-  "link_arrows": ["Bottom-Left", "Bottom-Right"]
+  "link_arrows": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "archetype": "Majespecter"
 }

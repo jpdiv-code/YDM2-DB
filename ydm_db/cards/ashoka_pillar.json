@@ -4,7 +4,9 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "If this card is Summoned: You can add 1 Equip Spell from your Deck to your hand, then if this card is in Attack Position, change it to Defense Position. You can only use this effect of \"Ashoka Pillar\" once per turn. If this card is destroyed by battle or card effect: Take 2000 damage.",
-  "images": ["https://images.ygoprodeck.com/images/cards/58996839.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/58996839.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 0,
@@ -15,5 +17,6 @@
   "has_effect": true,
   "def": 2200,
   "level": 3,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Ancient Treasure"
 }

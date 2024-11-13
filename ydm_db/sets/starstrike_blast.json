@@ -673,5 +673,26 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Resonator",
+    "Skull Servant",
+    "Monarch",
+    "Ally of Justice",
+    "Butterfly",
+    "Fabled",
+    "Gaia The Fierce Knight",
+    "Naturia",
+    "Dragunity",
+    "Gravekeeper's",
+    "Watt",
+    "Genex",
+    "Archfiend",
+    "Karakuri",
+    "Blackwing",
+    "Scrap",
+    "Koa'ki Meiru",
+    "Ice Barrier",
+    "Synchron"
   ]
 }

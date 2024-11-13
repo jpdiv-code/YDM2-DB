@@ -445,5 +445,20 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Train",
+    "Cipher",
+    "Red-Eyes",
+    "Cyber Angel",
+    "Flower Cardian",
+    "Guardian",
+    "Dark Magician",
+    "Raidraptor",
+    "-Eyes Dragon",
+    "Odd-Eyes",
+    "Performapal",
+    "Legendary Knight",
+    "Kuriboh"
   ]
 }

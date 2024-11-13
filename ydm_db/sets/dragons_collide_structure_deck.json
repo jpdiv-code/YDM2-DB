@@ -246,5 +246,15 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Book of",
+    "Herald",
+    "Red-Eyes",
+    "Lightsworn",
+    "Chaos",
+    "Blue-Eyes",
+    "D.D.",
+    "Armed Dragon"
   ]
 }

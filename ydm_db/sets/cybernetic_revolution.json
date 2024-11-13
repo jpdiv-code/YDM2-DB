@@ -517,5 +517,18 @@
       "rarity": "Short Print",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Batteryman",
+    "Elemental HERO",
+    "Hole",
+    "Greed",
+    "B.E.S.",
+    "Dark World",
+    "Archfiend",
+    "Roid",
+    "Kuriboh",
+    "D.D.",
+    "Frog"
   ]
 }

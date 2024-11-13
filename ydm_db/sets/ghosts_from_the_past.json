@@ -8,7 +8,7 @@
   "distribution": "ghosts_from_the_past",
   "cards": [
     {
-      "id": 04918855,
+      "id": 4918855,
       "code": "GFTP-001",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -26,7 +26,7 @@
       "image_index": 0
     },
     {
-      "id": 03292267,
+      "id": 3292267,
       "code": "GFTP-004",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -278,7 +278,7 @@
       "image_index": 0
     },
     {
-      "id": 02407147,
+      "id": 2407147,
       "code": "GFTP-046",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -296,7 +296,7 @@
       "image_index": 0
     },
     {
-      "id": 04022819,
+      "id": 4022819,
       "code": "GFTP-049",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -356,7 +356,7 @@
       "image_index": 0
     },
     {
-      "id": 02530830,
+      "id": 2530830,
       "code": "GFTP-059",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -422,7 +422,7 @@
       "image_index": 0
     },
     {
-      "id": 06740720,
+      "id": 6740720,
       "code": "GFTP-070",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -572,7 +572,7 @@
       "image_index": 0
     },
     {
-      "id": 04688231,
+      "id": 4688231,
       "code": "GFTP-095",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -596,7 +596,7 @@
       "image_index": 0
     },
     {
-      "id": 01621413,
+      "id": 1621413,
       "code": "GFTP-099",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -608,7 +608,7 @@
       "image_index": 0
     },
     {
-      "id": 07868571,
+      "id": 7868571,
       "code": "GFTP-101",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -764,7 +764,7 @@
       "image_index": 0
     },
     {
-      "id": 06075533,
+      "id": 6075533,
       "code": "GFTP-127",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -788,7 +788,7 @@
       "image_index": 0
     },
     {
-      "id": 05043010,
+      "id": 5043010,
       "code": "GFTP-131",
       "rarity": "Ghost Rare",
       "image_index": 0
@@ -799,5 +799,45 @@
       "rarity": "Ghost Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "Destruction Sword",
+    "Starry Knight",
+    "Resonator",
+    "Metalfoes",
+    "Nekroz",
+    "Monarch",
+    "Orcust",
+    "Sunvine",
+    "Fairy Tail",
+    "Danger!",
+    "Salamangreat",
+    "Masked HERO",
+    "Phantom Knights",
+    "Red-Eyes",
+    "Madolche",
+    "Hieratic",
+    "Vampire",
+    "Sunseed",
+    "T.G.",
+    "Dragunity",
+    "Ojama",
+    "Laval",
+    "Artifact",
+    "Cipher",
+    "Black Luster Soldier",
+    "Holy Knight",
+    "Photon",
+    "Galaxy-Eyes",
+    "Time Thief",
+    "Armed Dragon",
+    "Sunavalon",
+    "Shaddoll",
+    "Ice Barrier",
+    "Raidraptor",
+    "Kozmo",
+    "Dark Magician",
+    "Blue-Eyes"
   ]
 }

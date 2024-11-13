@@ -163,5 +163,15 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gravekeeper's",
+    "\"C\"",
+    "Archfiend",
+    "Rose Dragon",
+    "Blackwing",
+    "Scrap",
+    "Fire Formation",
+    "Spellbook"
   ]
 }

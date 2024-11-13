@@ -3,7 +3,7 @@
   "name": "Big Koala",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A species of huge Des Koala. He\u0027s meek, but people are afraid of him because he\u0027s very powerful.",
+  "text": "A species of huge Des Koala. He's meek, but people are afraid of him because he's very powerful.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42129512.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": false,
   "def": 2000,
   "level": 7,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Koala"
 }

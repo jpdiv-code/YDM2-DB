@@ -3,10 +3,11 @@
   "name": "Void Cauldron",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If an \"Infernity\" monster(s) and/or a Level 8 DARK Dragon Synchro Monster(s) you control would be destroyed by an opponent\u0027s card effect, you can banish 1 \"Infernity\" card from your GY instead. If you have any cards in your hand, send this card to the GY.",
+  "text": "If an \"Infernity\" monster(s) and/or a Level 8 DARK Dragon Synchro Monster(s) you control would be destroyed by an opponent's card effect, you can banish 1 \"Infernity\" card from your GY instead. If you have any cards in your hand, send this card to the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45313724.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Continuous"
+  "trap_type": "Continuous",
+  "archetype": "Void"
 }

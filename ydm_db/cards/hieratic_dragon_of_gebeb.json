@@ -3,7 +3,7 @@
   "name": "Hieratic Dragon of Gebeb",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card destroys an opponent\u0027s monster by battle and sends it to the Graveyard: Special Summon 1 Dragon-Type Normal Monster from your hand, Deck, or Graveyard, and make its ATK and DEF 0. When this card is Tributed: Special Summon 1 \"Hieratic\" Normal Monster from your hand, Deck or Graveyard.",
+  "text": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: Special Summon 1 Dragon-Type Normal Monster from your hand, Deck, or Graveyard, and make its ATK and DEF 0. When this card is Tributed: Special Summon 1 \"Hieratic\" Normal Monster from your hand, Deck or Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78033100.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 400,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Hieratic"
 }

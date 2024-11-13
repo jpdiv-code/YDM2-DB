@@ -16,5 +16,8 @@
       "rarity": "Gold Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Cubic"
   ]
 }

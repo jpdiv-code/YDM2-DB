@@ -133,5 +133,16 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "X-Saber",
+    "Book of",
+    "Black Luster Soldier",
+    "Herald",
+    "Blackwing",
+    "Ally of Justice",
+    "Ninja",
+    "Gadget"
   ]
 }

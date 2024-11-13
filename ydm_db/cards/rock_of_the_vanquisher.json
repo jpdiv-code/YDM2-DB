@@ -3,7 +3,7 @@
   "name": "Rock of the Vanquisher",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Vanquish Soul\" monster\nCannot be used as Link Material. While you control a \"Vanquish Soul\" monster, your opponent\u0027s monsters can only target monsters you control with the highest ATK (their choice, if tied) for attacks. During the Main Phase (Quick Effect): You can activate 1 of these effects;\n? Special Summon 1 \"Vanquish Soul\" monster from your hand.\n? Add 1 \"Vanquish Soul\" monster from your GY to your hand.\nYou can only use this effect of \"Rock of the Vanquisher\" once per turn.",
+  "text": "1 \"Vanquish Soul\" monster\nCannot be used as Link Material. While you control a \"Vanquish Soul\" monster, your opponent's monsters can only target monsters you control with the highest ATK (their choice, if tied) for attacks. During the Main Phase (Quick Effect): You can activate 1 of these effects;\n? Special Summon 1 \"Vanquish Soul\" monster from your hand.\n? Add 1 \"Vanquish Soul\" monster from your GY to your hand.\nYou can only use this effect of \"Rock of the Vanquisher\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28168628.jpg"
   ],
@@ -18,5 +18,6 @@
   "link_rating": 1,
   "link_arrows": [
     "Bottom"
-  ]
+  ],
+  "archetype": "Vanquish Soul"
 }

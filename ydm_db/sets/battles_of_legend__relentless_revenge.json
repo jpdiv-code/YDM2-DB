@@ -637,5 +637,35 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Kaiju",
+    "Elemental HERO",
+    "Cyber Dragon",
+    "Noble Knight",
+    "Metalfoes",
+    "Elemental Lord",
+    "Performage",
+    "Solemn",
+    "Crystron",
+    "Altergeist",
+    "Timelord",
+    "Gaia The Fierce Knight",
+    "Phantom Knights",
+    "Darklord",
+    "T.G.",
+    "World Chalice",
+    "Train",
+    "Magician",
+    "PSY-Frame",
+    "Borrel",
+    "Supreme King",
+    "Galaxy-Eyes",
+    "Neo-Spacian",
+    "True Draco",
+    "Golden Castle of Stromberg",
+    "Trickstar",
+    "Hole",
+    "Gem-"
   ]
 }

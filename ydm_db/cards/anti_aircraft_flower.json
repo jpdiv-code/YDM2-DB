@@ -3,7 +3,7 @@
   "name": "Anti-Aircraft Flower",
   "is_illegal": false,
   "is_custom": false,
-  "text": "By Tributing 1 Insect-Type monster on your side of the field, inflict 800 points of damage to your opponent\u0027s Life Points.",
+  "text": "By Tributing 1 Insect-Type monster on your side of the field, inflict 800 points of damage to your opponent's Life Points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/65064143.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1600,
   "level": 3,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Anti"
 }

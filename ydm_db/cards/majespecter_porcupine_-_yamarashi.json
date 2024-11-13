@@ -3,7 +3,9 @@
   "name": "Majespecter Porcupine - Yamarashi",
   "is_illegal": false,
   "is_custom": false,
-  "images": ["https://images.ygoprodeck.com/images/cards/51073802.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/51073802.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1500,
@@ -17,5 +19,6 @@
   "is_tuner": false,
   "pendulum_text": "",
   "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "pendulum_scale_right_red": 2,
+  "archetype": "Majespecter"
 }

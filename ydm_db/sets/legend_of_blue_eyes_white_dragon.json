@@ -763,5 +763,18 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gaia The Fierce Knight",
+    "Celtic Guard",
+    "Book of",
+    "Greed",
+    "Umi",
+    "Skull Servant",
+    "Exodia",
+    "Dark Magician",
+    "Hole",
+    "Ninja",
+    "Madoor"
   ]
 }

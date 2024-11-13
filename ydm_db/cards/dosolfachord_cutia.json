@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "Pendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.\n[ Monster Effect ] While you have an even Pendulum Scale in your Pendulum Zone, \"Solfachord\" Pendulum Monsters you control gain ATK equal to 100 x their own Pendulum Scale. If this card is Normal or Special Summoned: You can add 1 \"Solfachord\" Pendulum Monster from your Deck to your hand, except \"DoSolfachord Cutia\". You can only use this effect of \"DoSolfachord Cutia\" once per turn.",
   "pendulum_scale_left_blue": 8,
-  "pendulum_scale_right_red": 8
+  "pendulum_scale_right_red": 8,
+  "archetype": "Solfachord"
 }

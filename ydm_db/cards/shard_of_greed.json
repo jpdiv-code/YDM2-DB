@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/33904024.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Continuous"
+  "spell_type": "Continuous",
+  "archetype": "Greed"
 }

@@ -3,7 +3,7 @@
   "name": "Fortune Lady Light",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card\u0027s ATK/DEF become its Level x 200. Once per turn, during your Standby Phase: Increase this card\u0027s Level by 1 (max. 12). When this face-up card leaves the field by card effect: You can Special Summon 1 \"Fortune Lady\" monster from your Deck.",
+  "text": "This card's ATK/DEF become its Level x 200. Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12). When this face-up card leaves the field by card effect: You can Special Summon 1 \"Fortune Lady\" monster from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34471458.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 0,
   "level": 1,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Fortune Lady"
 }

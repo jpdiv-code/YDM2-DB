@@ -679,5 +679,16 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Greed",
+    "Umi",
+    "Dark World",
+    "Vampire",
+    "Monarch",
+    "The Agent",
+    "Dark Magician",
+    "Blue-Eyes",
+    "Ninja"
   ]
 }

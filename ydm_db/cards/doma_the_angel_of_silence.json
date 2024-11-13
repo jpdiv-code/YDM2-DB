@@ -17,5 +17,6 @@
   "has_effect": false,
   "def": 1400,
   "level": 5,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Fairy"
 }

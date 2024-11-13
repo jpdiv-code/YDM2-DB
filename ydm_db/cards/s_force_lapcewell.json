@@ -3,7 +3,7 @@
   "name": "S-Force Lapcewell",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Special Summoned: You can target 1 \"S-Force\" monster in your GY, except \"S-Force Lapcewell\"; Special Summon it. You can banish 1 \"S-Force\" card from your hand; destroy all of your opponent\u0027s monsters in the same columns as your \"S-Force\" monsters. You can only use each effect of \"S-Force Lapcewell\" once per turn.",
+  "text": "If this card is Special Summoned: You can target 1 \"S-Force\" monster in your GY, except \"S-Force Lapcewell\"; Special Summon it. You can banish 1 \"S-Force\" card from your hand; destroy all of your opponent's monsters in the same columns as your \"S-Force\" monsters. You can only use each effect of \"S-Force Lapcewell\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/27383719.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2500,
   "level": 6,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "S-Force"
 }

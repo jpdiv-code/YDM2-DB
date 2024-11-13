@@ -601,5 +601,12 @@
       "rarity": "Starfoil Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gouki",
+    "Trickstar",
+    "Altergeist",
+    "Worm",
+    "Code Talker"
   ]
 }

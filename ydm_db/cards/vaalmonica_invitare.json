@@ -4,7 +4,10 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "Apply 1 of these effects.\r\n\u25cf Special Summon 1 \"Vaalmonica\" monster from your Deck, also you cannot activate the effects of monsters on the field for the rest of this turn after this card resolves, except \"Vaalmonica\" monsters'.\r\n\u25cf If you control a non-Pendulum \"Vaalmonica\" monster, take 2 \"Vaalmonica\" Pendulum Monsters with different names from your Deck, add 1 of them to your hand and add the other to your Extra Deck face-up.\r\nYou can only activate 1 \"Vaalmonica Invitare\" per turn.",
-  "images": ["https://images.ygoprodeck.com/images/cards/38491852.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/38491852.jpg"
+  ],
   "type": "Spell",
-  "spell_type": "Quick-Play"
+  "spell_type": "Quick-Play",
+  "archetype": "Vaalmonica"
 }

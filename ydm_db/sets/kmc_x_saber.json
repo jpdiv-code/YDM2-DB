@@ -1,274 +1,280 @@
 {
-    "name": "KMC X-Saber",
-    "code": "KXSB",
-    "type": "Structure Deck",
-    "date": "2-9-2023",
-    "image": "https://static.wikia.nocookie.net/yugioh/images/f/f4/XSPU-PromoEN.jpg/revision/latest?cb=20110403010331",
-    "pull_type": "full",
-    "cards": [
-        {
-            "id": 23115241,
-            "code": "KXSB-001",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 23115241,
-            "code": "KXSB-002",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 51808422,
-            "code": "KXSB-003",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 42024143,
-            "code": "KXSB-004",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 5998840,
-            "code": "KXSB-005",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 5998840,
-            "code": "KXSB-006",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 50604950,
-            "code": "KXSB-007",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 26993374,
-            "code": "KXSB-008",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 26993374,
-            "code": "KXSB-009",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 77330185,
-            "code": "KXSB-010",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 5220687,
-            "code": "KXSB-011",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 5220687,
-            "code": "KXSB-012",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 90508760,
-            "code": "KXSB-013",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 78422252,
-            "code": "KXSB-014",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 78422252,
-            "code": "KXSB-015",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 42737833,
-            "code": "KXSB-016",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 42737833,
-            "code": "KXSB-017",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 31383545,
-            "code": "KXSB-018",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 31383545,
-            "code": "KXSB-019",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 21502796,
-            "code": "KXSB-020",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 21502796,
-            "code": "KXSB-021",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 23093604,
-            "code": "KXSB-022",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 23093604,
-            "code": "KXSB-023",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 53100061,
-            "code": "KXSB-024",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 87292536,
-            "code": "KXSB-025",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 96099959,
-            "code": "KXSB-026",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 96099959,
-            "code": "KXSB-027",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 96099959,
-            "code": "KXSB-028",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 11052544,
-            "code": "KXSB-029",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 11052544,
-            "code": "KXSB-030",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 95281259,
-            "code": "KXSB-031",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 48447192,
-            "code": "KXSB-032",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 48447192,
-            "code": "KXSB-033",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 73787254,
-            "code": "KXSB-034",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 73787254,
-            "code": "KXSB-035",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 6112401,
-            "code": "KXSB-036",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 10118318,
-            "code": "KXSB-037",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 10118318,
-            "code": "KXSB-038",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 13504844,
-            "code": "KXSB-039",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 44901281,
-            "code": "KXSB-040",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 52352005,
-            "code": "KXSB-041",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 80108118,
-            "code": "KXSB-042",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 2203790,
-            "code": "KXSB-043",
-            "rarity": "Common",
-            "image_index": 0
-        },
-        {
-            "id": 83810690,
-            "code": "KXSB-044",
-            "rarity": "Common",
-            "image_index": 0
-        }
-    ]
+  "name": "KMC X-Saber",
+  "code": "KXSB",
+  "type": "Structure Deck",
+  "date": "2-9-2023",
+  "image": "https://static.wikia.nocookie.net/yugioh/images/f/f4/XSPU-PromoEN.jpg/revision/latest?cb=20110403010331",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 23115241,
+      "code": "KXSB-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23115241,
+      "code": "KXSB-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51808422,
+      "code": "KXSB-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42024143,
+      "code": "KXSB-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5998840,
+      "code": "KXSB-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5998840,
+      "code": "KXSB-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50604950,
+      "code": "KXSB-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26993374,
+      "code": "KXSB-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26993374,
+      "code": "KXSB-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77330185,
+      "code": "KXSB-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5220687,
+      "code": "KXSB-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5220687,
+      "code": "KXSB-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90508760,
+      "code": "KXSB-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78422252,
+      "code": "KXSB-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78422252,
+      "code": "KXSB-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42737833,
+      "code": "KXSB-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42737833,
+      "code": "KXSB-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31383545,
+      "code": "KXSB-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31383545,
+      "code": "KXSB-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21502796,
+      "code": "KXSB-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21502796,
+      "code": "KXSB-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23093604,
+      "code": "KXSB-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23093604,
+      "code": "KXSB-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53100061,
+      "code": "KXSB-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87292536,
+      "code": "KXSB-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96099959,
+      "code": "KXSB-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96099959,
+      "code": "KXSB-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96099959,
+      "code": "KXSB-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11052544,
+      "code": "KXSB-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11052544,
+      "code": "KXSB-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95281259,
+      "code": "KXSB-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48447192,
+      "code": "KXSB-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48447192,
+      "code": "KXSB-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73787254,
+      "code": "KXSB-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73787254,
+      "code": "KXSB-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6112401,
+      "code": "KXSB-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10118318,
+      "code": "KXSB-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10118318,
+      "code": "KXSB-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13504844,
+      "code": "KXSB-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44901281,
+      "code": "KXSB-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52352005,
+      "code": "KXSB-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80108118,
+      "code": "KXSB-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2203790,
+      "code": "KXSB-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83810690,
+      "code": "KXSB-044",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ],
+  "archetypes": [
+    "Hole",
+    "X-Saber",
+    "Nimble",
+    "Lightsworn"
+  ]
 }

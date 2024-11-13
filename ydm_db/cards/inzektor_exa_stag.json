@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 800,
-  "rank": 5
+  "rank": 5,
+  "archetype": "Inzektor"
 }

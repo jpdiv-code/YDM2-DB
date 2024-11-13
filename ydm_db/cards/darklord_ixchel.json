@@ -3,7 +3,7 @@
   "name": "Darklord Ixchel",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can discard this card and 1 \"Darklord\" card; draw 2 cards. (Quick Effect): You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap in your GY; apply that target\u0027s effect, then shuffle that target into the Deck. You can only use each effect of \"Darklord Ixchel\" once per turn. You can only Special Summon \"Darklord Ixchel(s)\" once per turn.",
+  "text": "You can discard this card and 1 \"Darklord\" card; draw 2 cards. (Quick Effect): You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap in your GY; apply that target's effect, then shuffle that target into the Deck. You can only use each effect of \"Darklord Ixchel\" once per turn. You can only Special Summon \"Darklord Ixchel(s)\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/52840267.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2900,
   "level": 10,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Darklord"
 }

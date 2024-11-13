@@ -685,5 +685,20 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Magician",
+    "Elemental HERO",
+    "Venom",
+    "Neo-Spacian",
+    "Lightsworn",
+    "Darklord",
+    "Gladiator Beast",
+    "Six Samurai",
+    "Yubel",
+    "Kuriboh",
+    "D.D.",
+    "Destiny HERO",
+    "Crystal Beast"
   ]
 }

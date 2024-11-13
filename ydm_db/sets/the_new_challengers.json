@@ -643,5 +643,35 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Edge Imp",
+    "Qli",
+    "Mystical Beast of the Forest",
+    "Apoqliphort",
+    "Solemn",
+    "Monarch",
+    "Melodious",
+    "Performapal",
+    "Yang Zing",
+    "Dododo",
+    "Naturia",
+    "Herald",
+    "Phantom Knights",
+    "Superheavy",
+    "Burning Abyss",
+    "Fluffal",
+    "Rescue Squad",
+    "Train",
+    "Gogogo",
+    "Machina",
+    "Shaddoll",
+    "Deskbot",
+    "Stellarknight",
+    "CXyz",
+    "Tellarknight",
+    "Bamboo Sword",
+    "U.A.",
+    "Utopia"
   ]
 }

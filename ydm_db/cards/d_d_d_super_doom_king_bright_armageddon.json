@@ -18,7 +18,8 @@
   "def": 3000,
   "level": 10,
   "is_tuner": false,
-  "pendulum_text": "Once per turn, when an opponent\u0027s monster declares an attack: You can target 1 \"D/D/D\" Synchro Monster you control; destroy as many monsters your opponent controls as possible with DEF less than or equal to the targeted monster\u0027s ATK, and if you do, inflict 1000 damage to your opponent for each monster destroyed.\n",
+  "pendulum_text": "Once per turn, when an opponent's monster declares an attack: You can target 1 \"D/D/D\" Synchro Monster you control; destroy as many monsters your opponent controls as possible with DEF less than or equal to the targeted monster's ATK, and if you do, inflict 1000 damage to your opponent for each monster destroyed.\n",
   "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "pendulum_scale_right_red": 1,
+  "archetype": "D/D"
 }

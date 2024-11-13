@@ -517,5 +517,14 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Magician",
+    "Elemental HERO",
+    "Neo-Spacian",
+    "Alien",
+    "Chrysalis",
+    "Roid",
+    "Destiny HERO"
   ]
 }

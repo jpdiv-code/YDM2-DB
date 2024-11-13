@@ -3,7 +3,7 @@
   "name": "Vanquish Soul Pantera",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control no monsters in your Main Monster Zone: You can Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\n? EARTH: This card cannot be destroyed by battle this turn.\n? EARTH \u0026 FIRE: Destroy all Spells/Traps in this card\u0027s column.\nYou can only use each effect of \"Vanquish Soul Pantera\" once per turn, and cannot activate more than 1 in the same Chain.",
+  "text": "If you control no monsters in your Main Monster Zone: You can Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\n? EARTH: This card cannot be destroyed by battle this turn.\n? EARTH & FIRE: Destroy all Spells/Traps in this card's column.\nYou can only use each effect of \"Vanquish Soul Pantera\" once per turn, and cannot activate more than 1 in the same Chain.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66401502.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1900,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Vanquish Soul"
 }

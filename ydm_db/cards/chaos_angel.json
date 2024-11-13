@@ -3,7 +3,7 @@
   "name": "Chaos Angel",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1+ non-Tuner LIGHT or DARK monsters\nFor this card\u0027s Synchro Summon, you can treat 1 LIGHT or DARK monster you control as a Tuner. If this card is Special Summoned: You can target 1 card on the field; banish it. This card gains these effects based on the original Attributes of materials used for its Synchro Summon.\n? LIGHT: Synchro Monsters you control are unaffected by monster effects activated by your opponent.\n? DARK: Monsters you control cannot be destroyed by battle.",
+  "text": "1 Tuner + 1+ non-Tuner LIGHT or DARK monsters\nFor this card's Synchro Summon, you can treat 1 LIGHT or DARK monster you control as a Tuner. If this card is Special Summoned: You can target 1 card on the field; banish it. This card gains these effects based on the original Attributes of materials used for its Synchro Summon.\n? LIGHT: Synchro Monsters you control are unaffected by monster effects activated by your opponent.\n? DARK: Monsters you control cannot be destroyed by battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/22850702.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2800,
   "level": 10,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Chaos"
 }

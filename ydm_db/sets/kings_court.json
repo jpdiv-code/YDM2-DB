@@ -10,7 +10,7 @@
     {
       "id": 93880808,
       "code": "KICO-001",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -22,7 +22,7 @@
     {
       "id": 29284413,
       "code": "KICO-002",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -34,7 +34,7 @@
     {
       "id": 56673112,
       "code": "KICO-003",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -46,7 +46,7 @@
     {
       "id": 92067220,
       "code": "KICO-004",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -106,7 +106,7 @@
     {
       "id": 26973555,
       "code": "KICO-013",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -118,7 +118,7 @@
     {
       "id": 49161188,
       "code": "KICO-014",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -166,7 +166,7 @@
     {
       "id": 83512285,
       "code": "KICO-021",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -208,13 +208,13 @@
     {
       "id": 25652259,
       "code": "KICO-026",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
       "id": 64788463,
       "code": "KICO-027",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -226,7 +226,7 @@
     {
       "id": 90876561,
       "code": "KICO-028",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -236,7 +236,7 @@
       "image_index": 0
     },
     {
-      "id": 06150044,
+      "id": 6150044,
       "code": "KICO-029",
       "rarity": "Rare",
       "image_index": 0
@@ -274,7 +274,7 @@
     {
       "id": 85138716,
       "code": "KICO-034",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -302,7 +302,7 @@
       "image_index": 0
     },
     {
-      "id": 09348522,
+      "id": 9348522,
       "code": "KICO-039",
       "rarity": "Rare",
       "image_index": 0
@@ -334,7 +334,7 @@
     {
       "id": 84013237,
       "code": "KICO-042",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -394,7 +394,7 @@
     {
       "id": 32807846,
       "code": "KICO-051",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -416,7 +416,7 @@
       "image_index": 0
     },
     {
-      "id": 00911883,
+      "id": 911883,
       "code": "KICO-055",
       "rarity": "Rare",
       "image_index": 0
@@ -436,13 +436,13 @@
     {
       "id": 14532163,
       "code": "KICO-057",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
       "id": 90846359,
       "code": "KICO-058",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -493,5 +493,29 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Stardust",
+    "Guardragon",
+    "Magnet Warrior",
+    "Yang Zing",
+    "Egyptian God",
+    "Tindangle",
+    "Eyes Restrict",
+    "Evolzar",
+    "Constellar",
+    "Wind-Up",
+    "Gravekeeper's",
+    "Photon",
+    "Scrap",
+    "Galaxy-Eyes",
+    "ABC",
+    "Greed",
+    "Wicked God",
+    "Majestic",
+    "Rose Dragon",
+    "Knight",
+    "Polymerization",
+    "Utopia"
   ]
 }

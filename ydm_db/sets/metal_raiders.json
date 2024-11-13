@@ -871,5 +871,18 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Magician",
+    "Jinzo",
+    "Archfiend",
+    "Solemn",
+    "Gate Guardian",
+    "Thunder Dragon",
+    "Harpie",
+    "Fairy",
+    "Mask",
+    "Battleguard",
+    "Kuriboh"
   ]
 }

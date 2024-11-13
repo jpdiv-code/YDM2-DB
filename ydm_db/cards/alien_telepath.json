@@ -3,7 +3,7 @@
   "name": "Alien Telepath",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, you can remove 1 A-Counter from an opponent\u0027s monster to destroy 1 Spell or Trap Card. (If a monster with an A-Counter battles an \"Alien\" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.)",
+  "text": "Once per turn, you can remove 1 A-Counter from an opponent's monster to destroy 1 Spell or Trap Card. (If a monster with an A-Counter battles an \"Alien\" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.)",
   "images": [
     "https://images.ygoprodeck.com/images/cards/91070115.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1000,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Alien"
 }

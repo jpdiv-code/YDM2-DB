@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "If your opponent controls a face-up monster that was Special Summoned from the Extra Deck and you do not: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Performapal Whim Witch\" once per turn.\n",
   "pendulum_scale_left_blue": 4,
-  "pendulum_scale_right_red": 4
+  "pendulum_scale_right_red": 4,
+  "archetype": "Performapal"
 }

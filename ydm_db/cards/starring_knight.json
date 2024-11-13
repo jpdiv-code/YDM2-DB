@@ -4,7 +4,9 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "2 Level 4 monsters\r\nYou can detach 1 material from this card; Special Summon 1 LIGHT monster from your hand. If this card is in your GY, except the turn it was sent there: You can target 1 Level 4 LIGHT Fairy monster you control; Special Summon this card, and if you do, attach that monster to this card as material. You can only use each effect of \"Starring Knight\" once per turn.",
-  "images": ["https://images.ygoprodeck.com/images/cards/5916510.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/5916510.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1900,
@@ -14,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 1000,
-  "rank": 4
+  "rank": 4,
+  "archetype": "Starry Knight"
 }

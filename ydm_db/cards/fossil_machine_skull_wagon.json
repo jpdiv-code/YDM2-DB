@@ -3,7 +3,7 @@
   "name": "Fossil Machine Skull Wagon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Rock monster in your GY + 1 Level 5 or 6 monster\nMust first be Special Summoned with \"Fossil Fusion\". This card can make up to 2 attacks on monsters during each Battle Phase. When this card destroys an opponent\u0027s monster by battle: You can inflict 800 damage to your opponent. You can banish this card from your GY, then target 1 Spell/Trap on the field; destroy it. You can only use this effect of \"Fossil Machine Skull Wagon\" once per turn.",
+  "text": "1 Rock monster in your GY + 1 Level 5 or 6 monster\nMust first be Special Summoned with \"Fossil Fusion\". This card can make up to 2 attacks on monsters during each Battle Phase. When this card destroys an opponent's monster by battle: You can inflict 800 damage to your opponent. You can banish this card from your GY, then target 1 Spell/Trap on the field; destroy it. You can only use this effect of \"Fossil Machine Skull Wagon\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/83656563.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1500,
   "level": 6,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Fossil"
 }

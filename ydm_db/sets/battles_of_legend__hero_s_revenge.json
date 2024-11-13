@@ -1,5 +1,5 @@
 {
-  "name": "Battles of Legend: Hero\u0027s Revenge",
+  "name": "Battles of Legend: Hero's Revenge",
   "code": "BLHR",
   "type": "60 Card Set",
   "date": "11-06-2019",
@@ -583,5 +583,38 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Predaplant",
+    "Fortune Fairy",
+    "Kaiju",
+    "Stardust",
+    "Elemental HERO",
+    "Subterror",
+    "Nekroz",
+    "Gimmick Puppet",
+    "Vendread",
+    "Salamangreat",
+    "Herald",
+    "Traptrix",
+    "Dinowrestler",
+    "Harpie",
+    "T.G.",
+    "Sky Striker",
+    "Train",
+    "Artifact",
+    "Black Luster Soldier",
+    "PSY-Frame",
+    "Borrel",
+    "Destiny HERO",
+    "Hi-Speedroid",
+    "Shaddoll",
+    "Magical Musket",
+    "Lunalight",
+    "Vision HERO",
+    "Battlewasp",
+    "-Eyes Dragon",
+    "Guardian",
+    "Utopia"
   ]
 }

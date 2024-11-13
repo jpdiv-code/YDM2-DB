@@ -3,7 +3,7 @@
   "name": "Skull Servant",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A skeletal ghost that isn\u0027t strong but can mean trouble in large numbers.",
+  "text": "A skeletal ghost that isn't strong but can mean trouble in large numbers.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/32274490.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": false,
   "def": 200,
   "level": 1,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Skull Servant"
 }

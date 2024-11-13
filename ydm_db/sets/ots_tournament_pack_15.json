@@ -157,5 +157,21 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Shaddoll",
+    "Zoodiac",
+    "Noble Knight",
+    "Amorphage",
+    "Dogmatika",
+    "Vampire",
+    "Windwitch",
+    "Dracoverlord",
+    "Harpie",
+    "D.D.",
+    "Rokket",
+    "Melffy",
+    "Crystron",
+    "Armed Dragon"
   ]
 }

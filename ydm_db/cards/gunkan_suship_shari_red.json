@@ -3,7 +3,7 @@
   "name": "Gunkan Suship Shari Red",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card\u0027s name becomes \"Gunkan Suship Shari\" while in the hand, Deck, GY, or on the field. You can only use the following effect of \"Gunkan Suship Shari Red\" once per turn. You can reveal 1 other \"Gunkan Suship Shari\" in your hand; Special Summon this card from your hand, then you can apply this effect.\n? Special Summon 1 \"Gunkan\" monster from your Deck, except \"Gunkan Suship Shari\", but negate its effects (if any), then, Special Summon from your Extra Deck, 1 Xyz Monster that mentions that Special Summoned monster\u0027s name, using that monster and this card as material. (This is treated as an Xyz Summon.)",
+  "text": "This card's name becomes \"Gunkan Suship Shari\" while in the hand, Deck, GY, or on the field. You can only use the following effect of \"Gunkan Suship Shari Red\" once per turn. You can reveal 1 other \"Gunkan Suship Shari\" in your hand; Special Summon this card from your hand, then you can apply this effect.\n? Special Summon 1 \"Gunkan\" monster from your Deck, except \"Gunkan Suship Shari\", but negate its effects (if any), then, Special Summon from your Extra Deck, 1 Xyz Monster that mentions that Special Summoned monster's name, using that monster and this card as material. (This is treated as an Xyz Summon.)",
   "images": [
     "https://images.ygoprodeck.com/images/cards/63748694.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2000,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Gunkan"
 }

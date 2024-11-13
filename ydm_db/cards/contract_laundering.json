@@ -3,10 +3,11 @@
   "name": "Contract Laundering",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Destroy as many \"Dark Contract\" cards in your Spell \u0026 Trap Zone as possible, and if you do, draw the same number of cards you destroyed, then gain 1000 LP for each card you drew with this effect.",
+  "text": "Destroy as many \"Dark Contract\" cards in your Spell & Trap Zone as possible, and if you do, draw the same number of cards you destroyed, then gain 1000 LP for each card you drew with this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46259438.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Normal"
+  "trap_type": "Normal",
+  "archetype": "Dark Contract"
 }

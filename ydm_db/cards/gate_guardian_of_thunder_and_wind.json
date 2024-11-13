@@ -3,7 +3,7 @@
   "name": "Gate Guardian of Thunder and Wind",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Sanga of the Thunder\" + \"Kazejin\"\nMust be Special Summoned (from your Extra Deck) by banishing the above cards you control. During your Main Phase: You can add 1 Spell/Trap from your Deck to your hand that mentions \"Sanga of the Thunder\", \"Kazejin\", AND \"Suijin\". You can only use this effect of \"Gate Guardian of Thunder and Wind\" once per turn. If this face-up Special Summoned card in its owner\u0027s control leaves the field because of an opponent\u0027s card: You can Special Summon 1 of your banished \"Sanga of the Thunder\" or \"Kazejin\".",
+  "text": "\"Sanga of the Thunder\" + \"Kazejin\"\nMust be Special Summoned (from your Extra Deck) by banishing the above cards you control. During your Main Phase: You can add 1 Spell/Trap from your Deck to your hand that mentions \"Sanga of the Thunder\", \"Kazejin\", AND \"Suijin\". You can only use this effect of \"Gate Guardian of Thunder and Wind\" once per turn. If this face-up Special Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 of your banished \"Sanga of the Thunder\" or \"Kazejin\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34904525.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2200,
   "level": 9,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Gate Guardian"
 }

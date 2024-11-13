@@ -3,7 +3,7 @@
   "name": "Needle Worm",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Send the top 5 cards of your opponent\u0027s Deck to the Graveyard.",
+  "text": "FLIP: Send the top 5 cards of your opponent's Deck to the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81843628.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 600,
   "level": 2,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Worm"
 }

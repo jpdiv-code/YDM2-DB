@@ -54,5 +54,10 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Jinzo",
+    "Archfiend",
+    "Celtic Guard"
   ]
 }

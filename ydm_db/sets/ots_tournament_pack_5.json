@@ -169,5 +169,15 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "SPYRAL",
+    "Kaiju",
+    "Elemental HERO",
+    "Zoodiac",
+    "True Draco",
+    "Rose Dragon",
+    "The Agent"
   ]
 }

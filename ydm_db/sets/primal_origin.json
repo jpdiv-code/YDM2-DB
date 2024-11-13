@@ -643,5 +643,36 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "Umbral Horror",
+    "Mecha Phantom Beast",
+    "Noble Knight",
+    "Dark World",
+    "Monarch",
+    "Duston",
+    "Gimmick Puppet",
+    "Bujin",
+    "Madolche",
+    "Evolsaur",
+    "Vampire",
+    "Traptrix",
+    "Forbidden",
+    "Ghostrick",
+    "Artifact",
+    "Archfiend",
+    "Scrap",
+    "Hazy",
+    "Galaxy-Eyes",
+    "Battlin' Boxer",
+    "Koa'ki Meiru",
+    "Penguin",
+    "Chaos",
+    "Rose Dragon",
+    "Gusto",
+    "Sylvan",
+    "Gladiator Beast",
+    "Utopia"
   ]
 }

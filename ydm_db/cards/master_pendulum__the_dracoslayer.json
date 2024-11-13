@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "Once, while this card is in your Pendulum Zone: You can target 1 card in a Pendulum Zone; destroy it.\n",
   "pendulum_scale_left_blue": 3,
-  "pendulum_scale_right_red": 3
+  "pendulum_scale_right_red": 3,
+  "archetype": "Dracoslayer"
 }

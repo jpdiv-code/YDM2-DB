@@ -3,7 +3,7 @@
   "name": "Gem-Knight Master Diamond",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 \"Gem-Knight\" monsters\nMust first be Fusion Summoned. This card gains 100 ATK for each \"Gem-\" monster in your Graveyard. Once per turn: You can banish 1 Level 7 or lower \"Gem-Knight\" Fusion Monster from your Graveyard; until the End Phase, this card\u0027s name becomes that monster\u0027s, and replace this effect with that monster\u0027s original effects.",
+  "text": "3 \"Gem-Knight\" monsters\nMust first be Fusion Summoned. This card gains 100 ATK for each \"Gem-\" monster in your Graveyard. Once per turn: You can banish 1 Level 7 or lower \"Gem-Knight\" Fusion Monster from your Graveyard; until the End Phase, this card's name becomes that monster's, and replace this effect with that monster's original effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/39512984.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2500,
   "level": 9,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Gem-"
 }

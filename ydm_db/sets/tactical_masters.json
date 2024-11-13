@@ -10,7 +10,7 @@
     {
       "id": 49131917,
       "code": "TAMA-EN001",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -64,7 +64,7 @@
     {
       "id": 40680521,
       "code": "TAMA-EN009",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -82,7 +82,7 @@
     {
       "id": 13179234,
       "code": "TAMA-EN011",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -106,7 +106,7 @@
     {
       "id": 2347656,
       "code": "TAMA-EN014",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -124,7 +124,7 @@
     {
       "id": 75730490,
       "code": "TAMA-EN016",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -136,7 +136,7 @@
     {
       "id": 1225009,
       "code": "TAMA-EN017",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -166,7 +166,7 @@
     {
       "id": 33407125,
       "code": "TAMA-EN021",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -208,7 +208,7 @@
     {
       "id": 92107604,
       "code": "TAMA-EN027",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -226,7 +226,7 @@
     {
       "id": 31562086,
       "code": "TAMA-EN029",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -298,7 +298,7 @@
     {
       "id": 76794549,
       "code": "TAMA-EN040",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -322,7 +322,7 @@
     {
       "id": 73915051,
       "code": "TAMA-EN043",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -340,7 +340,7 @@
     {
       "id": 80101899,
       "code": "TAMA-EN045",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -388,7 +388,7 @@
     {
       "id": 8267140,
       "code": "TAMA-EN053",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -412,7 +412,7 @@
     {
       "id": 58921041,
       "code": "TAMA-EN056",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -445,5 +445,17 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Magician",
+    "Book of",
+    "Labrynth",
+    "Greed",
+    "Runick",
+    "Archfiend",
+    "Vaylantz",
+    "Lady of Lament",
+    "Ninja",
+    "Anti"
   ]
 }

@@ -246,5 +246,15 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Volcanic",
+    "Greed",
+    "Flamvell",
+    "Nephthys",
+    "Hazy",
+    "Blaze Accelerator",
+    "Fire King",
+    "Laval"
   ]
 }

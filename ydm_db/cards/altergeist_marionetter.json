@@ -3,7 +3,7 @@
   "name": "Altergeist Marionetter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can Set 1 \"Altergeist\" Trap directly from your Deck to your Spell \u0026 Trap Zone. You can target 1 \"Altergeist\" card you control and 1 \"Altergeist\" monster in your GY; send that card on the field to the GY, and if you do, Special Summon that other monster from your GY. You can only use this effect of \"Altergeist Marionetter\" once per turn.",
+  "text": "When this card is Normal Summoned: You can Set 1 \"Altergeist\" Trap directly from your Deck to your Spell & Trap Zone. You can target 1 \"Altergeist\" card you control and 1 \"Altergeist\" monster in your GY; send that card on the field to the GY, and if you do, Special Summon that other monster from your GY. You can only use this effect of \"Altergeist Marionetter\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53143898.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1700,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Altergeist"
 }

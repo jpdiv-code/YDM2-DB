@@ -276,5 +276,15 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Book of",
+    "Lightsworn",
+    "Lswarm",
+    "Flamvell",
+    "Barbaros",
+    "Code Talker",
+    "Hole",
+    "Kuriboh"
   ]
 }

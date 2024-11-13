@@ -607,5 +607,25 @@
       "rarity": "Gold Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Dracoslayer",
+    "\"C\"",
+    "Stardust",
+    "Phantom Knights",
+    "Red-Eyes",
+    "Masked HERO",
+    "Pendulum",
+    "Archfiend",
+    "Gagaga",
+    "Lswarm",
+    "Junk",
+    "Gusto",
+    "Burning Abyss",
+    "Monarch",
+    "Kozmo",
+    "Hole",
+    "Constellar",
+    "Utopia"
   ]
 }

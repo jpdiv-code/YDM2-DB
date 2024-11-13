@@ -607,5 +607,18 @@
       "rarity": "Starfoil Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gogogo",
+    "Arcana Force",
+    "Elemental HERO",
+    "Meklord",
+    "Photon",
+    "Gagaga",
+    "Junk",
+    "Galaxy-Eyes",
+    "Roid",
+    "Ninja",
+    "Gandora"
   ]
 }

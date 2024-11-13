@@ -246,5 +246,11 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Greed",
+    "Hole",
+    "Book of",
+    "Red-Eyes"
   ]
 }

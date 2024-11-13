@@ -607,5 +607,33 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Predaplant",
+    "Ancient Gear",
+    "Lightsworn",
+    "Dark World",
+    "Odd-Eyes",
+    "Roid",
+    "Performapal",
+    "Vendread",
+    "Worm",
+    "Gaia The Fierce Knight",
+    "Traptrix",
+    "Gouki",
+    "Abyss Actor",
+    "World Chalice",
+    "Gogogo",
+    "D/D",
+    "F.A.",
+    "Junk",
+    "Supreme King",
+    "Infernity",
+    "Destiny HERO",
+    "Clear Wing",
+    "Trickstar",
+    "Hole",
+    "Spellbook",
+    "World Legacy"
   ]
 }

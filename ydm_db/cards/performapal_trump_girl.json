@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "",
   "pendulum_scale_left_blue": 4,
-  "pendulum_scale_right_red": 4
+  "pendulum_scale_right_red": 4,
+  "archetype": "Performapal"
 }

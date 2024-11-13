@@ -607,5 +607,28 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Predaplant",
+    "Fur Hire",
+    "Edge Imp",
+    "Noble Knight",
+    "Orcust",
+    "Melodious",
+    "Crusadia",
+    "Danger!",
+    "Salamangreat",
+    "Herald",
+    "Impcantation",
+    "Dinowrestler",
+    "Sky Striker",
+    "Fluffal",
+    "Krawler",
+    "Nordic",
+    "Gravekeeper's",
+    "D/D",
+    "Photon",
+    "Thunder Dragon",
+    "World Legacy"
   ]
 }

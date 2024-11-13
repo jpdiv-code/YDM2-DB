@@ -649,5 +649,27 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Marincess",
+    "Monarch",
+    "White",
+    "Endymion",
+    "Charmer",
+    "Salamangreat",
+    "Dinowrestler",
+    "Fortune Lady",
+    "Dragunity",
+    "Tenyi",
+    "F.A.",
+    "Archfiend",
+    "Borrel",
+    "Witchcrafter",
+    "Dream Mirror",
+    "B.E.S.",
+    "Simorgh",
+    "Yosenju",
+    "Reptilianne",
+    "World Legacy"
   ]
 }

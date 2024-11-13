@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/87804365.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Normal"
+  "trap_type": "Normal",
+  "archetype": "Mathmech"
 }

@@ -3,7 +3,7 @@
   "name": "Parrot Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A dragon from the cartoons that\u0027s more dangerous than it appears to be.",
+  "text": "A dragon from the cartoons that's more dangerous than it appears to be.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/62762898.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": false,
   "def": 1300,
   "level": 5,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Toon"
 }

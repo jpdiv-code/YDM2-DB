@@ -3,7 +3,7 @@
   "name": "Sunseed Genius Loci",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\u0027\u0027This seed can only be harvested from the sacred tree once every thousand years, and will become the guardian spirit of its land after a thousand more.\u0027\u0027",
+  "text": "''This seed can only be harvested from the sacred tree once every thousand years, and will become the guardian spirit of its land after a thousand more.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/27520594.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": false,
   "def": 600,
   "level": 1,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Sunseed"
 }

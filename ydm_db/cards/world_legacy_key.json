@@ -3,10 +3,11 @@
   "name": "World Legacy Key",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is activated: You can target 1 of your banished \"Mekk-Knight\" monsters or \"World Legacy\" cards; add it to your hand. Negate any opponent\u0027s Trap effect that activates in the same column as a \"Mekk-Knight\" monster you control.",
+  "text": "When this card is activated: You can target 1 of your banished \"Mekk-Knight\" monsters or \"World Legacy\" cards; add it to your hand. Negate any opponent's Trap effect that activates in the same column as a \"Mekk-Knight\" monster you control.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2930675.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Continuous"
+  "spell_type": "Continuous",
+  "archetype": "Mekk-Knight"
 }

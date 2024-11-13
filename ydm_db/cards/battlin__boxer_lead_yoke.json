@@ -1,9 +1,9 @@
 {
   "id": 23232295,
-  "name": "Battlin\u0027 Boxer Lead Yoke",
+  "name": "Battlin' Boxer Lead Yoke",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 \"Battlin\u0027 Boxer\" monsters\nIf a \"Battlin\u0027 Boxer\" monster(s) you control would be destroyed by battle or by a card effect, you can detach 1 Xyz Material from this card instead of destroying 1 of those monsters. When an Xyz Material(s) is detached from this card: This card gains 800 ATK.",
+  "text": "2 Level 4 \"Battlin' Boxer\" monsters\nIf a \"Battlin' Boxer\" monster(s) you control would be destroyed by battle or by a card effect, you can detach 1 Xyz Material from this card instead of destroying 1 of those monsters. When an Xyz Material(s) is detached from this card: This card gains 800 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/23232295.jpg"
   ],
@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 2000,
-  "rank": 4
+  "rank": 4,
+  "archetype": "Battlin' Boxer"
 }

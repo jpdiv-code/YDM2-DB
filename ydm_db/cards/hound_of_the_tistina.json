@@ -4,7 +4,9 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "If this card is in your hand or GY and you control a LIGHT \"Tistina\" monster: You can Special Summon this card. You can only use this effect of \"Hound of the Tistina\" once per turn. \"Tistina\" monsters you control can attack directly while your opponent controls a face-down Defense Position monster.",
-  "images": ["https://images.ygoprodeck.com/images/cards/13510157.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/13510157.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,
@@ -15,5 +17,6 @@
   "has_effect": true,
   "def": 700,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Tistina"
 }

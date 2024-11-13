@@ -1,9 +1,9 @@
 {
   "id": 53212882,
-  "name": "Floowandereeze \u0026 Snowl",
+  "name": "Floowandereeze & Snowl",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, while you control this Tribute Summoned card: You can conduct up to 3 Normal Summons/Sets this turn, not just 1. While this Tribute Summoned card is in the Monster Zone, if your monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per opponent\u0027s turn (Quick Effect): You can banish 1 card from your hand; change all Special Summoned monsters your opponent controls to face-down Defense Position.",
+  "text": "Once per turn, while you control this Tribute Summoned card: You can conduct up to 3 Normal Summons/Sets this turn, not just 1. While this Tribute Summoned card is in the Monster Zone, if your monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per opponent's turn (Quick Effect): You can banish 1 card from your hand; change all Special Summoned monsters your opponent controls to face-down Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53212882.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 800,
   "level": 10,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Floowandereeze"
 }

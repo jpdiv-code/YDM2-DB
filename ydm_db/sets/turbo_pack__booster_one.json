@@ -133,5 +133,13 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Book of",
+    "Lightsworn",
+    "Six Samurai",
+    "Blackwing",
+    "D.D.",
+    "Gladiator Beast"
   ]
 }

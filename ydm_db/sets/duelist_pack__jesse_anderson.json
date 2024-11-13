@@ -157,5 +157,8 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Crystal Beast"
   ]
 }

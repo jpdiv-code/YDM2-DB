@@ -1,6 +1,6 @@
 {
   "id": 19028307,
-  "name": "Beast Machine King Barbaros Ür",
+  "name": "Beast Machine King Barbaros \u00dcr",
   "is_illegal": false,
   "is_custom": false,
   "text": "You can Special Summon this card (from your hand) by banishing 1 Machine-Type monster and 1 Beast-Warrior-Type monster from your hand, field, and/or Graveyard. If this card attacks or is attacked, your opponent takes no battle damage.",
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1200,
   "level": 8,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Barbaros"
 }

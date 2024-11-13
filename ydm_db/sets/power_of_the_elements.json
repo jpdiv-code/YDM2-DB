@@ -637,5 +637,38 @@
       "rarity": "Starlight Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Tearlaments",
+    "Elemental HERO",
+    "Fusion",
+    "Branded",
+    "Mathmech",
+    "Trap Monster",
+    "Icejade",
+    "Exosister",
+    "Vendread",
+    "Charmer",
+    "Therion",
+    "P.U.N.K.",
+    "Krawler",
+    "Gadget",
+    "Power Tool",
+    "Scareclaw",
+    "Contact",
+    "Rikka",
+    "Lady of Lament",
+    "Mokey Mokey",
+    "Vernusylph",
+    "Destiny HERO",
+    "Neo Space",
+    "Attraction",
+    "Morphtronic",
+    "Spright",
+    "Heart",
+    "Melffy",
+    "Gunkan",
+    "Gem-",
+    "Ghoti"
   ]
 }

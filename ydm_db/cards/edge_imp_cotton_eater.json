@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "All Fusion Monsters you control gain 300 ATK. Once per turn, if a \"Frightfur\" Fusion Monster(s) is Fusion Summoned to your field (except during the Damage Step): You can draw 1 card.\n",
   "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "pendulum_scale_right_red": 1,
+  "archetype": "Edge Imp"
 }

@@ -3,7 +3,7 @@
   "name": "Genex Recycled",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, you can select 1 \"Genex\" monster in your Graveyard. Until the End Phase, this card\u0027s name is treated as the selected monster\u0027s name.",
+  "text": "Once per turn, you can select 1 \"Genex\" monster in your Graveyard. Until the End Phase, this card's name is treated as the selected monster's name.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51827737.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 400,
   "level": 1,
-  "is_tuner": true
+  "is_tuner": true,
+  "archetype": "Genex"
 }

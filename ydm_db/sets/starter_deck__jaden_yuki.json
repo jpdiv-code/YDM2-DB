@@ -252,5 +252,13 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Elemental HERO",
+    "Hole",
+    "Dark World",
+    "Alligator",
+    "Mask",
+    "Ninja"
   ]
 }

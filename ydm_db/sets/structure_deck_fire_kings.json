@@ -6,293 +6,304 @@
   "image": "https://ygoprodeck.com/pics_sets/SR14.jpg",
   "pull_type": "full",
   "cards": [
-  {
-    "id": 66431519,
-    "code": "SR14-EN001",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 2526224,
-    "code": "SR14-EN002",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 38910263,
-    "code": "SR14-EN003",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 54149433,
-    "code": "SR14-EN004",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 69000994,
-    "code": "SR14-EN005",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 66413481,
-    "code": "SR14-EN006",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 96594609,
-    "code": "SR14-EN007",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 53804307,
-    "code": "SR14-EN008",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 53797637,
-    "code": "SR14-EN009",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 67136033,
-    "code": "SR14-EN010",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 3534077,
-    "code": "SR14-EN011",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 96746083,
-    "code": "SR14-EN012",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 19847532,
-    "code": "SR14-EN013",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 93332803,
-    "code": "SR14-EN014",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 15033525,
-    "code": "SR14-EN015",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 59834564,
-    "code": "SR14-EN016",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 61441708,
-    "code": "SR14-EN017",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 54040221,
-    "code": "SR14-EN018",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 13522325,
-    "code": "SR14-EN019",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 97396380,
-    "code": "SR14-EN020",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 373085,
-    "code": "SR14-EN021",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 73304257,
-    "code": "SR14-EN022",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 94145022,
-    "code": "SR14-EN023",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 65305978,
-    "code": "SR14-EN024",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 91703676,
-    "code": "SR14-EN025",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 22993208,
-    "code": "SR14-EN026",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 59388357,
-    "code": "SR14-EN027",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 74845897,
-    "code": "SR14-EN028",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 57103969,
-    "code": "SR14-EN029",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 53129443,
-    "code": "SR14-EN030",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 38120068,
-    "code": "SR14-EN031",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 94016752,
-    "code": "SR14-EN032",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 38798785,
-    "code": "SR14-EN033",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 60718396,
-    "code": "SR14-EN034",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 42945701,
-    "code": "SR14-EN035",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 1248895,
-    "code": "SR14-EN036",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 53582587,
-    "code": "SR14-EN037",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 41420027,
-    "code": "SR14-EN038",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 10045474,
-    "code": "SR14-EN039",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 67234805,
-    "code": "SR14-EN040",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 30741334,
-    "code": "SR14-EN041",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 95169481,
-    "code": "SR14-EN042",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 48815792,
-    "code": "SR14-EN043",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 64182380,
-    "code": "SR14-EN044",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 90681088,
-    "code": "SR14-EN045",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 23015896,
-    "code": "SR14-EN046",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 18621798,
-    "code": "SR14-EN047",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 57554544,
-    "code": "SR14-EN048",
-    "rarity": "Common",
-    "image_index": 0
+    {
+      "id": 66431519,
+      "code": "SR14-EN001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2526224,
+      "code": "SR14-EN002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38910263,
+      "code": "SR14-EN003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54149433,
+      "code": "SR14-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69000994,
+      "code": "SR14-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66413481,
+      "code": "SR14-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96594609,
+      "code": "SR14-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53804307,
+      "code": "SR14-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53797637,
+      "code": "SR14-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67136033,
+      "code": "SR14-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3534077,
+      "code": "SR14-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96746083,
+      "code": "SR14-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19847532,
+      "code": "SR14-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93332803,
+      "code": "SR14-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15033525,
+      "code": "SR14-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59834564,
+      "code": "SR14-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61441708,
+      "code": "SR14-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54040221,
+      "code": "SR14-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13522325,
+      "code": "SR14-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97396380,
+      "code": "SR14-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 373085,
+      "code": "SR14-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73304257,
+      "code": "SR14-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94145022,
+      "code": "SR14-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65305978,
+      "code": "SR14-EN024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91703676,
+      "code": "SR14-EN025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22993208,
+      "code": "SR14-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59388357,
+      "code": "SR14-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74845897,
+      "code": "SR14-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57103969,
+      "code": "SR14-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53129443,
+      "code": "SR14-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38120068,
+      "code": "SR14-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94016752,
+      "code": "SR14-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38798785,
+      "code": "SR14-EN033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60718396,
+      "code": "SR14-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42945701,
+      "code": "SR14-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1248895,
+      "code": "SR14-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53582587,
+      "code": "SR14-EN037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41420027,
+      "code": "SR14-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10045474,
+      "code": "SR14-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67234805,
+      "code": "SR14-EN040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30741334,
+      "code": "SR14-EN041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95169481,
+      "code": "SR14-EN042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48815792,
+      "code": "SR14-EN043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64182380,
+      "code": "SR14-EN044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90681088,
+      "code": "SR14-EN045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23015896,
+      "code": "SR14-EN046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18621798,
+      "code": "SR14-EN047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57554544,
+      "code": "SR14-EN048",
+      "rarity": "Common",
+      "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Charmer",
+    "Kaiju",
+    "Herald",
+    "Flamvell",
+    "Solemn",
+    "Fire Formation",
+    "Hole",
+    "Fire King",
+    "Nephthys"
   ]
 }

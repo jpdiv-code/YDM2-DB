@@ -367,5 +367,18 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Train",
+    "Gogogo",
+    "Heraldry",
+    "Chronomaly",
+    "Gagaga",
+    "Photon",
+    "Butterspy",
+    "Gimmick Puppet",
+    "Djinn",
+    "CXyz",
+    "Heroic"
   ]
 }

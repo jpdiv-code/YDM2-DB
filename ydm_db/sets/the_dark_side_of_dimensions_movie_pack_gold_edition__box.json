@@ -11,5 +11,17 @@
     "MVP1_GE_P",
     "MVP1_GE_C_1",
     "MVP1_GE_C_2"
+  ],
+  "archetypes": [
+    "Sphinx",
+    "Celtic Guard",
+    "Gaia The Fierce Knight",
+    "Egyptian God",
+    "Cubic",
+    "Dark Magician",
+    "Kuriboh",
+    "Blue-Eyes",
+    "Gadget",
+    "Magician Girl"
   ]
 }

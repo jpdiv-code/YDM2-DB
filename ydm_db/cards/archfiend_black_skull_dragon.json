@@ -3,7 +3,7 @@
   "name": "Archfiend Black Skull Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Level 6 \"Archfiend\" Normal Monster + 1 \"Red-Eyes\" Normal Monster\nYou can only Special Summon \"Archfiend Black Skull Dragon(s)\" once per turn. If this card battles, your opponent\u0027s cards and effects cannot be activated until the end of the Damage Step. If damage calculation is performed involving this Fusion Summoned card, at the end of the Battle Phase: You can target 1 \"Red-Eyes\" Normal Monster in your Graveyard; inflict damage to your opponent equal to its ATK in the Graveyard, then shuffle it into the Deck.",
+  "text": "1 Level 6 \"Archfiend\" Normal Monster + 1 \"Red-Eyes\" Normal Monster\nYou can only Special Summon \"Archfiend Black Skull Dragon(s)\" once per turn. If this card battles, your opponent's cards and effects cannot be activated until the end of the Damage Step. If damage calculation is performed involving this Fusion Summoned card, at the end of the Battle Phase: You can target 1 \"Red-Eyes\" Normal Monster in your Graveyard; inflict damage to your opponent equal to its ATK in the Graveyard, then shuffle it into the Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45349196.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2500,
   "level": 9,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Archfiend"
 }

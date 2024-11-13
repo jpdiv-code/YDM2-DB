@@ -3,7 +3,7 @@
   "name": "Alpha The Magnet Warrior",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\u0027\u0027Alpha, Beta, and Gamma meld as one to form a powerful monster.\u0027\u0027",
+  "text": "''Alpha, Beta, and Gamma meld as one to form a powerful monster.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/99785935.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": false,
   "def": 1700,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Magnet Warrior"
 }

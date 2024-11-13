@@ -673,5 +673,23 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gogogo",
+    "Magician",
+    "Masked HERO",
+    "Elemental HERO",
+    "Steelswarm",
+    "Vylon",
+    "Gagaga",
+    "Geargia",
+    "Penguin",
+    "Gusto",
+    "Vision HERO",
+    "Gishki",
+    "Wind-Up",
+    "HERO",
+    "Gem-",
+    "Laval"
   ]
 }

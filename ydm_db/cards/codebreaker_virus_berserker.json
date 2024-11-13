@@ -20,5 +20,6 @@
     "Top",
     "Bottom",
     "Right"
-  ]
+  ],
+  "archetype": "Codebreaker"
 }

@@ -294,5 +294,13 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Paleozoic",
+    "Magician",
+    "Kaiju",
+    "Cyberdark",
+    "Cyber Dragon",
+    "Cyber"
   ]
 }

@@ -3,7 +3,7 @@
   "name": "Worm Prince",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card destroys an opponent\u0027s monster by battle, you can add 1 Reptile-Type \"Worm\" monster from your Deck to your hand. Destroy this card during the End Phase if you do not control another Reptile-Type \"Worm\" monster.",
+  "text": "If this card destroys an opponent's monster by battle, you can add 1 Reptile-Type \"Worm\" monster from your Deck to your hand. Destroy this card during the End Phase if you do not control another Reptile-Type \"Worm\" monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54860010.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 400,
   "level": 6,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Worm"
 }

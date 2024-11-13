@@ -256,5 +256,17 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Sacred Beast",
+    "Elemental HERO",
+    "Darklord",
+    "Penguin",
+    "Vision HERO",
+    "Harpie",
+    "Dark Magician",
+    "Roid",
+    "HERO",
+    "Utopia"
   ]
 }

@@ -673,5 +673,29 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Resonator",
+    "Nimble",
+    "Ally of Justice",
+    "Worm",
+    "Batteryman",
+    "Charmer",
+    "X-Saber",
+    "Herald",
+    "Frog",
+    "Power Tool",
+    "Watt",
+    "Genex",
+    "Archfiend",
+    "Blackwing",
+    "Infernity",
+    "Koa'ki Meiru",
+    "Ice Barrier",
+    "Rose Dragon",
+    "Morphtronic",
+    "Chaos",
+    "Synchron",
+    "Guardian"
   ]
 }

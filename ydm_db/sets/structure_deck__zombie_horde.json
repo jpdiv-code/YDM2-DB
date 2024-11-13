@@ -258,5 +258,12 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Book of",
+    "Red-Eyes",
+    "Shiranui",
+    "Mask",
+    "Anti"
   ]
 }

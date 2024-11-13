@@ -3,7 +3,7 @@
   "name": "Gagaga Gardna",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When an opponent\u0027s monster declares a direct attack: You can Special Summon this card from your hand. When this card is targeted for an attack: You can discard 1 card; this card cannot be destroyed by that battle.",
+  "text": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand. When this card is targeted for an attack: You can discard 1 card; this card cannot be destroyed by that battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12423762.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2000,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Gagaga"
 }

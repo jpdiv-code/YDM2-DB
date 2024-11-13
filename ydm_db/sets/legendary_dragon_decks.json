@@ -924,5 +924,20 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Magician",
+    "Odd-Eyes",
+    "Machina",
+    "Red-Eyes",
+    "Greed",
+    "Cyber Dragon",
+    "Venom",
+    "Supreme King",
+    "Clear Wing",
+    "-Eyes Dragon",
+    "Dark Magician",
+    "Performapal",
+    "Legendary Knight"
   ]
 }

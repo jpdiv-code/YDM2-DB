@@ -3,7 +3,7 @@
   "name": "Performapal Fire Mufflerlion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, if a Pendulum Monster you control destroys an opponent\u0027s monster by battle, after damage calculation: You can make that monster you control gain 200 ATK until the end of the Battle Phase, and if you do, it can make a second attack in a row.",
+  "text": "Once per turn, if a Pendulum Monster you control destroys an opponent's monster by battle, after damage calculation: You can make that monster you control gain 200 ATK until the end of the Battle Phase, and if you do, it can make a second attack in a row.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33823832.jpg"
   ],
@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "When a Pendulum Monster you control is destroyed by battle: You can Special Summon this card from your Pendulum Zone.\n",
   "pendulum_scale_left_blue": 5,
-  "pendulum_scale_right_red": 5
+  "pendulum_scale_right_red": 5,
+  "archetype": "Performapal"
 }

@@ -673,5 +673,20 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Assault Mode",
+    "Alien",
+    "B.E.S.",
+    "Archfiend",
+    "Morphtronic",
+    "Rose Dragon",
+    "Six Samurai",
+    "Blackwing",
+    "Synchron",
+    "Roid",
+    "Kuriboh",
+    "Gladiator Beast",
+    "Frog"
   ]
 }

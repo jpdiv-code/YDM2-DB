@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "Once per turn, if a monster is Fusion Summoned to your field (except during the Damage Step): You can add 1 \"Performapal\", \"Odd-Eyes\", or \"Magician\" Pendulum Monster from your GY or face-up in your Extra Deck to your hand.\n",
   "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "pendulum_scale_right_red": 1,
+  "archetype": "Performapal"
 }

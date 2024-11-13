@@ -246,5 +246,11 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Horus the Black Flame Dragon",
+    "Majestic",
+    "Fairy",
+    "Herald"
   ]
 }

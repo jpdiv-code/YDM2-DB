@@ -127,5 +127,15 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Magician",
+    "Cipher",
+    "Bonding",
+    "Mask",
+    "Hole",
+    "D.D.",
+    "Frog",
+    "Nephthys"
   ]
 }

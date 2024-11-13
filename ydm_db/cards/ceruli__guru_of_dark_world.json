@@ -3,7 +3,7 @@
   "name": "Ceruli, Guru of Dark World",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is discarded to the Graveyard by a card effect: Special Summon this card from the Graveyard to your opponent\u0027s side of the field in face-up Defense Position. When this card is Special Summoned by the effect of a \"Dark World\" card: Your opponent must discard 1 card.",
+  "text": "If this card is discarded to the Graveyard by a card effect: Special Summon this card from the Graveyard to your opponent's side of the field in face-up Defense Position. When this card is Special Summoned by the effect of a \"Dark World\" card: Your opponent must discard 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7623640.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 300,
   "level": 1,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Dark World"
 }

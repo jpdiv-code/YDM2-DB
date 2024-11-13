@@ -643,5 +643,27 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Heraldry",
+    "Mystical Beast of the Forest",
+    "Noble Knight",
+    "Duston",
+    "Monarch",
+    "Fairy",
+    "Bujin",
+    "Dododo",
+    "Chronomaly",
+    "Gorgonic",
+    "Ghostrick",
+    "Gravekeeper's",
+    "Photon",
+    "Galaxy-Eyes",
+    "Lswarm",
+    "Chaos",
+    "Rose Dragon",
+    "Kuriboh",
+    "Sylvan",
+    "Utopia"
   ]
 }

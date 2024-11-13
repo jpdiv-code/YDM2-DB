@@ -3,7 +3,7 @@
   "name": "Arcana Force VII - The Chariot",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Summoned, toss a coin:\n? Heads: If this card destroys an opponent\u0027s monster by battle, you can Special Summon that monster to your side of the field.\n? Tails: Your opponent gains control of this card.",
+  "text": "When this card is Summoned, toss a coin:\n? Heads: If this card destroys an opponent's monster by battle, you can Special Summon that monster to your side of the field.\n? Tails: Your opponent gains control of this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34568403.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1700,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Arcana Force"
 }

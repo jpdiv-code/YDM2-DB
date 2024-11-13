@@ -3,7 +3,7 @@
   "name": "Sacred Spirit of the Ice Barrier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be Special Summoned. This card returns to the hand during the End Phase of the turn it is Normal Summoned or flipped face-up, unless you control another face-up \"Ice Barrier\" monster. In that case, this card\u0027s effect changes to select 1 monster your opponent controls and return it to the hand, instead.",
+  "text": "This card cannot be Special Summoned. This card returns to the hand during the End Phase of the turn it is Normal Summoned or flipped face-up, unless you control another face-up \"Ice Barrier\" monster. In that case, this card's effect changes to select 1 monster your opponent controls and return it to the hand, instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/44877690.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1200,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Ice Barrier"
 }

@@ -246,5 +246,12 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Elemental HERO",
+    "Greed",
+    "Dark World",
+    "Grepher",
+    "Kuriboh"
   ]
 }

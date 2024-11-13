@@ -127,5 +127,11 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Thunder Dragon",
+    "Kuriboh",
+    "Nimble",
+    "Book of"
   ]
 }

@@ -46,7 +46,7 @@
     {
       "id": 34172284,
       "code": "ANGU-EN007",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -58,7 +58,7 @@
     {
       "id": 61160289,
       "code": "ANGU-EN008",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -70,7 +70,7 @@
     {
       "id": 97565997,
       "code": "ANGU-EN009",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -124,7 +124,7 @@
     {
       "id": 54100561,
       "code": "ANGU-EN017",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -136,7 +136,7 @@
     {
       "id": 91598270,
       "code": "ANGU-EN018",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -154,7 +154,7 @@
     {
       "id": 54387923,
       "code": "ANGU-EN020",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -166,7 +166,7 @@
     {
       "id": 80776622,
       "code": "ANGU-EN021",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -244,7 +244,7 @@
     {
       "id": 27693363,
       "code": "ANGU-EN033",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -256,7 +256,7 @@
     {
       "id": 53087962,
       "code": "ANGU-EN034",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -268,7 +268,7 @@
     {
       "id": 80086070,
       "code": "ANGU-EN035",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -310,7 +310,7 @@
     {
       "id": 8062132,
       "code": "ANGU-EN041",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -328,7 +328,7 @@
     {
       "id": 67750322,
       "code": "ANGU-EN043",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -352,7 +352,7 @@
     {
       "id": 82385847,
       "code": "ANGU-EN046",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -388,7 +388,7 @@
     {
       "id": 17189677,
       "code": "ANGU-EN051",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -400,7 +400,7 @@
     {
       "id": 38120068,
       "code": "ANGU-EN052",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -457,5 +457,17 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Dracoslayer",
+    "Magician",
+    "Igknight",
+    "Venom",
+    "Greed",
+    "Ursarctic",
+    "Dinowrestler",
+    "Solfachord",
+    "Field Searcher",
+    "Ogdoadic"
   ]
 }

@@ -571,5 +571,19 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gravekeeper's",
+    "Volcanic",
+    "Elemental HERO",
+    "Herald",
+    "Alien",
+    "Archfiend",
+    "Six Samurai",
+    "Monarch",
+    "Harpie",
+    "Blaze Accelerator",
+    "Ninja",
+    "Crystal Beast"
   ]
 }

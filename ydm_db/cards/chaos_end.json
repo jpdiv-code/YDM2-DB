@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/61044390.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Normal"
+  "spell_type": "Normal",
+  "archetype": "Chaos"
 }

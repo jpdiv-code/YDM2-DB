@@ -133,5 +133,17 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "X-Saber",
+    "Morphtronic",
+    "Koa'ki Meiru",
+    "Monarch",
+    "Grepher",
+    "Roid",
+    "Hole",
+    "Destiny HERO",
+    "D.D.",
+    "Gladiator Beast"
   ]
 }

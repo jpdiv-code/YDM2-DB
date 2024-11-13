@@ -3,7 +3,7 @@
   "name": "Naturia White Oak",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is targeted by an opponent\u0027s card effect, you can send this face-up card you control to the Graveyard to Special Summon 2 Level 4 or lower \"Naturia\" monsters from your Deck. They cannot declare an attack, and are destroyed during your End Phase.",
+  "text": "When this card is targeted by an opponent's card effect, you can send this face-up card you control to the Graveyard to Special Summon 2 Level 4 or lower \"Naturia\" monsters from your Deck. They cannot declare an attack, and are destroyed during your End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/24644634.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1400,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Naturia"
 }

@@ -3,7 +3,7 @@
   "name": "Ultra Beetrooper Absolute Hercules",
   "is_illegal": false,
   "is_custom": false,
-  "text": "4 Insect monsters\nAfter this card is Fusion Summoned, it is unaffected by other cards\u0027 effects until the end of your next turn. At the end of the Battle Phase: You can target 1 Insect monster with 3000 or less ATK in your GY; Special Summon it. You can only use this effect of \"Ultra Beetrooper Absolute Hercules\" once per turn.",
+  "text": "4 Insect monsters\nAfter this card is Fusion Summoned, it is unaffected by other cards' effects until the end of your next turn. At the end of the Battle Phase: You can target 1 Insect monster with 3000 or less ATK in your GY; Special Summon it. You can only use this effect of \"Ultra Beetrooper Absolute Hercules\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50855622.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 4000,
   "level": 11,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Beetrooper"
 }

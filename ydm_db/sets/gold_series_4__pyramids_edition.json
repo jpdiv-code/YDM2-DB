@@ -307,5 +307,17 @@
       "rarity": "Gold Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gravekeeper's",
+    "Black Luster Soldier",
+    "Toon",
+    "Greed",
+    "Lightsworn",
+    "Darklord",
+    "Chaos",
+    "Gladiator Beast",
+    "Dark Magician",
+    "Worm"
   ]
 }

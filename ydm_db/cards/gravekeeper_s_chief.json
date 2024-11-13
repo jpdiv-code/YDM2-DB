@@ -1,9 +1,9 @@
 {
   "id": 62473983,
-  "name": "Gravekeeper\u0027s Chief",
+  "name": "Gravekeeper's Chief",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can only control 1 face-up \"Gravekeeper\u0027s Chief\". Your GY is unaffected by \"Necrovalley\". When this card is Tribute Summoned: You can target 1 \"Gravekeeper\u0027s\" monster in your GY; Special Summon that target.",
+  "text": "You can only control 1 face-up \"Gravekeeper's Chief\". Your GY is unaffected by \"Necrovalley\". When this card is Tribute Summoned: You can target 1 \"Gravekeeper's\" monster in your GY; Special Summon that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/62473983.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1200,
   "level": 5,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Gravekeeper's"
 }

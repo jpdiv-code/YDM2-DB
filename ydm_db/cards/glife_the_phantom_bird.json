@@ -3,7 +3,7 @@
   "name": "Glife the Phantom Bird",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can discard this card; add 1 \"Golden Castle of Stromberg\" from your Deck to your hand. If this card is Normal or Special Summoned: You can target 1 card in your opponent\u0027s Spell \u0026 Trap Zone; destroy it. You can only use this effect of \"Glife the Phantom Bird\" once per turn.",
+  "text": "You can discard this card; add 1 \"Golden Castle of Stromberg\" from your Deck to your hand. If this card is Normal or Special Summoned: You can target 1 card in your opponent's Spell & Trap Zone; destroy it. You can only use this effect of \"Glife the Phantom Bird\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/899287.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1500,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Golden Castle of Stromberg"
 }

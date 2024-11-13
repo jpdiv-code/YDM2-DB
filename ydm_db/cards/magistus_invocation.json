@@ -3,10 +3,11 @@
   "name": "Magistus Invocation",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material, including a Spellcaster monster. If Summoning a \"Magistus\" Fusion Monster this way, you can also use monsters in your Spell \u0026 Trap Zones that are equipped to a \"Magistus\" monster. You can only activate 1 \"Magistus Invocation\" per turn.",
+  "text": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material, including a Spellcaster monster. If Summoning a \"Magistus\" Fusion Monster this way, you can also use monsters in your Spell & Trap Zones that are equipped to a \"Magistus\" monster. You can only activate 1 \"Magistus Invocation\" per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34933456.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Normal"
+  "spell_type": "Normal",
+  "archetype": "Magistus"
 }

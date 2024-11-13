@@ -1,9 +1,9 @@
 {
   "id": 7084129,
-  "name": "Magician\u0027s Rod",
+  "name": "Magician's Rod",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can add 1 Spell/Trap from your Deck to your hand, that specifically lists the card \"Dark Magician\" in its text. During your opponent\u0027s turn, if you activate a Spell/Trap Card or effect while this card is in your GY (except during the Damage Step): You can Tribute 1 Spellcaster monster; add this card to your hand. You can only use each effect of \"Magician\u0027s Rod\" once per turn.",
+  "text": "When this card is Normal Summoned: You can add 1 Spell/Trap from your Deck to your hand, that specifically lists the card \"Dark Magician\" in its text. During your opponent's turn, if you activate a Spell/Trap Card or effect while this card is in your GY (except during the Damage Step): You can Tribute 1 Spellcaster monster; add this card to your hand. You can only use each effect of \"Magician's Rod\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7084129.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 100,
   "level": 3,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Dark Magician"
 }

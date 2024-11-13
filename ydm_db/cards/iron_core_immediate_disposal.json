@@ -3,10 +3,11 @@
   "name": "Iron Core Immediate Disposal",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Select and send 1 \"Iron Core of Koa\u0027ki Meiru\" from your Deck to your Graveyard.",
+  "text": "Select and send 1 \"Iron Core of Koa'ki Meiru\" from your Deck to your Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/63018036.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Normal"
+  "spell_type": "Normal",
+  "archetype": "Koa'ki Meiru"
 }

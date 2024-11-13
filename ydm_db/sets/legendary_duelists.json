@@ -319,5 +319,14 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Cyberdark",
+    "Red-Eyes",
+    "Bonding",
+    "Umi",
+    "Amazoness",
+    "Roid",
+    "Kuriboh"
   ]
 }

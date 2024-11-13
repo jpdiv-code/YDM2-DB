@@ -3,7 +3,7 @@
   "name": "Thermal Genex",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Genex Controller\" + 1 or more non-Tuner FIRE monsters\nThis card gains 200 ATK for each FIRE monster in your Graveyard. If this card destroys an opponent\u0027s monster by battle, inflict 200 damage to your opponent for each \"Genex\" monster in your Graveyard.",
+  "text": "\"Genex Controller\" + 1 or more non-Tuner FIRE monsters\nThis card gains 200 ATK for each FIRE monster in your Graveyard. If this card destroys an opponent's monster by battle, inflict 200 damage to your opponent for each \"Genex\" monster in your Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/6588580.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1200,
   "level": 8,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Genex"
 }

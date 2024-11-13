@@ -1,6 +1,6 @@
 {
   "id": 6004133,
-  "name": "Abyss Actors\u0027 Dress Rehearsal",
+  "name": "Abyss Actors' Dress Rehearsal",
   "is_illegal": false,
   "is_custom": false,
   "text": "At the start of your Main Phase 1: Add 1 \"Abyss Actor\" card and 1 \"Abyss Script\" Spell from your Deck to your hand. For the rest of this turn after this card resolves, you cannot Pendulum Summon monsters, except \"Abyss Actor\" monsters.",
@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/6004133.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Normal"
+  "spell_type": "Normal",
+  "archetype": "Abyss Actor"
 }

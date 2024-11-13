@@ -3,7 +3,7 @@
   "name": "Red Dragon Ninja",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Summoned: You can banish 1 \"Ninja\" or \"Ninjitsu Art\" card from your GY, then target 1 Set card your opponent controls; reveal that Set card, then return it to either the top or bottom of the Deck. Your opponent cannot activate the targeted card in response to this effect\u0027s activation. You can only use this effect of \"Red Dragon Ninja\" once per turn.",
+  "text": "When this card is Summoned: You can banish 1 \"Ninja\" or \"Ninjitsu Art\" card from your GY, then target 1 Set card your opponent controls; reveal that Set card, then return it to either the top or bottom of the Deck. Your opponent cannot activate the targeted card in response to this effect's activation. You can only use this effect of \"Red Dragon Ninja\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58165765.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1200,
   "level": 6,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Ninja"
 }

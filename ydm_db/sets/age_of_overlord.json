@@ -7,785 +7,819 @@
   "pull_type": "distribution",
   "distribution": "booster_pack_without_rare_with_starlight_rare",
   "cards": [
-  {
-    "id": 15845914,
-    "code": "AGOV-EN000",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 14513273,
-    "code": "AGOV-EN001",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 14513273,
-    "code": "AGOV-EN001",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 41908872,
-    "code": "AGOV-EN002",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 77392987,
-    "code": "AGOV-EN003",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 77392987,
-    "code": "AGOV-EN003",
-    "rarity": "Secret Rare",
-    "image_index": 0
-  },
-  {
-    "id": 14391625,
-    "code": "AGOV-EN004",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 14391625,
-    "code": "AGOV-EN004",
-    "rarity": "Secret Rare",
-    "image_index": 0
-  },
-  {
-    "id": 40785230,
-    "code": "AGOV-EN005",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 72270339,
-    "code": "AGOV-EN006",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 72270339,
-    "code": "AGOV-EN006",
-    "rarity": "Secret Rare",
-    "image_index": 0
-  },
-  {
-    "id": 9674034,
-    "code": "AGOV-EN007",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 45663742,
-    "code": "AGOV-EN008",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 12058741,
-    "code": "AGOV-EN009",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 48452496,
-    "code": "AGOV-EN010",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 48452496,
-    "code": "AGOV-EN010",
-    "rarity": "Secret Rare",
-    "image_index": 0
-  },
-  {
-    "id": 84941194,
-    "code": "AGOV-EN011",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 84941194,
-    "code": "AGOV-EN011",
-    "rarity": "Secret Rare",
-    "image_index": 0
-  },
-  {
-    "id": 11335209,
-    "code": "AGOV-EN012",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 11335209,
-    "code": "AGOV-EN012",
-    "rarity": "Secret Rare",
-    "image_index": 0
-  },
-  {
-    "id": 47330808,
-    "code": "AGOV-EN013",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 74725513,
-    "code": "AGOV-EN014",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 10113611,
-    "code": "AGOV-EN015",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 46518210,
-    "code": "AGOV-EN016",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 73602965,
-    "code": "AGOV-EN017",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 73602965,
-    "code": "AGOV-EN017",
-    "rarity": "Secret Rare",
-    "image_index": 0
-  },
-  {
-    "id": 9091064,
-    "code": "AGOV-EN018",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 9091064,
-    "code": "AGOV-EN018",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 46485778,
-    "code": "AGOV-EN019",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 72880377,
-    "code": "AGOV-EN020",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 72880377,
-    "code": "AGOV-EN020",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 9275482,
-    "code": "AGOV-EN021",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 35263180,
-    "code": "AGOV-EN022",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 71768839,
-    "code": "AGOV-EN023",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 8152834,
-    "code": "AGOV-EN024",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 34541543,
-    "code": "AGOV-EN025",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 71545247,
-    "code": "AGOV-EN026",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 7930346,
-    "code": "AGOV-EN027",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 33325951,
-    "code": "AGOV-EN028",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 60823690,
-    "code": "AGOV-EN029",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 6218704,
-    "code": "AGOV-EN030",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 6218704,
-    "code": "AGOV-EN030",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 33202303,
-    "code": "AGOV-EN031",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 69601012,
-    "code": "AGOV-EN032",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 95095116,
-    "code": "AGOV-EN033",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 32480825,
-    "code": "AGOV-EN034",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 32480825,
-    "code": "AGOV-EN034",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 68989420,
-    "code": "AGOV-EN035",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 68989420,
-    "code": "AGOV-EN035",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 95973569,
-    "code": "AGOV-EN036",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 95973569,
-    "code": "AGOV-EN036",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 21368273,
-    "code": "AGOV-EN037",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 21368273,
-    "code": "AGOV-EN037",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 67752972,
-    "code": "AGOV-EN038",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 94151981,
-    "code": "AGOV-EN039",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 94151981,
-    "code": "AGOV-EN039",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 20145685,
-    "code": "AGOV-EN040",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 20145685,
-    "code": "AGOV-EN040",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 67630394,
-    "code": "AGOV-EN041",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 67630394,
-    "code": "AGOV-EN041",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 93039339,
-    "code": "AGOV-EN042",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 93039339,
-    "code": "AGOV-EN042",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 29423048,
-    "code": "AGOV-EN043",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 29423048,
-    "code": "AGOV-EN043",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 56818742,
-    "code": "AGOV-EN044",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 92812851,
-    "code": "AGOV-EN045",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 29301450,
-    "code": "AGOV-EN046",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 29301450,
-    "code": "AGOV-EN046",
-    "rarity": "Secret Rare",
-    "image_index": 0
-  },
-  {
-    "id": 55795155,
-    "code": "AGOV-EN047",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 82190203,
-    "code": "AGOV-EN048",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 28189908,
-    "code": "AGOV-EN049",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 28189908,
-    "code": "AGOV-EN049",
-    "rarity": "Secret Rare",
-    "image_index": 0
-  },
-  {
-    "id": 54573517,
-    "code": "AGOV-EN050",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 81978611,
-    "code": "AGOV-EN051",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 17462320,
-    "code": "AGOV-EN052",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 54851325,
-    "code": "AGOV-EN053",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 80845034,
-    "code": "AGOV-EN054",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 80845034,
-    "code": "AGOV-EN054",
-    "rarity": "Secret Rare",
-    "image_index": 0
-  },
-  {
-    "id": 16240772,
-    "code": "AGOV-EN055",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 53639887,
-    "code": "AGOV-EN056",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 53639887,
-    "code": "AGOV-EN056",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 89023486,
-    "code": "AGOV-EN057",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 89023486,
-    "code": "AGOV-EN057",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 16528181,
-    "code": "AGOV-EN058",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 16528181,
-    "code": "AGOV-EN058",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 42516299,
-    "code": "AGOV-EN059",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 88901994,
-    "code": "AGOV-EN060",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 15306543,
-    "code": "AGOV-EN061",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 41790641,
-    "code": "AGOV-EN062",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 78789356,
-    "code": "AGOV-EN063",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 14283055,
-    "code": "AGOV-EN064",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 40678060,
-    "code": "AGOV-EN065",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 77066768,
-    "code": "AGOV-EN066",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 3461403,
-    "code": "AGOV-EN067",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 40456412,
-    "code": "AGOV-EN068",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 76840111,
-    "code": "AGOV-EN069",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 2339825,
-    "code": "AGOV-EN070",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 39733924,
-    "code": "AGOV-EN071",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 75728539,
-    "code": "AGOV-EN072",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 2116237,
-    "code": "AGOV-EN073",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 38511382,
-    "code": "AGOV-EN074",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 74906081,
-    "code": "AGOV-EN075",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 1490690,
-    "code": "AGOV-EN076",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 1490690,
-    "code": "AGOV-EN076",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 33499794,
-    "code": "AGOV-EN077",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 60883493,
-    "code": "AGOV-EN078",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 6278008,
-    "code": "AGOV-EN079",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 33676146,
-    "code": "AGOV-EN080",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 25131968,
-    "code": "AGOV-EN081",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 52126602,
-    "code": "AGOV-EN082",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 98520301,
-    "code": "AGOV-EN083",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 25919316,
-    "code": "AGOV-EN084",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 51303014,
-    "code": "AGOV-EN085",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 87498729,
-    "code": "AGOV-EN086",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 24892828,
-    "code": "AGOV-EN087",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 50281477,
-    "code": "AGOV-EN088",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 50281477,
-    "code": "AGOV-EN088",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 87676171,
-    "code": "AGOV-EN089",
-    "rarity": "Ultra Rare",
-    "image_index": 0
-  },
-  {
-    "id": 87676171,
-    "code": "AGOV-EN089",
-    "rarity": "Starlight Rare",
-    "image_index": 0
-  },
-  {
-    "id": 13070280,
-    "code": "AGOV-EN090",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 59069885,
-    "code": "AGOV-EN091",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 86553594,
-    "code": "AGOV-EN092",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 8910240,
-    "code": "AGOV-EN093",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 8085950,
-    "code": "AGOV-EN094",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 5916510,
-    "code": "AGOV-EN095",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 844056,
-    "code": "AGOV-EN096",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 36848764,
-    "code": "AGOV-EN097",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 72233469,
-    "code": "AGOV-EN098",
-    "rarity": "Common",
-    "image_index": 0
-  },
-  {
-    "id": 47961342,
-    "code": "AGOV-EN099",
-    "rarity": "Super Rare",
-    "image_index": 0
-  },
-  {
-    "id": 73355951,
-    "code": "AGOV-EN100",
-    "rarity": "Common",
-    "image_index": 0
+    {
+      "id": 15845914,
+      "code": "AGOV-EN000",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14513273,
+      "code": "AGOV-EN001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14513273,
+      "code": "AGOV-EN001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41908872,
+      "code": "AGOV-EN002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77392987,
+      "code": "AGOV-EN003",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77392987,
+      "code": "AGOV-EN003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14391625,
+      "code": "AGOV-EN004",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14391625,
+      "code": "AGOV-EN004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40785230,
+      "code": "AGOV-EN005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72270339,
+      "code": "AGOV-EN006",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72270339,
+      "code": "AGOV-EN006",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9674034,
+      "code": "AGOV-EN007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45663742,
+      "code": "AGOV-EN008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12058741,
+      "code": "AGOV-EN009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48452496,
+      "code": "AGOV-EN010",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48452496,
+      "code": "AGOV-EN010",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84941194,
+      "code": "AGOV-EN011",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84941194,
+      "code": "AGOV-EN011",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11335209,
+      "code": "AGOV-EN012",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11335209,
+      "code": "AGOV-EN012",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47330808,
+      "code": "AGOV-EN013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74725513,
+      "code": "AGOV-EN014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10113611,
+      "code": "AGOV-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46518210,
+      "code": "AGOV-EN016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73602965,
+      "code": "AGOV-EN017",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73602965,
+      "code": "AGOV-EN017",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9091064,
+      "code": "AGOV-EN018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9091064,
+      "code": "AGOV-EN018",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46485778,
+      "code": "AGOV-EN019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72880377,
+      "code": "AGOV-EN020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72880377,
+      "code": "AGOV-EN020",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9275482,
+      "code": "AGOV-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35263180,
+      "code": "AGOV-EN022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71768839,
+      "code": "AGOV-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8152834,
+      "code": "AGOV-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34541543,
+      "code": "AGOV-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71545247,
+      "code": "AGOV-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7930346,
+      "code": "AGOV-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33325951,
+      "code": "AGOV-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60823690,
+      "code": "AGOV-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6218704,
+      "code": "AGOV-EN030",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6218704,
+      "code": "AGOV-EN030",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33202303,
+      "code": "AGOV-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69601012,
+      "code": "AGOV-EN032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95095116,
+      "code": "AGOV-EN033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32480825,
+      "code": "AGOV-EN034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32480825,
+      "code": "AGOV-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68989420,
+      "code": "AGOV-EN035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68989420,
+      "code": "AGOV-EN035",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95973569,
+      "code": "AGOV-EN036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95973569,
+      "code": "AGOV-EN036",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21368273,
+      "code": "AGOV-EN037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21368273,
+      "code": "AGOV-EN037",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67752972,
+      "code": "AGOV-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94151981,
+      "code": "AGOV-EN039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94151981,
+      "code": "AGOV-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20145685,
+      "code": "AGOV-EN040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20145685,
+      "code": "AGOV-EN040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67630394,
+      "code": "AGOV-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67630394,
+      "code": "AGOV-EN041",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93039339,
+      "code": "AGOV-EN042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93039339,
+      "code": "AGOV-EN042",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29423048,
+      "code": "AGOV-EN043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29423048,
+      "code": "AGOV-EN043",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56818742,
+      "code": "AGOV-EN044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92812851,
+      "code": "AGOV-EN045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29301450,
+      "code": "AGOV-EN046",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29301450,
+      "code": "AGOV-EN046",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55795155,
+      "code": "AGOV-EN047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82190203,
+      "code": "AGOV-EN048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28189908,
+      "code": "AGOV-EN049",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28189908,
+      "code": "AGOV-EN049",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54573517,
+      "code": "AGOV-EN050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81978611,
+      "code": "AGOV-EN051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17462320,
+      "code": "AGOV-EN052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54851325,
+      "code": "AGOV-EN053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80845034,
+      "code": "AGOV-EN054",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80845034,
+      "code": "AGOV-EN054",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16240772,
+      "code": "AGOV-EN055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53639887,
+      "code": "AGOV-EN056",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53639887,
+      "code": "AGOV-EN056",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89023486,
+      "code": "AGOV-EN057",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89023486,
+      "code": "AGOV-EN057",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16528181,
+      "code": "AGOV-EN058",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16528181,
+      "code": "AGOV-EN058",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42516299,
+      "code": "AGOV-EN059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88901994,
+      "code": "AGOV-EN060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15306543,
+      "code": "AGOV-EN061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41790641,
+      "code": "AGOV-EN062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78789356,
+      "code": "AGOV-EN063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14283055,
+      "code": "AGOV-EN064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40678060,
+      "code": "AGOV-EN065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77066768,
+      "code": "AGOV-EN066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3461403,
+      "code": "AGOV-EN067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40456412,
+      "code": "AGOV-EN068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76840111,
+      "code": "AGOV-EN069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2339825,
+      "code": "AGOV-EN070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39733924,
+      "code": "AGOV-EN071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75728539,
+      "code": "AGOV-EN072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2116237,
+      "code": "AGOV-EN073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38511382,
+      "code": "AGOV-EN074",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74906081,
+      "code": "AGOV-EN075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1490690,
+      "code": "AGOV-EN076",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1490690,
+      "code": "AGOV-EN076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33499794,
+      "code": "AGOV-EN077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60883493,
+      "code": "AGOV-EN078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6278008,
+      "code": "AGOV-EN079",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33676146,
+      "code": "AGOV-EN080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25131968,
+      "code": "AGOV-EN081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52126602,
+      "code": "AGOV-EN082",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98520301,
+      "code": "AGOV-EN083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25919316,
+      "code": "AGOV-EN084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51303014,
+      "code": "AGOV-EN085",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87498729,
+      "code": "AGOV-EN086",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24892828,
+      "code": "AGOV-EN087",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50281477,
+      "code": "AGOV-EN088",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50281477,
+      "code": "AGOV-EN088",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87676171,
+      "code": "AGOV-EN089",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87676171,
+      "code": "AGOV-EN089",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13070280,
+      "code": "AGOV-EN090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59069885,
+      "code": "AGOV-EN091",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86553594,
+      "code": "AGOV-EN092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8910240,
+      "code": "AGOV-EN093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8085950,
+      "code": "AGOV-EN094",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5916510,
+      "code": "AGOV-EN095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 844056,
+      "code": "AGOV-EN096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36848764,
+      "code": "AGOV-EN097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72233469,
+      "code": "AGOV-EN098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47961342,
+      "code": "AGOV-EN099",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73355951,
+      "code": "AGOV-EN100",
+      "rarity": "Common",
+      "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gaia Knight",
+    "Starry Knight",
+    "Pendulum",
+    "Vanquish Soul",
+    "Nemleria",
+    "Odd-Eyes",
+    "Mannadium",
+    "Snake-Eye",
+    "Nouvelles",
+    "Tistina",
+    "T.G.",
+    "Ogdoadic",
+    "Visas",
+    "Transcendosaurus",
+    "Magician",
+    "Watt",
+    "Rose",
+    "Alien",
+    "Supreme King",
+    "Abyss-",
+    "Xyz",
+    "Synchro",
+    "Diabellstar",
+    "Veda",
+    "Labrynth",
+    "Chimera",
+    "Earthbound",
+    "Sinful Spoils",
+    "Shinobird",
+    "Hole",
+    "Horus",
+    "Lil-la"
   ]
 }

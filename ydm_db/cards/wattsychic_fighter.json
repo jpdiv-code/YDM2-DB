@@ -3,7 +3,7 @@
   "name": "Wattsychic Fighter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal or Special Summoned: You can target 1 card in your opponent\u0027s Graveyard; place it on either the top or bottom of their Deck. You can only use this effect of \"Wattsychic Fighter\" once per turn.",
+  "text": "When this card is Normal or Special Summoned: You can target 1 card in your opponent's Graveyard; place it on either the top or bottom of their Deck. You can only use this effect of \"Wattsychic Fighter\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81028112.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 300,
   "level": 3,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Watt"
 }

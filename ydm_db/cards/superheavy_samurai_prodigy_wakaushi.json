@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "If you have no Spells/Traps in your GY: You can place 1 \"Superheavy Samurai\" Pendulum Monster from your Deck in your Pendulum Zone, except \"Superheavy Samurai Prodigy Wakaushi\", then Special Summon this card. You can only use this effect of \"Superheavy Samurai Prodigy Wakaushi\" once per turn.\n[ Monster Effect ] If you have no Spells/Traps in your GY: You can discard 1 monster; Special Summon 1 \"Superheavy Samurai\" monster from your hand or Deck in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except \"Superheavy Samurai\" monsters. If this card is used as Synchro Material and added to the Extra Deck face-up: You can place this card in your Pendulum Zone. You can only use each monster effect of \"Superheavy Samurai Prodigy Wakaushi\" once per turn.",
   "pendulum_scale_left_blue": 8,
-  "pendulum_scale_right_red": 8
+  "pendulum_scale_right_red": 8,
+  "archetype": "Superheavy Samurai"
 }

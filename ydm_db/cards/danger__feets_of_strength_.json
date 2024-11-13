@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/83928661.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Equip"
+  "spell_type": "Equip",
+  "archetype": "Danger!"
 }

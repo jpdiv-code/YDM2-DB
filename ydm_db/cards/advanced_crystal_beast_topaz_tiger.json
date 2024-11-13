@@ -3,7 +3,7 @@
   "name": "Advanced Crystal Beast Topaz Tiger",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If \"Advanced Dark\" is not in the Field Zone, send this monster to the GY. All \"Advanced Crystal Beast\" monsters you control gain 400 ATK/DEF, also all face-up monsters your opponent controls lose 400 ATK/DEF. If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell \u0026 Trap Zone as a Continuous Spell, instead of sending it to the GY.",
+  "text": "If \"Advanced Dark\" is not in the Field Zone, send this monster to the GY. All \"Advanced Crystal Beast\" monsters you control gain 400 ATK/DEF, also all face-up monsters your opponent controls lose 400 ATK/DEF. If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72843899.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1000,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Advanced Crystal Beast"
 }

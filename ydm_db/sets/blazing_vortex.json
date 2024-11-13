@@ -667,5 +667,35 @@
       "rarity": "Starlight Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Warriors",
+    "Metalfoes",
+    "Trap Monster",
+    "Materiactor",
+    "Springans",
+    "Virtual World",
+    "Fabled",
+    "Tri-Brigade",
+    "Digital Bug",
+    "Paladins of Dragons",
+    "Dogmatika",
+    "Dragunity",
+    "Constellar",
+    "Windwitch",
+    "Ojama",
+    "War Rock",
+    "Wight",
+    "Archfiend",
+    "Dream Mirror",
+    "Dual Avatar",
+    "Machina",
+    "Armed Dragon",
+    "Golden Land",
+    "Greed",
+    "Ice Barrier",
+    "Eldlich",
+    "S-Force",
+    "Lil-la"
   ]
 }

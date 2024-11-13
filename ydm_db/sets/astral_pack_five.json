@@ -163,5 +163,16 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Book of",
+    "Mermail",
+    "Greed",
+    "Lightsworn",
+    "Gagaga",
+    "Geargia",
+    "Bujin",
+    "Spellbook",
+    "Jurrac"
   ]
 }

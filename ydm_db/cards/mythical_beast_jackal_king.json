@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "If you have no cards in your other Pendulum Zone: You can destroy this card, and if you do, Special Summon 1 face-up \"Mythical Beast\" Pendulum Monster from your Extra Deck, except \"Mythical Beast Jackal King\". You can only use this effect of \"Mythical Beast Jackal King\" once per turn.\n",
   "pendulum_scale_left_blue": 4,
-  "pendulum_scale_right_red": 4
+  "pendulum_scale_right_red": 4,
+  "archetype": "Mythical Beast"
 }

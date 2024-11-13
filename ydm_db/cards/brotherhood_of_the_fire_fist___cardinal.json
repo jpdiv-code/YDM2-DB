@@ -3,7 +3,7 @@
   "name": "Brotherhood of the Fire Fist - Cardinal",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 \"Fire Fist\" monsters\nYou can detach 2 materials from this card, then target 2 \"Fire Fist\" / \"Fire Formation\" cards in your GY and/or face-up field, and 2 cards in your opponent\u0027s GY and/or face-up field; shuffle those targets into the Deck. You can only use this effect of \"Brotherhood of the Fire Fist - Cardinal\" once per turn.",
+  "text": "2 Level 4 \"Fire Fist\" monsters\nYou can detach 2 materials from this card, then target 2 \"Fire Fist\" / \"Fire Formation\" cards in your GY and/or face-up field, and 2 cards in your opponent's GY and/or face-up field; shuffle those targets into the Deck. You can only use this effect of \"Brotherhood of the Fire Fist - Cardinal\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58504745.jpg"
   ],
@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 2200,
-  "rank": 4
+  "rank": 4,
+  "archetype": "Fire Fist"
 }

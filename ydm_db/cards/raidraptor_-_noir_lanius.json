@@ -4,7 +4,9 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "During your Main Phase, if this card was Normal or Special Summoned this turn: You can target 1 \"Raidraptor\" monster you control; add 1 \"Raidraptor\" monster with a different Level than that monster from your Deck to your hand. You can banish this card from your GY; increase or decrease the Levels of all \"Raidraptor\" monsters you currently control by 1. You can only use each effect of \"Raidraptor - Noir Lanius\" once per turn.",
-  "images": ["https://images.ygoprodeck.com/images/cards/99707692.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/99707692.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1600,
@@ -15,5 +17,6 @@
   "has_effect": true,
   "def": 500,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Raidraptor"
 }

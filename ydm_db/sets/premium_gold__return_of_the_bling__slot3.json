@@ -136,5 +136,17 @@
       "rarity": "Gold Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Elemental HERO",
+    "Herald",
+    "Naturia",
+    "Dark World",
+    "Blackwing",
+    "The Agent",
+    "Synchron",
+    "Hole",
+    "Gladiator Beast",
+    "Timelord"
   ]
 }

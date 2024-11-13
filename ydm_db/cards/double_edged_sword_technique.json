@@ -3,10 +3,11 @@
   "name": "Double-Edged Sword Technique",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 2 \"Six Samurai\" monsters in your GY; Special Summon those targets in Attack Position. During the End Phase of this turn, destroy them, and if you do, take damage equal to those destroyed monsters\u0027 ATK.",
+  "text": "Target 2 \"Six Samurai\" monsters in your GY; Special Summon those targets in Attack Position. During the End Phase of this turn, destroy them, and if you do, take damage equal to those destroyed monsters' ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/21007444.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Normal"
+  "trap_type": "Normal",
+  "archetype": "Six Samurai"
 }

@@ -74,7 +74,7 @@
       "image_index": 0
     },
     {
-      "id": 06990577,
+      "id": 6990577,
       "code": "MP20-011",
       "rarity": "Common",
       "image_index": 0
@@ -92,7 +92,7 @@
       "image_index": 0
     },
     {
-      "id": 03233859,
+      "id": 3233859,
       "code": "MP20-014",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -218,7 +218,7 @@
       "image_index": 0
     },
     {
-      "id": 09064354,
+      "id": 9064354,
       "code": "MP20-034",
       "rarity": "Common",
       "image_index": 0
@@ -350,13 +350,13 @@
       "image_index": 0
     },
     {
-      "id": 00816427,
+      "id": 816427,
       "code": "MP20-056",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 09794980,
+      "id": 9794980,
       "code": "MP20-057",
       "rarity": "Super Rare",
       "image_index": 0
@@ -368,7 +368,7 @@
       "image_index": 0
     },
     {
-      "id": 08972398,
+      "id": 8972398,
       "code": "MP20-059",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -380,7 +380,7 @@
       "image_index": 0
     },
     {
-      "id": 07850740,
+      "id": 7850740,
       "code": "MP20-061",
       "rarity": "Common",
       "image_index": 0
@@ -512,7 +512,7 @@
       "image_index": 0
     },
     {
-      "id": 09581215,
+      "id": 9581215,
       "code": "MP20-083",
       "rarity": "Rare",
       "image_index": 0
@@ -716,7 +716,7 @@
       "image_index": 0
     },
     {
-      "id": 06247535,
+      "id": 6247535,
       "code": "MP20-117",
       "rarity": "Super Rare",
       "image_index": 0
@@ -734,7 +734,7 @@
       "image_index": 0
     },
     {
-      "id": 05524387,
+      "id": 5524387,
       "code": "MP20-120",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -752,7 +752,7 @@
       "image_index": 0
     },
     {
-      "id": 05402805,
+      "id": 5402805,
       "code": "MP20-123",
       "rarity": "Common",
       "image_index": 0
@@ -770,7 +770,7 @@
       "image_index": 0
     },
     {
-      "id": 04280258,
+      "id": 4280258,
       "code": "MP20-126",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -998,7 +998,7 @@
       "image_index": 0
     },
     {
-      "id": 01980574,
+      "id": 1980574,
       "code": "MP20-164",
       "rarity": "Common",
       "image_index": 0
@@ -1010,7 +1010,7 @@
       "image_index": 0
     },
     {
-      "id": 05041348,
+      "id": 5041348,
       "code": "MP20-166",
       "rarity": "Prismatic Secret Rare",
       "image_index": 0
@@ -1460,7 +1460,7 @@
       "image_index": 0
     },
     {
-      "id": 06494106,
+      "id": 6494106,
       "code": "MP20-242",
       "rarity": "Ultra Rare",
       "image_index": 0
@@ -1507,5 +1507,53 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Kaiju",
+    "Elemental HERO",
+    "Guardragon",
+    "Unchained",
+    "Subterror",
+    "Infinitrack",
+    "Marincess",
+    "Knightmare",
+    "Roid",
+    "White",
+    "Endymion",
+    "Crusadia",
+    "Danger!",
+    "Salamangreat",
+    "Charmer",
+    "Mekk-Knight",
+    "Red-Eyes",
+    "Madolche",
+    "Valkyrie",
+    "Dinowrestler",
+    "Burning Abyss",
+    "Sky Striker",
+    "Dragunity",
+    "Trickstar",
+    "Tenyi",
+    "Magician",
+    "F.A.",
+    "Archfiend",
+    "Borrel",
+    "Flamvell",
+    "Witchcrafter",
+    "Evil Eye",
+    "Utopia",
+    "Time Thief",
+    "Destiny HERO",
+    "Mermail",
+    "Maju",
+    "Greed",
+    "Starliege",
+    "B.E.S.",
+    "Chaos",
+    "Gizmek",
+    "Rokket",
+    "Hole",
+    "Gladiator Beast",
+    "World Legacy"
   ]
 }

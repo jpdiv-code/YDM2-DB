@@ -3,7 +3,7 @@
   "name": "Heroic Champion - Gandiva",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 Warrior-Type monsters\nOnce per turn, when a Level 4 or lower monster(s) is Special Summoned to your opponent\u0027s side of the field (except during the Damage Step): You can detach 1 Xyz Material from this card; destroy that Special Summoned monster(s).",
+  "text": "2 Level 4 Warrior-Type monsters\nOnce per turn, when a Level 4 or lower monster(s) is Special Summoned to your opponent's side of the field (except during the Damage Step): You can detach 1 Xyz Material from this card; destroy that Special Summoned monster(s).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/48009503.jpg"
   ],
@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 1800,
-  "rank": 4
+  "rank": 4,
+  "archetype": "Heroic"
 }

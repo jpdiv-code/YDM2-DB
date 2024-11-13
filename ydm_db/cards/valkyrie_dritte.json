@@ -3,7 +3,7 @@
   "name": "Valkyrie Dritte",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal or Special Summoned: You can add 1 \"Valkyrie\" card from your Deck to your hand, except \"Valkyrie Dritte\". You can only use this effect of \"Valkyrie Dritte\" once per turn. Gains 200 ATK for each of your opponent\u0027s banished monsters.",
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Valkyrie\" card from your Deck to your hand, except \"Valkyrie Dritte\". You can only use this effect of \"Valkyrie Dritte\" once per turn. Gains 200 ATK for each of your opponent's banished monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/3026686.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1600,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Valkyrie"
 }

@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "If a monster(s) is Pendulum Summoned: Return this card from the Pendulum Zone to the hand.\n",
   "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "pendulum_scale_right_red": 1,
+  "archetype": "Martial Art Spirit"
 }

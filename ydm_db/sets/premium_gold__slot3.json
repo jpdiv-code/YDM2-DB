@@ -244,5 +244,18 @@
       "rarity": "Gold Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gravekeeper's",
+    "Stardust",
+    "Black Luster Soldier",
+    "Jinzo",
+    "Lightsworn",
+    "Dark World",
+    "Chaos",
+    "Blackwing",
+    "Monarch",
+    "Hole",
+    "Armed Dragon"
   ]
 }

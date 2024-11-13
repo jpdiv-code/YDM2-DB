@@ -3,7 +3,7 @@
   "name": "Heraldic Beast Basilisk",
   "is_illegal": false,
   "is_custom": false,
-  "text": "After damage calculation: Destroy any opponent\u0027s monster that battles this card.",
+  "text": "After damage calculation: Destroy any opponent's monster that battles this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/56921677.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1400,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Heraldic"
 }

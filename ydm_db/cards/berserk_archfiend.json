@@ -4,7 +4,9 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "You can target up to 2 face-up monsters you control, including a Fiend monster; Special Summon this card from your hand, and if you do, destroy those monsters. You can only use this effect of \"Berserk Archfiend\" once per turn. When a monster(s) is destroyed by this card's effect: You can target face-up monsters your opponent controls equal to the number destroyed; this card gains ATK equal to their combined original ATK, until the end of your next turn.",
-  "images": ["https://images.ygoprodeck.com/images/cards/13744068.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/13744068.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,
@@ -15,5 +17,6 @@
   "has_effect": true,
   "def": 0,
   "level": 6,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Archfiend"
 }

@@ -289,5 +289,21 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Magician",
+    "Black Luster Soldier",
+    "Jester",
+    "Egyptian God",
+    "Jinzo",
+    "Toon",
+    "Umi",
+    "Archfiend",
+    "Knight",
+    "Harpie",
+    "Dark Magician",
+    "Mask",
+    "Kuriboh",
+    "Anti"
   ]
 }

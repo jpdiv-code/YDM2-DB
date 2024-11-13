@@ -3,7 +3,7 @@
   "name": "Appliancer Breakerbuncle",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During damage calculation, if an \"Appliancer\" monster you control battles an opponent\u0027s monster (Quick Effect): You can discard this card; for that battle, that monster you control cannot be destroyed, also you take no battle damage. If an \"Appliancer\" monster(s) you control would be destroyed by a card effect, you can banish this card from your field or GY instead.",
+  "text": "During damage calculation, if an \"Appliancer\" monster you control battles an opponent's monster (Quick Effect): You can discard this card; for that battle, that monster you control cannot be destroyed, also you take no battle damage. If an \"Appliancer\" monster(s) you control would be destroyed by a card effect, you can banish this card from your field or GY instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5846183.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 0,
   "level": 1,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Appliancer"
 }

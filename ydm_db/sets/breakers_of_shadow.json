@@ -607,5 +607,34 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Destruction Sword",
+    "Kaiju",
+    "Cyber Dragon",
+    "Solemn",
+    "Melodious",
+    "Odd-Eyes",
+    "Roid",
+    "Performapal",
+    "Dracoslayer",
+    "Dark counterpart",
+    "Gaia The Fierce Knight",
+    "Red-Eyes",
+    "Toon",
+    "Superheavy",
+    "Traptrix",
+    "Magician",
+    "Black Luster Soldier",
+    "Blackwing",
+    "Ninja",
+    "Hi-Speedroid",
+    "Shiranui",
+    "Atlantean",
+    "Deskbot",
+    "Dinomist",
+    "Majespecter",
+    "Kozmo",
+    "Counter Fairy"
   ]
 }

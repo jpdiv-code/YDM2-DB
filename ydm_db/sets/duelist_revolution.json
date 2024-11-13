@@ -673,5 +673,21 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Fabled",
+    "Watt",
+    "Genex",
+    "Naturia",
+    "Greed",
+    "Archfiend",
+    "Amazoness",
+    "Solemn",
+    "Flamvell",
+    "Scrap",
+    "Ally of Justice",
+    "Guardian",
+    "D.D.",
+    "Anti"
   ]
 }

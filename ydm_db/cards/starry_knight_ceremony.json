@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/85590798.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Continuous"
+  "spell_type": "Continuous",
+  "archetype": "Starry Knight"
 }

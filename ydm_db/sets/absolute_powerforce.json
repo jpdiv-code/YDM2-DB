@@ -673,5 +673,24 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gravekeeper's",
+    "X-Saber",
+    "Greed",
+    "Cyber Dragon",
+    "Alien",
+    "Umi",
+    "Archfiend",
+    "Rose Dragon",
+    "Earthbound",
+    "Junk",
+    "Reptilianne",
+    "Nimble",
+    "Synchron",
+    "Djinn",
+    "Hole",
+    "Koa'ki Meiru",
+    "Worm"
   ]
 }

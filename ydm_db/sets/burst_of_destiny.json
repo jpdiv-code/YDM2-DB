@@ -618,12 +618,38 @@
       "code": "BODE-EN099",
       "rarity": "Common",
       "image_index": 0
-     },
-     {
+    },
+    {
       "id": 40044918,
       "code": "BODE-EN100",
       "rarity": "Starlight Rare",
       "image_index": 0
-     }
+    }
+  ],
+  "archetypes": [
+    "Elemental HERO",
+    "Starry Knight",
+    "Magistus",
+    "Branded",
+    "Ursarctic",
+    "Icejade",
+    "Sunvine",
+    "Beetrooper",
+    "Man-Eater Bug",
+    "Star",
+    "D.D.",
+    "Magikey",
+    "Borrel",
+    "Machina",
+    "Destiny HERO",
+    "Despia",
+    "Evil\u2605Twin",
+    "Floowandereeze",
+    "Swordsoul",
+    "Penguin",
+    "Cupid",
+    "Reptilianne",
+    "Rokket",
+    "Gunkan"
   ]
 }

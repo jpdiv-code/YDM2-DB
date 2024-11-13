@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "If you control \"Supreme King Z-ARC\", you take no damage. Once per turn, if you have \"Supreme King Gate Infinity\" in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 \"Polymerization\" Spell Card or \"Fusion\" Spell Card from your Deck to your hand.\n",
   "pendulum_scale_left_blue": 0,
-  "pendulum_scale_right_red": 0
+  "pendulum_scale_right_red": 0,
+  "archetype": "Supreme King"
 }

@@ -643,5 +643,21 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Djinn",
+    "Mecha Phantom Beast",
+    "Malicevorous",
+    "Greed",
+    "Noble Knight",
+    "Battlin' Boxer",
+    "Gagaga",
+    "Archfiend",
+    "Vampire",
+    "Monarch",
+    "Grepher",
+    "Duston",
+    "Bujin",
+    "Ghostrick"
   ]
 }

@@ -3,7 +3,7 @@
   "name": "Inzektor Dragonfly",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. If an Equip Card(s) is sent to your Graveyard while equipped to this card (except during the Damage Step): You can Special Summon 1 \"Inzektor\" monster from your Deck, except \"Inzektor Dragonfly\". While this card is equipped to a monster, that monster\u0027s Level is increased by 3.",
+  "text": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. If an Equip Card(s) is sent to your Graveyard while equipped to this card (except during the Damage Step): You can Special Summon 1 \"Inzektor\" monster from your Deck, except \"Inzektor Dragonfly\". While this card is equipped to a monster, that monster's Level is increased by 3.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68184115.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1800,
   "level": 3,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Inzektor"
 }

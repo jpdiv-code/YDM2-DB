@@ -3,7 +3,7 @@
   "name": "D/D/D Supreme King Kaiser",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Pendulum Summoned: All face-up cards your opponent currently controls have their effects negated, until the end of this turn. Once per turn, during your Main Phase, if this card was Pendulum Summoned this turn: You can target up to 2 cards in your Spell \u0026 Trap Zones; destroy them, and if you do, for each destroyed card, this card gains 1 additional attack during each Battle Phase this turn.",
+  "text": "If this card is Pendulum Summoned: All face-up cards your opponent currently controls have their effects negated, until the end of this turn. Once per turn, during your Main Phase, if this card was Pendulum Summoned this turn: You can target up to 2 cards in your Spell & Trap Zones; destroy them, and if you do, for each destroyed card, this card gains 1 additional attack during each Battle Phase this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/44186624.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2100,
   "level": 7,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "D/D"
 }

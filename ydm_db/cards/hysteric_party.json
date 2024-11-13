@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/77778835.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Continuous"
+  "trap_type": "Continuous",
+  "archetype": "Harpie"
 }

@@ -673,5 +673,28 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Elemental HERO",
+    "Resonator",
+    "Naturia",
+    "Vampire",
+    "Six Samurai",
+    "T.G.",
+    "Nordic",
+    "Frog",
+    "Power Tool",
+    "Archfiend",
+    "Karakuri",
+    "Junk",
+    "Blackwing",
+    "Scrap",
+    "Meklord",
+    "Greed",
+    "Morphtronic",
+    "Chaos",
+    "Rose Dragon",
+    "Synchron",
+    "Gladiator Beast"
   ]
 }

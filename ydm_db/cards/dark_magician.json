@@ -3,7 +3,7 @@
   "name": "Dark Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\u0027\u0027The ultimate wizard in terms of attack and defense.\u0027\u0027",
+  "text": "''The ultimate wizard in terms of attack and defense.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46986414.jpg",
     "https://images.ygoprodeck.com/images/cards/46986415.jpg",
@@ -25,5 +25,6 @@
   "has_effect": false,
   "def": 2100,
   "level": 7,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Dark Magician"
 }

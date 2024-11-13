@@ -571,5 +571,17 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Elemental HERO",
+    "Neo-Spacian",
+    "Alien",
+    "Dark World",
+    "Parshath",
+    "Six Samurai",
+    "Fairy",
+    "Spellbook",
+    "D.D.",
+    "Anti"
   ]
 }

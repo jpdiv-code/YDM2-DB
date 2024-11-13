@@ -157,5 +157,16 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Charmer",
+    "Phantom Knights",
+    "Toon",
+    "Madolche",
+    "Atlantean",
+    "Infernity",
+    "Raidraptor",
+    "U.A.",
+    "Super Quant"
   ]
 }

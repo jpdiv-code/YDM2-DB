@@ -3,7 +3,7 @@
   "name": "Elemental HERO Clayman",
   "is_illegal": false,
   "is_custom": false,
-  "text": "An Elemental HERO with a clay body built-to-last. He\u0027ll preserve his Elemental HERO colleagues at any cost.",
+  "text": "An Elemental HERO with a clay body built-to-last. He'll preserve his Elemental HERO colleagues at any cost.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/84327329.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": false,
   "def": 2000,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Elemental HERO"
 }

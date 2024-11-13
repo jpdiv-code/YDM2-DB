@@ -4,7 +4,9 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "2+ monsters, including a Link Monster\r\n(This card is always treated as a \"Sky Striker Ace\" card.)\r\nMust first be Link Summoned. Loses 3000 ATK while you have no Spells in your GY. When your opponent activates a card or effect as Chain Link 2 or higher (Quick Effect): You can banish 2 Spells from your hand and/or GY; negate that effect, then you can destroy 1 card your opponent controls. You can only use this effect of \"Surgical Striker - S.P.E.C.T.R.A.\" once per turn.",
-  "images": ["https://images.ygoprodeck.com/images/cards/23530726.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/23530726.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 3000,
@@ -14,5 +16,11 @@
   "ability": "",
   "has_effect": true,
   "link_rating": 4,
-  "link_arrows": ["Top", "Right", "Bottom", "Left"]
+  "link_arrows": [
+    "Top",
+    "Right",
+    "Bottom",
+    "Left"
+  ],
+  "archetype": "Sky Striker"
 }

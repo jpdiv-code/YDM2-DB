@@ -3,10 +3,11 @@
   "name": "The Weather Forecast",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is activated: You can place 1 \"The Weather\" Spell/Trap from your Deck face-up in your Spell \u0026 Trap Zone. You can only activate 1 \"The Weather Forecast\" per turn. You can only use each of the following effects of \"The Weather Forecast\" once per turn. You can use face-up \"The Weather\" cards in your Spell \u0026 Trap Zones as material to Link Summon a \"The Weather\" Link Monster, as if they were \"The Weather\" monsters. During your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 \"The Weather\" monster from your hand.",
+  "text": "When this card is activated: You can place 1 \"The Weather\" Spell/Trap from your Deck face-up in your Spell & Trap Zone. You can only activate 1 \"The Weather Forecast\" per turn. You can only use each of the following effects of \"The Weather Forecast\" once per turn. You can use face-up \"The Weather\" cards in your Spell & Trap Zones as material to Link Summon a \"The Weather\" Link Monster, as if they were \"The Weather\" monsters. During your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 \"The Weather\" monster from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/18720257.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Field"
+  "spell_type": "Field",
+  "archetype": "The Weather"
 }

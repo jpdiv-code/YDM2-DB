@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/79555535.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Field"
+  "spell_type": "Field",
+  "archetype": "Igknight"
 }

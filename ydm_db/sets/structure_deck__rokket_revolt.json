@@ -282,5 +282,11 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Lightsworn",
+    "Borrel",
+    "World Chalice",
+    "Rokket"
   ]
 }

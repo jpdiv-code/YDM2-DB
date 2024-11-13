@@ -3,7 +3,7 @@
   "name": "Chaos Archfiend",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 LIGHT Tuner + 1+ non-Tuner DARK monsters\nIf any card(s) have been banished this turn, this card gains 2000 ATK. This card can attack all monsters your opponent controls, once each, also banish any monster destroyed by battle with this card. If this card in its owner\u0027s control leaves the field because of an opponent\u0027s card: You can Special Summon 1 \"Chaos\" Synchro Monster from your Extra Deck, except \"Chaos Archfiend\". You can only use this effect of \"Chaos Archfiend\" once per turn.",
+  "text": "1 LIGHT Tuner + 1+ non-Tuner DARK monsters\nIf any card(s) have been banished this turn, this card gains 2000 ATK. This card can attack all monsters your opponent controls, once each, also banish any monster destroyed by battle with this card. If this card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 \"Chaos\" Synchro Monster from your Extra Deck, except \"Chaos Archfiend\". You can only use this effect of \"Chaos Archfiend\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13076804.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1800,
   "level": 8,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Chaos"
 }

@@ -3,7 +3,7 @@
   "name": "Vylon Soldier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card declares an attack: You can target monsters your opponent controls, up to the number of Equip Cards equipped to this card; change those targets\u0027 battle positions.",
+  "text": "When this card declares an attack: You can target monsters your opponent controls, up to the number of Equip Cards equipped to this card; change those targets' battle positions.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40619741.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1000,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Vylon"
 }

@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/14087893.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Quick-Play"
+  "spell_type": "Quick-Play",
+  "archetype": "Book of"
 }

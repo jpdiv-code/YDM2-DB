@@ -3,7 +3,7 @@
   "name": "Pot of The Forbidden",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: You can activate 1 of these effects;\n? Draw 2 cards.\n? Return all Spell and Trap Cards on the field to the hand.\n? Destroy all monsters your opponent controls.\n? Look at your opponent\u0027s hand, also shuffle 1 card from their hand into the Deck.\nYou can only use this effect of \"Pot of The Forbidden\" once per turn.",
+  "text": "FLIP: You can activate 1 of these effects;\n? Draw 2 cards.\n? Return all Spell and Trap Cards on the field to the hand.\n? Destroy all monsters your opponent controls.\n? Look at your opponent's hand, also shuffle 1 card from their hand into the Deck.\nYou can only use this effect of \"Pot of The Forbidden\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/91501248.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 3000,
   "level": 9,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Greed"
 }

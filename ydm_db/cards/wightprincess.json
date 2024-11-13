@@ -3,7 +3,7 @@
   "name": "Wightprincess",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card\u0027s name becomes \"Skull Servant\" while it is in the Graveyard. If this card is Normal or Special Summoned: You can send 1 \"Wightprince\" from your Deck to the Graveyard. During either player\u0027s turn: You can send this card from your hand or field to the Graveyard; all monsters currently on the field lose ATK and DEF equal to their own Level/Rank x 300, until the end of this turn.",
+  "text": "This card's name becomes \"Skull Servant\" while it is in the Graveyard. If this card is Normal or Special Summoned: You can send 1 \"Wightprince\" from your Deck to the Graveyard. During either player's turn: You can send this card from your hand or field to the Graveyard; all monsters currently on the field lose ATK and DEF equal to their own Level/Rank x 300, until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90243945.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 0,
   "level": 3,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Skull Servant"
 }

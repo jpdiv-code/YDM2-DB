@@ -4,7 +4,9 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "1 Level 4 or lower \"Genex\" monster\r\nYou can only Special Summon \"Repair Genex Controller(s)\" once per turn. If this card is Link Summoned: You can add 1 \"Genex\" monster from your GY to your hand. Once per Chain, if a \"Genex\" monster(s) is added to your hand, except by drawing it, you can (except during the Damage Step): Immediately after this effect resolves, Normal Summon 1 \"Genex\" monster, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Summon using a \"Genex\" Tuner as material.",
-  "images": ["https://images.ygoprodeck.com/images/cards/8173184.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/8173184.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,
@@ -14,5 +16,8 @@
   "ability": "",
   "has_effect": true,
   "link_rating": 1,
-  "link_arrows": ["Left"]
+  "link_arrows": [
+    "Left"
+  ],
+  "archetype": "Genex"
 }

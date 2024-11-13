@@ -282,5 +282,12 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Genex",
+    "Ice Barrier",
+    "Elemental Lord",
+    "Fishborg",
+    "Frog"
   ]
 }

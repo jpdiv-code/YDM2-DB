@@ -3,7 +3,7 @@
   "name": "Gizmek Kaku, the Supreme Shining Sky Stag",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a monster is in the Extra Monster Zone: You can Special Summon this card from your hand. You can target 1 face-up monster in the Extra Monster Zone; equip that face-up monster to this card (max. 1). When this card destroys an opponent\u0027s monster by battle: You can Special Summon 1 of your Monster Cards equipped to this card. You can only use each effect of \"Gizmek Kaku, the Supreme Shining Sky Stag\" once per turn.",
+  "text": "If a monster is in the Extra Monster Zone: You can Special Summon this card from your hand. You can target 1 face-up monster in the Extra Monster Zone; equip that face-up monster to this card (max. 1). When this card destroys an opponent's monster by battle: You can Special Summon 1 of your Monster Cards equipped to this card. You can only use each effect of \"Gizmek Kaku, the Supreme Shining Sky Stag\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/63633694.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2750,
   "level": 9,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Gizmek"
 }

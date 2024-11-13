@@ -571,5 +571,38 @@
       "rarity": "10000 Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Destruction Sword",
+    "Elemental HERO",
+    "Mecha Phantom Beast",
+    "Mystical Beast of the Forest",
+    "Lightsworn",
+    "Flower Cardian",
+    "Nekroz",
+    "Appliancer",
+    "Invoked",
+    "Fire Fist",
+    "Danger!",
+    "Salamangreat",
+    "Glacial Beast",
+    "Book of",
+    "Egyptian God",
+    "Jinzo",
+    "Red-Eyes",
+    "Madolche",
+    "Artifact",
+    "Junk",
+    "Malefic",
+    "Blackwing",
+    "Koa'ki Meiru",
+    "Numeron",
+    "Penguin",
+    "Ice Barrier",
+    "Chaos",
+    "Synchron",
+    "Guardian",
+    "Fossil",
+    "Utopia"
   ]
 }

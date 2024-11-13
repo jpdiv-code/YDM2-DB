@@ -127,5 +127,15 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "Sphinx",
+    "Red-Eyes",
+    "Umi",
+    "Vampire",
+    "Simorgh",
+    "Alligator",
+    "Dark Magician"
   ]
 }

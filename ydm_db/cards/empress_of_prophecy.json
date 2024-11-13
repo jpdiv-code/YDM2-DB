@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 1700,
-  "rank": 5
+  "rank": 5,
+  "archetype": "Spellbook"
 }

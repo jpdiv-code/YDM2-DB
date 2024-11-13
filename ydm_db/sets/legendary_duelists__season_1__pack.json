@@ -8,5 +8,23 @@
   "sub_sets": [
     "LDS1_P_1",
     "LDS1_P_2"
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "Gaia The Fierce Knight",
+    "Cyberdark",
+    "Red-Eyes",
+    "Toon",
+    "Parasite",
+    "Umi",
+    "Archfiend",
+    "Amazoness",
+    "Melffy",
+    "Malefic",
+    "Eyes Restrict",
+    "Alligator",
+    "Machina",
+    "Roid",
+    "Crystal Beast"
   ]
 }

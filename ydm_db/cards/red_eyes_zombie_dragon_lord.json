@@ -3,7 +3,7 @@
   "name": "Red-Eyes Zombie Dragon Lord",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Zombie Tuner + 1+ non-Tuner monsters\nDuring your opponent\u0027s turn (Quick Effect): You can target 1 Zombie monster in your GY, except \"Red-Eyes Zombie Dragon Lord\"; Special Summon it. If this card is in your GY: You can banish 1 Zombie monster you control; Special Summon this card. You can only use each effect of \"Red-Eyes Zombie Dragon Lord\" once per turn.",
+  "text": "1 Zombie Tuner + 1+ non-Tuner monsters\nDuring your opponent's turn (Quick Effect): You can target 1 Zombie monster in your GY, except \"Red-Eyes Zombie Dragon Lord\"; Special Summon it. If this card is in your GY: You can banish 1 Zombie monster you control; Special Summon this card. You can only use each effect of \"Red-Eyes Zombie Dragon Lord\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/38192988.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2400,
   "level": 10,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Red-Eyes"
 }

@@ -4,7 +4,9 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "If you do not control any face-up monsters, other than \"Memento\" monsters: You can Special Summon this card from your hand. During your Main Phase: You can destroy 1 \"Memento\" monster you control, and send any number of \"Memento\" monster(s) (with different names) from your Deck to the GY whose total Levels are less than or equal to the destroyed monster's original Level. You can only use each effect of \"Mementotlan Tatsunootoshigo\" once per turn.",
-  "images": ["https://images.ygoprodeck.com/images/cards/81677154.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/81677154.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1350,
@@ -15,5 +17,6 @@
   "has_effect": true,
   "def": 1600,
   "level": 5,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Memento"
 }

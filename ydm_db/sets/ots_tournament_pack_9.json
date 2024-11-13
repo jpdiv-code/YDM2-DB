@@ -157,5 +157,17 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gravekeeper's",
+    "Elemental HERO",
+    "Photon",
+    "Junk",
+    "Thunder Dragon",
+    "Sky Striker",
+    "T.G.",
+    "Galaxy-Eyes",
+    "Trickstar",
+    "Altergeist"
   ]
 }

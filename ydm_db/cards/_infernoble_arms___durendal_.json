@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/37478723.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Equip"
+  "spell_type": "Equip",
+  "archetype": "Noble Knight"
 }

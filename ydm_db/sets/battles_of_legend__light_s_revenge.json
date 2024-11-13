@@ -1,5 +1,5 @@
 {
-  "name": "Battles of Legend: Light\u0027s Revenge",
+  "name": "Battles of Legend: Light's Revenge",
   "code": "BLLR",
   "type": "60 Card Set",
   "date": "06-07-2017",
@@ -487,5 +487,39 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Elemental HERO",
+    "Lightsworn",
+    "Infernoid",
+    "Bujin",
+    "Odd-Eyes",
+    "Endymion",
+    "White",
+    "Performapal",
+    "Timelord",
+    "X-Saber",
+    "Gaia The Fierce Knight",
+    "Phantom Knights",
+    "Superheavy",
+    "Abyss Actor",
+    "Dragunity",
+    "Artifact",
+    "PSY-Frame",
+    "D/D",
+    "Archfiend",
+    "Galaxy-Eyes",
+    "Destiny HERO",
+    "Ninja",
+    "Anti",
+    "Mermail",
+    "Lswarm",
+    "Ice Barrier",
+    "Raidraptor",
+    "Vision HERO",
+    "-Eyes Dragon",
+    "Spellbook",
+    "Blue-Eyes",
+    "Gladiator Beast"
   ]
 }

@@ -631,5 +631,32 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Mecha Phantom Beast",
+    "Lightsworn",
+    "Butterspy",
+    "Butterfly",
+    "Dododo",
+    "Worm",
+    "Fabled",
+    "Madolche",
+    "Dragunity",
+    "Nordic",
+    "Jurrac",
+    "Watt",
+    "Archfiend",
+    "Junk",
+    "Blackwing",
+    "Infernity",
+    "Destiny HERO",
+    "Heroic",
+    "Meklord",
+    "Lswarm",
+    "Majestic",
+    "Ice Barrier",
+    "Priestess",
+    "Hole",
+    "D.D."
   ]
 }

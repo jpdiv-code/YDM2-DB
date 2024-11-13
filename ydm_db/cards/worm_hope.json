@@ -3,7 +3,7 @@
   "name": "Worm Hope",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: When this card is flipped face-up by an opponent\u0027s monster\u0027s attack, draw 1 card.\nWhen this card is sent from the field to the Graveyard, send 1 card from your hand to the Graveyard.",
+  "text": "FLIP: When this card is flipped face-up by an opponent's monster's attack, draw 1 card.\nWhen this card is sent from the field to the Graveyard, send 1 card from your hand to the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11159464.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1500,
   "level": 1,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Worm"
 }

@@ -283,5 +283,16 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Silent Swordsman",
+    "Silent Magician",
+    "Eyes Restrict",
+    "ABC",
+    "Dark Magician",
+    "Spirit Message",
+    "Blue-Eyes",
+    "Slime",
+    "Gadget"
   ]
 }

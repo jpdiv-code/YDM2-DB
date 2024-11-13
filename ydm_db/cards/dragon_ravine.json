@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/62265044.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Field"
+  "spell_type": "Field",
+  "archetype": "Dragunity"
 }

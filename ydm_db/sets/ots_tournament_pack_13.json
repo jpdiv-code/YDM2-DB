@@ -157,5 +157,16 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Power Tool",
+    "SPYRAL",
+    "Book of",
+    "Skull Servant",
+    "Traptrix",
+    "Scrap",
+    "Synchron",
+    "ABC",
+    "Hole"
   ]
 }

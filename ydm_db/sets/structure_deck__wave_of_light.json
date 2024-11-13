@@ -252,5 +252,14 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Herald",
+    "Parshath",
+    "Solemn",
+    "The Agent",
+    "Fairy",
+    "Counter Fairy",
+    "D.D."
   ]
 }

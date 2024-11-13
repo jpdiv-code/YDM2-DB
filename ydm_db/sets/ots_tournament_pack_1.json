@@ -169,5 +169,18 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Dracoslayer",
+    "Magician",
+    "Masked HERO",
+    "\"C\"",
+    "Cyber Dragon",
+    "Lightsworn",
+    "Skull Servant",
+    "Infernoid",
+    "Performapal",
+    "Blue-Eyes",
+    "Anti"
   ]
 }

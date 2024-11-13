@@ -276,5 +276,12 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gogogo",
+    "Penguin",
+    "Djinn",
+    "Hole",
+    "Guardian"
   ]
 }

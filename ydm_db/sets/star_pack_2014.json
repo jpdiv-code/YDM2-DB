@@ -607,5 +607,19 @@
       "rarity": "Starfoil Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Train",
+    "Gogogo",
+    "Nordic",
+    "Gagaga",
+    "Photon",
+    "Malefic",
+    "Bounzer",
+    "Djinn",
+    "Aesir",
+    "Dododo",
+    "Shark",
+    "Utopia"
   ]
 }

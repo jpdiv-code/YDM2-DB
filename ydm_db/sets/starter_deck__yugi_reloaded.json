@@ -306,5 +306,16 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Silent Swordsman",
+    "Book of",
+    "Greed",
+    "Dark World",
+    "Archfiend",
+    "Dark Magician",
+    "Hole",
+    "Kuriboh",
+    "Gadget"
   ]
 }

@@ -3,7 +3,7 @@
   "name": "Stellarknight Triverr",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 4 \"tellarknight\" monsters\nDuring the turn you Xyz Summon this card, you cannot Special Summon monsters, except \"tellarknight\" monsters. If this card is Xyz Summoned: Return all other cards on the field to the hand. Once per turn: You can detach 1 Xyz Material from this card; send 1 random card from your opponent\u0027s hand to the Graveyard. If this card with Xyz Material is sent to the Graveyard: You can target 1 \"tellarknight\" monster in your Graveyard; Special Summon it.",
+  "text": "3 Level 4 \"tellarknight\" monsters\nDuring the turn you Xyz Summon this card, you cannot Special Summon monsters, except \"tellarknight\" monsters. If this card is Xyz Summoned: Return all other cards on the field to the hand. Once per turn: You can detach 1 Xyz Material from this card; send 1 random card from your opponent's hand to the Graveyard. If this card with Xyz Material is sent to the Graveyard: You can target 1 \"tellarknight\" monster in your Graveyard; Special Summon it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42589641.jpg"
   ],
@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 2500,
-  "rank": 4
+  "rank": 4,
+  "archetype": "Stellarknight"
 }

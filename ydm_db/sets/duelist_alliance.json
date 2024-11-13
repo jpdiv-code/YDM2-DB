@@ -643,5 +643,33 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Lightsworn",
+    "Skull Servant",
+    "Monarch",
+    "Djinn",
+    "Melodious",
+    "Performapal",
+    "Yang Zing",
+    "Batteryman",
+    "Gaia The Fierce Knight",
+    "Superheavy",
+    "Burning Abyss",
+    "Magician",
+    "Artifact",
+    "Archfiend",
+    "The Agent",
+    "Battleguard",
+    "Armed Dragon",
+    "Shaddoll",
+    "Chaos",
+    "Deskbot",
+    "Fishborg",
+    "-Eyes Dragon",
+    "Stellarknight",
+    "Hole",
+    "Tellarknight",
+    "U.A."
   ]
 }

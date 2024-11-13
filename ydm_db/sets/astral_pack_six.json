@@ -175,5 +175,17 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Shaddoll",
+    "Madolche",
+    "Skull Servant",
+    "Superheavy",
+    "Traptrix",
+    "Infernity",
+    "Monarch",
+    "Bujin",
+    "Machina",
+    "Slime"
   ]
 }

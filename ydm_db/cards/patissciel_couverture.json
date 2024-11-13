@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "If you have no card in your other Pendulum Zone: You can place 1 face-up Pendulum Monster from your Extra Deck in your Pendulum Zone. You can only use this effect of \"Patissciel Couverture\" once per turn.\n[ Monster Effect ] 2 Pendulum Monsters\nIf this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
   "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "pendulum_scale_right_red": 1,
+  "archetype": "Patissciel"
 }

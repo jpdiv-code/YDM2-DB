@@ -607,5 +607,29 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Mecha Phantom Beast",
+    "Lyrilusc",
+    "Subterror",
+    "Amazoness",
+    "Nimble",
+    "Altergeist",
+    "Vendread",
+    "Fire King",
+    "Doriado",
+    "Krawler",
+    "Gouki",
+    "Trickstar",
+    "Ojama",
+    "Metaphys",
+    "F.A.",
+    "Borrel",
+    "SPYRAL",
+    "Mermail",
+    "Lunalight",
+    "Rokket",
+    "Bamboo Sword",
+    "World Legacy"
   ]
 }

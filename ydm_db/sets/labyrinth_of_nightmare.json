@@ -637,5 +637,18 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Slime",
+    "Greed",
+    "Umi",
+    "Darklord",
+    "Amazoness",
+    "Earthbound",
+    "Mask",
+    "Spirit Message",
+    "Guardian",
+    "Worm",
+    "Gadget"
   ]
 }

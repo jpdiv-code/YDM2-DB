@@ -3,7 +3,7 @@
   "name": "Lemon Magician Girl",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can Tribute 1 \"Magician Girl\" monster, except \"Lemon Magician Girl\"; add 1 Spellcaster-Type monster from your Deck to your hand. Once per turn, if this card is targeted for an attack: You can Special Summon 1 Spellcaster-Type monster from your hand, but its effects (if any) are negated, then change the attack target to it, and if you do, the attacking monster\u0027s ATK becomes half its current ATK.",
+  "text": "Once per turn: You can Tribute 1 \"Magician Girl\" monster, except \"Lemon Magician Girl\"; add 1 Spellcaster-Type monster from your Deck to your hand. Once per turn, if this card is targeted for an attack: You can Special Summon 1 Spellcaster-Type monster from your hand, but its effects (if any) are negated, then change the attack target to it, and if you do, the attacking monster's ATK becomes half its current ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34318086.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 600,
   "level": 2,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Magician Girl"
 }

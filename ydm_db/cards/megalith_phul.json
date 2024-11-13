@@ -3,7 +3,7 @@
   "name": "Megalith Phul",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Ritual Summon this card with a \"Megalith\" card. If this card is Ritual Summoned: You can target 1 Ritual Monster in your GY; this card\u0027s Level becomes the Level of that target, then add that target to your hand. During the Main Phase (Quick Effect): You can activate this effect; Ritual Summon 1 \"Megalith\" Ritual Monster from your hand or Deck by Tributing monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. You can only use each effect of \"Megalith Phul\" once per turn.",
+  "text": "You can Ritual Summon this card with a \"Megalith\" card. If this card is Ritual Summoned: You can target 1 Ritual Monster in your GY; this card's Level becomes the Level of that target, then add that target to your hand. During the Main Phase (Quick Effect): You can activate this effect; Ritual Summon 1 \"Megalith\" Ritual Monster from your hand or Deck by Tributing monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. You can only use each effect of \"Megalith Phul\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78990927.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2000,
   "level": 2,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Megalith"
 }

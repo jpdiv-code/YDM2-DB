@@ -9,5 +9,29 @@
     "PGLD_1",
     "PGLD_2",
     "PGLD_3"
+  ],
+  "archetypes": [
+    "Stardust",
+    "Lightsworn",
+    "Dark World",
+    "Gimmick Puppet",
+    "Monarch",
+    "Fire Fist",
+    "Egyptian God",
+    "Chronomaly",
+    "Jinzo",
+    "Forbidden",
+    "Power Tool",
+    "Gravekeeper's",
+    "Black Luster Soldier",
+    "Gagaga",
+    "Blackwing",
+    "Galaxy-Eyes",
+    "Fire Formation",
+    "Armed Dragon",
+    "Chaos",
+    "Hole",
+    "Shark",
+    "Utopia"
   ]
 }

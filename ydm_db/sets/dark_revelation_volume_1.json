@@ -1609,5 +1609,31 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Dark World",
+    "Amazoness",
+    "Koala",
+    "Roid",
+    "Dice",
+    "Blue-Eyes",
+    "Dark Magician",
+    "Ojama",
+    "Gravekeeper's",
+    "Magician",
+    "Archfiend",
+    "ABC",
+    "Ninja",
+    "Anti",
+    "Maju",
+    "Greed",
+    "Parasite",
+    "Chaos",
+    "Exodia",
+    "Dark Scorpion",
+    "Hole",
+    "Spellbook",
+    "Guardian",
+    "D.D."
   ]
 }

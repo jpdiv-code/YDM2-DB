@@ -3,7 +3,7 @@
   "name": "Muzurhythm the String Djinn",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 3 monsters\nWhen a \"Djinn\" Xyz Monster you control is attacking an opponent\u0027s monster, during the Damage Step: You can detach 1 Xyz Material from this card; the attacking monster\u0027s ATK is doubled until the End Phase. You can only use this effect of \"Muzurhythm the String Djinn\" once per turn.",
+  "text": "2 Level 3 monsters\nWhen a \"Djinn\" Xyz Monster you control is attacking an opponent's monster, during the Damage Step: You can detach 1 Xyz Material from this card; the attacking monster's ATK is doubled until the End Phase. You can only use this effect of \"Muzurhythm the String Djinn\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/26563200.jpg"
   ],
@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 1000,
-  "rank": 3
+  "rank": 3,
+  "archetype": "Djinn"
 }

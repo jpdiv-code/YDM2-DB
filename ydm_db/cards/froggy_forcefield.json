@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/34351849.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Normal"
+  "trap_type": "Normal",
+  "archetype": "Frog"
 }

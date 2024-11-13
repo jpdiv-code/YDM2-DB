@@ -673,5 +673,24 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Endymion",
+    "Stardust",
+    "Greed",
+    "Lightsworn",
+    "Majestic",
+    "Earthbound",
+    "Simorgh",
+    "Six Samurai",
+    "Blackwing",
+    "Infernity",
+    "Reptilianne",
+    "Synchron",
+    "Fortune Lady",
+    "Djinn",
+    "Koa'ki Meiru",
+    "Guardian",
+    "Frog"
   ]
 }

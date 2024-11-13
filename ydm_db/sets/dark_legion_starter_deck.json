@@ -252,5 +252,12 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Fabled",
+    "Hole",
+    "D/D",
+    "Archfiend",
+    "Mask"
   ]
 }

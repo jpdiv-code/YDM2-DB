@@ -655,5 +655,16 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gravekeeper's",
+    "Dice",
+    "Sphinx",
+    "Book of",
+    "Greed",
+    "Umi",
+    "Harpie",
+    "Dark Scorpion",
+    "Roid"
   ]
 }

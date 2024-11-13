@@ -127,5 +127,13 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gravekeeper's",
+    "B.E.S.",
+    "Dark World",
+    "The Agent",
+    "Blue-Eyes",
+    "D.D."
   ]
 }

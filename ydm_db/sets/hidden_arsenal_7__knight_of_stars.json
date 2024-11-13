@@ -427,5 +427,16 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Steelswarm",
+    "Lswarm",
+    "Gusto",
+    "Gishki",
+    "Constellar",
+    "D.D.",
+    "Gem-",
+    "Infestation",
+    "Laval"
   ]
 }

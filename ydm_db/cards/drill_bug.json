@@ -3,7 +3,7 @@
   "name": "Drill Bug",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card inflicts Battle Damage to your opponent\u0027s Life Points, you can select 1 \"Parasite Paracide\" card from your Deck, shuffle the Deck, and place \"Parasite Paracide\" on top of the Deck.",
+  "text": "When this card inflicts Battle Damage to your opponent's Life Points, you can select 1 \"Parasite Paracide\" card from your Deck, shuffle the Deck, and place \"Parasite Paracide\" on top of the Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/88733579.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 200,
   "level": 2,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Parasite"
 }

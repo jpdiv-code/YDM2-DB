@@ -3,7 +3,7 @@
   "name": "Destiny HERO - Defender",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During each of your opponent\u0027s Standby Phases: Your opponent draws 1 card. This card must be in face-up Defense Position to activate and to resolve this effect.",
+  "text": "During each of your opponent's Standby Phases: Your opponent draws 1 card. This card must be in face-up Defense Position to activate and to resolve this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54749427.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2700,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Destiny HERO"
 }

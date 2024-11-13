@@ -4,7 +4,10 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "(This card is always treated as a \"Battlin' Boxing\" card.)\r\nSpecial Summon 1 \"Battlin' Boxer\" monster from your hand, then you can destroy Spells/Traps on the field, up to the number of Xyz Monsters you control. You can only activate 1 \"Ring Announcer\" per turn.",
-  "images": ["https://images.ygoprodeck.com/images/cards/19544412.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/19544412.jpg"
+  ],
   "type": "Spell",
-  "spell_type": "Normal"
+  "spell_type": "Normal",
+  "archetype": "Battlin' Boxing"
 }

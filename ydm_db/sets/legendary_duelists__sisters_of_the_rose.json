@@ -343,5 +343,12 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Train",
+    "Cyber Angel",
+    "Lunalight",
+    "Rose Dragon",
+    "Harpie"
   ]
 }

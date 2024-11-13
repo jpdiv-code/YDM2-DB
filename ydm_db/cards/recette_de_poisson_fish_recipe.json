@@ -8,5 +8,6 @@
     "https://ms.yugipedia.com//thumb/c/c4/RecettedePoisson%28FishRecipe%29-WISU-EN-SR-1E.png/300px-RecettedePoisson%28FishRecipe%29-WISU-EN-SR-1E.png"
   ],
   "type": "Spell",
-  "spell_type": "Ritual"
+  "spell_type": "Ritual",
+  "archetype": "Recipe"
 }

@@ -3,7 +3,7 @@
   "name": "Aromage Laurel",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your LP are higher than your opponent\u0027s: You can Special Summon this card from your hand. If you gain LP: Target 1 non-Tuner Plant monster on the field; it is treated as a Tuner this turn. If this card is sent to the GY: You can gain 500 LP. You can only use each effect of \"Aromage Laurel\" once per turn.",
+  "text": "If your LP are higher than your opponent's: You can Special Summon this card from your hand. If you gain LP: Target 1 non-Tuner Plant monster on the field; it is treated as a Tuner this turn. If this card is sent to the GY: You can gain 500 LP. You can only use each effect of \"Aromage Laurel\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/14169843.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 0,
   "level": 1,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Aroma"
 }

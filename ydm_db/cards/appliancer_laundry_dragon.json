@@ -3,7 +3,7 @@
   "name": "Appliancer Laundry Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Appliancer\" monster\nCannot be used as Link Material the turn it is Link Summoned. Neither player takes any battle damage from attacks involving this card. Once per turn, after damage calculation, if this co-linked card battles an opponent\u0027s monster: You can banish that opponent\u0027s monster. Once per turn, after damage calculation, if this monster that is not co-linked battles an opponent\u0027s monster: You can destroy that opponent\u0027s monster, and if you do, inflict damage to your opponent equal to its original ATK.",
+  "text": "1 \"Appliancer\" monster\nCannot be used as Link Material the turn it is Link Summoned. Neither player takes any battle damage from attacks involving this card. Once per turn, after damage calculation, if this co-linked card battles an opponent's monster: You can banish that opponent's monster. Once per turn, after damage calculation, if this monster that is not co-linked battles an opponent's monster: You can destroy that opponent's monster, and if you do, inflict damage to your opponent equal to its original ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77102944.jpg"
   ],
@@ -18,5 +18,6 @@
   "link_rating": 1,
   "link_arrows": [
     "Top"
-  ]
+  ],
+  "archetype": "Appliancer"
 }

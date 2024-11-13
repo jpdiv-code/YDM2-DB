@@ -517,5 +517,16 @@
       "rarity": "Ultimate Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Charmer",
+    "Elemental HERO",
+    "Greed",
+    "Bonding",
+    "B.E.S.",
+    "Dark World",
+    "Knight",
+    "ABC",
+    "Ojama"
   ]
 }

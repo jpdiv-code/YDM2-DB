@@ -1,5 +1,5 @@
 {
-  "name": "Dinosmasher\u0027s Fury Structurr Deck",
+  "name": "Dinosmasher's Fury Structurr Deck",
   "code": "SR04",
   "type": "Structure Deck",
   "date": "13-04-2017",
@@ -252,5 +252,10 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Lswarm",
+    "Archfiend",
+    "Ojama"
   ]
 }

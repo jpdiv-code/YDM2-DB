@@ -673,5 +673,27 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Stardust",
+    "Elemental HERO",
+    "Resonator",
+    "Vylon",
+    "Solemn",
+    "Worm",
+    "\"C\"",
+    "Six Samurai",
+    "Harpie",
+    "Forbidden",
+    "Aesir",
+    "Nordic",
+    "Watt",
+    "Karakuri",
+    "Blackwing",
+    "Scrap",
+    "Mist Valley",
+    "Chaos",
+    "Symphonic Warrior",
+    "D.D."
   ]
 }

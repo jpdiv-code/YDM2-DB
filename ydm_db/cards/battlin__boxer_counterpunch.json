@@ -1,9 +1,9 @@
 {
   "id": 4549095,
-  "name": "Battlin\u0027 Boxer Counterpunch",
+  "name": "Battlin' Boxer Counterpunch",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During the Damage Step of either player\u0027s turn, when a \"Battlin\u0027 Boxer\" monster you control is attacking or being attacked: You can banish this card from your hand or Graveyard; that monster gains 1000 ATK, until the end of this turn. You can only use the effect of \"Battlin\u0027 Boxer Counterpunch\" once per turn.",
+  "text": "During the Damage Step of either player's turn, when a \"Battlin' Boxer\" monster you control is attacking or being attacked: You can banish this card from your hand or Graveyard; that monster gains 1000 ATK, until the end of this turn. You can only use the effect of \"Battlin' Boxer Counterpunch\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/4549095.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1100,
   "level": 3,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Battlin' Boxer"
 }

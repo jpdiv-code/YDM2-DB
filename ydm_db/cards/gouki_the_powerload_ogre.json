@@ -3,7 +3,7 @@
   "name": "Gouki The Powerload Ogre",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ Warrior monsters\nGains ATK equal to the combined Link Ratings of all other Link Monsters you control x 200. This Link Summoned card is unaffected by other cards\u0027 effects. You can Tribute 1 \"Gouki\" Link Monster, then target cards on the field, up to its Link Rating; destroy them. You can only use this effect of \"Gouki The Powerload Ogre\" once per turn.",
+  "text": "2+ Warrior monsters\nGains ATK equal to the combined Link Ratings of all other Link Monsters you control x 200. This Link Summoned card is unaffected by other cards' effects. You can Tribute 1 \"Gouki\" Link Monster, then target cards on the field, up to its Link Rating; destroy them. You can only use this effect of \"Gouki The Powerload Ogre\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11516241.jpg"
   ],
@@ -21,5 +21,6 @@
     "Bottom",
     "Bottom-Right",
     "Right"
-  ]
+  ],
+  "archetype": "Gouki"
 }

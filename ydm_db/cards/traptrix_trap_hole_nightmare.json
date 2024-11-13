@@ -3,10 +3,11 @@
   "name": "Traptrix Trap Hole Nightmare",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a monster that was Special Summoned this turn activates its effect on your opponent\u0027s field: Negate that effect, and if you do, destroy that card.",
+  "text": "When a monster that was Special Summoned this turn activates its effect on your opponent's field: Negate that effect, and if you do, destroy that card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/29616929.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Normal"
+  "trap_type": "Normal",
+  "archetype": "Traptrix"
 }

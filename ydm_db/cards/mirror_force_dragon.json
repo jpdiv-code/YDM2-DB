@@ -3,7 +3,7 @@
   "name": "Mirror Force Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Must be Special Summoned with \"The Fang of Critias\", using \"Mirror Force\". When a monster(s) you control is targeted for an attack or by an opponent\u0027s card effect (except during the Damage Step): You can destroy all cards your opponent controls.",
+  "text": "Must be Special Summoned with \"The Fang of Critias\", using \"Mirror Force\". When a monster(s) you control is targeted for an attack or by an opponent's card effect (except during the Damage Step): You can destroy all cards your opponent controls.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/84687358.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1200,
   "level": 8,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Legendary Knight"
 }

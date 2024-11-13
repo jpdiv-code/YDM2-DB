@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/86821010.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Normal"
+  "trap_type": "Normal",
+  "archetype": "Power Tool"
 }

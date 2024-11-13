@@ -607,5 +607,28 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Cyber Dragon",
+    "Noble Knight",
+    "Elemental Lord",
+    "Performapal",
+    "White",
+    "Crusadia",
+    "Danger!",
+    "Mekk-Knight",
+    "Impcantation",
+    "Gladiator Beast",
+    "Sky Striker",
+    "Krawler",
+    "Gouki",
+    "Dragunity",
+    "Frog",
+    "Metaphys",
+    "Borrel",
+    "Neo-Spacian",
+    "Rokket",
+    "Demise",
+    "World Legacy"
   ]
 }

@@ -246,5 +246,12 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Cipher",
+    "Cyber Dragon",
+    "Scrap",
+    "Machina",
+    "Gadget"
   ]
 }

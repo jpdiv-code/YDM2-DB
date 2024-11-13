@@ -3,7 +3,7 @@
   "name": "Dinomist Brachion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you do not control \"Dinomist Brachion\" in your Monster Zone and your opponent controls a monster that has the highest ATK on the field (even if it\u0027s tied), you can Special Summon this card (from your hand).",
+  "text": "If you do not control \"Dinomist Brachion\" in your Monster Zone and your opponent controls a monster that has the highest ATK on the field (even if it's tied), you can Special Summon this card (from your hand).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/368382.jpg"
   ],
@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "Once, while this card is in your Pendulum Zone, you can negate an activated card effect that targets another \"Dinomist\" card(s) you control, then destroy this card.\n",
   "pendulum_scale_left_blue": 6,
-  "pendulum_scale_right_red": 6
+  "pendulum_scale_right_red": 6,
+  "archetype": "Dinomist"
 }

@@ -4,7 +4,9 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "You can Tribute 1 \"T.G.\" monster; Special Summon 1 \"T.G.\" monster from your Deck with a different original name than that Tributed monster's. If you control a Machine \"T.G.\" monster: You can target 1 Level 4 or lower \"T.G.\" monster in your GY; Special Summon it in Defense Position, but negate its effects. You can only use each effect of \"T.G. Rocket Salamander\" once per turn.",
-  "images": ["https://images.ygoprodeck.com/images/cards/77392987.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/77392987.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 600,
@@ -15,5 +17,6 @@
   "has_effect": true,
   "def": 600,
   "level": 1,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "T.G."
 }

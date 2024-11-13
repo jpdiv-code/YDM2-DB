@@ -367,5 +367,16 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Fabled",
+    "Genex",
+    "Naturia",
+    "Ice Barrier",
+    "Flamvell",
+    "Ally of Justice",
+    "Mist Valley",
+    "Worm",
+    "Jurrac"
   ]
 }

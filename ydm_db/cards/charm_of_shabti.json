@@ -3,7 +3,7 @@
   "name": "Charm of Shabti",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During either player\u0027s turn: You can discard this card; until the End Phase, \"Gravekeeper\u0027s\" monsters you control cannot be destroyed by battle.",
+  "text": "During either player's turn: You can discard this card; until the End Phase, \"Gravekeeper's\" monsters you control cannot be destroyed by battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50412166.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 100,
   "level": 1,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Gravekeeper's"
 }

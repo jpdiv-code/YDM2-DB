@@ -1,5 +1,5 @@
 {
-  "name": "Yugi\u0027s Legendary Decks",
+  "name": "Yugi's Legendary Decks",
   "code": "YGLD",
   "type": "Legendary Decks",
   "date": "12-11-2015",
@@ -762,5 +762,21 @@
       "rarity": "Common",
       "image_index": 1
     }
+  ],
+  "archetypes": [
+    "Silent Swordsman",
+    "Gaia The Fierce Knight",
+    "Black Luster Soldier",
+    "Celtic Guard",
+    "Greed",
+    "Silent Magician",
+    "Archfiend",
+    "Exodia",
+    "Knight",
+    "Magnet Warrior",
+    "Dark Magician",
+    "Kuriboh",
+    "Gadget",
+    "Gandora"
   ]
 }

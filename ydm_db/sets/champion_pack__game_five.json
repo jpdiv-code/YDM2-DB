@@ -127,5 +127,10 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Dark Magician",
+    "D.D.",
+    "Anti"
   ]
 }

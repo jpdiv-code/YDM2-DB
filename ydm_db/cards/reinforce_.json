@@ -3,10 +3,11 @@
   "name": "REINFORCE!",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(This card is always treated as a \"Rescue-ACE\" card.)\nTarget 1 \"Rescue-ACE\" monster you control; until the end of this turn, that monster you control gains 1500 ATK/DEF, it is unaffected by your opponent\u0027s monster effects, also the next time it would be destroyed by battle, it is not destroyed. You can banish this card from your GY, then target 1 \"Rescue-ACE\" Spell in your GY; Set it to your field. You can only use this effect of \"REINFORCE!\" once per turn.",
+  "text": "(This card is always treated as a \"Rescue-ACE\" card.)\nTarget 1 \"Rescue-ACE\" monster you control; until the end of this turn, that monster you control gains 1500 ATK/DEF, it is unaffected by your opponent's monster effects, also the next time it would be destroyed by battle, it is not destroyed. You can banish this card from your GY, then target 1 \"Rescue-ACE\" Spell in your GY; Set it to your field. You can only use this effect of \"REINFORCE!\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71948047.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Normal"
+  "trap_type": "Normal",
+  "archetype": "Rescue-ACE"
 }

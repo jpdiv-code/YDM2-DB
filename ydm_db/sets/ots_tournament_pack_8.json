@@ -157,5 +157,16 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Artifact",
+    "Elemental HERO",
+    "Neo-Spacian",
+    "Windwitch",
+    "Sky Striker",
+    "Ojama",
+    "Bamboo Sword",
+    "Ninja",
+    "Demise"
   ]
 }

@@ -1477,5 +1477,32 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "Sacred Beast",
+    "Elemental HERO",
+    "Cyber Dragon",
+    "Dark World",
+    "Roid",
+    "Batteryman",
+    "Charmer",
+    "Herald",
+    "Bonding",
+    "Ojama",
+    "Frog",
+    "Photon",
+    "Archfiend",
+    "ABC",
+    "Destiny HERO",
+    "Greed",
+    "B.E.S.",
+    "Majestic",
+    "Knight",
+    "Hole",
+    "Kuriboh",
+    "Blue-Eyes",
+    "D.D.",
+    "Demise"
   ]
 }

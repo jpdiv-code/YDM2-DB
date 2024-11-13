@@ -637,5 +637,19 @@
       "rarity": "Ultimate Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Volcanic",
+    "Elemental HERO",
+    "Cyberdark",
+    "Venom",
+    "Alien",
+    "Neo-Spacian",
+    "Greed",
+    "Dark World",
+    "Chrysalis",
+    "Bamboo Sword",
+    "Ojama",
+    "Crystal Beast"
   ]
 }

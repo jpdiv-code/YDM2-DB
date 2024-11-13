@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/76587747.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Counter"
+  "trap_type": "Counter",
+  "archetype": "Time Thief"
 }

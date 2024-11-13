@@ -601,5 +601,22 @@
       "rarity": "Starfoil Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Magician",
+    "Hi-Speedroid",
+    "Edge Imp",
+    "D/D",
+    "Umi",
+    "Superheavy",
+    "Frightfur",
+    "Yosenju",
+    "Fluffal",
+    "-Eyes Dragon",
+    "Melodious",
+    "Odd-Eyes",
+    "Roid",
+    "Performapal",
+    "Gem-"
   ]
 }

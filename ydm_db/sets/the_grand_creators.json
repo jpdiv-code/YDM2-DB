@@ -34,7 +34,7 @@
     {
       "id": 55920742,
       "code": "GRCR-EN005",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -46,7 +46,7 @@
     {
       "id": 81914447,
       "code": "GRCR-EN006",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -64,7 +64,7 @@
     {
       "id": 44708154,
       "code": "GRCR-EN008",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -118,7 +118,7 @@
     {
       "id": 5352328,
       "code": "GRCR-EN016",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -130,7 +130,7 @@
     {
       "id": 42741437,
       "code": "GRCR-EN017",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -160,7 +160,7 @@
     {
       "id": 77913594,
       "code": "GRCR-EN021",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -190,7 +190,7 @@
     {
       "id": 3285551,
       "code": "GRCR-EN025",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -202,7 +202,7 @@
     {
       "id": 30680659,
       "code": "GRCR-EN026",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -226,7 +226,7 @@
     {
       "id": 39568067,
       "code": "GRCR-EN029",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -280,7 +280,7 @@
     {
       "id": 97946536,
       "code": "GRCR-EN037",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -292,7 +292,7 @@
     {
       "id": 69207766,
       "code": "GRCR-EN038",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -310,7 +310,7 @@
     {
       "id": 68184115,
       "code": "GRCR-EN040",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -406,7 +406,7 @@
     {
       "id": 67723438,
       "code": "GRCR-EN055",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -424,7 +424,7 @@
     {
       "id": 53582587,
       "code": "GRCR-EN057",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -442,7 +442,7 @@
     {
       "id": 40605147,
       "code": "GRCR-EN059",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -457,5 +457,13 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "P.U.N.K.",
+    "Solemn",
+    "Adventurer Token",
+    "Inzektor",
+    "Exosister",
+    "Virtual World"
   ]
 }

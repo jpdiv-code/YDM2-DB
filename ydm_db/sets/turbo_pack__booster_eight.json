@@ -133,5 +133,12 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Flamvell",
+    "Alligator",
+    "Guardian",
+    "Wind-Up",
+    "Gadget"
   ]
 }

@@ -607,5 +607,30 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Kaiju",
+    "Stardust",
+    "Amorphage",
+    "Fairy",
+    "Melodious",
+    "Odd-Eyes",
+    "Roid",
+    "Performapal",
+    "Fire King",
+    "Dracoslayer",
+    "Toon",
+    "Digital Bug",
+    "Geargia",
+    "Archfiend",
+    "Blackwing",
+    "Dracoverlord",
+    "Hi-Speedroid",
+    "Lunalight",
+    "Deskbot",
+    "Raidraptor",
+    "Dinomist",
+    "Kozmo",
+    "Blue-Eyes"
   ]
 }

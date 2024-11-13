@@ -1,5 +1,5 @@
 {
-  "name": "Warriors\u0027 Strike Structure Deck",
+  "name": "Warriors' Strike Structure Deck",
   "code": "SDWS",
   "type": "Structure Deck",
   "date": "23-10-2009",
@@ -246,5 +246,9 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Hole",
+    "D.D."
   ]
 }

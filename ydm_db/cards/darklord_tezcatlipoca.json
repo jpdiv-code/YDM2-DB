@@ -3,7 +3,7 @@
   "name": "Darklord Tezcatlipoca",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a \"Darklord\" monster(s) you control would be destroyed by battle or card effect, you can discard this card instead. During either player\u0027s turn: You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap Card in your Graveyard; apply that target\u0027s effect, then shuffle that target into the Deck. You can only use this effect of \"Darklord Tezcatlipoca\" once per turn. You can only Special Summon \"Darklord Tezcatlipoca(s)\" once per turn.",
+  "text": "If a \"Darklord\" monster(s) you control would be destroyed by battle or card effect, you can discard this card instead. During either player's turn: You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap Card in your Graveyard; apply that target's effect, then shuffle that target into the Deck. You can only use this effect of \"Darklord Tezcatlipoca\" once per turn. You can only Special Summon \"Darklord Tezcatlipoca(s)\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/88234365.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2100,
   "level": 9,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Darklord"
 }

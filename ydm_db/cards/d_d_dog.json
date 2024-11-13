@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "You can target 1 Fusion, Synchro, or Xyz Monster your opponent controls; negate its effects until the end of this turn, then destroy this card. You can only use this effect of \"D/D Dog\" once per turn.\n[ Monster Effect ] Once per turn, if your opponent Special Summons a Fusion, Synchro, or Xyz Monster(s) (except during the Damage Step): You can target 1 of those monsters; this turn, that face-up monster cannot attack, also its effects are negated.",
   "pendulum_scale_left_blue": 3,
-  "pendulum_scale_right_red": 3
+  "pendulum_scale_right_red": 3,
+  "archetype": "D/D"
 }

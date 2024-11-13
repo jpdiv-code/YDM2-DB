@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 4000,
-  "rank": 10
+  "rank": 10,
+  "archetype": "Utopia"
 }

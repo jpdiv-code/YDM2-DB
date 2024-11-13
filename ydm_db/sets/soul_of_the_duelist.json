@@ -517,5 +517,15 @@
       "rarity": "Ultimate Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Koala",
+    "Red-Eyes",
+    "Horus the Black Flame Dragon",
+    "Monarch",
+    "Ojama",
+    "Ninja",
+    "Armed Dragon",
+    "Madoor"
   ]
 }

@@ -637,5 +637,34 @@
       "rarity": "Starlight Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Fur Hire",
+    "Tearlaments",
+    "Runick",
+    "Branded",
+    "Pendulum",
+    "Ninjitsu Art",
+    "Amazoness",
+    "Dracoslayer",
+    "Tri-Brigade",
+    "Naturia",
+    "Bystial",
+    "Scareclaw",
+    "Prediction Princess",
+    "Martial Art Spirit",
+    "Archfiend",
+    "Vaylantz",
+    "Blackwing",
+    "Vernusylph",
+    "Ninja",
+    "Labrynth",
+    "Spright",
+    "Heart",
+    "From the Underworld",
+    "Kashtira",
+    "Adventurer Token",
+    "Bamboo Sword",
+    "Ghoti"
   ]
 }

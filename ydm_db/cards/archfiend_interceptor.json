@@ -3,7 +3,7 @@
   "name": "Archfiend Interceptor",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While you control this face-up Attack Position card, when an opponent\u0027s monster declares an attack, inflict 500 damage to your opponent.",
+  "text": "While you control this face-up Attack Position card, when an opponent's monster declares an attack, inflict 500 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/14430063.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1600,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Archfiend"
 }

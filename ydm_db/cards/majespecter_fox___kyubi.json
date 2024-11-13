@@ -3,7 +3,7 @@
   "name": "Majespecter Fox - Kyubi",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal or Special Summoned: You can add 1 \"Majespecter\" Trap Card from your Deck to your hand. You can only use this effect of \"Majespecter Fox - Kyubi\" once per turn. Cannot be targeted or destroyed by your opponent\u0027s card effects.",
+  "text": "When this card is Normal or Special Summoned: You can add 1 \"Majespecter\" Trap Card from your Deck to your hand. You can only use this effect of \"Majespecter Fox - Kyubi\" once per turn. Cannot be targeted or destroyed by your opponent's card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/94784213.jpg"
   ],
@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "",
   "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "pendulum_scale_right_red": 2,
+  "archetype": "Majespecter"
 }

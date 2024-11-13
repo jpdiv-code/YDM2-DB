@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 1800,
-  "rank": 3
+  "rank": 3,
+  "archetype": "Djinn"
 }

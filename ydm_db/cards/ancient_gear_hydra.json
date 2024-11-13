@@ -3,7 +3,7 @@
   "name": "Ancient Gear Hydra",
   "is_illegal": false,
   "is_custom": false,
-  "text": "At the end of the Damage Step, when this card that was Tribute Summoned by Tributing an \"Ancient Gear\" monster battles an opponent\u0027s monster, but the opponent\u0027s monster was not destroyed by the battle: You can banish that opponent\u0027s monster. If this card was Tribute Summoned by Tributing a \"Gadget\" monster, it can attack all monsters your opponent controls, once each. If an \"Ancient Gear\" monster you control attacks, your opponent\u0027s Spell/Trap Cards and monster effects cannot be activated until the end of the Damage Step.",
+  "text": "At the end of the Damage Step, when this card that was Tribute Summoned by Tributing an \"Ancient Gear\" monster battles an opponent's monster, but the opponent's monster was not destroyed by the battle: You can banish that opponent's monster. If this card was Tribute Summoned by Tributing a \"Gadget\" monster, it can attack all monsters your opponent controls, once each. If an \"Ancient Gear\" monster you control attacks, your opponent's Spell/Trap Cards and monster effects cannot be activated until the end of the Damage Step.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81269231.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1700,
   "level": 7,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Ancient Gear"
 }

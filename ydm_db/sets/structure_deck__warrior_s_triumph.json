@@ -1,5 +1,5 @@
 {
-  "name": "Structure Deck: Warrior\u0027s Triumph",
+  "name": "Structure Deck: Warrior's Triumph",
   "code": "SD5",
   "type": "Structure Deck",
   "date": "28-10-2005",
@@ -246,5 +246,13 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gaia The Fierce Knight",
+    "Celtic Guard",
+    "Dark World",
+    "D.D.",
+    "Guardian",
+    "Ninja"
   ]
 }

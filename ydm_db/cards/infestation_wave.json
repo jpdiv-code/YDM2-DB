@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/18816758.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Normal"
+  "trap_type": "Normal",
+  "archetype": "Infestation"
 }

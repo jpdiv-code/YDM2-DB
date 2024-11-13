@@ -19,5 +19,6 @@
   "rank": 8,
   "pendulum_text": "Once per turn, if you have a \"D/D\" card in your other Pendulum Zone: You can Special Summon 1 \"D/D/D\" Xyz Monster from your Extra Deck, except \"D/D/D Super Doom King Dark Armageddon\".\n",
   "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "pendulum_scale_right_red": 1,
+  "archetype": "D/D"
 }

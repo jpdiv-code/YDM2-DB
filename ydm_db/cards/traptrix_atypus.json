@@ -20,5 +20,6 @@
     "Left",
     "Bottom",
     "Right"
-  ]
+  ],
+  "archetype": "Traptrix"
 }

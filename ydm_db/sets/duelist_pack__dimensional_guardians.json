@@ -277,5 +277,17 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Edge Imp",
+    "Cipher",
+    "Cyber Angel",
+    "Resonator",
+    "Archfiend",
+    "Raidraptor",
+    "Fluffal",
+    "Odd-Eyes",
+    "Roid",
+    "Performapal"
   ]
 }

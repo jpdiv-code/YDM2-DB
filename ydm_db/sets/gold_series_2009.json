@@ -307,5 +307,17 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Magician",
+    "Volcanic",
+    "Elemental HERO",
+    "Armed Dragon",
+    "Six Samurai",
+    "Solemn",
+    "Monarch",
+    "Hole",
+    "Gladiator Beast",
+    "Frog"
   ]
 }

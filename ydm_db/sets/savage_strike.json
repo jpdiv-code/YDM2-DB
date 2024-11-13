@@ -607,5 +607,33 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Kaiju",
+    "Elemental HERO",
+    "Guardragon",
+    "Subterror",
+    "Resonator",
+    "Orcust",
+    "Performapal",
+    "Danger!",
+    "Salamangreat",
+    "Charmer",
+    "\"C\"",
+    "Madolche",
+    "Impcantation",
+    "Prank-Kids",
+    "Valkyrie",
+    "Six Samurai",
+    "Sky Striker",
+    "T.G.",
+    "Trickstar",
+    "Borrel",
+    "Time Thief",
+    "Greed",
+    "Shiranui",
+    "Synchron",
+    "Rokket",
+    "World Legacy"
   ]
 }

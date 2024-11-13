@@ -157,5 +157,19 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Black Luster Soldier",
+    "Rose",
+    "Cyber Dragon",
+    "Penguin",
+    "Simorgh",
+    "Junk",
+    "Scrap",
+    "Utopia",
+    "T.G.",
+    "Inzektor",
+    "Yang Zing",
+    "Tenyi"
   ]
 }

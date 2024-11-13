@@ -1,9 +1,9 @@
 {
   "id": 79867938,
-  "name": "Battlin\u0027 Boxer Headgeared",
+  "name": "Battlin' Boxer Headgeared",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can send 1 \"Battlin\u0027 Boxer\" monster from your Deck to the Graveyard. Once per turn, this face-up Attack Position card cannot be destroyed by battle.",
+  "text": "When this card is Normal Summoned: You can send 1 \"Battlin' Boxer\" monster from your Deck to the Graveyard. Once per turn, this face-up Attack Position card cannot be destroyed by battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/79867938.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1800,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Battlin' Boxer"
 }

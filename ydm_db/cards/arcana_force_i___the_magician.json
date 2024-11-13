@@ -3,7 +3,7 @@
   "name": "Arcana Force I - The Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Summoned, toss a coin:\n? Heads: When a Spell Card is activated, this card\u0027s ATK becomes double its original ATK until the End Phase of that turn.\n? Tails: When a Spell Card is activated, your opponent gains 500 Life Points.",
+  "text": "When this card is Summoned, toss a coin:\n? Heads: When a Spell Card is activated, this card's ATK becomes double its original ATK until the End Phase of that turn.\n? Tails: When a Spell Card is activated, your opponent gains 500 Life Points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8396952.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1100,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Arcana Force"
 }

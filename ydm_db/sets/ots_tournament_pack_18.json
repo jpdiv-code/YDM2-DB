@@ -157,5 +157,18 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "\"C\"",
+    "Phantom Knights",
+    "Impcantation",
+    "Dogmatika",
+    "Vampire",
+    "Inzektor",
+    "Dark Magician",
+    "Ghostrick",
+    "Destiny HERO",
+    "Nordic",
+    "Tenyi"
   ]
 }

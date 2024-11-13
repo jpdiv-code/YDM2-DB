@@ -3,7 +3,7 @@
   "name": "Kelbek the Ancient Vanguard",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a card(s) is sent from the hand and/or Deck to your opponent\u0027s GY (except during the Damage Step): You can target 1 opponent\u0027s Special Summoned monster; Special Summon this card from your hand, then return the targeted monster to the hand. If this card is sent from the hand or Deck to the GY: You can send the top 5 cards of each player\u0027s Deck to the GY, then, if \"Exchange of the Spirit\" is in your GY, you can Set 1 Trap from your GY. You can only use each effect of \"Kelbek the Ancient Vanguard\" once per turn.",
+  "text": "If a card(s) is sent from the hand and/or Deck to your opponent's GY (except during the Damage Step): You can target 1 opponent's Special Summoned monster; Special Summon this card from your hand, then return the targeted monster to the hand. If this card is sent from the hand or Deck to the GY: You can send the top 5 cards of each player's Deck to the GY, then, if \"Exchange of the Spirit\" is in your GY, you can Set 1 Trap from your GY. You can only use each effect of \"Kelbek the Ancient Vanguard\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/25926710.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1800,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Exchange of the Spirit"
 }

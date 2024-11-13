@@ -169,5 +169,18 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Kaiju",
+    "Phantom Knights",
+    "Prediction Princess",
+    "Vassal",
+    "Cyber Dragon",
+    "Archfiend",
+    "Monarch",
+    "Dark Magician",
+    "Mask",
+    "Ninja",
+    "Super Quant"
   ]
 }

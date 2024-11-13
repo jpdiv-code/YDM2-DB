@@ -8,5 +8,6 @@
     "https://ms.yugipedia.com//thumb/2/24/RecettedePersonnel%28StaffRecipe%29-WISU-EN-R-1E.png/300px-RecettedePersonnel%28StaffRecipe%29-WISU-EN-R-1E.png"
   ],
   "type": "Trap",
-  "trap_type": "Continuous"
+  "trap_type": "Continuous",
+  "archetype": "Recipe"
 }

@@ -1,6 +1,6 @@
 {
   "id": 36262024,
-  "name": "Black Dragon\u0027s Chick",
+  "name": "Black Dragon's Chick",
   "is_illegal": false,
   "is_custom": false,
   "text": "You can send this face-up card you control to the Graveyard; Special Summon 1 \"Red-Eyes B. Dragon\" from your hand.",
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 500,
   "level": 1,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Red-Eyes"
 }

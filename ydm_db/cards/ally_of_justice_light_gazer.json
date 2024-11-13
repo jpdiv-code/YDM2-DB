@@ -3,7 +3,7 @@
   "name": "Ally of Justice Light Gazer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1 or more non-Tuner monsters\nThis card gains 200 ATK for each LIGHT monster in your opponent\u0027s Graveyard.",
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nThis card gains 200 ATK for each LIGHT monster in your opponent's Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19204398.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1600,
   "level": 8,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Ally of Justice"
 }

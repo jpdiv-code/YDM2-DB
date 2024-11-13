@@ -292,5 +292,22 @@
       "rarity": "Gold Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Book of",
+    "Elemental HERO",
+    "Greed",
+    "Madolche",
+    "Lightsworn",
+    "Traptrix",
+    "Solemn",
+    "Exodia",
+    "Bujin",
+    "CXyz",
+    "Spellbook",
+    "Guardian",
+    "Sylvan",
+    "Timelord",
+    "Laval"
   ]
 }

@@ -3,7 +3,7 @@
   "name": "White Dragon Ninja",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned, except with a \"Ninjitsu Art\" card\u0027s effect. Spells/Traps you control cannot be destroyed by card effects.",
+  "text": "Cannot be Special Summoned, except with a \"Ninjitsu Art\" card's effect. Spells/Traps you control cannot be destroyed by card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/99212922.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1200,
   "level": 7,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Ninja"
 }

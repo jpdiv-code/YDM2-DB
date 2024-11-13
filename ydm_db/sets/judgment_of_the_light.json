@@ -643,5 +643,30 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Umbral Horror",
+    "Mecha Phantom Beast",
+    "Noble Knight",
+    "Duston",
+    "Fairy",
+    "Bujin",
+    "Fire King",
+    "Fire Fist",
+    "\"C\"",
+    "Super Defense Robot",
+    "Herald",
+    "Madolche",
+    "Traptrix",
+    "Archfiend",
+    "Junk",
+    "Star Seraph",
+    "Galaxy-Eyes",
+    "Fire Formation",
+    "Fishborg",
+    "Spellbook",
+    "D.D.",
+    "Shark",
+    "Utopia"
   ]
 }

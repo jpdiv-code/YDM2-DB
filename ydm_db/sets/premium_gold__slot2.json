@@ -112,5 +112,14 @@
       "rarity": "Gold Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Lightsworn",
+    "Gagaga",
+    "Galaxy-Eyes",
+    "Fire Formation",
+    "Forbidden",
+    "Shark",
+    "Fire Fist"
   ]
 }

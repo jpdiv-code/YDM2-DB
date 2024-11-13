@@ -270,5 +270,13 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "X-Saber",
+    "Gaia The Fierce Knight",
+    "Junk",
+    "Synchron",
+    "Hole",
+    "Worm"
   ]
 }

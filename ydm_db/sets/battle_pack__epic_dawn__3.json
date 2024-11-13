@@ -364,5 +364,22 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "Fabled",
+    "Sphinx",
+    "Gogogo",
+    "Arcana Force",
+    "Magician",
+    "Toon",
+    "Archfiend",
+    "Vampire",
+    "Parshath",
+    "Barbaros",
+    "Monarch",
+    "Wind-Up",
+    "D.D.",
+    "Jurrac"
   ]
 }

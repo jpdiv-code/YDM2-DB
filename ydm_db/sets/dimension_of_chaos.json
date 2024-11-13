@@ -643,5 +643,33 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Edge Imp",
+    "Igknight",
+    "Kaiju",
+    "Dark Contract",
+    "Pendulum",
+    "Frightfur",
+    "Performage",
+    "Odd-Eyes",
+    "Performapal",
+    "Dracoslayer",
+    "Gaia The Fierce Knight",
+    "Toon",
+    "Superheavy",
+    "Fluffal",
+    "Black Luster Soldier",
+    "D/D",
+    "Archfiend",
+    "Blackwing",
+    "Greed",
+    "Umi",
+    "Deskbot",
+    "Raidraptor",
+    "Graydle",
+    "Majespecter",
+    "Kozmo",
+    "Kuriboh"
   ]
 }

@@ -1,9 +1,9 @@
 {
   "id": 39037517,
-  "name": "Koa\u0027ki Meiru Beetle",
+  "name": "Koa'ki Meiru Beetle",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa\u0027ki Meiru\" from your hand to the Graveyard or reveal 1 Insect-Type monster in your hand. If a LIGHT or DARK monster is Special Summoned in Attack Position: Change that monster to Defense Position.",
+  "text": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Insect-Type monster in your hand. If a LIGHT or DARK monster is Special Summoned in Attack Position: Change that monster to Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/39037517.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1500,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Koa'ki Meiru"
 }

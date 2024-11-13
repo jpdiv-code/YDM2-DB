@@ -163,5 +163,18 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Naturia",
+    "Herald",
+    "Morphtronic",
+    "Amazoness",
+    "Trap Monster",
+    "Blackwing",
+    "Nimble",
+    "Sky Striker",
+    "Ninja",
+    "Despia",
+    "Gadget"
   ]
 }

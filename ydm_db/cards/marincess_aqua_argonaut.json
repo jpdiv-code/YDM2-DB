@@ -3,7 +3,7 @@
   "name": "Marincess Aqua Argonaut",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ WATER monsters\nYour opponent\u0027s monsters cannot attack other monsters while this card is in the Extra Monster Zone. You can only use each of the following effects of \"Marincess Aqua Argonaut\" once per turn. You can target 1 WATER monster you control and 1 card your opponent controls; return them to the hand. When a Spell/Trap Card or effect is activated on the field during your opponent\u0027s turn (Quick Effect): You can Special Summon 1 of your \"Marincess\" Monster Cards equipped to this card, and if you do, negate that activated effect.",
+  "text": "2+ WATER monsters\nYour opponent's monsters cannot attack other monsters while this card is in the Extra Monster Zone. You can only use each of the following effects of \"Marincess Aqua Argonaut\" once per turn. You can target 1 WATER monster you control and 1 card your opponent controls; return them to the hand. When a Spell/Trap Card or effect is activated on the field during your opponent's turn (Quick Effect): You can Special Summon 1 of your \"Marincess\" Monster Cards equipped to this card, and if you do, negate that activated effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20934852.jpg"
   ],
@@ -21,5 +21,6 @@
     "Bottom",
     "Right",
     "Top"
-  ]
+  ],
+  "archetype": "Marincess"
 }

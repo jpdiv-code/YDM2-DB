@@ -607,5 +607,31 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Elemental Lord",
+    "Flower Cardian",
+    "Monarch",
+    "Knightmare",
+    "Altergeist",
+    "Vendread",
+    "Crystal Beast",
+    "Batteryman",
+    "Mekk-Knight",
+    "Tindangle",
+    "Madolche",
+    "Darklord",
+    "Vampire",
+    "Gouki",
+    "Code Talker",
+    "Wind-Up",
+    "Elementsaber",
+    "F.A.",
+    "Martial Art Spirit",
+    "Inzektor",
+    "Shaddoll",
+    "Trickstar",
+    "Hole",
+    "World Legacy"
   ]
 }

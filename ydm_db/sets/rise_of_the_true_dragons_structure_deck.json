@@ -252,5 +252,13 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Herald",
+    "Red-Eyes",
+    "Lightsworn",
+    "Lswarm",
+    "Dragunity",
+    "Guardian"
   ]
 }

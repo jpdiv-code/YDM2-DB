@@ -102,7 +102,7 @@
       "rarity": "Common",
       "image_index": 0
     },
-     {
+    {
       "id": 59438930,
       "code": "SDAZ-EN017",
       "rarity": "Common",
@@ -282,5 +282,18 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Tri-Brigade",
+    "Kaiju",
+    "Artifact",
+    "Starliege",
+    "Red-Eyes",
+    "Greed",
+    "Swordsoul",
+    "Branded",
+    "Dogmatika",
+    "Albaz Dragon",
+    "Springans"
   ]
 }

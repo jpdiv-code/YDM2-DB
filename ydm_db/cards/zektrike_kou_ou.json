@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/97946536.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Normal"
+  "spell_type": "Normal",
+  "archetype": "Inzektor"
 }

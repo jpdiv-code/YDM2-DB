@@ -643,5 +643,32 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Igknight",
+    "Kaiju",
+    "Performage",
+    "Infernoid",
+    "Melodious",
+    "Performapal",
+    "Dracoslayer",
+    "Draconia",
+    "\"C\"",
+    "Red-Eyes",
+    "Toon",
+    "Superheavy",
+    "Fluffal",
+    "Magician",
+    "D/D",
+    "Archfiend",
+    "Hi-Speedroid",
+    "Aroma",
+    "Vassal",
+    "Deskbot",
+    "Raidraptor",
+    "-Eyes Dragon",
+    "Kozmo",
+    "Risebell",
+    "Gem-"
   ]
 }

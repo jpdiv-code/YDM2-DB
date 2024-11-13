@@ -1,5 +1,5 @@
 {
-  "name": "Magician\u0027s Force",
+  "name": "Magician's Force",
   "code": "MFC",
   "type": "Booster Pack (Series 1-3)",
   "date": "10-10-2003",
@@ -655,5 +655,20 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Magician",
+    "Dark World",
+    "Amazoness",
+    "Chaos",
+    "Dark Scorpion",
+    "ABC",
+    "Koala",
+    "Dark Magician",
+    "Hole",
+    "Spellbook",
+    "Blue-Eyes",
+    "D.D.",
+    "Anti"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Gladiator\u0027s Assault",
+  "name": "Gladiator's Assault",
   "code": "GLAS",
   "type": "Booster Pack (Series 5)",
   "date": "14-11-2007",
@@ -667,5 +667,18 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "Elemental HERO",
+    "Slime",
+    "Alien",
+    "Cloudian",
+    "Six Samurai",
+    "Dark Magician",
+    "Evil HERO",
+    "Roid",
+    "Bamboo Sword",
+    "Gladiator Beast"
   ]
 }

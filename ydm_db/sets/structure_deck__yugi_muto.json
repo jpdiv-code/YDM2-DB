@@ -276,5 +276,12 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Celtic Guard",
+    "Knight",
+    "Magnet Warrior",
+    "Dark Magician",
+    "Kuriboh"
   ]
 }

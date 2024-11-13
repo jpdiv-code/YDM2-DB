@@ -3,7 +3,7 @@
   "name": "Sunvine Gardna",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Plant Normal Monster\nIf a \"Sunavalon\" Link Monster you control leaves the field by card effect: Destroy this card. When an attack is declared involving this card, linked to a \"Sunavalon\" Link Monster, and an opponent\u0027s monster: You can activate this effect; the damage you take from that battle is halved. When this card is destroyed by battle: End the Battle Phase after the Damage Step.",
+  "text": "1 Plant Normal Monster\nIf a \"Sunavalon\" Link Monster you control leaves the field by card effect: Destroy this card. When an attack is declared involving this card, linked to a \"Sunavalon\" Link Monster, and an opponent's monster: You can activate this effect; the damage you take from that battle is halved. When this card is destroyed by battle: End the Battle Phase after the Damage Step.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28168762.jpg"
   ],
@@ -18,5 +18,6 @@
   "link_rating": 1,
   "link_arrows": [
     "Top"
-  ]
+  ],
+  "archetype": "Sunvine"
 }

@@ -282,5 +282,15 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gaia The Fierce Knight",
+    "Celtic Guard",
+    "Book of",
+    "Archfiend",
+    "Fairy",
+    "Dark Magician",
+    "Hole",
+    "Shark"
   ]
 }

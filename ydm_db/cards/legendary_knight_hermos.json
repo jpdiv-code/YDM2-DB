@@ -3,7 +3,7 @@
   "name": "Legendary Knight Hermos",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Legend of Heart\". When this card is Special Summoned: You can target 1 face-up Spell/Trap on the field; banish that target. Once per turn, when this card is targeted for an attack: You can target 1 Effect Monster in your GY; until the End Phase of your next turn, this card\u0027s name becomes that target\u0027s original name, and replace this effect with that target\u0027s original effects.",
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Legend of Heart\". When this card is Special Summoned: You can target 1 face-up Spell/Trap on the field; banish that target. Once per turn, when this card is targeted for an attack: You can target 1 Effect Monster in your GY; until the End Phase of your next turn, this card's name becomes that target's original name, and replace this effect with that target's original effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/84565800.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1800,
   "level": 8,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Legendary Knight"
 }

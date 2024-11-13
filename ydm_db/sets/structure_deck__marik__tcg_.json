@@ -258,5 +258,11 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gravekeeper's",
+    "Roid",
+    "Book of",
+    "Slime"
   ]
 }

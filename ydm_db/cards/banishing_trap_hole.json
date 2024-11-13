@@ -4,7 +4,10 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "When your opponent Summons a monster(s) with 1500 or less ATK: Banish that monster(s) with 1500 or less ATK, face-down.",
-  "images": ["https://images.ygoprodeck.com/images/cards/89569453.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/89569453.jpg"
+  ],
   "type": "Trap",
-  "trap_type": "Normal"
+  "trap_type": "Normal",
+  "archetype": "Trap Hole"
 }

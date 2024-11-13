@@ -673,5 +673,17 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Elemental HERO",
+    "Iron Chain",
+    "Archfiend",
+    "Morphtronic",
+    "Rose Dragon",
+    "Synchron",
+    "Hole",
+    "Blue-Eyes",
+    "Gladiator Beast",
+    "Gadget"
   ]
 }

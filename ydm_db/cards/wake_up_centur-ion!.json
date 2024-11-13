@@ -4,7 +4,10 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "If a face-up Monster Card is in your Spell & Trap Zone: Declare a Level of 4 or 8; Special Summon 1 \"Centur-Ion Token\" (Pyro/DARK/ATK 0/DEF 0) with that Level, but it cannot be used as Fusion or Link Material. During your Main Phase: You can banish this card from your GY; send 1 \"Centur-Ion\" card from your Deck to the GY, except \"Wake Up Centur-Ion!\". You can only use each effect of \"Wake Up Centur-Ion!\" once per turn.",
-  "images": ["https://images.ygoprodeck.com/images/cards/92907248.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/92907248.jpg"
+  ],
   "type": "Spell",
-  "spell_type": "Quick-Play"
+  "spell_type": "Quick-Play",
+  "archetype": "Centur-Ion"
 }

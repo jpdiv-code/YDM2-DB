@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "Pendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.\n[ Monster Effect ] While you have an even Pendulum Scale in your Pendulum Zone, you take no damage from battles involving your \"Solfachord\" Pendulum Monsters. If this card is Normal or Special Summoned: You can target 1 Spell/Trap your opponent controls; return it to the hand. You can only use this effect of \"MiSolfachord Eliteia\" once per turn.",
   "pendulum_scale_left_blue": 6,
-  "pendulum_scale_right_red": 6
+  "pendulum_scale_right_red": 6,
+  "archetype": "Solfachord"
 }

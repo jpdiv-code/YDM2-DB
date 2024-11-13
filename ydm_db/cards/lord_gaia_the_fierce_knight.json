@@ -3,7 +3,7 @@
   "name": "Lord Gaia the Fierce Knight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). Once per turn, if a monster(s) with ATK higher than this card is Special Summoned to your opponent\u0027s field (except during the Damage Step): You can make this card gain 700 ATK until the end of this turn.",
+  "text": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). Once per turn, if a monster(s) with ATK higher than this card is Special Summoned to your opponent's field (except during the Damage Step): You can make this card gain 700 ATK until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8910971.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2100,
   "level": 7,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Gaia The Fierce Knight"
 }

@@ -306,5 +306,18 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Gaia The Fierce Knight",
+    "Celtic Guard",
+    "Black Luster Soldier",
+    "Greed",
+    "Archfiend",
+    "Dark World",
+    "Grepher",
+    "Dark Magician",
+    "Hole",
+    "Kuriboh",
+    "Shark"
   ]
 }

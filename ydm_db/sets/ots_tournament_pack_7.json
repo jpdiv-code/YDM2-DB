@@ -163,5 +163,15 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Paleozoic",
+    "Magician",
+    "SPYRAL",
+    "Book of",
+    "Herald",
+    "Crystal Beast",
+    "Endymion",
+    "World Legacy"
   ]
 }

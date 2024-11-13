@@ -3,7 +3,7 @@
   "name": "Dyna, Hero Fur Hire",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Special Summoned: You can banish cards from your opponent\u0027s GY, up to the number of monsters \"Fur Hire\" you control with different names. You can only use this effect of \"Dyna, Hero Fur Hire\" once per turn. Monsters your opponent controls cannot target monsters \"Fur Hire\" you control for attacks, except this one.",
+  "text": "If this card is Special Summoned: You can banish cards from your opponent's GY, up to the number of monsters \"Fur Hire\" you control with different names. You can only use this effect of \"Dyna, Hero Fur Hire\" once per turn. Monsters your opponent controls cannot target monsters \"Fur Hire\" you control for attacks, except this one.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/25123713.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1400,
   "level": 6,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Fur Hire"
 }

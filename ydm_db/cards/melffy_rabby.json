@@ -3,7 +3,7 @@
   "name": "Melffy Rabby",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\u0027\u0027Rabby\u0027s up on that favorite stump again, looking all around the forest at all the fluffy friends! Do you like exploring, too? Good! Let\u0027s go find more Melffy friends with Rabby!\u0027\u0027",
+  "text": "''Rabby's up on that favorite stump again, looking all around the forest at all the fluffy friends! Do you like exploring, too? Good! Let's go find more Melffy friends with Rabby!''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20129614.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": false,
   "def": 2100,
   "level": 2,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Melffy"
 }

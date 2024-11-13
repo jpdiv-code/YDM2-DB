@@ -3,7 +3,7 @@
   "name": "Mythical Beast Master Cerberus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each time a Spell Card is activated, place 2 Spell Counters on this card when that Spell resolves. Cannot be destroyed by card effects while 4 or more Spell Counters are on your field. Once per turn: You can remove 4 Spell Counters from your field, then target 1 monster your opponent controls; banish it face-up, and if you do, this card gains ATK equal to the banished monster\u0027s original ATK until the end of the opponent\u0027s turn.",
+  "text": "Each time a Spell Card is activated, place 2 Spell Counters on this card when that Spell resolves. Cannot be destroyed by card effects while 4 or more Spell Counters are on your field. Once per turn: You can remove 4 Spell Counters from your field, then target 1 monster your opponent controls; banish it face-up, and if you do, this card gains ATK equal to the banished monster's original ATK until the end of the opponent's turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53842431.jpg"
   ],
@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "If you have no card in your other Pendulum Zone: You can destroy this card, and if you do, add 1 Level 7 or lower \"Mythical Beast\" Effect Monster from your Deck to your hand. You can only use this effect of \"Mythical Beast Master Cerberus\" once per turn.\n",
   "pendulum_scale_left_blue": 4,
-  "pendulum_scale_right_red": 4
+  "pendulum_scale_right_red": 4,
+  "archetype": "Mythical Beast"
 }

@@ -3,7 +3,7 @@
   "name": "Ojama Knight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Ojama\" monster + 1 \"Ojama\" monster\nSelect up to 2 of your opponent\u0027s Monster Card Zones. The selected zones cannot be used.",
+  "text": "1 \"Ojama\" monster + 1 \"Ojama\" monster\nSelect up to 2 of your opponent's Monster Card Zones. The selected zones cannot be used.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40391316.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2500,
   "level": 5,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Ojama"
 }

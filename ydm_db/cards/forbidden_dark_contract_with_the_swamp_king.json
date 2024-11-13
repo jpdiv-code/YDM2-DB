@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/10833828.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Continuous"
+  "spell_type": "Continuous",
+  "archetype": "D/D"
 }

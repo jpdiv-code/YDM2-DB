@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/56063182.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Field"
+  "spell_type": "Field",
+  "archetype": "Scareclaw"
 }

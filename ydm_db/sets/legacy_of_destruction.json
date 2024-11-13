@@ -757,5 +757,38 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "Ragnaraika",
+    "Fusion",
+    "Mirror Trap",
+    "Lightsworn",
+    "Pendulum",
+    "Djinn",
+    "Melodious",
+    "Sangen",
+    "Gandora",
+    "Circular",
+    "Tenpai Dragon",
+    "Voiceless Voice",
+    "Silent Swordsman",
+    "Snake-Eye",
+    "Shining Sarcophagus",
+    "Vaalmonica",
+    "Gadget",
+    "Wight",
+    "Silent Magician",
+    "Gold Pride",
+    "Archfiend",
+    "Ashened",
+    "Centur-Ion",
+    "Supreme King",
+    "Goblin",
+    "Battleguard",
+    "Earthbound",
+    "Memento",
+    "Fishborg",
+    "Sinful Spoils"
   ]
 }

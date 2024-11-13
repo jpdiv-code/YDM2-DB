@@ -3,7 +3,7 @@
   "name": "Performapal Whip Snake",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, during either player\u0027s Main Phase: You can target 1 face-up monster on the field; switch its current ATK and DEF until the end of this turn.",
+  "text": "Once per turn, during either player's Main Phase: You can target 1 face-up monster on the field; switch its current ATK and DEF until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/79967395.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 900,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Performapal"
 }

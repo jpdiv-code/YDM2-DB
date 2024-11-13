@@ -517,5 +517,12 @@
       "rarity": "Ultimate Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Batteryman",
+    "Elemental HERO",
+    "Herald",
+    "Majestic",
+    "Destiny HERO"
   ]
 }

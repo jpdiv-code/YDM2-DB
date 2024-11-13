@@ -517,5 +517,18 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "Charmer",
+    "Sphinx",
+    "Batteryman",
+    "Elemental HERO",
+    "Doriado",
+    "Ninja",
+    "Skull Servant",
+    "Guardian",
+    "D.D.",
+    "Worm"
   ]
 }

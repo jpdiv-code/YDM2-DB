@@ -517,5 +517,13 @@
       "rarity": "Ultimate Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Silent Swordsman",
+    "B.E.S.",
+    "Penguin",
+    "Dark World",
+    "Monarch",
+    "Harpie"
   ]
 }

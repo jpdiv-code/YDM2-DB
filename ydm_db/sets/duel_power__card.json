@@ -39,5 +39,12 @@
       "rarity": "Ultra Rare",
       "image_index": 1
     }
+  ],
+  "archetypes": [
+    "Stardust",
+    "Elemental HERO",
+    "-Eyes Dragon",
+    "Dark Magician",
+    "Code Talker"
   ]
 }

@@ -3,7 +3,7 @@
   "name": "CXyz Simon the Great Moral Leader",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 7 monsters\nThis card is unaffected by other monster effects. If this card has \"Norito the Moral Leader\" as an Xyz Material, it gains this effect.\n? Once per turn, during either player\u0027s turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; change its battle position, and if you do, negate its effects until the end of this turn.",
+  "text": "3 Level 7 monsters\nThis card is unaffected by other monster effects. If this card has \"Norito the Moral Leader\" as an Xyz Material, it gains this effect.\n? Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; change its battle position, and if you do, negate its effects until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/41147577.jpg"
   ],
@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 2500,
-  "rank": 7
+  "rank": 7,
+  "archetype": "CXyz"
 }

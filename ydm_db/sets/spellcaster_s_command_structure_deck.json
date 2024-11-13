@@ -1,5 +1,5 @@
 {
-  "name": "Spellcaster\u0027s Command Structure Deck",
+  "name": "Spellcaster's Command Structure Deck",
   "code": "SDSC",
   "type": "Structure Deck",
   "date": "31-03-2009",
@@ -246,5 +246,11 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Dark Magician",
+    "Magician",
+    "Endymion",
+    "Book of"
   ]
 }

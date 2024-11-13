@@ -157,5 +157,20 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Salamangreat",
+    "Hi-Speedroid",
+    "Maju",
+    "Fire Formation",
+    "Solemn",
+    "Dark Magician",
+    "Orcust",
+    "Time Thief",
+    "Fire Fist",
+    "Hole",
+    "Endymion",
+    "Crusadia",
+    "Tenyi"
   ]
 }

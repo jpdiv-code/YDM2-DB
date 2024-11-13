@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/92001300.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Continuous"
+  "spell_type": "Continuous",
+  "archetype": "Ancient Gear"
 }

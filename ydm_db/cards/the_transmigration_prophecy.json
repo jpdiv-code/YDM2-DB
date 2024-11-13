@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/46652477.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Normal"
+  "trap_type": "Normal",
+  "archetype": "Spellbook"
 }

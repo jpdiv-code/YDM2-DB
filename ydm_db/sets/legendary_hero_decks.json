@@ -906,5 +906,22 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Masked HERO",
+    "Elemental HERO",
+    "Phantom Knights",
+    "Lswarm",
+    "Butterspy",
+    "Solemn",
+    "Junk",
+    "Scrap",
+    "Burning Abyss",
+    "Forbidden",
+    "Hole",
+    "Destiny HERO",
+    "Aesir",
+    "Nordic",
+    "Heroic"
   ]
 }

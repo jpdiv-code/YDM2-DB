@@ -673,5 +673,24 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Mermail",
+    "Heraldic",
+    "Noble Knight",
+    "Madolche",
+    "Gagaga",
+    "Parasite",
+    "Penguin",
+    "Elemental Lord",
+    "Umi",
+    "Fishborg",
+    "Nimble",
+    "Duston",
+    "Forbidden",
+    "Spellbook",
+    "Ninja",
+    "Heroic",
+    "Shark"
   ]
 }

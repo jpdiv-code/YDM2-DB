@@ -667,5 +667,20 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Blue-Eyes",
+    "Toon",
+    "Vampire",
+    "Anti",
+    "Thunder Dragon",
+    "Monarch",
+    "ABC",
+    "Dragunity",
+    "Hole",
+    "Legendary Knight",
+    "D.D.",
+    "Armed Dragon",
+    "Utopia"
   ]
 }

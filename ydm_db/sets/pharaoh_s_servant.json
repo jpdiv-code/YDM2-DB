@@ -1,5 +1,5 @@
 {
-  "name": "Pharaoh\u0027s Servant",
+  "name": "Pharaoh's Servant",
   "code": "PSV",
   "type": "Booster Pack (Series 1-3)",
   "date": "20-10-2002",
@@ -637,5 +637,15 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Jinzo",
+    "Parasite",
+    "Umi",
+    "Archfiend",
+    "Vampire",
+    "Solemn",
+    "Eyes Restrict",
+    "Hole"
   ]
 }

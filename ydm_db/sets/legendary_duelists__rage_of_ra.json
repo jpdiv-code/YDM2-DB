@@ -355,5 +355,14 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Meklord",
+    "Egyptian God",
+    "Jinzo",
+    "Chaos",
+    "Blaze Accelerator",
+    "White",
+    "Slime"
   ]
 }

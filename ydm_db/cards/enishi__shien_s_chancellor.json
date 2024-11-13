@@ -1,6 +1,6 @@
 {
   "id": 38280762,
-  "name": "Enishi, Shien\u0027s Chancellor",
+  "name": "Enishi, Shien's Chancellor",
   "is_illegal": false,
   "is_custom": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 2 \"Six Samurai\" monsters from your GY. Once per turn: You can target 1 face-up monster; destroy that target. This card cannot attack the turn this effect is activated.",
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1200,
   "level": 6,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Six Samurai"
 }

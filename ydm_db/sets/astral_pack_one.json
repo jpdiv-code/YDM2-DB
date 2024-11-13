@@ -157,5 +157,18 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Genex",
+    "Masked HERO",
+    "Elemental HERO",
+    "Greed",
+    "Photon",
+    "Hieratic",
+    "Dark World",
+    "Six Samurai",
+    "Flamvell",
+    "Inzektor",
+    "Mist Valley"
   ]
 }

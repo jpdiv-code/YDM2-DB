@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/99397762.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Normal"
+  "trap_type": "Normal",
+  "archetype": "Cipher"
 }

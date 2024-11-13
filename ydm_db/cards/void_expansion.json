@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/34822850.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Field"
+  "spell_type": "Field",
+  "archetype": "Infernoid"
 }

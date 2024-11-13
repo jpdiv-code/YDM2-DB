@@ -295,5 +295,18 @@
       "rarity": "Rare",
       "image_index": 1
     }
+  ],
+  "archetypes": [
+    "Gaia The Fierce Knight",
+    "Celtic Guard",
+    "Egyptian God",
+    "Archfiend",
+    "Eyes Restrict",
+    "Exodia",
+    "ABC",
+    "Dark Magician",
+    "Hole",
+    "Kuriboh",
+    "Gandora"
   ]
 }

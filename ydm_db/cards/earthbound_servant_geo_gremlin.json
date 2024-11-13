@@ -4,7 +4,9 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "1 DARK Tuner + 1+ non-Tuner monsters\r\nDuring the Main Phase (Quick Effect): You can target 1 face-up monster your opponent controls; your opponent chooses 1 of these effects for you to apply.\r\n\u25cf Destroy that monster. \u25cf Gain LP equal to that monster's ATK.\r\nDuring the Battle Phase (Quick Effect): You can Fusion Summon 1 \"Earthbound\" Fusion Monster from your Extra Deck, by banishing its materials from your hand, field, and/or GY. You can only use each effect of \"Earthbound Servant Geo Gremlin\" once per turn.",
-  "images": ["https://images.ygoprodeck.com/images/cards/8690387.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/8690387.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,
@@ -15,5 +17,6 @@
   "has_effect": true,
   "def": 1000,
   "level": 6,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Earthbound"
 }

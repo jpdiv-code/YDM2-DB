@@ -3,7 +3,7 @@
   "name": "Genex Spare",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, if you control another \"Genex\" monster, you can make this card\u0027s name \"Genex Controller\" until the End Phase.",
+  "text": "Once per turn, if you control another \"Genex\" monster, you can make this card's name \"Genex Controller\" until the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16828633.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1200,
   "level": 3,
-  "is_tuner": true
+  "is_tuner": true,
+  "archetype": "Genex"
 }

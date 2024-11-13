@@ -239,12 +239,22 @@
       "code": "EGS1-037",
       "rarity": "Common",
       "image_index": 0
-    },	
+    },
     {
       "id": 59919307,
       "code": "EGS1-038",
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Book of",
+    "Egyptian God",
+    "Greed",
+    "Barbaros",
+    "Monarch",
+    "Harpie",
+    "Slime",
+    "Tenyi"
   ]
 }

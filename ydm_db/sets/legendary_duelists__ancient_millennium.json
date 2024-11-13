@@ -325,5 +325,16 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "Worm",
+    "Toon",
+    "Parasite",
+    "Eyes Restrict",
+    "ABC",
+    "Ojama",
+    "Armed Dragon",
+    "Crystal Beast"
   ]
 }

@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2500,
   "level": 8,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Swordsoul"
 }

@@ -733,5 +733,19 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Train",
+    "Cyber Dragon",
+    "Cyber Angel",
+    "Photon",
+    "Rose Dragon",
+    "Lunalight",
+    "Blackwing",
+    "Harpie",
+    "Galaxy-Eyes",
+    "Fairy",
+    "Abyss Actor",
+    "Blue-Eyes"
   ]
 }

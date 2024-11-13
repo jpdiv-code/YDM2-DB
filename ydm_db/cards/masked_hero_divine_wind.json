@@ -3,7 +3,7 @@
   "name": "Masked HERO Divine Wind",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. Cannot be destroyed by battle. Your opponent can attack with only 1 monster during each Battle Phase. When this card destroys an opponent\u0027s monster by battle and sends it to the Graveyard: You can draw 1 card.",
+  "text": "Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. Cannot be destroyed by battle. Your opponent can attack with only 1 monster during each Battle Phase. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/22093873.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1900,
   "level": 8,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Masked HERO"
 }

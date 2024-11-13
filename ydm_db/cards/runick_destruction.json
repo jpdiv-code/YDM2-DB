@@ -3,10 +3,11 @@
   "name": "Runick Destruction",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n? Target 1 Spell/Trap your opponent controls; destroy it, then banish the top 4 cards of your opponent\u0027s Deck.\n? Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Destruction\" per turn.",
+  "text": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n? Target 1 Spell/Trap your opponent controls; destroy it, then banish the top 4 cards of your opponent's Deck.\n? Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Destruction\" per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/94445733.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Quick-Play"
+  "spell_type": "Quick-Play",
+  "archetype": "Runick"
 }

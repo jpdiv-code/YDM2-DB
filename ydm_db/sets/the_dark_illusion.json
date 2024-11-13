@@ -607,5 +607,33 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Destruction Sword",
+    "Resonator",
+    "Subterror",
+    "Metalfoes",
+    "Frightfur",
+    "Triamid",
+    "Odd-Eyes",
+    "Performapal",
+    "Dracoslayer",
+    "Paleozoic",
+    "Toon",
+    "Aether",
+    "Train",
+    "Magician",
+    "Empowered Warrior",
+    "D/D",
+    "Archfiend",
+    "Blackwing",
+    "Ninja",
+    "SPYRAL",
+    "Greed",
+    "Shiranui",
+    "Lunalight",
+    "Dinomist",
+    "Dark Magician",
+    "Hole"
   ]
 }

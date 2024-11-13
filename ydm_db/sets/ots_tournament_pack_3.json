@@ -169,5 +169,19 @@
       "rarity": "Short Print",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Igknight",
+    "Cipher",
+    "Red-Eyes",
+    "Metalfoes",
+    "Chaos",
+    "Monarch",
+    "Ally of Justice",
+    "Odd-Eyes",
+    "Roid",
+    "D.D.",
+    "Frog",
+    "Super Quant"
   ]
 }

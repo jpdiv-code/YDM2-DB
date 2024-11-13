@@ -9,5 +9,19 @@
     "LDS2_C",
     "LDS2_P",
     "LDS2_P"
+  ],
+  "archetypes": [
+    "Train",
+    "Cyber Dragon",
+    "Cyber Angel",
+    "Photon",
+    "Rose Dragon",
+    "Lunalight",
+    "Blackwing",
+    "Harpie",
+    "Galaxy-Eyes",
+    "Fairy",
+    "Abyss Actor",
+    "Blue-Eyes"
   ]
 }

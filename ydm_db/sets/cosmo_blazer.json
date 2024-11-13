@@ -673,5 +673,26 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Noble Knight",
+    "Elemental Lord",
+    "Duston",
+    "Monarch",
+    "Dododo",
+    "Fire Fist",
+    "Heraldic",
+    "Jurrac",
+    "Gogogo",
+    "Gagaga",
+    "Photon",
+    "Blackwing",
+    "Infernity",
+    "Hazy",
+    "Fire Formation",
+    "Mermail",
+    "Spellbook",
+    "Shark",
+    "Utopia"
   ]
 }

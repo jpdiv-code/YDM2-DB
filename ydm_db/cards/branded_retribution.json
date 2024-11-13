@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/17751597.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Counter"
+  "trap_type": "Counter",
+  "archetype": "Branded"
 }

@@ -367,5 +367,17 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Dice",
+    "Hi-Speedroid",
+    "Stardust",
+    "PSY-Frame",
+    "Greed",
+    "Resonator",
+    "Archfiend",
+    "Rose Dragon",
+    "Ice Barrier",
+    "Roid"
   ]
 }

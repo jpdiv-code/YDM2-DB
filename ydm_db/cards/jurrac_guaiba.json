@@ -3,7 +3,7 @@
   "name": "Jurrac Guaiba",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card destroys an opponent\u0027s monster by battle: You can Special Summon 1 \"Jurrac\" monster with 1700 or less ATK from your Deck, but it cannot declare an attack this turn.",
+  "text": "If this card destroys an opponent's monster by battle: You can Special Summon 1 \"Jurrac\" monster with 1700 or less ATK from your Deck, but it cannot declare an attack this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11012887.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 400,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Jurrac"
 }

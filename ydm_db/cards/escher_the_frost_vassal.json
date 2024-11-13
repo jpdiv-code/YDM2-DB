@@ -3,7 +3,7 @@
   "name": "Escher the Frost Vassal",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your opponent controls 2 or more cards in their Spell \u0026 Trap Zones, you can Special Summon this card (from your hand).",
+  "text": "If your opponent controls 2 or more cards in their Spell & Trap Zones, you can Special Summon this card (from your hand).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/24326617.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 1000,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Vassal"
 }

@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/47274077.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Equip"
+  "spell_type": "Equip",
+  "archetype": "Elemental HERO"
 }

@@ -10,7 +10,7 @@
     {
       "id": 28711704,
       "code": "TOCH-001",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -22,7 +22,7 @@
     {
       "id": 64116319,
       "code": "TOCH-002",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -40,7 +40,7 @@
     {
       "id": 91500017,
       "code": "TOCH-003",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -58,7 +58,7 @@
     {
       "id": 27699122,
       "code": "TOCH-004",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -88,7 +88,7 @@
     {
       "id": 90488465,
       "code": "TOCH-006",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -100,7 +100,7 @@
     {
       "id": 26873574,
       "code": "TOCH-007",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -118,7 +118,7 @@
     {
       "id": 53871273,
       "code": "TOCH-008",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -130,7 +130,7 @@
     {
       "id": 99266988,
       "code": "TOCH-009",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -160,7 +160,7 @@
     {
       "id": 22091647,
       "code": "TOCH-012",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -268,7 +268,7 @@
     {
       "id": 72989439,
       "code": "TOCH-029",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -280,7 +280,7 @@
     {
       "id": 82301904,
       "code": "TOCH-030",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -322,7 +322,7 @@
     {
       "id": 38814750,
       "code": "TOCH-036",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -412,7 +412,7 @@
     {
       "id": 44508094,
       "code": "TOCH-050",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -460,7 +460,7 @@
     {
       "id": 35261759,
       "code": "TOCH-057",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -478,7 +478,7 @@
     {
       "id": 49238328,
       "code": "TOCH-059",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -493,5 +493,22 @@
       "rarity": "Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Magician",
+    "Edge Imp",
+    "Masked HERO",
+    "Black Luster Soldier",
+    "PSY-Frame",
+    "Elemental HERO",
+    "Toon",
+    "Noble Knight",
+    "Stardust",
+    "Greed",
+    "Chaos",
+    "Frightfur",
+    "Valkyrie",
+    "Fluffal",
+    "Code Talker"
   ]
 }

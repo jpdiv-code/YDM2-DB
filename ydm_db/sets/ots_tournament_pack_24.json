@@ -169,5 +169,17 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Mannadium",
+    "Purrely",
+    "Labrynth",
+    "Unchained",
+    "D/D",
+    "Chaos",
+    "Raidraptor",
+    "Vanquish Soul",
+    "Majespecter",
+    "Harpie"
   ]
 }

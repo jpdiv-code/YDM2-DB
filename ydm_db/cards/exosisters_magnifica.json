@@ -3,7 +3,7 @@
   "name": "Exosisters Magnifica",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Rank 4 \"Exosister\" Xyz Monsters\nMust be Xyz Summoned with the above Xyz Materials. This card can make a second attack during each Battle Phase. Once per turn (Quick Effect): You can detach 1 material from this card; banish 1 card your opponent controls. When your opponent activates a card or effect (Quick Effect): You can return 1 Xyz Monster attached to this card that you own to the Extra Deck, then you can Special Summon that monster from your Extra Deck using this face-up card you control as material. (This is treated as an Xyz Summon. Transfer this card\u0027s materials to the Summoned monster.)",
+  "text": "2 Rank 4 \"Exosister\" Xyz Monsters\nMust be Xyz Summoned with the above Xyz Materials. This card can make a second attack during each Battle Phase. Once per turn (Quick Effect): You can detach 1 material from this card; banish 1 card your opponent controls. When your opponent activates a card or effect (Quick Effect): You can return 1 Xyz Monster attached to this card that you own to the Extra Deck, then you can Special Summon that monster from your Extra Deck using this face-up card you control as material. (This is treated as an Xyz Summon. Transfer this card's materials to the Summoned monster.)",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59242457.jpg"
   ],
@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 2800,
-  "rank": 8
+  "rank": 8,
+  "archetype": "Exosister"
 }

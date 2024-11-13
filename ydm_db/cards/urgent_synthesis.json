@@ -3,10 +3,11 @@
   "name": "Urgent Synthesis",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Return 1 \"Iron Core of Koa\u0027ki Meiru\" from your Graveyard to the Deck. Special Summon 1 Level 4 or lower \"Koa\u0027ki Meiru\" monster from your hand or your Graveyard.",
+  "text": "Return 1 \"Iron Core of Koa'ki Meiru\" from your Graveyard to the Deck. Special Summon 1 Level 4 or lower \"Koa'ki Meiru\" monster from your hand or your Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/99002135.jpg"
   ],
   "type": "Spell",
-  "spell_type": "Normal"
+  "spell_type": "Normal",
+  "archetype": "Koa'ki Meiru"
 }

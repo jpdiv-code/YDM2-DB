@@ -8,5 +8,6 @@
     "https://api.cardcluster.com/storage/tmp/TMP-CARD-13301-c2bf609bb5.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Continuous"
+  "trap_type": "Continuous",
+  "archetype": "Ashened"
 }

@@ -1621,5 +1621,25 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Magician",
+    "Elemental HERO",
+    "Venom",
+    "Neo-Spacian",
+    "Cyber Dragon",
+    "Bonding",
+    "Darklord",
+    "Lightsworn",
+    "Chaos",
+    "Gladiator Beast",
+    "Six Samurai",
+    "Chaos Phantom",
+    "Yubel",
+    "Evil HERO",
+    "Kuriboh",
+    "D.D.",
+    "Destiny HERO",
+    "Crystal Beast"
   ]
 }

@@ -367,5 +367,17 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Hole",
+    "Phantom Knights",
+    "Gagaga",
+    "Raidraptor",
+    "Harpie",
+    "Bujin",
+    "Forbidden",
+    "Ghostrick",
+    "Gem-",
+    "Super Quant"
   ]
 }

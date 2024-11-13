@@ -277,5 +277,16 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Jinzo",
+    "Penguin",
+    "Dark World",
+    "Archfiend",
+    "Six Samurai",
+    "Dark Magician",
+    "Dark Scorpion",
+    "D.D.",
+    "Worm"
   ]
 }

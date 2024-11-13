@@ -739,5 +739,28 @@
       "rarity": "Starlight Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Fur Hire",
+    "Sacred Beast",
+    "Dark World",
+    "Virtual World",
+    "Charmer",
+    "Tri-Brigade",
+    "Phantom Knights",
+    "Myutant",
+    "Possessed",
+    "Dogmatika",
+    "Prank-Kids",
+    "Dual Avatar",
+    "Infernity",
+    "Infernoble Knight",
+    "Penguin",
+    "Cupid",
+    "Raidraptor",
+    "Gizmek",
+    "Melffy",
+    "U.A.",
+    "Nephthys"
   ]
 }

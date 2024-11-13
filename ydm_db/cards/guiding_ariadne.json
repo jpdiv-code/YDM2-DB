@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "Apply these effects.\n? You do not pay LP to activate Counter Trap Cards.\n? You do not discard to activate Counter Trap Cards.\n",
   "pendulum_scale_left_blue": 3,
-  "pendulum_scale_right_red": 3
+  "pendulum_scale_right_red": 3,
+  "archetype": "Counter Fairy"
 }

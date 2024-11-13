@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "During your Main Phase: You can destroy this card, and if you do, take 1 \"Timegazer Magician\" from your hand or Deck, and either place it in your Pendulum Zone or Special Summon it. You can only use this effect of \"Chronograph Sorcerer\" once per turn.\n",
   "pendulum_scale_left_blue": 8,
-  "pendulum_scale_right_red": 8
+  "pendulum_scale_right_red": 8,
+  "archetype": "Magician"
 }

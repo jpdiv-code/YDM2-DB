@@ -1,5 +1,5 @@
 {
-  "name": "Structure Deck: Dinosaur\u0027s Rage Special Set",
+  "name": "Structure Deck: Dinosaur's Rage Special Set",
   "code": "SD09_SS",
   "type": "Structure Deck",
   "date": "25-10-2006",
@@ -9,5 +9,16 @@
     "SD09",
     "POTD",
     "SD09_SS_C"
+  ],
+  "archetypes": [
+    "Magician",
+    "Volcanic",
+    "Elemental HERO",
+    "Neo-Spacian",
+    "Alien",
+    "Bonding",
+    "Chrysalis",
+    "Roid",
+    "Destiny HERO"
   ]
 }

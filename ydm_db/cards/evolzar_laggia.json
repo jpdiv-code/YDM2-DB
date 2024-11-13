@@ -3,7 +3,7 @@
   "name": "Evolzar Laggia",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 Dinosaur-Type monsters\nDuring either player\u0027s turn, when a monster(s) would be Normal or Special Summoned, OR a Spell/Trap Card is activated: You can detach 2 Xyz Materials from this card; negate the Summon or activation, and if you do, destroy that card.",
+  "text": "2 Level 4 Dinosaur-Type monsters\nDuring either player's turn, when a monster(s) would be Normal or Special Summoned, OR a Spell/Trap Card is activated: You can detach 2 Xyz Materials from this card; negate the Summon or activation, and if you do, destroy that card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74294676.jpg"
   ],
@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 2000,
-  "rank": 4
+  "rank": 4,
+  "archetype": "Evolzar"
 }

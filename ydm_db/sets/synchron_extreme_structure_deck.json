@@ -270,5 +270,12 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Genex",
+    "Stardust",
+    "Solemn",
+    "Junk",
+    "Synchron"
   ]
 }

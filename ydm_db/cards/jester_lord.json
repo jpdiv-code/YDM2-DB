@@ -3,7 +3,7 @@
   "name": "Jester Lord",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While this card is the only monster on the field, it gains 1000 ATK for each card in the Spell \u0026 Trap Card Zones.",
+  "text": "While this card is the only monster on the field, it gains 1000 ATK for each card in the Spell & Trap Card Zones.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72992744.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 0,
   "level": 1,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Jester"
 }

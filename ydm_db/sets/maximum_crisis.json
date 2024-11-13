@@ -607,5 +607,35 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Predaplant",
+    "Destruction Sword",
+    "Lyrilusc",
+    "Resonator",
+    "Pendulum",
+    "Subterror",
+    "Nekroz",
+    "Duston",
+    "Bujin",
+    "Roid",
+    "Performapal",
+    "Charmer",
+    "Phantom Knights",
+    "Zoodiac",
+    "Digital Bug",
+    "Magician",
+    "Artifact",
+    "D/D",
+    "Supreme King",
+    "Phantasm Spiral",
+    "Zefra",
+    "SPYRAL",
+    "True Draco",
+    "Atlantean",
+    "B.E.S.",
+    "Raidraptor",
+    "Dinomist",
+    "Sylvan"
   ]
 }

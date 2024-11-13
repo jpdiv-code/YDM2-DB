@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "If you have a \"Magician\" card in your other Pendulum Zone: You can add 1 face-up \"Magician\" or \"Odd-Eyes\" Pendulum Monster from your Extra Deck to your hand, except \"Oafdragon Magician\". You can only use this effect of \"Oafdragon Magician\" once per turn.\n",
   "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "pendulum_scale_right_red": 2,
+  "archetype": "Magician"
 }

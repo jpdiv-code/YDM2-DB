@@ -643,5 +643,35 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Edge Imp",
+    "Frightfur",
+    "Nekroz",
+    "Infernoid",
+    "Ritual Beast",
+    "Melodious",
+    "Butterfly",
+    "Performapal",
+    "Yang Zing",
+    "Draconia",
+    "Madolche",
+    "Superheavy",
+    "Burning Abyss",
+    "Harpie",
+    "Fluffal",
+    "Junk",
+    "Galaxy-Eyes",
+    "Zefra",
+    "Shaddoll",
+    "Greed",
+    "Deskbot",
+    "Yosenju",
+    "Raidraptor",
+    "Clear Wing",
+    "Stellarknight",
+    "Tellarknight",
+    "U.A.",
+    "Utopia"
   ]
 }

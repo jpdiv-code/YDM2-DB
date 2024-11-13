@@ -3,7 +3,7 @@
   "name": "Crimson Knight Vampire Bram",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 5 Zombie monsters\nYou can detach 1 material from this card, then target 1 monster in your opponent\u0027s GY; Special Summon that target to your field, but only that monster can attack for the rest of this turn. You can only use this effect of \"Crimson Knight Vampire Bram\" once per turn. Once per turn, during the Standby Phase of the next turn after this card you controlled was destroyed by your opponent\u0027s card and sent to your GY: Special Summon this card in Defense Position.",
+  "text": "2 Level 5 Zombie monsters\nYou can detach 1 material from this card, then target 1 monster in your opponent's GY; Special Summon that target to your field, but only that monster can attack for the rest of this turn. You can only use this effect of \"Crimson Knight Vampire Bram\" once per turn. Once per turn, during the Standby Phase of the next turn after this card you controlled was destroyed by your opponent's card and sent to your GY: Special Summon this card in Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/38250531.jpg"
   ],
@@ -16,5 +16,6 @@
   "ability": "",
   "has_effect": true,
   "def": 0,
-  "rank": 5
+  "rank": 5,
+  "archetype": "Vampire"
 }

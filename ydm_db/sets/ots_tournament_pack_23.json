@@ -169,5 +169,18 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Watt",
+    "Superheavy Samurai",
+    "Labrynth",
+    "Supreme King",
+    "Dinomorphia",
+    "Shinobird",
+    "T.G.",
+    "Ogdoadic",
+    "Rescue-ACE",
+    "Hole",
+    "D.D."
   ]
 }

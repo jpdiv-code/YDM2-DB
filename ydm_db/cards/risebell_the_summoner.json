@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "Once per turn: You can target 1 face-up monster on the field; increase its Level by 1 (even if this card leaves the field).\n",
   "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "pendulum_scale_right_red": 2,
+  "archetype": "Risebell"
 }

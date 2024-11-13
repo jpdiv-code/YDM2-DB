@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/98904974.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Counter"
+  "trap_type": "Counter",
+  "archetype": "Magikey"
 }

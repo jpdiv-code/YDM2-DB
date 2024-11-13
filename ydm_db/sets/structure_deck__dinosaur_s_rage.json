@@ -1,5 +1,5 @@
 {
-  "name": "Structure Deck: Dinosaur\u0027s Rage",
+  "name": "Structure Deck: Dinosaur's Rage",
   "code": "SD09",
   "type": "Structure Deck",
   "date": "20-10-2006",
@@ -222,5 +222,9 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Bonding",
+    "Volcanic"
   ]
 }

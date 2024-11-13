@@ -367,5 +367,15 @@
       "rarity": "Secret Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Fabled",
+    "Genex",
+    "Naturia",
+    "Ice Barrier",
+    "Ally of Justice",
+    "Dragunity",
+    "Worm",
+    "Jurrac"
   ]
 }

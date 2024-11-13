@@ -334,5 +334,13 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Book of",
+    "Greed",
+    "Lightsworn",
+    "Penguin",
+    "Archfiend",
+    "Forbidden"
   ]
 }

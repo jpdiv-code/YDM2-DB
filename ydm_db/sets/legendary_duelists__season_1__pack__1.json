@@ -664,5 +664,20 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Ancient Gear",
+    "Cyberdark",
+    "Red-Eyes",
+    "Toon",
+    "Parasite",
+    "Umi",
+    "Archfiend",
+    "Amazoness",
+    "Malefic",
+    "Eyes Restrict",
+    "Alligator",
+    "Roid",
+    "Crystal Beast"
   ]
 }

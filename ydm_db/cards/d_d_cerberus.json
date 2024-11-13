@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "Once per turn: You can target 1 \"D/D\" monster you control; change its Level to 4, and if you do, it gains 400 ATK and DEF (even if this card leaves the field).\n",
   "pendulum_scale_left_blue": 6,
-  "pendulum_scale_right_red": 6
+  "pendulum_scale_right_red": 6,
+  "archetype": "D/D"
 }

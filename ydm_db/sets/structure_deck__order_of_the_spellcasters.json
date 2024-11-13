@@ -258,5 +258,14 @@
       "rarity": "Super Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Magician",
+    "Spellbook",
+    "Greed",
+    "Gagaga",
+    "Dark Magician",
+    "Endymion",
+    "Mythical Beast"
   ]
 }

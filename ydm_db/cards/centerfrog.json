@@ -3,7 +3,7 @@
   "name": "Centerfrog",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon. If this card is Normal or Flip Summoned: Change it to Defense Position. Once per turn: You can target 1 monster in your opponent\u0027s Main Monster Zone; give your opponent control of this Defense Position card by moving it to their zone adjacent to the target, then if your opponent controls exactly 2 \"Centerfrog\" in the Main Monster Zone, gain control of all monsters in between those 2 cards.",
+  "text": "Cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon. If this card is Normal or Flip Summoned: Change it to Defense Position. Once per turn: You can target 1 monster in your opponent's Main Monster Zone; give your opponent control of this Defense Position card by moving it to their zone adjacent to the target, then if your opponent controls exactly 2 \"Centerfrog\" in the Main Monster Zone, gain control of all monsters in between those 2 cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/47346782.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 2000,
   "level": 2,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Frog"
 }

@@ -4,7 +4,9 @@
   "is_illegal": false,
   "is_custom": false,
   "text": "2+ \"Altergeist\" monsters\r\nIf this card is Link Summoned: You can Set 1 \"Altergeist\" Trap directly from your Deck. Once while this card is face-up on the field, during the Main Phase (Quick Effect): You can send 1 card you control to the GY, then target 1 Effect Monster your opponent controls; take control of that target, and if you do, it is also treated as an \"Altergeist\" monster. You can only use each effect of \"Altergeist Adminia\" once per turn.",
-  "images": ["https://images.ygoprodeck.com/images/cards/61470213.jpg"],
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/61470213.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 3000,
@@ -14,5 +16,11 @@
   "ability": "",
   "has_effect": true,
   "link_rating": 4,
-  "link_arrows": ["Left", "Top", "Right", "Bottom"]
+  "link_arrows": [
+    "Left",
+    "Top",
+    "Right",
+    "Bottom"
+  ],
+  "archetype": "Altergeist"
 }

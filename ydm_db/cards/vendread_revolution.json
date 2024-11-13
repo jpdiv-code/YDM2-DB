@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/2287848.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Normal"
+  "trap_type": "Normal",
+  "archetype": "Vendread"
 }

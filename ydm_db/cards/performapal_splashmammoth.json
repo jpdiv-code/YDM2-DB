@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "Once per turn, when a Fusion Monster(s) is Special Summoned to your side of the field (except during the Damage Step): You can Special Summon 1 face-up \"Odd-Eyes\" Pendulum Monster from your Extra Deck.\n",
   "pendulum_scale_left_blue": 4,
-  "pendulum_scale_right_red": 4
+  "pendulum_scale_right_red": 4,
+  "archetype": "Performapal"
 }

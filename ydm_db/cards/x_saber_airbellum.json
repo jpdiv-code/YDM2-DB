@@ -3,7 +3,7 @@
   "name": "X-Saber Airbellum",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from your opponent\u0027s hand.",
+  "text": "If this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from your opponent's hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90508760.jpg"
   ],
@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 200,
   "level": 3,
-  "is_tuner": true
+  "is_tuner": true,
+  "archetype": "X-Saber"
 }

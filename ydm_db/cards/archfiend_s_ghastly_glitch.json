@@ -1,6 +1,6 @@
 {
   "id": 5168381,
-  "name": "Archfiend\u0027s Ghastly Glitch",
+  "name": "Archfiend's Ghastly Glitch",
   "is_illegal": false,
   "is_custom": false,
   "text": "If you control a Fiend monster: Target 1 card on the field; destroy it, then, you can send 1 Fiend monster from your Deck to the GY.",
@@ -8,5 +8,6 @@
     "https://images.ygoprodeck.com/images/cards/5168381.jpg"
   ],
   "type": "Trap",
-  "trap_type": "Normal"
+  "trap_type": "Normal",
+  "archetype": "Archfiend"
 }

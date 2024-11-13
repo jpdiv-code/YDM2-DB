@@ -133,5 +133,12 @@
       "rarity": "Common",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Elemental HERO",
+    "Lightsworn",
+    "Six Samurai",
+    "Hole",
+    "Gladiator Beast"
   ]
 }

@@ -517,5 +517,10 @@
       "rarity": "Ultimate Rare",
       "image_index": 0
     }
+  ],
+  "archetypes": [
+    "Alien",
+    "Allure Queen",
+    "Cyberdark"
   ]
 }

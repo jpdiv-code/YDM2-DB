@@ -17,5 +17,6 @@
   "has_effect": true,
   "def": 800,
   "level": 1,
-  "is_tuner": false
+  "is_tuner": false,
+  "archetype": "Fluffal"
 }

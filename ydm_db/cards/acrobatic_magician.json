@@ -20,5 +20,6 @@
   "is_tuner": false,
   "pendulum_text": "When a monster(s) you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Acrobatic Magician\" once per turn.\n",
   "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "pendulum_scale_right_red": 2,
+  "archetype": "Magician"
 }
